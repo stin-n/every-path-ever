@@ -1,0 +1,13 @@
+KORG	01/Wpro	PROG -> Bank A	A01 A.Piano 2	
+KORG	01/Wpro	PROG -> Bank B	B01 A.Piano 1	
+KORG	01/Wpro	Multisound	255 A.Piano 2	
+KORG	01/Wpro	Drumsound	119 NewTom 1	
+KORG	01/Wpro	Drumsound	120 NewTom 2	
+KORG	01/Wpro	Drumsound	121 NewTom 3	
+KORG	01/Wpro	Drumsound	122 NewTom 4	
+KORG	01/Wpro	Drumsound	123 BrsSnrOtap	
+KORG	01/Wpro	Drumsound	124 BrsSnr Tap	
+KORG	01/Wpro	Drumsound	125 BrsSnrSwsh	
+KORG	01/Wpro	Drumsound	126 Guiro S	
+KORG	01/Wpro	Drumsound	127 Guiro L	
+KORG	01/Wpro	Drumsound	128 Quica	

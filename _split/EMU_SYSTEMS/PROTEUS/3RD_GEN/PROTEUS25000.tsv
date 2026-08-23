@@ -1,0 +1,640 @@
+E-MU Systems	Proteus 2500	PROM1 Bank 0	000 arp:Guitartar	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	001 kit:D&B Tight	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	002 str:Golden	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	003 bas:Sustainer	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	004 gtr:Clean String	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	005 bts:Foggy	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	006 led:UnderTone	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	007 key:Piano Grand	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	008 brs:Section 8	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	009 syn:ThikPlsLayer	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	010 vox:Christmas	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	011 hit:RingaDinDing	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	012 wnd:Reeds&String	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	013 prc:Q Stick	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	014 bpm:Trekia	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	015 pad:Japan Town	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	016 sfx:At the Races	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	017 bas:Sub Blipper	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	018 key:DownTheRhodz	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	019 key:Late Night	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	020 key:GlassPiano	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	021 key:Piano Mio	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	022 key:StereoGrand1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	023 key:StereoGrand2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	024 key:Grande	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	025 key:Piano/String	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	026 key:Piano Pad	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	027 key:EP 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	028 key:EP 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	029 key:EP 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	030 key:EP 4	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	031 key:EP 5	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	032 key:EP 6	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	033 key:Wurly	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	034 key:Wurly Tramp	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	035 key:ClavStandard	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	036 key:Process?Clav	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	037 key:Elecro7CP80	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	038 key:Fuzzy Pad	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	039 key:1-900Rhodez	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	040 key:Haunted EP	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	041 key:TwinkleToes	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	042 key:Missy	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	043 key:Techno Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	044 key:HonkTonkeyz	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	045 key:Eno's Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	046 key:FM JazzSplit	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	047 key:Bass/Keys1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	048 key:PianoString2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	049 key:Piano/Synth	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	050 key:Piano/Str/EP	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	051 key:Piano/Analog	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	052 key:Comp n' Pad	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	053 key:Stage Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	054 key:Pno/Str/EP2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	055 key:B-3 3rd	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	056 key:B-3 2nd	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	057 key:B-3 Lo/Hi	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	058 key:B-X Fade 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	059 key:B-X Fade 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	060 key:B-3 Leakage	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	061 key:Distortion	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	062 key:B-Hive	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	063 key:Assassin	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	064 key:Munchkin B3	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	065 key:AutoChord	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	066 key:(B3- PI)/7	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	067 key:Pno/Str/EP3	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	068 key:Space Case	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	069 key:Clav Metal	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	070 key:Clav 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	071 key:Sweet Ballad	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	072 bas:ATC 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	073 bas:Sub 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	074 bas:Sub 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	075 bas:Sub 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	076 bas:Big DX	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	077 bas:Perco Plus	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	078 bas:Micro Moog	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	079 bas:Basic Moog	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	080 bas:Log Bass	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	081 bas:PopGrowler	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	082 bas:ChubbyChaser	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	083 bas:Jaguar Bass	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	084 bas:InYourFace!	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	085 bas:Modem	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	086 bas:Nerdo	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	087 bas:Synth Bass	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	088 bas:PlasticBass	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	089 bas:Taurus	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	090 bas:Less Than	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	091 bas:FingerSlap1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	092 bas:FingerSlap2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	093 bas:Slap 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	094 bas:Slap 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	095 bas:Over Picked	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	096 bas:Finger 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	097 bas:Finger 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	098 bas:SE	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	099 bas:Street	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	100 bas:Finger Snap	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	101 bas:Bang'in Up	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	102 bas:Basss ic	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	103 bas:Acoustic	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	104 bas:Upright 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	105 bas:Upright 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	106 bas:Switch Up	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	107 bas:Harms	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	108 bas:Fretless 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	109 bas:Fretless 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	110 bas:Fretless 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	111 bas:Fretless 4	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	112 bas:Fretless 5	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	113 bas:Fretless 6	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	114 bas:LookMaNoFret	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	115 bas:Driver	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	116 led:TooMuchLead	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	117 led:Bender	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	118 led:SquareChorus	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	119 led:Balls Out	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	120 led:Spiraling	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	121 led:Prophetic	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	122 led:OneBigMoFo!	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	123 led:Class Lead	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	124 led:Pulse Lead	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	125 led:Worm 5	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	126 led:EKKo	
+E-MU Systems	Proteus 2500	PROM1 Bank 0	127 led:Tutor	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	000 kit:Acoustic 1&2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	001 kit:Acoustic 3&4	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	002 kit:Dance	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	003 kit:Kit 01	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	004 kit:Kit 02	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	005 kit:Kit 03	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	006 kit:Kit 04	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	007 kit:Kit 05	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	008 kit:Kit 06	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	009 kit:Kit 07	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	010 kit:Kit 08	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	011 kit:Kit 09	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	012 kit:Kit 10	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	013 kit:Kit 11	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	014 kit:Kit 12	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	015 kit:Kit 13	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	016 kit:Kit 14	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	017 kit:Kit 15	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	018 kit:Kit 16	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	019 kit:Swing Hop 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	020 kit:Swing Hop 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	021 kit:Swing Hop 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	022 kit:GM Dance	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	023 kit:E-mu 2003	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	024 kit:FunDaMental	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	025 kit:Booster	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	026 kit:All Niter	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	027 kit:StadiumRockr	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	028 kit:Hard Ass	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	029 kit:CurrentBeatz	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	030 kit:Crackle Kit	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	031 kit:Tainted	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	032 kit:BarelyLegal	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	033 kit:SicK Fx	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	034 kit:Krunkee	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	035 kit:Streetwise	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	036 bts:RasclyRapper	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	037 bts:WhatNow!#$%?	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	038 bts:RaD RaceR	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	039 bts:FilterPhaser	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	040 bts:BiteZapper	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	041 bts:Inna City	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	042 bts:Ripped	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	043 bts:Detourant	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	044 bts:MAD Onna	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	045 bts:Bleak	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	046 bts:Magnetic	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	047 bts:Stringy	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	048 bts:CuzIWuzStond	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	049 bts:Electro	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	050 bts:Jungle*Club	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	051 bts:Moderno	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	052 bts:Nu Metal	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	053 bts:Outside	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	054 bts:Rubbish	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	055 bts:Smasher	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	056 bts:BigPimpin!	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	057 bts:ChunkyButt	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	058 bts:PhatterStill	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	059 bts:Lowness	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	060 bts:FreakShifter	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	061 bts:Maestro	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	062 syn:Unsuspecting	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	063 kit:KastOff	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	064 prc:Kicks 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	065 prc:Kicks 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	066 prc:Snares 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	067 prc:Snares 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	068 prc:Hats 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	069 prc:Hats 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	070 prc:Cymbals 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	071 prc:Cymbals 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	072 prc:Toms 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	073 prc:Toms 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	074 prc:Shakers	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	075 prc:Maracas	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	076 prc:Timbales 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	077 prc:Timbales 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	078 prc:Congas + 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	079 prc:Congas + 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	080 prc:Bells 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	081 prc:Bells 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	082 prc:Blocks 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	083 prc:Blocks 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	084 prc:Tams 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	085 prc:Tams 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	086 prc:Claps 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	087 prc:Claps 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	088 prc:Snaps	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	089 prc:Claves	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	090 prc:Orch	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	091 prc:Misc	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	092 prc:Misc Perc 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	093 prc:Misc Perc 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	094 prc:Vibraslap	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	095 prc:Guiro Roll	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	096 prc:Cowbells	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	097 prc:Agogos	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	098 prc:Carillon	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	099 prc:Belltree	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	100 prc:Flexi	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	101 prc:Soft Vibes	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	102 prc:Hard Vibes	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	103 prc:Both Vibes	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	104 prc:VibeSwap	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	105 prc:Xylo	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	106 prc:Marimba	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	107 prc:Kalimba	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	108 prc:Plexy	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	109 prc:KikKastr	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	110 prc:XcitSyn	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	111 prc:Xcite	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	112 prc:MetalThing	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	113 prc:I lands	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	114 prc:Squelch!	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	115 str:Big Layerz	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	116 prc:Vibe Split	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	117 bel:A Pale Horse	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	118 bel:Chimes	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	119 bel:Droplets	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	120 bel:PlinkerBells	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	121 bel:Tinker	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	122 bel:HauntedBells	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	123 bel:Metal Trip	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	124 key:Foot Keyz	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	125 key:NightOrgan	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	126 key:Dyno Grand	
+E-MU Systems	Proteus 2500	PROM1 Bank 1	127 key:Tines	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	000 led:Wormy	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	001 led:Warning!	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	002 led:Warm Worm	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	003 hit:Organ Hits 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	004 hit:Dance Chord	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	005 hit:Voxxy	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	006 hit:Garagiste	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	007 hit:HellaBoom	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	008 hit:Honker	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	009 hit:Cazio Jamin!	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	010 hit:EchoOrgan	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	011 hit:Get Funky!	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	012 hit:Sad Ending	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	013 hit:Vox Hits	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	014 hit:Brassist	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	015 hit:Lush Dance	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	016 bas:PWM Oldskool	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	017 bas:Octave Cat	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	018 led:FusionMini	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	019 led:HippoSauce	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	020 vox:REBman	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	021 vox:Aah 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	022 vox:Aah 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	023 vox:Ooh 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	024 vox:Ooh 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	025 vox:Filter 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	026 vox:Filter 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	027 vox:Filter 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	028 vox:Filter 4	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	029 vox:Big Chorus	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	030 vox:Talk to Me	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	031 vox:Harmony	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	032 vox:Male	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	033 vox:Shimmerings	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	034 vox:ReflecSyn	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	035 vox:Luna'sWood	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	036 vox:TV Land	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	037 str:Orchestra1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	038 str:Orchestra2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	039 str:Section1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	040 str:Section2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	041 str:Pizz 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	042 str:Pizz 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	043 str:Tron Strings	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	044 str:Quartet	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	045 str:Section/Qrt	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	046 str:Leg/Pizz Cmb	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	047 str:Legato/Pizz	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	048 str:RubbrStrngs	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	049 str:ProcessoTron	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	050 str:DramaQueen	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	051 str:FilmLayerz	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	052 str:WeirdStrngs	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	053 str:Digital	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	054 str:Neo Strings	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	055 str:Asia Layers	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	056 str:Solo Strings	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	057 str:Solo & Sect	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	058 str:Trio Solo	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	059 str:FluteTron	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	060 str:String Pad	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	061 str:UltraTron	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	062 cmb:String/Brs w	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	063 cmb:Brass/Tenor	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	064 cmb:Analog 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	065 cmb:Nylon/Str w	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	066 cmb:Analog 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	067 cmb:Fear Day	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	068 cmb:SoloStr & EP	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	069 cmb:Cool 5th	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	070 cmb:Strung Block	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	071 orc:SoloStr&Wind	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	072 orc:S.Sax&Winds	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	073 led:ManyASquare	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	074 brs:SforzandoSct	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	075 brs:TaDa!	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	076 brs:Trumpet	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	077 brs:Mute Trmpt	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	078 brs:Glide Bone	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	079 brs:Big Band	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	080 brs:Jazz Combo	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	081 brs:Brass Hits 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	082 brs:Brass Hits 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	083 brs:The Trumpet	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	084 brs:3 Bones	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	085 brs:2 Trumpets	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	086 brs:Trump&Bones1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	087 brs:Trump&Bones2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	088 brs:Matrix Horn	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	089 brs:Pseudo Brass	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	090 wnd:Tenor Sax	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	091 wnd:Oboe	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	092 wnd:Clarinet	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	093 wnd:FluteCake	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	094 wnd:BariSax	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	095 wnd:Squeel 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	096 wnd:Squeel 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	097 wnd:AltoSax	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	098 wnd:TenorSax	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	099 wnd:Synth Flute	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	100 wnd:Flute & Oboe	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	101 wnd:Saxophones	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	102 wnd:New Ager	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	103 wnd:Clarinuff	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	104 gtr:Singlecoil	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	105 gtr:Nylon	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	106 gtr:Electric Pwr	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	107 gtr:Solo Jazz	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	108 gtr:Trash	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	109 gtr:Thrash Lead	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	110 gtr:Surf 1 w	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	111 gtr:Surf 2 w	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	112 gtr:Chord Chuck	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	113 gtr:Mo'Mutes	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	114 gtr:Jazz Slide w	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	115 gtr:SlamitDown	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	116 gtr:Acoustic	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	117 gtr:Jazz	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	118 gtr:Nylon	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	119 gtr:Steel	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	120 gtr:Ghosted	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	121 gtr:Seduced	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	122 gtr:Cordal	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	123 gtr:Nylon&on	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	124 gtr:Hard Garage	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	125 gtr:Jazzy Comp	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	126 gtr:Enchantment	
+E-MU Systems	Proteus 2500	PROM1 Bank 2	127 gtr:Nylonium	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	000 pad:Richness	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	001 pad:Your Fault	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	002 pad:PianoMeltz	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	003 pad:OutofTime	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	004 pad:Moon Flute	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	005 pad:OldSaws	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	006 pad:Evidence	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	007 pad:EvenMoEPIC!	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	008 pad:Under	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	009 pad:Life	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	010 pad:Phatt	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	011 pad:Keyngdom	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	012 pad:Dance Chord	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	013 pad:Brassage	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	014 pad:Crystal	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	015 pad:Elysium	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	016 pad:CloudBuster	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	017 pad:Star Seeker	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	018 pad:Trilogy	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	019 pad:Squirmy	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	020 pad:Paddy Cake	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	021 pad:Vector	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	022 pad:Velour	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	023 pad:Jarreing	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	024 pad:PWMpathy	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	025 arp:Azian	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	026 vox:Percolator	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	027 hit:HouseStrum	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	028 hit:Disco Stab	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	029 gtr:Mute Trails	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	030 gtr:Mute 5ths	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	031 syn:Re Entry	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	032 syn:Dance Split	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	033 syn:Pluck Pad	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	034 syn:Profit 500	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	035 syn:ClassicMoog	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	036 syn:Synth Bass	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	037 syn:Sync	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	038 syn:Saw Fifths	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	039 syn:VFX Stack	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	040 syn:Big Dance	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	041 syn:Riff Trip	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	042 syn:Brazz 5ths	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	043 syn:VS	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	044 syn:Goliath	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	045 syn:Xtra Large	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	046 syn:Major Saw	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	047 syn:Minor Saw	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	048 syn:JP Six	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	049 syn:Row Tate	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	050 syn:Rezelle	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	051 syn:SlowRide	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	052 syn:LFO Synth	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	053 syn:FrogLead	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	054 syn:Ubu II	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	055 syn:Serial Fly	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	056 syn:Matrix Pad	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	057 syn:CZone	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	058 syn:Benda	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	059 syn:Asian Dreams	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	060 syn:Big Comp	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	061 syn:Chipper	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	062 syn:RubberBands	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	063 syn:PeachyFuzz	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	064 sfx:Porch*Night	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	065 sfx:SFX 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	066 sfx:SFX 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	067 sfx:Scratches 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	068 sfx:Scratches 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	069 sfx:MCScratch	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	070 sfx:Space Wiggle	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	071 sfx:HeavySynth	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	072 sfx:Slicer	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	073 sfx:Cymbolater	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	074 sfx:Post Razz	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	075 sfx:Goblins	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	076 arp:Vectrek	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	077 sfx:8BitGameOver	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	078 nse:WinditDown	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	079 nse:SpaceDreams	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	080 arp:Synth Bass	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	081 arp:Syrup HP	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	082 arp:LowPercRoll	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	083 arp:MadEndingYo	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	084 arp:Plucked 5ths	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	085 led:DX Gone Mini	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	086 led:Lego	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	087 bpm:PWM Voxation	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	088 bpm:Classic	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	089 bpm:Drum 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	090 bpm:Drum 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	091 bpm:Drum 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	092 bpm:Octover	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	093 bpm:Chaser	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	094 gtr:Nyl ONDa	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	095 bas:Killer SE	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	096 bas:Fing'd	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	097 bas:Finger Oxx	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	098 bas:Hangem Mono	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	099 bas:Hiptainer	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	100 bas:Container	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	101 bas:Go Deep	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	102 bas:Drop Sub 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	103 bas:Drop Sub 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	104 bas:Low Rider	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	105 bas:PopSlidah	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	106 bas:Real Low	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	107 bas:Sub H2O	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	108 bas:Subber 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	109 bas:Subber 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	110 bas:Wheel Wide	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	111 bas:Pepper Bass	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	112 key:Simple EP	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	113 key:Tine EP 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	114 key:Tine EP 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	115 key:Tine EP 3	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	116 key:Pianostic	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	117 key:Spread Grand	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	118 key:Chorus Dyno	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	119 key:Piano & Pizz	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	120 key:Dramatic	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	121 key:Drama At Sea	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	122 key:Polarity	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	123 key:Piano Night	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	124 syn:Pliedes	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	125 syn:Sensitive	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	126 syn:SoftClipHarp	
+E-MU Systems	Proteus 2500	PROM1 Bank 3	127 :default V1.0	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	000 jam:Grand Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	001 jam:EP	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	002 jam:ClavFunk	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	003 jam:B There	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	004 jam:Reel Wurly	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	005 jam:Gtr & Choir	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	006 jam:Brass	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	007 jam:Grande	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	008 jam:PianoLayers	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	009 jam:Vibez	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	010 jam:Orchestral	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	011 jam:Pizzicato	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	012 jam:Solo Strings	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	013 jam:Piano+String	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	014 jam:Solo & Sctn	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	015 jam:FM JazzSplit	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	016 jam:Salsa Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	017 jam:Roadz	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	018 key:Prime Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	019 key:Synthetic	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	020 key:Concert	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	021 key:Concert Low	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	022 key:Concert Hi	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	023 key:Whirly	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	024 key:Film Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	025 key:String Comp2	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	026 key:Mutant EP	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	027 key:Root EP	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	028 key:Easy Tine	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	029 key:Fat Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	030 key:Wash Out	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	031 key:Becker Org	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	032 key:Dancer	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	033 key:Verocity	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	034 key:Axium	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	035 key:Pianessence	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	036 key:Rotondra	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	037 mix:Bass&Piano	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	038 mix:Stage Combo	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	039 mix:Bass&JazzGtr	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	040 mix:Bass & Pizz	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	041 mix:String Hit	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	042 mix:Split Vibes	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	043 mix:Fret+Clav	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	044 mix:PBass & B3	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	045 mix:F&M Split	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	046 mix:Nock Back	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	047 bas:Fatty	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	048 bas:Styrofoam	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	049 bas:Talk Bass	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	050 bas:Sluggo	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	051 bas:Perc DX	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	052 led:MellowPercLd	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	053 led:Bite Lead	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	054 led:Organish	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	055 led:Warm Pulse	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	056 led:Plastisyn	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	057 led:R&B Lead	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	058 led:Sin Brash	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	059 orc:Str+Winds	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	060 orc:So Spring	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	061 str:String Sing	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	062 str:Near East	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	063 str:Orchestra	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	064 str:PhaseStrings	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	065 str:String Synth	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	066 str:CatStrings	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	067 str:Sect+Trump	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	068 syn:Deluxxe	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	069 syn:Exlastic	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	070 syn:Synch Brass	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	071 syn:Koto&Strings	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	072 syn:The Praise	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	073 syn:IndianGarden	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	074 syn:Lament	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	075 syn:Piano Theme	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	076 pad:Wire Pad	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	077 pad:Film Strings	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	078 pad:Simplex	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	079 pad:BroadFilmPad	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	080 brs:Punch Brass	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	081 brs:Expando	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	082 brs:SoloTrumpet1	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	083 brs:SoloTrumpet2	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	084 brs:Trombone	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	085 vox:Vapor Vox	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	086 gtr:RazzMaJazz	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	087 gtr:Ozzz Lead	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	088 sfx:Quavering	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	089 sfx:Other Limits	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	090 sfx:Bellagio	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	091 arp:New Aging	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	092 arp:Fast Picker	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	093 arp:Eerie Choir	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	094 arp:TensionPizz	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	095 arp:Pluck Asian	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	096 arp:GtrHitDelay	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	097 arp:Dance Delay1	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	098 arp:Dance Delay2	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	099 arp:SynBassStabz	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	100 arp:KeepDaTime	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	101 arp:RideTheBell$	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	102 arp:RhodesGroove	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	103 arp:ElectroGroov	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	104 arp:KitSplicer	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	105 arp:BassCycler	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	106 arp:SnarezRoll 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	107 arp:SnarezRoll 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	108 arp:KickzRoll 1	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	109 arp:KickzRoll 2	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	110 kit:Wide Dance	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	111 kit:Balladeer	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	112 bts:Groover	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	113 bts:All Steely	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	114 bts:Jam Man	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	115 bts:Perc Jam	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	116 bts:Bass Patrol	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	117 bts:Old Combo	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	118 bts:FaithHealer	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	119 bts:StreetBeat	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	120 bts:Laid&Back	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	121 bts:Crazy Gtrs	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	122 bts:Sentimental	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	123 bts:Lounging	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	124 bts:AmbientMood	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	125 bts:Quick Beatz	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	126 bts:PlayItCool	
+E-MU Systems	Proteus 2500	PROM1 Bank 4	127 bts:Statik One	

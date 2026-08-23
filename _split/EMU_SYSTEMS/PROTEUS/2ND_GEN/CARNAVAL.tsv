@@ -1,0 +1,938 @@
+E-MU Systems	Carnaval	Bank 0	000 Hit:Brazzy	
+E-MU Systems	Carnaval	Bank 0	001 Kit:Brazil!	
+E-MU Systems	Carnaval	Bank 0	002 Brs:LaHits	
+E-MU Systems	Carnaval	Bank 0	003 Sax: Aqui,Oh	
+E-MU Systems	Carnaval	Bank 0	004 Gtr:2LoNylon	
+E-MU Systems	Carnaval	Bank 0	005 Sfx:Timbiela	
+E-MU Systems	Carnaval	Bank 0	006 Kit:AllTraps	
+E-MU Systems	Carnaval	Bank 0	007 Vox:Brazilia	
+E-MU Systems	Carnaval	Bank 0	008 Flt:Flauta	
+E-MU Systems	Carnaval	Bank 0	009 Acc:TubaDuo	
+E-MU Systems	Carnaval	Bank 0	010 Bas:Baby B	
+E-MU Systems	Carnaval	Bank 0	011 Brs: & Flute	
+E-MU Systems	Carnaval	Bank 0	012 Prc:DeepDan	
+E-MU Systems	Carnaval	Bank 0	013 Lfo:Panituar	
+E-MU Systems	Carnaval	Bank 0	014 Brs:TrSwell	
+E-MU Systems	Carnaval	Bank 0	015 Pad:PanSilks	
+E-MU Systems	Carnaval	Bank 0	016 Pno:Onyx	
+E-MU Systems	Carnaval	Bank 0	017 Syn:Ying	
+E-MU Systems	Carnaval	Bank 0	018 Kit:Klango	
+E-MU Systems	Carnaval	Bank 0	019 Vox:Cutz 1	
+E-MU Systems	Carnaval	Bank 0	020 Org:Orgnzola	
+E-MU Systems	Carnaval	Bank 0	021 Kit:Salsa	
+E-MU Systems	Carnaval	Bank 0	022 Pad:HiaSlow	
+E-MU Systems	Carnaval	Bank 0	023 Cmp:Sawcomp	
+E-MU Systems	Carnaval	Bank 0	024 Flt:DreamPan	
+E-MU Systems	Carnaval	Bank 0	025 Acc:w/Alto	
+E-MU Systems	Carnaval	Bank 0	026 Acc:Ranchero	
+E-MU Systems	Carnaval	Bank 0	027 Acc:Octavia	
+E-MU Systems	Carnaval	Bank 0	028 Acc:Squeeze1	
+E-MU Systems	Carnaval	Bank 0	029 Acc:w/Bari	
+E-MU Systems	Carnaval	Bank 0	030 Acc:Keynoise	
+E-MU Systems	Carnaval	Bank 0	031 Acc:Squeeze2	
+E-MU Systems	Carnaval	Bank 0	032 Bas:StandUp	
+E-MU Systems	Carnaval	Bank 0	033 Bas:Chapstik	
+E-MU Systems	Carnaval	Bank 0	034 Bas:Acustic1	
+E-MU Systems	Carnaval	Bank 0	035 Bas:DampBass	
+E-MU Systems	Carnaval	Bank 0	036 Bas:Lele	
+E-MU Systems	Carnaval	Bank 0	037 Bas:DAcusta	
+E-MU Systems	Carnaval	Bank 0	038 Bas:Man	
+E-MU Systems	Carnaval	Bank 0	039 Bas:ACME	
+E-MU Systems	Carnaval	Bank 0	040 Bas:Slappy	
+E-MU Systems	Carnaval	Bank 0	041 Bas:DampBaby	
+E-MU Systems	Carnaval	Bank 0	042 Bas:Changa	
+E-MU Systems	Carnaval	Bank 0	043 Bas:Fendarr	
+E-MU Systems	Carnaval	Bank 0	044 Bas:Duo	
+E-MU Systems	Carnaval	Bank 0	045 Bas:TechSlap	
+E-MU Systems	Carnaval	Bank 0	046 Bas:Chugo	
+E-MU Systems	Carnaval	Bank 0	047 Bas:Bandit	
+E-MU Systems	Carnaval	Bank 0	048 Brs:DosBones	
+E-MU Systems	Carnaval	Bank 0	049 Brs:Doppel	
+E-MU Systems	Carnaval	Bank 0	050 Brs: O Audaz	
+E-MU Systems	Carnaval	Bank 0	051 Brs:BigBlow	
+E-MU Systems	Carnaval	Bank 0	052 Brs:Tejano	
+E-MU Systems	Carnaval	Bank 0	053 Brs: Unison	
+E-MU Systems	Carnaval	Bank 0	054 Brs:Trompa	
+E-MU Systems	Carnaval	Bank 0	055 Brs:2Trumps	
+E-MU Systems	Carnaval	Bank 0	056 Brs:SofTrump	
+E-MU Systems	Carnaval	Bank 0	057 Brs:Tuba	
+E-MU Systems	Carnaval	Bank 0	058 Brs:HornSect	
+E-MU Systems	Carnaval	Bank 0	059 Brs:Trumpet	
+E-MU Systems	Carnaval	Bank 0	060 Brs:Brazzy	
+E-MU Systems	Carnaval	Bank 0	061 Brs:TrumpOn	
+E-MU Systems	Carnaval	Bank 0	062 Brs:Filta	
+E-MU Systems	Carnaval	Bank 0	063 Brs:SumHorns	
+E-MU Systems	Carnaval	Bank 0	064 Brs:Brite	
+E-MU Systems	Carnaval	Bank 0	065 Brs:Bone	
+E-MU Systems	Carnaval	Bank 0	066 Brs:FooSynth	
+E-MU Systems	Carnaval	Bank 0	067 Brs:El Cheez	
+E-MU Systems	Carnaval	Bank 0	068 Brs:BiteBraz	
+E-MU Systems	Carnaval	Bank 0	069 Flt:Fluss	
+E-MU Systems	Carnaval	Bank 0	070 Flt:w/TRbone	
+E-MU Systems	Carnaval	Bank 0	071 Flt:DosToots	
+E-MU Systems	Carnaval	Bank 0	072 Flt:PanFlute	
+E-MU Systems	Carnaval	Bank 0	073 Flt:TubaFlte	
+E-MU Systems	Carnaval	Bank 0	074 Flt:TrmpFlte	
+E-MU Systems	Carnaval	Bank 0	075 Flt:Aire	
+E-MU Systems	Carnaval	Bank 0	076 Flt:Picollio	
+E-MU Systems	Carnaval	Bank 0	077 Flt:SynWind	
+E-MU Systems	Carnaval	Bank 0	078 Flt:Flute.BC	
+E-MU Systems	Carnaval	Bank 0	079 Flt:PanFl.BC	
+E-MU Systems	Carnaval	Bank 0	080 Gtr:AcSteel	
+E-MU Systems	Carnaval	Bank 0	081 Gtr:Guitaron	
+E-MU Systems	Carnaval	Bank 0	082 Gtr:StrtAlto	
+E-MU Systems	Carnaval	Bank 0	083 Gtr:Nylon	
+E-MU Systems	Carnaval	Bank 0	084 Gtr:QuicaPik	
+E-MU Systems	Carnaval	Bank 0	085 Gtr:Ay Tata	
+E-MU Systems	Carnaval	Bank 0	086 Gtr:Rusty	
+E-MU Systems	Carnaval	Bank 0	087 Gtr:BigMexi	
+E-MU Systems	Carnaval	Bank 0	088 Gtr:Acustica	
+E-MU Systems	Carnaval	Bank 0	089 Gtr:BellGtr	
+E-MU Systems	Carnaval	Bank 0	090 Gtr:Stratish	
+E-MU Systems	Carnaval	Bank 0	091 Gtr:Desperao	
+E-MU Systems	Carnaval	Bank 0	092 Gtr:Nailon	
+E-MU Systems	Carnaval	Bank 0	093 Gtr:Manditar	
+E-MU Systems	Carnaval	Bank 0	094 Gtr:StlVioln	
+E-MU Systems	Carnaval	Bank 0	095 Gtr:Gringo	
+E-MU Systems	Carnaval	Bank 0	096 Org:Delico	
+E-MU Systems	Carnaval	Bank 0	097 Org:Acido	
+E-MU Systems	Carnaval	Bank 0	098 Org:Cheeze 1	
+E-MU Systems	Carnaval	Bank 0	099 Org:Key	
+E-MU Systems	Carnaval	Bank 0	100 Org:Voco	
+E-MU Systems	Carnaval	Bank 0	101 Org:Cheeze 2	
+E-MU Systems	Carnaval	Bank 0	102 Org:Boxy	
+E-MU Systems	Carnaval	Bank 0	103 Org:HammAnd1	
+E-MU Systems	Carnaval	Bank 0	104 Org:BThreeo	
+E-MU Systems	Carnaval	Bank 0	105 Org:Lock	
+E-MU Systems	Carnaval	Bank 0	106 Org:HammAnd2	
+E-MU Systems	Carnaval	Bank 0	107 Org:anoBar	
+E-MU Systems	Carnaval	Bank 0	108 Org:Simple	
+E-MU Systems	Carnaval	Bank 0	109 Org:Stranger	
+E-MU Systems	Carnaval	Bank 0	110 Org:Weakner	
+E-MU Systems	Carnaval	Bank 0	111 Org:Pedal	
+E-MU Systems	Carnaval	Bank 0	112 Org:Perkon 1	
+E-MU Systems	Carnaval	Bank 0	113 Org:Perkon 2	
+E-MU Systems	Carnaval	Bank 0	114 Org:Perkon 3	
+E-MU Systems	Carnaval	Bank 0	115 Org:Perkon 4	
+E-MU Systems	Carnaval	Bank 0	116 Org:Organi 1	
+E-MU Systems	Carnaval	Bank 0	117 Org:Organi 2	
+E-MU Systems	Carnaval	Bank 0	118 Org:Organi 3	
+E-MU Systems	Carnaval	Bank 0	119 Org:Organi 4	
+E-MU Systems	Carnaval	Bank 0	120 Pno:Grande	
+E-MU Systems	Carnaval	Bank 0	121 Pno:TecColor	
+E-MU Systems	Carnaval	Bank 0	122 Pno:Regular	
+E-MU Systems	Carnaval	Bank 0	123 Pno:LoTack	
+E-MU Systems	Carnaval	Bank 0	124 Pno:DeeTune	
+E-MU Systems	Carnaval	Bank 0	125 Pno:Jango	
+E-MU Systems	Carnaval	Bank 0	126 Pno:Balada	
+E-MU Systems	Carnaval	Bank 0	127 Pno:Pno&Strt	
+E-MU Systems	Carnaval	Bank 1	000 Sax:DosTenor	
+E-MU Systems	Carnaval	Bank 1	001 Sax:Tenorist	
+E-MU Systems	Carnaval	Bank 1	002 Sax:MorphIt!	
+E-MU Systems	Carnaval	Bank 1	003 Sax:Alto	
+E-MU Systems	Carnaval	Bank 1	004 Sax:Barinort	
+E-MU Systems	Carnaval	Bank 1	005 Sax:HotHorns	
+E-MU Systems	Carnaval	Bank 1	006 Sax:Baritone	
+E-MU Systems	Carnaval	Bank 1	007 Sax:StacBari	
+E-MU Systems	Carnaval	Bank 1	008 Sax:Stacatto	
+E-MU Systems	Carnaval	Bank 1	009 Sax:TnorTuba	
+E-MU Systems	Carnaval	Bank 1	010 Sax:MariDuo	
+E-MU Systems	Carnaval	Bank 1	011 Sax:AltoTrmp	
+E-MU Systems	Carnaval	Bank 1	012 Sax:Duality	
+E-MU Systems	Carnaval	Bank 1	013 Sax:Pno&Bari	
+E-MU Systems	Carnaval	Bank 1	014 Sax:BariTrmp	
+E-MU Systems	Carnaval	Bank 1	015 Sax:Tenor	
+E-MU Systems	Carnaval	Bank 1	016 Sax:Barit.BC	
+E-MU Systems	Carnaval	Bank 1	017 Sax:Tenor.BC	
+E-MU Systems	Carnaval	Bank 1	018 Sax:Alto .BC	
+E-MU Systems	Carnaval	Bank 1	019 Spl:Bs&Organ	
+E-MU Systems	Carnaval	Bank 1	020 Spl:Tuba&Acc	
+E-MU Systems	Carnaval	Bank 1	021 Spl:Baby&Acc	
+E-MU Systems	Carnaval	Bank 1	022 Spl:Bs&Piano	
+E-MU Systems	Carnaval	Bank 1	023 Spl:DuoAcust	
+E-MU Systems	Carnaval	Bank 1	024 Spl:Bs&Orgn2	
+E-MU Systems	Carnaval	Bank 1	025 Spl:Tba*Acc	
+E-MU Systems	Carnaval	Bank 1	026 Spl:Flamenco	
+E-MU Systems	Carnaval	Bank 1	027 Spl:Lounge	
+E-MU Systems	Carnaval	Bank 1	028 Spl:Bass&Flu	
+E-MU Systems	Carnaval	Bank 1	029 Str:MariaVln	
+E-MU Systems	Carnaval	Bank 1	030 Str:MariChez	
+E-MU Systems	Carnaval	Bank 1	031 Str:Arcos	
+E-MU Systems	Carnaval	Bank 1	032 Str:Section	
+E-MU Systems	Carnaval	Bank 1	033 Str:Fluoro	
+E-MU Systems	Carnaval	Bank 1	034 Str:Slide	
+E-MU Systems	Carnaval	Bank 1	035 Str:Futurist	
+E-MU Systems	Carnaval	Bank 1	036 Str:Smite	
+E-MU Systems	Carnaval	Bank 1	037 Str:Secti	
+E-MU Systems	Carnaval	Bank 1	038 Str:Synthpad	
+E-MU Systems	Carnaval	Bank 1	039 Str:Bowed	
+E-MU Systems	Carnaval	Bank 1	040 Str:Cynch	
+E-MU Systems	Carnaval	Bank 1	041 Str:Pesov	
+E-MU Systems	Carnaval	Bank 1	042 Str:Viol	
+E-MU Systems	Carnaval	Bank 1	043 Str:SloStrng	
+E-MU Systems	Carnaval	Bank 1	044 Str:Sombrero	
+E-MU Systems	Carnaval	Bank 1	045 Str:HiRosin	
+E-MU Systems	Carnaval	Bank 1	046 Str:Violin	
+E-MU Systems	Carnaval	Bank 1	047 Str:Celloish	
+E-MU Systems	Carnaval	Bank 1	048 Hit:Revers	
+E-MU Systems	Carnaval	Bank 1	049 Hit:Metalika	
+E-MU Systems	Carnaval	Bank 1	050 Hit:BrsHtz	
+E-MU Systems	Carnaval	Bank 1	051 Hit:MetalFX	
+E-MU Systems	Carnaval	Bank 1	052 Hit:Cutz 2	
+E-MU Systems	Carnaval	Bank 1	053 Hit:Vocal 1	
+E-MU Systems	Carnaval	Bank 1	054 Hit:Vocal 2	
+E-MU Systems	Carnaval	Bank 1	055 Hit:Metales	
+E-MU Systems	Carnaval	Bank 1	056 Hit:VoxBrass	
+E-MU Systems	Carnaval	Bank 1	057 Hit:Agogohit	
+E-MU Systems	Carnaval	Bank 1	058 Hit:Bvox	
+E-MU Systems	Carnaval	Bank 1	059 Hit:BrsFx	
+E-MU Systems	Carnaval	Bank 1	060 Hit:Trumphet	
+E-MU Systems	Carnaval	Bank 1	061 Hit:Wistleit	
+E-MU Systems	Carnaval	Bank 1	062 Hit:Brazolat	
+E-MU Systems	Carnaval	Bank 1	063 Hit:Symbola	
+E-MU Systems	Carnaval	Bank 1	064 Kat:DK10 -1-	
+E-MU Systems	Carnaval	Bank 1	065 Kat:DK10 -2-	
+E-MU Systems	Carnaval	Bank 1	066 Kat:DK10 -3-	
+E-MU Systems	Carnaval	Bank 1	067 Kat:DK10 -4-	
+E-MU Systems	Carnaval	Bank 1	068 Kat:DK10 -5-	
+E-MU Systems	Carnaval	Bank 1	069 Kat:DK10 -6-	
+E-MU Systems	Carnaval	Bank 1	070 Kat:DK10 -7-	
+E-MU Systems	Carnaval	Bank 1	071 Kat:DK10 -8-	
+E-MU Systems	Carnaval	Bank 1	072 Kat:DK10 -9-	
+E-MU Systems	Carnaval	Bank 1	073 Kat:DK10 -0-	
+E-MU Systems	Carnaval	Bank 1	074 Kat:#4Conga	
+E-MU Systems	Carnaval	Bank 1	075 Kat:#4Timbal	
+E-MU Systems	Carnaval	Bank 1	076 Kat:Techno-1	
+E-MU Systems	Carnaval	Bank 1	077 Kat:Techno-2	
+E-MU Systems	Carnaval	Bank 1	078 Kat:MacaTek	
+E-MU Systems	Carnaval	Bank 1	079 Kat:Weirdo-1	
+E-MU Systems	Carnaval	Bank 1	080 Kat:Weirdo-2	
+E-MU Systems	Carnaval	Bank 1	081 Kat:Klango-1	
+E-MU Systems	Carnaval	Bank 1	082 Kat:Klango-2	
+E-MU Systems	Carnaval	Bank 1	083 Kat:Klango-3	
+E-MU Systems	Carnaval	Bank 1	084 Kat:Groove-1	
+E-MU Systems	Carnaval	Bank 1	085 Kat:Groove-2	
+E-MU Systems	Carnaval	Bank 1	086 Kat:Groove-3	
+E-MU Systems	Carnaval	Bank 1	087 Kat:Groove-4	
+E-MU Systems	Carnaval	Bank 1	088 Kat:Groove-5	
+E-MU Systems	Carnaval	Bank 1	089 Kat:Groove-6	
+E-MU Systems	Carnaval	Bank 1	090 Kat:Groove-7	
+E-MU Systems	Carnaval	Bank 1	091 Kat:Groove-8	
+E-MU Systems	Carnaval	Bank 1	092 Kat:Groove-9	
+E-MU Systems	Carnaval	Bank 1	093 Kat: G-MIDI	
+E-MU Systems	Carnaval	Bank 1	094 Kat:Banda	
+E-MU Systems	Carnaval	Bank 1	095 Kat:Tejano	
+E-MU Systems	Carnaval	Bank 1	096 Prc:DeepDan	
+E-MU Systems	Carnaval	Bank 1	097 Prc:Amazonik	
+E-MU Systems	Carnaval	Bank 1	098 Prc:Tamivers	
+E-MU Systems	Carnaval	Bank 1	099 Prc:MetaSkin	
+E-MU Systems	Carnaval	Bank 1	100 Prf:Congas	
+E-MU Systems	Carnaval	Bank 1	101 Prf:Bongos	
+E-MU Systems	Carnaval	Bank 1	102 Prf:Timbales	
+E-MU Systems	Carnaval	Bank 1	103 Prf:Guiro	
+E-MU Systems	Carnaval	Bank 1	104 Prf:Shekere	
+E-MU Systems	Carnaval	Bank 1	105 Prf:Tambora	
+E-MU Systems	Carnaval	Bank 1	106 Prf:Agogos	
+E-MU Systems	Carnaval	Bank 1	107 Prf:Tamborim	
+E-MU Systems	Carnaval	Bank 1	108 Prf:Surdo	
+E-MU Systems	Carnaval	Bank 1	109 Prf:Pandeiro	
+E-MU Systems	Carnaval	Bank 1	110 Prf:Repique	
+E-MU Systems	Carnaval	Bank 1	111 Prf:Ganza	
+E-MU Systems	Carnaval	Bank 1	112 Vox:Sabor!	
+E-MU Systems	Carnaval	Bank 1	113 Vox:VoxTrump	
+E-MU Systems	Carnaval	Bank 1	114 Vox:Mambo!	
+E-MU Systems	Carnaval	Bank 1	115 Vox:2Throats	
+E-MU Systems	Carnaval	Bank 1	116 Vox:Marina	
+E-MU Systems	Carnaval	Bank 1	117 Vox:WRRRRRRR	
+E-MU Systems	Carnaval	Bank 1	118 Vox:Pitchit	
+E-MU Systems	Carnaval	Bank 1	119 Vox: Fx	
+E-MU Systems	Carnaval	Bank 1	120 Vox: Fx2	
+E-MU Systems	Carnaval	Bank 1	121 Vox:BreathPd	
+E-MU Systems	Carnaval	Bank 1	122 Vox:Roars	
+E-MU Systems	Carnaval	Bank 1	123 Vox:Vayas	
+E-MU Systems	Carnaval	Bank 1	124 Vox:Yohos	
+E-MU Systems	Carnaval	Bank 1	125 Vox:LocaSi	
+E-MU Systems	Carnaval	Bank 1	126 Vox:Larrd	
+E-MU Systems	Carnaval	Bank 1	127 Vox:Carnival	
+E-MU Systems	Carnaval	Bank 2	000 Bas:Roboto	
+E-MU Systems	Carnaval	Bank 2	001 Bas:SynSq	
+E-MU Systems	Carnaval	Bank 2	002 Bas:SynMono1	
+E-MU Systems	Carnaval	Bank 2	003 Bas:SynMono2	
+E-MU Systems	Carnaval	Bank 2	004 Bas:SynSub	
+E-MU Systems	Carnaval	Bank 2	005 Bas:Synbass4	
+E-MU Systems	Carnaval	Bank 2	006 Bas:Synbass5	
+E-MU Systems	Carnaval	Bank 2	007 Bas:Synbass6	
+E-MU Systems	Carnaval	Bank 2	008 Bas:Carnie	
+E-MU Systems	Carnaval	Bank 2	009 Bas:Triangle	
+E-MU Systems	Carnaval	Bank 2	010 Bas:Subbass	
+E-MU Systems	Carnaval	Bank 2	011 Cmp:Orinoco	
+E-MU Systems	Carnaval	Bank 2	012 Cmp:Steelo	
+E-MU Systems	Carnaval	Bank 2	013 Cmp:Vatacomp	
+E-MU Systems	Carnaval	Bank 2	014 Cmp:Straton	
+E-MU Systems	Carnaval	Bank 2	015 Cmp:Brazz	
+E-MU Systems	Carnaval	Bank 2	016 Cmp:Octal	
+E-MU Systems	Carnaval	Bank 2	017 Cmp:Melocomp	
+E-MU Systems	Carnaval	Bank 2	018 Cmp:Korusal	
+E-MU Systems	Carnaval	Bank 2	019 Cmp:Orano	
+E-MU Systems	Carnaval	Bank 2	020 Cmp:Sawphaze	
+E-MU Systems	Carnaval	Bank 2	021 Cmp:Zquence	
+E-MU Systems	Carnaval	Bank 2	022 Cmp:Voxslap	
+E-MU Systems	Carnaval	Bank 2	023 Cmp:Halton	
+E-MU Systems	Carnaval	Bank 2	024 Cmp:Africa	
+E-MU Systems	Carnaval	Bank 2	025 Cmp:Orgaclav	
+E-MU Systems	Carnaval	Bank 2	026 Cmp:Clavicle	
+E-MU Systems	Carnaval	Bank 2	027 Cmp:K'sKorn	
+E-MU Systems	Carnaval	Bank 2	028 Cmp:SqCompz	
+E-MU Systems	Carnaval	Bank 2	029 Cmp:Squared	
+E-MU Systems	Carnaval	Bank 2	030 Cmp:ShStop	
+E-MU Systems	Carnaval	Bank 2	031 Cmp:EePee	
+E-MU Systems	Carnaval	Bank 2	032 Led:Nuevolea	
+E-MU Systems	Carnaval	Bank 2	033 Led:Chezlead	
+E-MU Systems	Carnaval	Bank 2	034 Led:Minisaw	
+E-MU Systems	Carnaval	Bank 2	035 Led:MONOBoy	
+E-MU Systems	Carnaval	Bank 2	036 Led:Analogo	
+E-MU Systems	Carnaval	Bank 2	037 Led:70s	
+E-MU Systems	Carnaval	Bank 2	038 Led:SqUp	
+E-MU Systems	Carnaval	Bank 2	039 Led:Blead	
+E-MU Systems	Carnaval	Bank 2	040 Led:Sinter	
+E-MU Systems	Carnaval	Bank 2	041 Led:Synsax 1	
+E-MU Systems	Carnaval	Bank 2	042 Led:Synsax 2	
+E-MU Systems	Carnaval	Bank 2	043 Led:HolloMON	
+E-MU Systems	Carnaval	Bank 2	044 Led:Squarey	
+E-MU Systems	Carnaval	Bank 2	045 Lfo:Tekacc	
+E-MU Systems	Carnaval	Bank 2	046 Lfo:Silva	
+E-MU Systems	Carnaval	Bank 2	047 Lfo:TransAmb	
+E-MU Systems	Carnaval	Bank 2	048 Lfo:Cuartas	
+E-MU Systems	Carnaval	Bank 2	049 Lfo:Wobbly	
+E-MU Systems	Carnaval	Bank 2	050 Lfo:Away	
+E-MU Systems	Carnaval	Bank 2	051 Lfo:HiSteps	
+E-MU Systems	Carnaval	Bank 2	052 Lfo:Syntonal	
+E-MU Systems	Carnaval	Bank 2	053 Lfo:SampleHd	
+E-MU Systems	Carnaval	Bank 2	054 Lfo:Fuelle	
+E-MU Systems	Carnaval	Bank 2	055 Lfo:Gate 7	
+E-MU Systems	Carnaval	Bank 2	056 Lfo:Trans 1	
+E-MU Systems	Carnaval	Bank 2	057 Lfo:3 vs. 2	
+E-MU Systems	Carnaval	Bank 2	058 Lfo:BubPeep	
+E-MU Systems	Carnaval	Bank 2	059 Lfo:PanAccrd	
+E-MU Systems	Carnaval	Bank 2	060 Lfo:BubTrub	
+E-MU Systems	Carnaval	Bank 2	061 Lfo:BatFlute	
+E-MU Systems	Carnaval	Bank 2	062 Lfo:Ambient1	
+E-MU Systems	Carnaval	Bank 2	063 Lfo:HaBrass	
+E-MU Systems	Carnaval	Bank 2	064 Pad:ObeeWan	
+E-MU Systems	Carnaval	Bank 2	065 Pad:EroKiss	
+E-MU Systems	Carnaval	Bank 2	066 Pad:NycBraz	
+E-MU Systems	Carnaval	Bank 2	067 Pad:Aerialis	
+E-MU Systems	Carnaval	Bank 2	068 Pad:Outer	
+E-MU Systems	Carnaval	Bank 2	069 Pad:Phazzed	
+E-MU Systems	Carnaval	Bank 2	070 Pad:Chorasa	
+E-MU Systems	Carnaval	Bank 2	071 Pad:Sierra	
+E-MU Systems	Carnaval	Bank 2	072 Pad:Simple	
+E-MU Systems	Carnaval	Bank 2	073 Pad:Stringli	
+E-MU Systems	Carnaval	Bank 2	074 Pad:Panash	
+E-MU Systems	Carnaval	Bank 2	075 Pad:Batpad	
+E-MU Systems	Carnaval	Bank 2	076 Pad:Wiggli	
+E-MU Systems	Carnaval	Bank 2	077 Pad:SoftShk	
+E-MU Systems	Carnaval	Bank 2	078 Pad:SloGothk	
+E-MU Systems	Carnaval	Bank 2	079 Pad:Fizzla	
+E-MU Systems	Carnaval	Bank 2	080 Sfx:P sweep	
+E-MU Systems	Carnaval	Bank 2	081 Sfx:SpinDocs	
+E-MU Systems	Carnaval	Bank 2	082 Sfx:Wasptalk	
+E-MU Systems	Carnaval	Bank 2	083 Sfx:TekHit	
+E-MU Systems	Carnaval	Bank 2	084 Sfx:Slipacrd	
+E-MU Systems	Carnaval	Bank 2	085 Sfx:Minuitia	
+E-MU Systems	Carnaval	Bank 2	086 Sfx:Chaacaca	
+E-MU Systems	Carnaval	Bank 2	087 Sfx:Guiroed	
+E-MU Systems	Carnaval	Bank 2	088 Sfx:Froggs	
+E-MU Systems	Carnaval	Bank 2	089 Sfx:Euforia	
+E-MU Systems	Carnaval	Bank 2	090 Sfx:Jean Luc	
+E-MU Systems	Carnaval	Bank 2	091 Sfx:SqwikBnk	
+E-MU Systems	Carnaval	Bank 2	092 Sfx:Blades	
+E-MU Systems	Carnaval	Bank 2	093 Sfx:XL-5	
+E-MU Systems	Carnaval	Bank 2	094 Sfx:911	
+E-MU Systems	Carnaval	Bank 2	095 Sfx:Cyborg	
+E-MU Systems	Carnaval	Bank 2	096 Syn:Gregoria	
+E-MU Systems	Carnaval	Bank 2	097 Syn:Phasoid	
+E-MU Systems	Carnaval	Bank 2	098 Syn:HiSynth	
+E-MU Systems	Carnaval	Bank 2	099 Syn:FiltrBit	
+E-MU Systems	Carnaval	Bank 2	100 Syn:Smoothy	
+E-MU Systems	Carnaval	Bank 2	101 Syn:Mekano	
+E-MU Systems	Carnaval	Bank 2	102 Syn:Indie	
+E-MU Systems	Carnaval	Bank 2	103 Syn:Squara	
+E-MU Systems	Carnaval	Bank 2	104 Syn:Megacity	
+E-MU Systems	Carnaval	Bank 2	105 Syn:El Warpo	
+E-MU Systems	Carnaval	Bank 2	106 Syn:Popular	
+E-MU Systems	Carnaval	Bank 2	107 Syn:Dictoman	
+E-MU Systems	Carnaval	Bank 2	108 Syn:OnOne	
+E-MU Systems	Carnaval	Bank 2	109 Syn:Chunky	
+E-MU Systems	Carnaval	Bank 2	110 Syn:Angel	
+E-MU Systems	Carnaval	Bank 2	111 Syn:Macarela	
+E-MU Systems	Carnaval	Bank 2	112 Syn:Toota	
+E-MU Systems	Carnaval	Bank 2	113 Syn:Caliente	
+E-MU Systems	Carnaval	Bank 2	114 Syn:Choosey	
+E-MU Systems	Carnaval	Bank 2	115 Syn:Minilike	
+E-MU Systems	Carnaval	Bank 2	116 Syn:DeeDish	
+E-MU Systems	Carnaval	Bank 2	117 Syn:Tango	
+E-MU Systems	Carnaval	Bank 2	118 Syn:Hardcore	
+E-MU Systems	Carnaval	Bank 2	119 Syn:DropBass	
+E-MU Systems	Carnaval	Bank 2	120 Syn:Welto	
+E-MU Systems	Carnaval	Bank 2	121 Syn:Espacio	
+E-MU Systems	Carnaval	Bank 2	122 Syn:Donde	
+E-MU Systems	Carnaval	Bank 2	123 Syn:Pantan	
+E-MU Systems	Carnaval	Bank 2	124 Syn:Zingo	
+E-MU Systems	Carnaval	Bank 2	125 Syn:Tricorus	
+E-MU Systems	Carnaval	Bank 2	126 Syn:Pulsend	
+E-MU Systems	Carnaval	Bank 2	127 Syn:Padova	
+E-MU Systems	Carnaval	Bank 3	000 BT:Eurotic	
+E-MU Systems	Carnaval	Bank 3	001 BT:Eurotic *	
+E-MU Systems	Carnaval	Bank 3	002 BT:Fiesta!	
+E-MU Systems	Carnaval	Bank 3	003 BT:Fiesta  *	
+E-MU Systems	Carnaval	Bank 3	004 BT:Brazilia	
+E-MU Systems	Carnaval	Bank 3	005 BT:Brazilia*	
+E-MU Systems	Carnaval	Bank 3	006 BT:Kewl It	
+E-MU Systems	Carnaval	Bank 3	007 BT:Kewl It *	
+E-MU Systems	Carnaval	Bank 3	008 BT:LaPaz!	
+E-MU Systems	Carnaval	Bank 3	009 BT:LaPaz!  *	
+E-MU Systems	Carnaval	Bank 3	010 BT:LatinLuv	
+E-MU Systems	Carnaval	Bank 3	011 BT:LatinLuv*	
+E-MU Systems	Carnaval	Bank 3	012 BT:MundoLoco	
+E-MU Systems	Carnaval	Bank 3	013 BT:MundoLoc*	
+E-MU Systems	Carnaval	Bank 3	014 BT:Mach2	
+E-MU Systems	Carnaval	Bank 3	015 BT:Mach2   *	
+E-MU Systems	Carnaval	Bank 3	016 BT:Mach3	
+E-MU Systems	Carnaval	Bank 3	017 BT:Mach3   *	
+E-MU Systems	Carnaval	Bank 3	018 BT:Pa Fuera	
+E-MU Systems	Carnaval	Bank 3	019 BT:Pa Fuera	
+E-MU Systems	Carnaval	Bank 3	020 BT:Swing It!	
+E-MU Systems	Carnaval	Bank 3	021 BT:Swing It*	
+E-MU Systems	Carnaval	Bank 3	022 BT:Raro	
+E-MU Systems	Carnaval	Bank 3	023 BT:Raro    *	
+E-MU Systems	Carnaval	Bank 3	024 BT:Carnaval	
+E-MU Systems	Carnaval	Bank 3	025 BT:Rio	
+E-MU Systems	Carnaval	Bank 3	026 BT:Batuque	
+E-MU Systems	Carnaval	Bank 3	027 BT:AllBraz *	
+E-MU Systems	Carnaval	Bank 3	028 BT:Domingo	
+E-MU Systems	Carnaval	Bank 3	029 BT:Domingo *	
+E-MU Systems	Carnaval	Bank 3	030 BT:Fogo	
+E-MU Systems	Carnaval	Bank 3	031 BT:Fogo    *	
+E-MU Systems	Carnaval	Bank 3	032 BT:Coolio	
+E-MU Systems	Carnaval	Bank 3	033 BT:Coolio  *	
+E-MU Systems	Carnaval	Bank 3	034 BT:Bossa	
+E-MU Systems	Carnaval	Bank 3	035 BT:Bossa   *	
+E-MU Systems	Carnaval	Bank 3	036 BT:Cascara32	
+E-MU Systems	Carnaval	Bank 3	037 BT:Cascara *	
+E-MU Systems	Carnaval	Bank 3	038 BT:Zumbao	
+E-MU Systems	Carnaval	Bank 3	039 BT:Zumbao  *	
+E-MU Systems	Carnaval	Bank 3	040 BT:Gitano	
+E-MU Systems	Carnaval	Bank 3	041 BT:Gitano  *	
+E-MU Systems	Carnaval	Bank 3	042 BT:Duende	
+E-MU Systems	Carnaval	Bank 3	043 BT:Duende  *	
+E-MU Systems	Carnaval	Bank 3	044 BT:Maracuia	
+E-MU Systems	Carnaval	Bank 3	045 BT:Maracuia*	
+E-MU Systems	Carnaval	Bank 3	046 BT:Muevelo	
+E-MU Systems	Carnaval	Bank 3	047 BT:Muevelo *	
+E-MU Systems	Carnaval	Bank 3	048 BT:Tequila	
+E-MU Systems	Carnaval	Bank 3	049 BT:Tequila *	
+E-MU Systems	Carnaval	Bank 3	050 BT:U-Bend	
+E-MU Systems	Carnaval	Bank 3	051 BT:U-Bend  *	
+E-MU Systems	Carnaval	Bank 3	052 BT:SupaGruv	
+E-MU Systems	Carnaval	Bank 3	053 BT:SupaGruv*	
+E-MU Systems	Carnaval	Bank 3	054 BT:Source	
+E-MU Systems	Carnaval	Bank 3	055 BT:Source  *	
+E-MU Systems	Carnaval	Bank 3	056 BT:Loaded	
+E-MU Systems	Carnaval	Bank 3	057 BT:Loaded  *	
+E-MU Systems	Carnaval	Bank 3	058 BT:Force	
+E-MU Systems	Carnaval	Bank 3	059 BT:Force   *	
+E-MU Systems	Carnaval	Bank 3	060 BT:Bhangra	
+E-MU Systems	Carnaval	Bank 3	061 BT:Bhangra *	
+E-MU Systems	Carnaval	Bank 3	062 BT:Bhangra2	
+E-MU Systems	Carnaval	Bank 3	063 BT:Bhangra2*	
+E-MU Systems	Carnaval	Bank 3	064 BT:Bomba	
+E-MU Systems	Carnaval	Bank 3	065 BT:Bomba   *	
+E-MU Systems	Carnaval	Bank 3	066 BT:Guaracha	
+E-MU Systems	Carnaval	Bank 3	067 BT:Guaracha*	
+E-MU Systems	Carnaval	Bank 3	068 BT:PaloViejo	
+E-MU Systems	Carnaval	Bank 3	069 BT:AllMrnge*	
+E-MU Systems	Carnaval	Bank 3	070 BT:Funkonga	
+E-MU Systems	Carnaval	Bank 3	071 BT:Funkonga*	
+E-MU Systems	Carnaval	Bank 3	072 BT:Afro	
+E-MU Systems	Carnaval	Bank 3	073 BT:Afro    *	
+E-MU Systems	Carnaval	Bank 3	074 BT:Mzambique	
+E-MU Systems	Carnaval	Bank 3	075 BT:Mozambiq*	
+E-MU Systems	Carnaval	Bank 3	076 BT:MontUno	
+E-MU Systems	Carnaval	Bank 3	077 BT:MontUno *	
+E-MU Systems	Carnaval	Bank 3	078 BT:MontDos	
+E-MU Systems	Carnaval	Bank 3	079 BT:Batucada*	
+E-MU Systems	Carnaval	Bank 3	080 BT:Plena	
+E-MU Systems	Carnaval	Bank 3	081 BT:Plena   *	
+E-MU Systems	Carnaval	Bank 3	082 BT:NG Brkdwn	
+E-MU Systems	Carnaval	Bank 3	083 BT:NG Brkdn*	
+E-MU Systems	Carnaval	Bank 3	084 BT:Cuidao	
+E-MU Systems	Carnaval	Bank 3	085 BT:Cuidao  *	
+E-MU Systems	Carnaval	Bank 3	086 BT:Van-ish	
+E-MU Systems	Carnaval	Bank 3	087 BT:Van-ish	
+E-MU Systems	Carnaval	Bank 3	088 BT:Mambo 2:3	
+E-MU Systems	Carnaval	Bank 3	089 BT:Mambo2:3*	
+E-MU Systems	Carnaval	Bank 3	090 BT:SonTuno	
+E-MU Systems	Carnaval	Bank 3	091 BT:SM Bldup	
+E-MU Systems	Carnaval	Bank 3	092 BT:Campaneo	
+E-MU Systems	Carnaval	Bank 3	093 BT:AllSalsa*	
+E-MU Systems	Carnaval	Bank 3	094 BT:Tres Dos	
+E-MU Systems	Carnaval	Bank 3	095 BT:Arriba	
+E-MU Systems	Carnaval	Bank 3	096 BT:Mas Alla	
+E-MU Systems	Carnaval	Bank 3	097 BT:Alli Esta	
+E-MU Systems	Carnaval	Bank 3	098 BT:Merengazo	
+E-MU Systems	Carnaval	Bank 3	099 BT:AllMrnge*	
+E-MU Systems	Carnaval	Bank 3	100 BT:FnkyBanda	
+E-MU Systems	Carnaval	Bank 3	101 BT:SpdyBnda*	
+E-MU Systems	Carnaval	Bank 3	102 BT:SpdBanda2	
+E-MU Systems	Carnaval	Bank 3	103 BT:TuBanda	
+E-MU Systems	Carnaval	Bank 3	104 BT:TuBnda  *	
+E-MU Systems	Carnaval	Bank 3	105 BT:BndaMania	
+E-MU Systems	Carnaval	Bank 3	106 BT:BndaMnia*	
+E-MU Systems	Carnaval	Bank 3	107 BT:Cumbia	
+E-MU Systems	Carnaval	Bank 3	108 BT:Cumbia  *	
+E-MU Systems	Carnaval	Bank 3	109 BT:Cumbiente	
+E-MU Systems	Carnaval	Bank 3	110 BT:Romantica	
+E-MU Systems	Carnaval	Bank 3	111 BT:Romantic*	
+E-MU Systems	Carnaval	Bank 3	112 BT:RumBanda	
+E-MU Systems	Carnaval	Bank 3	113 BT:RumBanda*	
+E-MU Systems	Carnaval	Bank 3	114 BT:ReBanda	
+E-MU Systems	Carnaval	Bank 3	115 BT:Funkabkay	
+E-MU Systems	Carnaval	Bank 3	116 BT:Funkabky*	
+E-MU Systems	Carnaval	Bank 3	117 BT:PopBolero	
+E-MU Systems	Carnaval	Bank 3	118 BT:PopBoler*	
+E-MU Systems	Carnaval	Bank 3	119 BT:Tejoropo	
+E-MU Systems	Carnaval	Bank 3	120 BT:Tejoropo*	
+E-MU Systems	Carnaval	Bank 3	121 BT:Tejano	
+E-MU Systems	Carnaval	Bank 3	122 BT:Tejano  *	
+E-MU Systems	Carnaval	Bank 3	123 BT:Techno2 *	
+E-MU Systems	Carnaval	Bank 3	124 BT:Salsa 5	
+E-MU Systems	Carnaval	Bank 3	125 BT:Salsa 1	
+E-MU Systems	Carnaval	Bank 3	126 Brk:Mrengue1	
+E-MU Systems	Carnaval	Bank 3	127 BT:Chato	
+E-MU Systems	Carnaval	Bank 4	000 BT:Chato   *	
+E-MU Systems	Carnaval	Bank 4	001 BT:Chico	
+E-MU Systems	Carnaval	Bank 4	002 BT:Chico*	
+E-MU Systems	Carnaval	Bank 4	003 BT:Ayaee!	
+E-MU Systems	Carnaval	Bank 4	004 BT:Ayaee!  *	
+E-MU Systems	Carnaval	Bank 4	005 BT:Jefe	
+E-MU Systems	Carnaval	Bank 4	006 BT:Jefe    *	
+E-MU Systems	Carnaval	Bank 4	007 BT:Alreves	
+E-MU Systems	Carnaval	Bank 4	008 BT:Alreves *	
+E-MU Systems	Carnaval	Bank 4	009 BT:Slo Mo	
+E-MU Systems	Carnaval	Bank 4	010 BT:Slo Mo  *	
+E-MU Systems	Carnaval	Bank 4	011 BT:Afincao 1	
+E-MU Systems	Carnaval	Bank 4	012 BT:Afincao1*	
+E-MU Systems	Carnaval	Bank 4	013 BT:Afincao 2	
+E-MU Systems	Carnaval	Bank 4	014 BT:Afincao2*	
+E-MU Systems	Carnaval	Bank 4	015 BT:Prefunca	
+E-MU Systems	Carnaval	Bank 4	016 BT:Prefunc*	
+E-MU Systems	Carnaval	Bank 4	017 BT:Leon 1*	
+E-MU Systems	Carnaval	Bank 4	018 BT:Leon 2*	
+E-MU Systems	Carnaval	Bank 4	019 BT:Leon 3*	
+E-MU Systems	Carnaval	Bank 4	020 BT:SkiiMond	
+E-MU Systems	Carnaval	Bank 4	021 BT:SkiiMon*	
+E-MU Systems	Carnaval	Bank 4	022 BT:SkiiComp	
+E-MU Systems	Carnaval	Bank 4	023 BT:SkiiCmp*	
+E-MU Systems	Carnaval	Bank 4	024 BT:Sabroso	
+E-MU Systems	Carnaval	Bank 4	025 BT:Sabroso*	
+E-MU Systems	Carnaval	Bank 4	026 BT:Barrio	
+E-MU Systems	Carnaval	Bank 4	027 BT:Barrio  *	
+E-MU Systems	Carnaval	Bank 4	028 Brk:SalsaInt	
+E-MU Systems	Carnaval	Bank 4	029 BT:Cascara32	
+E-MU Systems	Carnaval	Bank 4	030 BT:Dinamita	
+E-MU Systems	Carnaval	Bank 4	031 BT:Dinamita*	
+E-MU Systems	Carnaval	Bank 4	032 Brk:>Bells32	
+E-MU Systems	Carnaval	Bank 4	033 BT:Bells 3:2	
+E-MU Systems	Carnaval	Bank 4	034 Brk:Bells32a	
+E-MU Systems	Carnaval	Bank 4	035 BT:AllMrnge*	
+E-MU Systems	Carnaval	Bank 4	036 Brk:Mrengue2	
+E-MU Systems	Carnaval	Bank 4	037 Brk:Mrengue3	
+E-MU Systems	Carnaval	Bank 4	038 Brk:Mrengue4	
+E-MU Systems	Carnaval	Bank 4	039 BT:Capoeira*	
+E-MU Systems	Carnaval	Bank 4	040 BT:AllSalsa*	
+E-MU Systems	Carnaval	Bank 4	041 Brk:3:2>2:3	
+E-MU Systems	Carnaval	Bank 4	042 BT:Bells 23a	
+E-MU Systems	Carnaval	Bank 4	043 Brk:Bells23a	
+E-MU Systems	Carnaval	Bank 4	044 Brk:Bells23b	
+E-MU Systems	Carnaval	Bank 4	045 BT:Bells 23b	
+E-MU Systems	Carnaval	Bank 4	046 Brk:Bells23c	
+E-MU Systems	Carnaval	Bank 4	047 Brk:SalsaTag	
+E-MU Systems	Carnaval	Bank 4	048 Dmo:BrsFx	
+E-MU Systems	Carnaval	Bank 4	049 Dmo:Trumpet	
+E-MU Systems	Carnaval	Bank 4	050 Dmo:SofTrump	
+E-MU Systems	Carnaval	Bank 4	051 Dmo:Duality	
+E-MU Systems	Carnaval	Bank 4	052 Dmo:Guiro	
+E-MU Systems	Carnaval	Bank 4	053 Dmo:Timbales	
+E-MU Systems	Carnaval	Bank 4	054 Dmo:AllTraps	
+E-MU Systems	Carnaval	Bank 4	055 Dmo:DK10 -1-	
+E-MU Systems	Carnaval	Bank 4	056 Dmo:BrsHtz	
+E-MU Systems	Carnaval	Bank 4	057 Dmo:Shekere	
+E-MU Systems	Carnaval	Bank 4	058 Dmo:Congas	
+E-MU Systems	Carnaval	Bank 4	059 Dmo:Fendarr	
+E-MU Systems	Carnaval	Bank 4	060 Dmo:Stratish	
+E-MU Systems	Carnaval	Bank 4	061 Dmo:Tejano	
+E-MU Systems	Carnaval	Bank 4	062 Dmo:BigMexi	
+E-MU Systems	Carnaval	Bank 4	063 Dmo:Nylon	
+E-MU Systems	Carnaval	Bank 4	064 Dmo:Euro	
+E-MU Systems	Carnaval	Bank 4	065 Dmo:Truer	
+E-MU Systems	Carnaval	Bank 4	066 Dmo:ordiana	
+E-MU Systems	Carnaval	Bank 4	067 Dmo:SaxButtr	
+E-MU Systems	Carnaval	Bank 4	068 Dmo:Acustic1	
+E-MU Systems	Carnaval	Bank 4	069 Dmo:PianoReg	
+E-MU Systems	Carnaval	Bank 4	070 Dmo:DosBones	
+E-MU Systems	Carnaval	Bank 4	071 Dmo:Flutuss	
+E-MU Systems	Carnaval	Bank 4	072 Dmo:Baritone	
+E-MU Systems	Carnaval	Bank 4	073 Dmo:Tenor.Bc	
+E-MU Systems	Carnaval	Bank 4	074 Dmo:MetalFX	
+E-MU Systems	Carnaval	Bank 4	075 Dmo:Vocal 1	
+E-MU Systems	Carnaval	Bank 4	076 Dmo:Ay Tata	
+E-MU Systems	Carnaval	Bank 4	077 Dmo:Nailon	
+E-MU Systems	Carnaval	Bank 4	078 Dmo:Violin	
+E-MU Systems	Carnaval	Bank 4	079 Dmo:TejanoBr	
+E-MU Systems	Carnaval	Bank 4	080 Lnk:VoxFX	
+E-MU Systems	Carnaval	Bank 4	081 Lnk:OrgKey	
+E-MU Systems	Carnaval	Bank 4	082 Lnk:BairnBs	
+E-MU Systems	Carnaval	Bank 4	083 Lnk:BanditBs	
+E-MU Systems	Carnaval	Bank 4	084 Lnk:SqUp	
+E-MU Systems	Carnaval	Bank 4	085 Lnk:Clavicle	
+E-MU Systems	Carnaval	Bank 4	086 Lnk:TeknoBs	
+E-MU Systems	Carnaval	Bank 4	087 Lnk:BabyBass	
+E-MU Systems	Carnaval	Bank 4	088 Lnk:SalsaPno	
+E-MU Systems	Carnaval	Bank 4	089 Lnk:Changa	
+E-MU Systems	Carnaval	Bank 4	090 Lnk:DampBass	
+E-MU Systems	Carnaval	Bank 4	091 Lnk:Muev	
+E-MU Systems	Carnaval	Bank 4	092 Dmo:Cheeze 2	
+E-MU Systems	Carnaval	Bank 4	093 Dmo:Cutz 2	
+E-MU Systems	Carnaval	Bank 4	094 Lnk:CompDamp	
+E-MU Systems	Carnaval	Bank 4	095 Lnk:Slappy	
+E-MU Systems	Carnaval	Bank 4	096 Lnk:Brazilia	
+E-MU Systems	Carnaval	Bank 4	097 Lnk:StrumGtr	
+E-MU Systems	Carnaval	Bank 4	098 Lnk:Ranchera	
+E-MU Systems	Carnaval	Bank 4	099 Lnk:DampBass	
+E-MU Systems	Carnaval	Bank 4	100 Lnk:BandaBon	
+E-MU Systems	Carnaval	Bank 4	101 Lnk:2Trumps	
+E-MU Systems	Carnaval	Bank 4	102 Lnk:Tuba	
+E-MU Systems	Carnaval	Bank 4	103 Lnk:Shekere	
+E-MU Systems	Carnaval	Bank 4	104 Dmo:Lele	
+E-MU Systems	Carnaval	Bank 4	105 Dmo:Alto .BC	
+E-MU Systems	Carnaval	Bank 4	106 Lnk:ElCheBrs	
+E-MU Systems	Carnaval	Bank 4	107 Lnk:MacareBT	
+E-MU Systems	Carnaval	Bank 4	108 Lnk:BasSinte	
+E-MU Systems	Carnaval	Bank 4	109 Lnk:Acc.Isla	
+E-MU Systems	Carnaval	Bank 4	110 Lnk:Montuno	
+E-MU Systems	Carnaval	Bank 4	111 Lnk:OrgB3"O"	
+E-MU Systems	Carnaval	Bank 4	112 Lnk:MaderaBs	
+E-MU Systems	Carnaval	Bank 4	113 Lnk:StringSy	
+E-MU Systems	Carnaval	Bank 4	114 Lnk:BandaBas	
+E-MU Systems	Carnaval	Bank 4	115 Lnk:NadaPad	
+E-MU Systems	Carnaval	Bank 4	116 Lnk:TrueComp	
+E-MU Systems	Carnaval	Bank 4	117 Lnk:Hey!Maca	
+E-MU Systems	Carnaval	Bank 4	118 Lnk:GitAron	
+E-MU Systems	Carnaval	Bank 4	119 Lnk:BigbabyB	
+E-MU Systems	Carnaval	Bank 4	120 Lnk:SqrCompz	
+E-MU Systems	Carnaval	Bank 4	121 Lnk:DropBass	
+E-MU Systems	Carnaval	Bank 4	122 Lnk:BlowChnk	
+E-MU Systems	Carnaval	Bank 4	123 Lnk:SynSqBas	
+E-MU Systems	Carnaval	Bank 4	124 Lnk:Subterra	
+E-MU Systems	Carnaval	Bank 4	125 Lnk:Piano030	
+E-MU Systems	Carnaval	Bank 4	126 Lnk:EuroOrga	
+E-MU Systems	Carnaval	Bank 4	127 Init Preset	
+E-MU Systems	Carnaval	Instruments	000 None	
+E-MU Systems	Carnaval	Instruments	001 Accordion1	
+E-MU Systems	Carnaval	Instruments	002 Accordion2	
+E-MU Systems	Carnaval	Instruments	003 AcousticBs1	
+E-MU Systems	Carnaval	Instruments	004 AcousticBs2	
+E-MU Systems	Carnaval	Instruments	005 BabyBassMag	
+E-MU Systems	Carnaval	Instruments	006 BabyBassBri	
+E-MU Systems	Carnaval	Instruments	007 ElectBass	
+E-MU Systems	Carnaval	Instruments	008 ElecDampBs	
+E-MU Systems	Carnaval	Instruments	009 Slapbass	
+E-MU Systems	Carnaval	Instruments	010 Synbass1	
+E-MU Systems	Carnaval	Instruments	011 Synbass2	
+E-MU Systems	Carnaval	Instruments	012 Synbass3	
+E-MU Systems	Carnaval	Instruments	013 Synbass4	
+E-MU Systems	Carnaval	Instruments	014 Synbass5	
+E-MU Systems	Carnaval	Instruments	015 Synbass6	
+E-MU Systems	Carnaval	Instruments	016 Subbass1	
+E-MU Systems	Carnaval	Instruments	017 Subbass2	
+E-MU Systems	Carnaval	Instruments	018 Qupbass1	
+E-MU Systems	Carnaval	Instruments	019 Qupbass2	
+E-MU Systems	Carnaval	Instruments	020 BrassHitz	
+E-MU Systems	Carnaval	Instruments	021 BrassSFX	
+E-MU Systems	Carnaval	Instruments	022 Synth Brass	
+E-MU Systems	Carnaval	Instruments	023 SoftTrumpet	
+E-MU Systems	Carnaval	Instruments	024 MedTrumpet	
+E-MU Systems	Carnaval	Instruments	025 HardTrumpet	
+E-MU Systems	Carnaval	Instruments	026 Trombone	
+E-MU Systems	Carnaval	Instruments	027 Tuba	
+E-MU Systems	Carnaval	Instruments	028 Alto Sax	
+E-MU Systems	Carnaval	Instruments	029 BaritoneSax	
+E-MU Systems	Carnaval	Instruments	030 BariStaccat	
+E-MU Systems	Carnaval	Instruments	031 Tenor Jaz	
+E-MU Systems	Carnaval	Instruments	032 Tenor Sax	
+E-MU Systems	Carnaval	Instruments	033 Flute Vib	
+E-MU Systems	Carnaval	Instruments	034 Pan Flute	
+E-MU Systems	Carnaval	Instruments	035 AcousticStl	
+E-MU Systems	Carnaval	Instruments	036 FlamencoGtr	
+E-MU Systems	Carnaval	Instruments	037 Strat Gtr	
+E-MU Systems	Carnaval	Instruments	038 Violin	
+E-MU Systems	Carnaval	Instruments	039 VoiceCutz1	
+E-MU Systems	Carnaval	Instruments	040 VoiceCutz2	
+E-MU Systems	Carnaval	Instruments	041 Piano	
+E-MU Systems	Carnaval	Instruments	042 Organ 1	
+E-MU Systems	Carnaval	Instruments	043 Organ 2	
+E-MU Systems	Carnaval	Instruments	044 Organ 3	
+E-MU Systems	Carnaval	Instruments	045 Farfisa	
+E-MU Systems	Carnaval	Instruments	046 Vox	
+E-MU Systems	Carnaval	Instruments	047 SpongyOrgan	
+E-MU Systems	Carnaval	Instruments	048 Organ4O	
+E-MU Systems	Carnaval	Instruments	049 Organ B3 1	
+E-MU Systems	Carnaval	Instruments	050 Organ B3 2	
+E-MU Systems	Carnaval	Instruments	051 Organ B3 3	
+E-MU Systems	Carnaval	Instruments	052 Organ B3 Up	
+E-MU Systems	Carnaval	Instruments	053 OrganWave1	
+E-MU Systems	Carnaval	Instruments	054 Pulse 50	
+E-MU Systems	Carnaval	Instruments	055 Sawtooth	
+E-MU Systems	Carnaval	Instruments	056 Triangle	
+E-MU Systems	Carnaval	Instruments	057 Sine Wave	
+E-MU Systems	Carnaval	Instruments	058 Square	
+E-MU Systems	Carnaval	Instruments	059 Brassy Wave	
+E-MU Systems	Carnaval	Instruments	060 Silkveil	
+E-MU Systems	Carnaval	Instruments	061 kit:Traps	
+E-MU Systems	Carnaval	Instruments	062 kit:Salsa	
+E-MU Systems	Carnaval	Instruments	063 kit:Brazil	
+E-MU Systems	Carnaval	Instruments	064 kit:GMIDIsh	
+E-MU Systems	Carnaval	Instruments	065 kit:GM Braz	
+E-MU Systems	Carnaval	Instruments	066 prf:Congas	
+E-MU Systems	Carnaval	Instruments	067 prf:Bongos	
+E-MU Systems	Carnaval	Instruments	068 prf:Timbale	
+E-MU Systems	Carnaval	Instruments	069 prf:Guiro	
+E-MU Systems	Carnaval	Instruments	070 prf:Shekere	
+E-MU Systems	Carnaval	Instruments	071 prf:Tambora	
+E-MU Systems	Carnaval	Instruments	072 prf:Agogos	
+E-MU Systems	Carnaval	Instruments	073 prf:Tmborim	
+E-MU Systems	Carnaval	Instruments	074 prf:Surdo	
+E-MU Systems	Carnaval	Instruments	075 prf:Pndeiro	
+E-MU Systems	Carnaval	Instruments	076 prf:Repique	
+E-MU Systems	Carnaval	Instruments	077 prf:Ganza	
+E-MU Systems	Carnaval	Instruments	078 raw:Quinto	
+E-MU Systems	Carnaval	Instruments	079 raw:Conga	
+E-MU Systems	Carnaval	Instruments	080 raw:Congas	
+E-MU Systems	Carnaval	Instruments	081 raw:Bongos	
+E-MU Systems	Carnaval	Instruments	082 raw:Timbale	
+E-MU Systems	Carnaval	Instruments	083 raw:Bells	
+E-MU Systems	Carnaval	Instruments	084 raw:Claves	
+E-MU Systems	Carnaval	Instruments	085 raw:Guiro	
+E-MU Systems	Carnaval	Instruments	086 raw:Shekere	
+E-MU Systems	Carnaval	Instruments	087 raw:Tambora	
+E-MU Systems	Carnaval	Instruments	088 raw:Agogos	
+E-MU Systems	Carnaval	Instruments	089 raw:Tmborim	
+E-MU Systems	Carnaval	Instruments	090 raw:Surdo	
+E-MU Systems	Carnaval	Instruments	091 raw:Pndeiro	
+E-MU Systems	Carnaval	Instruments	092 raw:Repique	
+E-MU Systems	Carnaval	Instruments	093 raw:Ganza	
+E-MU Systems	Carnaval	Instruments	094 raw:Triangl	
+E-MU Systems	Carnaval	Instruments	095 raw:Kicks	
+E-MU Systems	Carnaval	Instruments	096 raw:Snares	
+E-MU Systems	Carnaval	Instruments	097 raw:Toms	
+E-MU Systems	Carnaval	Instruments	098 raw:Hats	
+E-MU Systems	Carnaval	Instruments	099 raw:Cymbals	
+E-MU Systems	Carnaval	Instruments	100 raw:Tambs	
+E-MU Systems	Carnaval	Instruments	101 raw:Shakers	
+E-MU Systems	Carnaval	Instruments	102 Quinto Heel	
+E-MU Systems	Carnaval	Instruments	103 Quinto Tip	
+E-MU Systems	Carnaval	Instruments	104 Quinto Slap	
+E-MU Systems	Carnaval	Instruments	105 Quinto Open	
+E-MU Systems	Carnaval	Instruments	106 Quinto Palm	
+E-MU Systems	Carnaval	Instruments	107 Quinto Solo	
+E-MU Systems	Carnaval	Instruments	108 Conga Heel	
+E-MU Systems	Carnaval	Instruments	109 Conga Tip	
+E-MU Systems	Carnaval	Instruments	110 Conga Slap	
+E-MU Systems	Carnaval	Instruments	111 Conga Open	
+E-MU Systems	Carnaval	Instruments	112 Conga Palm	
+E-MU Systems	Carnaval	Instruments	113 Conga Solo	
+E-MU Systems	Carnaval	Instruments	114 Conga Slide	
+E-MU Systems	Carnaval	Instruments	115 Tumba Open	
+E-MU Systems	Carnaval	Instruments	116 BongoRim1 R	
+E-MU Systems	Carnaval	Instruments	117 BongoFing L	
+E-MU Systems	Carnaval	Instruments	118 BongoRim2 R	
+E-MU Systems	Carnaval	Instruments	119 BongoThumbL	
+E-MU Systems	Carnaval	Instruments	120 BongoLrgOpn	
+E-MU Systems	Carnaval	Instruments	121 BongoFngSlp	
+E-MU Systems	Carnaval	Instruments	122 Bongo Solo	
+E-MU Systems	Carnaval	Instruments	123 TimbHandCls	
+E-MU Systems	Carnaval	Instruments	124 TimbHandOpn	
+E-MU Systems	Carnaval	Instruments	125 TimbLrg Opn	
+E-MU Systems	Carnaval	Instruments	126 TimbLrg Rim	
+E-MU Systems	Carnaval	Instruments	127 Timb Sm Opn	
+E-MU Systems	Carnaval	Instruments	128 Timb Sm Rim	
+E-MU Systems	Carnaval	Instruments	129 TimbCascara	
+E-MU Systems	Carnaval	Instruments	130 Mambo Bell	
+E-MU Systems	Carnaval	Instruments	131 ChaBell Opn	
+E-MU Systems	Carnaval	Instruments	132 ChaBell Cls	
+E-MU Systems	Carnaval	Instruments	133 Charanga Op	
+E-MU Systems	Carnaval	Instruments	134 Charanga Cl	
+E-MU Systems	Carnaval	Instruments	135 HandBell Op	
+E-MU Systems	Carnaval	Instruments	136 HandBell Cl	
+E-MU Systems	Carnaval	Instruments	137 Woodblock	
+E-MU Systems	Carnaval	Instruments	138 Cuban Clave	
+E-MU Systems	Carnaval	Instruments	139 Son Clave	
+E-MU Systems	Carnaval	Instruments	140 Maracas	
+E-MU Systems	Carnaval	Instruments	141 Guiro Up	
+E-MU Systems	Carnaval	Instruments	142 Guiro Down	
+E-MU Systems	Carnaval	Instruments	143 ShekereDown	
+E-MU Systems	Carnaval	Instruments	144 ShekereSlap	
+E-MU Systems	Carnaval	Instruments	145 Shekere Up	
+E-MU Systems	Carnaval	Instruments	146 Tambora Rim	
+E-MU Systems	Carnaval	Instruments	147 Tambora Opn	
+E-MU Systems	Carnaval	Instruments	148 TamboraSlap	
+E-MU Systems	Carnaval	Instruments	149 TamboraHand	
+E-MU Systems	Carnaval	Instruments	150 Agogo Mute	
+E-MU Systems	Carnaval	Instruments	151 Agogo Low	
+E-MU Systems	Carnaval	Instruments	152 Agogo High	
+E-MU Systems	Carnaval	Instruments	153 TamborimTch	
+E-MU Systems	Carnaval	Instruments	154 TamborimMid	
+E-MU Systems	Carnaval	Instruments	155 TamborimEdg	
+E-MU Systems	Carnaval	Instruments	156 Surdo Touch	
+E-MU Systems	Carnaval	Instruments	157 Surdo Mute	
+E-MU Systems	Carnaval	Instruments	158 Surdo Rim	
+E-MU Systems	Carnaval	Instruments	159 Surdo RimCl	
+E-MU Systems	Carnaval	Instruments	160 Surdo Open	
+E-MU Systems	Carnaval	Instruments	161 PandeiroSlp	
+E-MU Systems	Carnaval	Instruments	162 PandeiroDmp	
+E-MU Systems	Carnaval	Instruments	163 PandeiroOpn	
+E-MU Systems	Carnaval	Instruments	164 PandeiroStr	
+E-MU Systems	Carnaval	Instruments	165 Pand Shake1	
+E-MU Systems	Carnaval	Instruments	166 Pand Shake2	
+E-MU Systems	Carnaval	Instruments	167 RepiqueDrag	
+E-MU Systems	Carnaval	Instruments	168 RepiqueTone	
+E-MU Systems	Carnaval	Instruments	169 RepiqueRimL	
+E-MU Systems	Carnaval	Instruments	170 RepiqueRimH	
+E-MU Systems	Carnaval	Instruments	171 RepiqueSlap	
+E-MU Systems	Carnaval	Instruments	172 Quica	
+E-MU Systems	Carnaval	Instruments	173 Caxixi	
+E-MU Systems	Carnaval	Instruments	174 SambaWhstle	
+E-MU Systems	Carnaval	Instruments	175 Ganza Long	
+E-MU Systems	Carnaval	Instruments	176 Ganza Short	
+E-MU Systems	Carnaval	Instruments	177 TriangleMte	
+E-MU Systems	Carnaval	Instruments	178 TriangleOpn	
+E-MU Systems	Carnaval	Instruments	179 Kick 1	
+E-MU Systems	Carnaval	Instruments	180 Kick 2	
+E-MU Systems	Carnaval	Instruments	181 Kick 3	
+E-MU Systems	Carnaval	Instruments	182 Kick 4	
+E-MU Systems	Carnaval	Instruments	183 Kick 5	
+E-MU Systems	Carnaval	Instruments	184 Kick 6	
+E-MU Systems	Carnaval	Instruments	185 Kick 7	
+E-MU Systems	Carnaval	Instruments	186 Kick 8	
+E-MU Systems	Carnaval	Instruments	187 Kick 9	
+E-MU Systems	Carnaval	Instruments	188 Snare 1	
+E-MU Systems	Carnaval	Instruments	189 Snare 2	
+E-MU Systems	Carnaval	Instruments	190 Snare 3	
+E-MU Systems	Carnaval	Instruments	191 Snare 4	
+E-MU Systems	Carnaval	Instruments	192 Snare 5	
+E-MU Systems	Carnaval	Instruments	193 Snare 6	
+E-MU Systems	Carnaval	Instruments	194 Snare 7	
+E-MU Systems	Carnaval	Instruments	195 Snare 8	
+E-MU Systems	Carnaval	Instruments	196 Snare RimCl	
+E-MU Systems	Carnaval	Instruments	197 Snare Ruff	
+E-MU Systems	Carnaval	Instruments	198 Snare Roll	
+E-MU Systems	Carnaval	Instruments	199 Snare Brush	
+E-MU Systems	Carnaval	Instruments	200 Tom Low	
+E-MU Systems	Carnaval	Instruments	201 Tom Med	
+E-MU Systems	Carnaval	Instruments	202 Tom High	
+E-MU Systems	Carnaval	Instruments	203 Tom Synth 1	
+E-MU Systems	Carnaval	Instruments	204 Tom Synth 2	
+E-MU Systems	Carnaval	Instruments	205 Hat Closed	
+E-MU Systems	Carnaval	Instruments	206 Hat 1/3 Op	
+E-MU Systems	Carnaval	Instruments	207 Hat 2/3 Op	
+E-MU Systems	Carnaval	Instruments	208 Hat Open	
+E-MU Systems	Carnaval	Instruments	209 Hat Stomp	
+E-MU Systems	Carnaval	Instruments	210 Hat Synth	
+E-MU Systems	Carnaval	Instruments	211 Ride Bell	
+E-MU Systems	Carnaval	Instruments	212 Ride Cymbal	
+E-MU Systems	Carnaval	Instruments	213 Crash 14"	
+E-MU Systems	Carnaval	Instruments	214 Crash 17"	
+E-MU Systems	Carnaval	Instruments	215 CymbalSynth	
+E-MU Systems	Carnaval	Instruments	216 Tambourine1	
+E-MU Systems	Carnaval	Instruments	217 Tambourine2	
+E-MU Systems	Carnaval	Instruments	218 Tamb Synth	
+E-MU Systems	Carnaval	Instruments	219 Cowbell 1	
+E-MU Systems	Carnaval	Instruments	220 Cowbell 2	
+E-MU Systems	Carnaval	Instruments	221 Castanets	
+E-MU Systems	Carnaval	Instruments	222 Fingersnap	
+E-MU Systems	Carnaval	Instruments	223 Claps	
+E-MU Systems	Carnaval	Instruments	224 Brass Hit 1	
+E-MU Systems	Carnaval	Instruments	225 Brass Hit 2	
+E-MU Systems	Carnaval	Instruments	226 Brass Hit 3	
+E-MU Systems	Carnaval	Instruments	227 Brass Hit 4	
+E-MU Systems	Carnaval	Instruments	228 Brass Hit 5	
+E-MU Systems	Carnaval	Instruments	229 Brass Hit 6	
+E-MU Systems	Carnaval	Instruments	230 Brass Hit 7	
+E-MU Systems	Carnaval	Instruments	231 Trp FX 1	
+E-MU Systems	Carnaval	Instruments	232 Trp FX 2	
+E-MU Systems	Carnaval	Instruments	233 Trp FX 3	
+E-MU Systems	Carnaval	Instruments	234 Carnaval	
+E-MU Systems	Carnaval	Instruments	235 Cumbia	
+E-MU Systems	Carnaval	Instruments	236 A Gozar	
+E-MU Systems	Carnaval	Instruments	237 Laughing	
+E-MU Systems	Carnaval	Instruments	238 Que Rico	
+E-MU Systems	Carnaval	Instruments	239 A Bailar	
+E-MU Systems	Carnaval	Instruments	240 Merengue	
+E-MU Systems	Carnaval	Instruments	241 Cha Cu Cha	
+E-MU Systems	Carnaval	Instruments	242 Eh	
+E-MU Systems	Carnaval	Instruments	243 Como	
+E-MU Systems	Carnaval	Instruments	244 Loca	
+E-MU Systems	Carnaval	Instruments	245 Roar	
+E-MU Systems	Carnaval	Instruments	246 RRRRR	
+E-MU Systems	Carnaval	Instruments	247 Shout	
+E-MU Systems	Carnaval	Instruments	248 Chant	
+E-MU Systems	Carnaval	Instruments	249 Ahora Si	
+E-MU Systems	Carnaval	Instruments	250 Salsa	
+E-MU Systems	Carnaval	Instruments	251 Vaya	
+E-MU Systems	Carnaval	Instruments	252 bt:Banda	
+E-MU Systems	Carnaval	Instruments	253 bt:Tejano	
+E-MU Systems	Carnaval	Instruments	254 bt:Cumbia	
+E-MU Systems	Carnaval	Instruments	255 bt:Salsa 1	
+E-MU Systems	Carnaval	Instruments	256 bt:Salsa 2	
+E-MU Systems	Carnaval	Instruments	257 bt:Salsa 3	
+E-MU Systems	Carnaval	Instruments	258 bt:Salsa 4	
+E-MU Systems	Carnaval	Instruments	259 bt:Salsa 5	
+E-MU Systems	Carnaval	Instruments	260 bt:Salsa 6	
+E-MU Systems	Carnaval	Instruments	261 bt:Salsa 7	
+E-MU Systems	Carnaval	Instruments	262 bt:Mrngue 1	
+E-MU Systems	Carnaval	Instruments	263 bt:Mrngue 2	
+E-MU Systems	Carnaval	Instruments	264 bt:Songo	
+E-MU Systems	Carnaval	Instruments	265 bt:Brazil1	
+E-MU Systems	Carnaval	Instruments	266 bt:Brazil2	
+E-MU Systems	Carnaval	Instruments	267 bt:Techno1	
+E-MU Systems	Carnaval	Instruments	268 bt:Techno2	
+E-MU Systems	Carnaval	Instruments	269 bt:MacaTek	
+E-MU Systems	Carnaval	Instruments	270 bt:Weirdo1	
+E-MU Systems	Carnaval	Instruments	271 bt:Weirdo2	
+E-MU Systems	Carnaval	Instruments	272 bt:Klango1	
+E-MU Systems	Carnaval	Instruments	273 bt:Klango2	
+E-MU Systems	Carnaval	Instruments	274 bt:Klango3	
+E-MU Systems	Carnaval	Instruments	275 bt:Groove1	
+E-MU Systems	Carnaval	Instruments	276 bt:Groove2	
+E-MU Systems	Carnaval	Instruments	277 bt:Groove3	
+E-MU Systems	Carnaval	Instruments	278 bt:Groove4	
+E-MU Systems	Carnaval	Instruments	279 bt:Groove5	
+E-MU Systems	Carnaval	Instruments	280 bt:Groove6	
+E-MU Systems	Carnaval	Instruments	281 bt:Groove7	
+E-MU Systems	Carnaval	Instruments	282 bt:Groove8	
+E-MU Systems	Carnaval	Instruments	283 bt:Groove9	
+E-MU Systems	Carnaval	Instruments	284 bt:Folklore	
+E-MU Systems	Carnaval	Instruments	285 bt:Songo2	
+E-MU Systems	Carnaval	Instruments	286 kat:Kit1	
+E-MU Systems	Carnaval	Instruments	287 kat:Kit2	
+E-MU Systems	Carnaval	Instruments	288 kat:Kit3	
+E-MU Systems	Carnaval	Instruments	289 kat:Kit4	
+E-MU Systems	Carnaval	Instruments	290 kat:Kit5	
+E-MU Systems	Carnaval	Instruments	291 kat:Kit6	
+E-MU Systems	Carnaval	Instruments	292 kat:Kit7	
+E-MU Systems	Carnaval	Instruments	293 kat:Kit8	
+E-MU Systems	Carnaval	Instruments	294 kat:Kit9	
+E-MU Systems	Carnaval	Instruments	295 kat:Kit0	
+E-MU Systems	Carnaval	Instruments	296 kat:congas	
+E-MU Systems	Carnaval	Instruments	297 kat:timbale	

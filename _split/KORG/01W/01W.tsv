@@ -1,0 +1,774 @@
+KORG	01/W	COMBI -> Bank A	A00 DawnOfTime	
+KORG	01/W	COMBI -> Bank A	A01 MIDI Piano	
+KORG	01/W	COMBI -> Bank A	A02 The Finale	
+KORG	01/W	COMBI -> Bank A	A03 SuperSynth	
+KORG	01/W	COMBI -> Bank A	A04 Vox Picker	
+KORG	01/W	COMBI -> Bank A	A05 Bell&Blue	
+KORG	01/W	COMBI -> Bank A	A06 VolumeKnob	
+KORG	01/W	COMBI -> Bank A	A07 Orchestra	
+KORG	01/W	COMBI -> Bank A	A08 MillerTime	
+KORG	01/W	COMBI -> Bank A	A09 Mega Drums	
+KORG	01/W	COMBI -> Bank A	A10 Animotion	
+KORG	01/W	COMBI -> Bank A	A11 Notre Dame	
+KORG	01/W	COMBI -> Bank A	A12 Warm Brass	
+KORG	01/W	COMBI -> Bank A	A13 Evolution	
+KORG	01/W	COMBI -> Bank A	A14 Whammy&Pad	
+KORG	01/W	COMBI -> Bank A	A15 Botswana	
+KORG	01/W	COMBI -> Bank A	A16 Salsa Band	
+KORG	01/W	COMBI -> Bank A	A17 Marcato	
+KORG	01/W	COMBI -> Bank A	A18 Jazz Hits	
+KORG	01/W	COMBI -> Bank A	A19 LostTemple	
+KORG	01/W	COMBI -> Bank A	A20 Death Star	
+KORG	01/W	COMBI -> Bank A	A21 Old Tines	
+KORG	01/W	COMBI -> Bank A	A22 LegatoReed	
+KORG	01/W	COMBI -> Bank A	A23 Pollen	
+KORG	01/W	COMBI -> Bank A	A24 XpressBass	
+KORG	01/W	COMBI -> Bank A	A25 ChinaBell	
+KORG	01/W	COMBI -> Bank A	A26 Polka Box	
+KORG	01/W	COMBI -> Bank A	A27 SuperVoice	
+KORG	01/W	COMBI -> Bank A	A28 Sax Band	
+KORG	01/W	COMBI -> Bank A	A29 Sea Storm	
+KORG	01/W	COMBI -> Bank A	A30 VoxGamelan	
+KORG	01/W	COMBI -> Bank A	A31 The Legend	
+KORG	01/W	COMBI -> Bank A	A32 Crescendo	
+KORG	01/W	COMBI -> Bank A	A33 Power 4ths	
+KORG	01/W	COMBI -> Bank A	A34 12 Stereo	
+KORG	01/W	COMBI -> Bank A	A35 AirCastles	
+KORG	01/W	COMBI -> Bank A	A36 Piano&Strg	
+KORG	01/W	COMBI -> Bank A	A37 Chamber	
+KORG	01/W	COMBI -> Bank A	A38 Velo City	
+KORG	01/W	COMBI -> Bank A	A39 Dance Club	
+KORG	01/W	COMBI -> Bank A	A40 SpaceBeast	
+KORG	01/W	COMBI -> Bank A	A41 Synth Clav	
+KORG	01/W	COMBI -> Bank A	A42 Fat Guys	
+KORG	01/W	COMBI -> Bank A	A43 Explorer	
+KORG	01/W	COMBI -> Bank A	A44 Bass Suite	
+KORG	01/W	COMBI -> Bank A	A45 Warm Bells	
+KORG	01/W	COMBI -> Bank A	A46 Astro Lead	
+KORG	01/W	COMBI -> Bank A	A47 TheOldKing	
+KORG	01/W	COMBI -> Bank A	A48 Plungers	
+KORG	01/W	COMBI -> Bank A	A49 Stereo Kit	
+KORG	01/W	COMBI -> Bank A	A50 Wonderland	
+KORG	01/W	COMBI -> Bank A	A51 Registers	
+KORG	01/W	COMBI -> Bank A	A52 StereoReed	
+KORG	01/W	COMBI -> Bank A	A53 Steam&Res	
+KORG	01/W	COMBI -> Bank A	A54 ComingHome	
+KORG	01/W	COMBI -> Bank A	A55 Mallet Men	
+KORG	01/W	COMBI -> Bank A	A56 The Gospel	
+KORG	01/W	COMBI -> Bank A	A57 AnaStrings	
+KORG	01/W	COMBI -> Bank A	A58 Octa Brass	
+KORG	01/W	COMBI -> Bank A	A59 HitTheDust	
+KORG	01/W	COMBI -> Bank A	A60 NightShift	
+KORG	01/W	COMBI -> Bank A	A61 Piano Pad	
+KORG	01/W	COMBI -> Bank A	A62 MahlerHorn	
+KORG	01/W	COMBI -> Bank A	A63 Osmosis	
+KORG	01/W	COMBI -> Bank A	A64 SynthRezz	
+KORG	01/W	COMBI -> Bank A	A65 Solar*Eyes	
+KORG	01/W	COMBI -> Bank A	A66 Shogun	
+KORG	01/W	COMBI -> Bank A	A67 ThePhantom	
+KORG	01/W	COMBI -> Bank A	A68 CrystalSax	
+KORG	01/W	COMBI -> Bank A	A69 Fife&Drum	
+KORG	01/W	COMBI -> Bank A	A70 Percolator	
+KORG	01/W	COMBI -> Bank A	A71 Principale	
+KORG	01/W	COMBI -> Bank A	A72 StringReed	
+KORG	01/W	COMBI -> Bank A	A73 Overweight	
+KORG	01/W	COMBI -> Bank A	A74 New Guitar	
+KORG	01/W	COMBI -> Bank A	A75 HyperBaby	
+KORG	01/W	COMBI -> Bank A	A76 Nasty Lead	
+KORG	01/W	COMBI -> Bank A	A77 HarpString	
+KORG	01/W	COMBI -> Bank A	A78 Big Band	
+KORG	01/W	COMBI -> Bank A	A79 Slam Dunk	
+KORG	01/W	COMBI -> Bank A	A80 Spirals	
+KORG	01/W	COMBI -> Bank A	A81 LayerPiano	
+KORG	01/W	COMBI -> Bank A	A82 SweetMutes	
+KORG	01/W	COMBI -> Bank A	A83 HyperAiry	
+KORG	01/W	COMBI -> Bank A	A84 BowWowBass	
+KORG	01/W	COMBI -> Bank A	A85 VeloVoxBel	
+KORG	01/W	COMBI -> Bank A	A86 Policemen	
+KORG	01/W	COMBI -> Bank A	A87 OrchSwitch	
+KORG	01/W	COMBI -> Bank A	A88 Bass&Piano	
+KORG	01/W	COMBI -> Bank A	A89 ArabnNites	
+KORG	01/W	COMBI -> Bank A	A90 Dreaming	
+KORG	01/W	COMBI -> Bank A	A91 Dbl-Manual	
+KORG	01/W	COMBI -> Bank A	A92 OrchReeds	
+KORG	01/W	COMBI -> Bank A	A93 TheSweeper	
+KORG	01/W	COMBI -> Bank A	A94 JustPlayIt	
+KORG	01/W	COMBI -> Bank A	A95 Stakeout	
+KORG	01/W	COMBI -> Bank A	A96 Bavaria	
+KORG	01/W	COMBI -> Bank A	A97 Double Bow	
+KORG	01/W	COMBI -> Bank A	A98 MoonLight	
+KORG	01/W	COMBI -> Bank A	A99 Dagobar	
+KORG	01/W	COMBI -> Bank B	B00 Eternia	
+KORG	01/W	COMBI -> Bank B	B01 Power Comp	
+KORG	01/W	COMBI -> Bank B	B02 Orch&Timp	
+KORG	01/W	COMBI -> Bank B	B03 TheBigIdea	
+KORG	01/W	COMBI -> Bank B	B04 GuitarVibe	
+KORG	01/W	COMBI -> Bank B	B05 Lub Bells	
+KORG	01/W	COMBI -> Bank B	B06 ChorusEGtr	
+KORG	01/W	COMBI -> Bank B	B07 Dynamics	
+KORG	01/W	COMBI -> Bank B	B08 Alto Hits	
+KORG	01/W	COMBI -> Bank B	B09 LayerDrms1	
+KORG	01/W	COMBI -> Bank B	B10 BellMotion	
+KORG	01/W	COMBI -> Bank B	B11 Full Pipes	
+KORG	01/W	COMBI -> Bank B	B12 DarkBrass	
+KORG	01/W	COMBI -> Bank B	B13 Vaporizer	
+KORG	01/W	COMBI -> Bank B	B14 MetalAlloy	
+KORG	01/W	COMBI -> Bank B	B15 TasianWind	
+KORG	01/W	COMBI -> Bank B	B16 Sky Light	
+KORG	01/W	COMBI -> Bank B	B17 Pizz & Bow	
+KORG	01/W	COMBI -> Bank B	B18 R&B Splits	
+KORG	01/W	COMBI -> Bank B	B19 Katmandu	
+KORG	01/W	COMBI -> Bank B	B20 Nebulae	
+KORG	01/W	COMBI -> Bank B	B21 The Tramp	
+KORG	01/W	COMBI -> Bank B	B22 Delicato	
+KORG	01/W	COMBI -> Bank B	B23 GhostVoice	
+KORG	01/W	COMBI -> Bank B	B24 GargleBass	
+KORG	01/W	COMBI -> Bank B	B25 BriteBellz	
+KORG	01/W	COMBI -> Bank B	B26 Last Tango	
+KORG	01/W	COMBI -> Bank B	B27 Deep Choir	
+KORG	01/W	COMBI -> Bank B	B28 Group Sax	
+KORG	01/W	COMBI -> Bank B	B29 BugForest	
+KORG	01/W	COMBI -> Bank B	B30 Maniac	
+KORG	01/W	COMBI -> Bank B	B31 ClickOrgan	
+KORG	01/W	COMBI -> Bank B	B32 BrassSwell	
+KORG	01/W	COMBI -> Bank B	B33 Fat Analog	
+KORG	01/W	COMBI -> Bank B	B34 GoldGuitar	
+KORG	01/W	COMBI -> Bank B	B35 CanyonHarp	
+KORG	01/W	COMBI -> Bank B	B36 Bass&EP 1	
+KORG	01/W	COMBI -> Bank B	B37 Amadeus	
+KORG	01/W	COMBI -> Bank B	B38 Bass&Vibes	
+KORG	01/W	COMBI -> Bank B	B39 MetalMania	
+KORG	01/W	COMBI -> Bank B	B40 LightBeams	
+KORG	01/W	COMBI -> Bank B	B41 Pop Clav	
+KORG	01/W	COMBI -> Bank B	B42 RegalBrass	
+KORG	01/W	COMBI -> Bank B	B43 Slider Pad	
+KORG	01/W	COMBI -> Bank B	B44 WalkinBass	
+KORG	01/W	COMBI -> Bank B	B45 SecretGong	
+KORG	01/W	COMBI -> Bank B	B46 Lead & Pad	
+KORG	01/W	COMBI -> Bank B	B47 Overture	
+KORG	01/W	COMBI -> Bank B	B48 Fusionette	
+KORG	01/W	COMBI -> Bank B	B49 LayerDrms2	
+KORG	01/W	COMBI -> Bank B	B50 DreamCycle	
+KORG	01/W	COMBI -> Bank B	B51 PositivAir	
+KORG	01/W	COMBI -> Bank B	B52 Woodwinds	
+KORG	01/W	COMBI -> Bank B	B53 Neutrons	
+KORG	01/W	COMBI -> Bank B	B54 JazzGuitar	
+KORG	01/W	COMBI -> Bank B	B55 InTheBush	
+KORG	01/W	COMBI -> Bank B	B56 RockShow!!	
+KORG	01/W	COMBI -> Bank B	B57 SilkString	
+KORG	01/W	COMBI -> Bank B	B58 Big Brass	
+KORG	01/W	COMBI -> Bank B	B59 Ethno Geo	
+KORG	01/W	COMBI -> Bank B	B60 Sea Horses	
+KORG	01/W	COMBI -> Bank B	B61 PianoFloyd	
+KORG	01/W	COMBI -> Bank B	B62 Fox Hunt	
+KORG	01/W	COMBI -> Bank B	B63 Apocalypse	
+KORG	01/W	COMBI -> Bank B	B64 Rezzzz Man	
+KORG	01/W	COMBI -> Bank B	B65 Star*Pad	
+KORG	01/W	COMBI -> Bank B	B66 Flute&Pick	
+KORG	01/W	COMBI -> Bank B	B67 Acappella	
+KORG	01/W	COMBI -> Bank B	B68 CountyLine	
+KORG	01/W	COMBI -> Bank B	B69 IslandDrum	
+KORG	01/W	COMBI -> Bank B	B70 Multi "Fx"	
+KORG	01/W	COMBI -> Bank B	B71 Mixture	
+KORG	01/W	COMBI -> Bank B	B72 Royal Pad	
+KORG	01/W	COMBI -> Bank B	B73 SoftAnalog	
+KORG	01/W	COMBI -> Bank B	B74 Hybrid Gtr	
+KORG	01/W	COMBI -> Bank B	B75 TheRedSun	
+KORG	01/W	COMBI -> Bank B	B76 ReturnLead	
+KORG	01/W	COMBI -> Bank B	B77 Gtr&String	
+KORG	01/W	COMBI -> Bank B	B78 Gig Brass	
+KORG	01/W	COMBI -> Bank B	B79 Mad Bomber	
+KORG	01/W	COMBI -> Bank B	B80 Vectors	
+KORG	01/W	COMBI -> Bank B	B81 DynoPiano	
+KORG	01/W	COMBI -> Bank B	B82 Trumpets	
+KORG	01/W	COMBI -> Bank B	B83 AiryWaves	
+KORG	01/W	COMBI -> Bank B	B84 Synth Bass	
+KORG	01/W	COMBI -> Bank B	B85 VoxWhistle	
+KORG	01/W	COMBI -> Bank B	B86 CountryJam	
+KORG	01/W	COMBI -> Bank B	B87 Concerto	
+KORG	01/W	COMBI -> Bank B	B88 Bass&EP 2	
+KORG	01/W	COMBI -> Bank B	B89 Suspiria	
+KORG	01/W	COMBI -> Bank B	B90 Awakening	
+KORG	01/W	COMBI -> Bank B	B91 Tremolo	
+KORG	01/W	COMBI -> Bank B	B92 Embouchure	
+KORG	01/W	COMBI -> Bank B	B93 Wondering	
+KORG	01/W	COMBI -> Bank B	B94 Kotograph	
+KORG	01/W	COMBI -> Bank B	B95 Solitare	
+KORG	01/W	COMBI -> Bank B	B96 HappyPolka	
+KORG	01/W	COMBI -> Bank B	B97 BigStrings	
+KORG	01/W	COMBI -> Bank B	B98 Miles Away	
+KORG	01/W	COMBI -> Bank B	B99 HorrorShow	
+KORG	01/W	PROG -> Bank A	A00 Ephemerals	
+KORG	01/W	PROG -> Bank A	A01 16' Piano	
+KORG	01/W	PROG -> Bank A	A02 Orchbrass	
+KORG	01/W	PROG -> Bank A	A03 Woodwind	
+KORG	01/W	PROG -> Bank A	A04 RosewoodGt	
+KORG	01/W	PROG -> Bank A	A05 VS Bells 1	
+KORG	01/W	PROG -> Bank A	A06 XFade Bass	
+KORG	01/W	PROG -> Bank A	A07 TheStrings	
+KORG	01/W	PROG -> Bank A	A08 Residrops	
+KORG	01/W	PROG -> Bank A	A09 Total Kit	
+KORG	01/W	PROG -> Bank A	A10 GhostRyder	
+KORG	01/W	PROG -> Bank A	A11 DigiPiano1	
+KORG	01/W	PROG -> Bank A	A12 OrchTrpts	
+KORG	01/W	PROG -> Bank A	A13 Alto Sax	
+KORG	01/W	PROG -> Bank A	A14 Alan's Run	
+KORG	01/W	PROG -> Bank A	A15 Marimba	
+KORG	01/W	PROG -> Bank A	A16 B.Bass	
+KORG	01/W	PROG -> Bank A	A17 ChamberEns	
+KORG	01/W	PROG -> Bank A	A18 Tidal Wave	
+KORG	01/W	PROG -> Bank A	A19 Jet Stream	
+KORG	01/W	PROG -> Bank A	A20 OxygenMask	
+KORG	01/W	PROG -> Bank A	A21 Perc.Org 1	
+KORG	01/W	PROG -> Bank A	A22 Brass Band	
+KORG	01/W	PROG -> Bank A	A23 Bottles	
+KORG	01/W	PROG -> Bank A	A24 ZingString	
+KORG	01/W	PROG -> Bank A	A25 SolarBells	
+KORG	01/W	PROG -> Bank A	A26 RezzzzBass	
+KORG	01/W	PROG -> Bank A	A27 Analog Pad	
+KORG	01/W	PROG -> Bank A	A28 SynPiano	
+KORG	01/W	PROG -> Bank A	A29 Dance Kit	
+KORG	01/W	PROG -> Bank A	A30 Fresh Air	
+KORG	01/W	PROG -> Bank A	A31 DoubleStop	
+KORG	01/W	PROG -> Bank A	A32 FrHrn&Tuba	
+KORG	01/W	PROG -> Bank A	A33 Sweet Oboe	
+KORG	01/W	PROG -> Bank A	A34 Harmonics1	
+KORG	01/W	PROG -> Bank A	A35 SteelDrums	
+KORG	01/W	PROG -> Bank A	A36 Pick Bass	
+KORG	01/W	PROG -> Bank A	A37 Choir L+R	
+KORG	01/W	PROG -> Bank A	A38 Raw Deal	
+KORG	01/W	PROG -> Bank A	A39 Mr. Gong	
+KORG	01/W	PROG -> Bank A	A40 FreeFlight	
+KORG	01/W	PROG -> Bank A	A41 Hard Tines	
+KORG	01/W	PROG -> Bank A	A42 Fat Synth	
+KORG	01/W	PROG -> Bank A	A43 Harmonica	
+KORG	01/W	PROG -> Bank A	A44 Strategy	
+KORG	01/W	PROG -> Bank A	A45 Borealis	
+KORG	01/W	PROG -> Bank A	A46 SlapBass 1	
+KORG	01/W	PROG -> Bank A	A47 Bass&Cello	
+KORG	01/W	PROG -> Bank A	A48 AnalogPerc	
+KORG	01/W	PROG -> Bank A	A49 FreezeDrum	
+KORG	01/W	PROG -> Bank A	A50 DesertDawn	
+KORG	01/W	PROG -> Bank A	A51 PadPiano 1	
+KORG	01/W	PROG -> Bank A	A52 Trombone 1	
+KORG	01/W	PROG -> Bank A	A53 Tenor Sax	
+KORG	01/W	PROG -> Bank A	A54 Blue Moon	
+KORG	01/W	PROG -> Bank A	A55 XpressBell	
+KORG	01/W	PROG -> Bank A	A56 TKO Bass	
+KORG	01/W	PROG -> Bank A	A57 Harp	
+KORG	01/W	PROG -> Bank A	A58 Soft Pad	
+KORG	01/W	PROG -> Bank A	A59 Orch Hit	
+KORG	01/W	PROG -> Bank A	A60 Syn Choir	
+KORG	01/W	PROG -> Bank A	A61 Clav	
+KORG	01/W	PROG -> Bank A	A62 Mute Ens.	
+KORG	01/W	PROG -> Bank A	A63 Tin Flute	
+KORG	01/W	PROG -> Bank A	A64 JStick Wah	
+KORG	01/W	PROG -> Bank A	A65 DigiBell	
+KORG	01/W	PROG -> Bank A	A66 OctaveBass	
+KORG	01/W	PROG -> Bank A	A67 Voices	
+KORG	01/W	PROG -> Bank A	A68 RezzzzzPad	
+KORG	01/W	PROG -> Bank A	A69 VeloGated	
+KORG	01/W	PROG -> Bank A	A70 Aliabase	
+KORG	01/W	PROG -> Bank A	A71 Spit Organ	
+KORG	01/W	PROG -> Bank A	A72 FanFare	
+KORG	01/W	PROG -> Bank A	A73 Clarinet	
+KORG	01/W	PROG -> Bank A	A74 PedalSteel	
+KORG	01/W	PROG -> Bank A	A75 Log Drums	
+KORG	01/W	PROG -> Bank A	A76 Seq. Bass	
+KORG	01/W	PROG -> Bank A	A77 ArcoAttack	
+KORG	01/W	PROG -> Bank A	A78 Expecting	
+KORG	01/W	PROG -> Bank A	A79 Crickets	
+KORG	01/W	PROG -> Bank A	A80 Shimmering	
+KORG	01/W	PROG -> Bank A	A81 Whirly	
+KORG	01/W	PROG -> Bank A	A82 Muted Trpt	
+KORG	01/W	PROG -> Bank A	A83 Flute	
+KORG	01/W	PROG -> Bank A	A84 Clean Gtr	
+KORG	01/W	PROG -> Bank A	A85 Bell Rise	
+KORG	01/W	PROG -> Bank A	A86 Deep Bass	
+KORG	01/W	PROG -> Bank A	A87 Air Vox	
+KORG	01/W	PROG -> Bank A	A88 NuclearSun	
+KORG	01/W	PROG -> Bank A	A89 50's SciFi	
+KORG	01/W	PROG -> Bank A	A90 UnderWater	
+KORG	01/W	PROG -> Bank A	A91 Full Pipes	
+KORG	01/W	PROG -> Bank A	A92 JSDogfight	
+KORG	01/W	PROG -> Bank A	A93 PerkySaxes	
+KORG	01/W	PROG -> Bank A	A94 Sitar	
+KORG	01/W	PROG -> Bank A	A95 Metal Bell	
+KORG	01/W	PROG -> Bank A	A96 BowBowBass	
+KORG	01/W	PROG -> Bank A	A97 SadStrings	
+KORG	01/W	PROG -> Bank A	A98 MonoLead 1	
+KORG	01/W	PROG -> Bank A	A99 Flutter	
+KORG	01/W	PROG -> Bank B	B00 DreamWeave	
+KORG	01/W	PROG -> Bank B	B01 8' Piano	
+KORG	01/W	PROG -> Bank B	B02 Velo.Horns	
+KORG	01/W	PROG -> Bank B	B03 SweetReeds	
+KORG	01/W	PROG -> Bank B	B04 ClassicGtr	
+KORG	01/W	PROG -> Bank B	B05 VS Bells 2	
+KORG	01/W	PROG -> Bank B	B06 A.Bass 1	
+KORG	01/W	PROG -> Bank B	B07 YourString	
+KORG	01/W	PROG -> Bank B	B08 Bellevue	
+KORG	01/W	PROG -> Bank B	B09 MrProducer	
+KORG	01/W	PROG -> Bank B	B10 Pitzpan	
+KORG	01/W	PROG -> Bank B	B11 DigiPiano2	
+KORG	01/W	PROG -> Bank B	B12 Trumpet	
+KORG	01/W	PROG -> Bank B	B13 SopranoSax	
+KORG	01/W	PROG -> Bank B	B14 FeedBacker	
+KORG	01/W	PROG -> Bank B	B15 Kalimba	
+KORG	01/W	PROG -> Bank B	B16 E.Bass 3	
+KORG	01/W	PROG -> Bank B	B17 Rosin Bros	
+KORG	01/W	PROG -> Bank B	B18 Tona Pad	
+KORG	01/W	PROG -> Bank B	B19 Stadium!!!	
+KORG	01/W	PROG -> Bank B	B20 Lub Pad	
+KORG	01/W	PROG -> Bank B	B21 CX-3	
+KORG	01/W	PROG -> Bank B	B22 Brass 1	
+KORG	01/W	PROG -> Bank B	B23 Pan Flute	
+KORG	01/W	PROG -> Bank B	B24 A.Guitar	
+KORG	01/W	PROG -> Bank B	B25 EtherBells	
+KORG	01/W	PROG -> Bank B	B26 Resi Bass	
+KORG	01/W	PROG -> Bank B	B27 String Pad	
+KORG	01/W	PROG -> Bank B	B28 Tap Dance	
+KORG	01/W	PROG -> Bank B	B29 Percussion	
+KORG	01/W	PROG -> Bank B	B30 Sanctuary	
+KORG	01/W	PROG -> Bank B	B31 DWGS EP	
+KORG	01/W	PROG -> Bank B	B32 FrenchBoys	
+KORG	01/W	PROG -> Bank B	B33 BasoonOboe	
+KORG	01/W	PROG -> Bank B	B34 Harmonics2	
+KORG	01/W	PROG -> Bank B	B35 Gamelan	
+KORG	01/W	PROG -> Bank B	B36 Syn Pick	
+KORG	01/W	PROG -> Bank B	B37 Choir	
+KORG	01/W	PROG -> Bank B	B38 Shapedet	
+KORG	01/W	PROG -> Bank B	B39 Timpani	
+KORG	01/W	PROG -> Bank B	B40 BellShower	
+KORG	01/W	PROG -> Bank B	B41 Old  EP	
+KORG	01/W	PROG -> Bank B	B42 LeadStab 1	
+KORG	01/W	PROG -> Bank B	B43 Musette	
+KORG	01/W	PROG -> Bank B	B44 MuteGuitar	
+KORG	01/W	PROG -> Bank B	B45 Baby'sGone	
+KORG	01/W	PROG -> Bank B	B46 SlapBass 2	
+KORG	01/W	PROG -> Bank B	B47 Stradivari	
+KORG	01/W	PROG -> Bank B	B48 Quitar	
+KORG	01/W	PROG -> Bank B	B49 Velo Perc	
+KORG	01/W	PROG -> Bank B	B50 Hyperborea	
+KORG	01/W	PROG -> Bank B	B51 Super Tine	
+KORG	01/W	PROG -> Bank B	B52 Trombone 2	
+KORG	01/W	PROG -> Bank B	B53 Bari.Sax	
+KORG	01/W	PROG -> Bank B	B54 Hackbrett	
+KORG	01/W	PROG -> Bank B	B55 SplitBells	
+KORG	01/W	PROG -> Bank B	B56 Tech Bass	
+KORG	01/W	PROG -> Bank B	B57 Pizzicato	
+KORG	01/W	PROG -> Bank B	B58 Pulse Pad	
+KORG	01/W	PROG -> Bank B	B59 Drum Hit	
+KORG	01/W	PROG -> Bank B	B60 AirFlight	
+KORG	01/W	PROG -> Bank B	B61 Gospel Org	
+KORG	01/W	PROG -> Bank B	B62 Brass 2	
+KORG	01/W	PROG -> Bank B	B63 Arabesque	
+KORG	01/W	PROG -> Bank B	B64 JazzGuitar	
+KORG	01/W	PROG -> Bank B	B65 Vibraphone	
+KORG	01/W	PROG -> Bank B	B66 Fretless	
+KORG	01/W	PROG -> Bank B	B67 Heavenly	
+KORG	01/W	PROG -> Bank B	B68 WS Analog	
+KORG	01/W	PROG -> Bank B	B69 Orch Perc	
+KORG	01/W	PROG -> Bank B	B70 Gasmore	
+KORG	01/W	PROG -> Bank B	B71 PercOrg 2	
+KORG	01/W	PROG -> Bank B	B72 Soft Horns	
+KORG	01/W	PROG -> Bank B	B73 Bassoon	
+KORG	01/W	PROG -> Bank B	B74 Mr. Banjoe	
+KORG	01/W	PROG -> Bank B	B75 Music Box	
+KORG	01/W	PROG -> Bank B	B76 Cool Bass	
+KORG	01/W	PROG -> Bank B	B77 Marcato	
+KORG	01/W	PROG -> Bank B	B78 MlwSquares	
+KORG	01/W	PROG -> Bank B	B79 Shellphone	
+KORG	01/W	PROG -> Bank B	B80 Ghost Pad	
+KORG	01/W	PROG -> Bank B	B81 Digi Years	
+KORG	01/W	PROG -> Bank B	B82 Muted Bone	
+KORG	01/W	PROG -> Bank B	B83 EnglishHrn	
+KORG	01/W	PROG -> Bank B	B84 Mr. Clean	
+KORG	01/W	PROG -> Bank B	B85 Bell Tree	
+KORG	01/W	PROG -> Bank B	B86 A.Bass 2	
+KORG	01/W	PROG -> Bank B	B87 Vox Voice	
+KORG	01/W	PROG -> Bank B	B88 Vox Dude !	
+KORG	01/W	PROG -> Bank B	B89 AlienVisit	
+KORG	01/W	PROG -> Bank B	B90 Spectrum	
+KORG	01/W	PROG -> Bank B	B91 Positive	
+KORG	01/W	PROG -> Bank B	B92 SFZ Brass	
+KORG	01/W	PROG -> Bank B	B93 Scotland	
+KORG	01/W	PROG -> Bank B	B94 Koto	
+KORG	01/W	PROG -> Bank B	B95 Tubular	
+KORG	01/W	PROG -> Bank B	B96 Stab Bass	
+KORG	01/W	PROG -> Bank B	B97 Too Bad...	
+KORG	01/W	PROG -> Bank B	B98 MonoLead 2	
+KORG	01/W	PROG -> Bank B	B99 Steam	
+KORG	01/W	Multisound	000 A.Piano	
+KORG	01/W	Multisound	001 E.Piano 1	
+KORG	01/W	Multisound	002 E.Piano1LP	
+KORG	01/W	Multisound	003 E.Piano 2	
+KORG	01/W	Multisound	004 E.Piano2LP	
+KORG	01/W	Multisound	005 Hard EP	
+KORG	01/W	Multisound	006 Hard EP LP	
+KORG	01/W	Multisound	007 Soft EP	
+KORG	01/W	Multisound	008 Soft EP LP	
+KORG	01/W	Multisound	009 PianoPad 1	
+KORG	01/W	Multisound	010 P.Pad 1 LP	
+KORG	01/W	Multisound	011 PianoPad 2	
+KORG	01/W	Multisound	012 P.Pad 2 LP	
+KORG	01/W	Multisound	013 Clav	
+KORG	01/W	Multisound	014 Clav LP	
+KORG	01/W	Multisound	015 Harpsicord	
+KORG	01/W	Multisound	016 HarpsicdLP	
+KORG	01/W	Multisound	017 PercOrgan1	
+KORG	01/W	Multisound	018 PercOrg1LP	
+KORG	01/W	Multisound	019 PercOrgan2	
+KORG	01/W	Multisound	020 PercOrg2LP	
+KORG	01/W	Multisound	021 Organ 1	
+KORG	01/W	Multisound	022 Organ 1 LP	
+KORG	01/W	Multisound	023 Organ 2	
+KORG	01/W	Multisound	024 Organ 2 LP	
+KORG	01/W	Multisound	025 Organ 3	
+KORG	01/W	Multisound	026 Organ 3 LP	
+KORG	01/W	Multisound	027 Rotary	
+KORG	01/W	Multisound	028 PipeOrgan1	
+KORG	01/W	Multisound	029 PipeOrg1LP	
+KORG	01/W	Multisound	030 PipeOrgan2	
+KORG	01/W	Multisound	031 Accordion	
+KORG	01/W	Multisound	032 AcordionLP	
+KORG	01/W	Multisound	033 G.Guitar	
+KORG	01/W	Multisound	034 G.GuitarLP	
+KORG	01/W	Multisound	035 F.Guitar	
+KORG	01/W	Multisound	036 F.GuitarLP	
+KORG	01/W	Multisound	037 A.Gtr Harm	
+KORG	01/W	Multisound	038 Hard Pick	
+KORG	01/W	Multisound	039 E.Guitar	
+KORG	01/W	Multisound	040 MuteGuitar	
+KORG	01/W	Multisound	041 Gtr Harm 1	
+KORG	01/W	Multisound	042 Gtr Harm 2	
+KORG	01/W	Multisound	043 DistGuitar	
+KORG	01/W	Multisound	044 Dist GtrLP	
+KORG	01/W	Multisound	045 Banjo	
+KORG	01/W	Multisound	046 Harp	
+KORG	01/W	Multisound	047 A.Bass 1	
+KORG	01/W	Multisound	048 A.Bass 2	
+KORG	01/W	Multisound	049 A.Bass2 LP	
+KORG	01/W	Multisound	050 A.Bass 3	
+KORG	01/W	Multisound	051 A.Bass3 LP	
+KORG	01/W	Multisound	052 Fretless	
+KORG	01/W	Multisound	053 FretlessLP	
+KORG	01/W	Multisound	054 E.Bass 1	
+KORG	01/W	Multisound	055 E.Bass 2	
+KORG	01/W	Multisound	056 E.Bass 3	
+KORG	01/W	Multisound	057 E.Bass3 LP	
+KORG	01/W	Multisound	058 Slap Bass1	
+KORG	01/W	Multisound	059 SlpBass1LP	
+KORG	01/W	Multisound	060 Slap Bass2	
+KORG	01/W	Multisound	061 SynthBass1	
+KORG	01/W	Multisound	062 SynthBass2	
+KORG	01/W	Multisound	063 Tech Bass	
+KORG	01/W	Multisound	064 TechBassLP	
+KORG	01/W	Multisound	065 Kalimba	
+KORG	01/W	Multisound	066 Music Box	
+KORG	01/W	Multisound	067 Wood Box	
+KORG	01/W	Multisound	068 Log Drum	
+KORG	01/W	Multisound	069 Marimba	
+KORG	01/W	Multisound	070 Vibe	
+KORG	01/W	Multisound	071 Digi.Bell	
+KORG	01/W	Multisound	072 BrightBell	
+KORG	01/W	Multisound	073 B.Bell LP	
+KORG	01/W	Multisound	074 Metal Bell	
+KORG	01/W	Multisound	075 M.Bell LP	
+KORG	01/W	Multisound	076 Tiny Bell	
+KORG	01/W	Multisound	077 Gamelan	
+KORG	01/W	Multisound	078 Pole	
+KORG	01/W	Multisound	079 Pole LP	
+KORG	01/W	Multisound	080 Tubular	
+KORG	01/W	Multisound	081 Gong 1	
+KORG	01/W	Multisound	082 Gong 1 LP	
+KORG	01/W	Multisound	083 Gong 2	
+KORG	01/W	Multisound	084 Gong 2 LP	
+KORG	01/W	Multisound	085 Split Bell	
+KORG	01/W	Multisound	086 Tuned Bell	
+KORG	01/W	Multisound	087 Harmonica	
+KORG	01/W	Multisound	088 HardFlute1	
+KORG	01/W	Multisound	089 HardFlute2	
+KORG	01/W	Multisound	090 Tin Flute	
+KORG	01/W	Multisound	091 TinFluteLP	
+KORG	01/W	Multisound	092 Pan Flute	
+KORG	01/W	Multisound	093 PanFluteLP	
+KORG	01/W	Multisound	094 Bottle	
+KORG	01/W	Multisound	095 Bassoon	
+KORG	01/W	Multisound	096 Oboe	
+KORG	01/W	Multisound	097 EnglishHrn	
+KORG	01/W	Multisound	098 Eng.HornLP	
+KORG	01/W	Multisound	099 BassonOboe	
+KORG	01/W	Multisound	100 BsonOboeLP	
+KORG	01/W	Multisound	101 Clarinet	
+KORG	01/W	Multisound	102 ClarinetLP	
+KORG	01/W	Multisound	103 Bari.Sax	
+KORG	01/W	Multisound	104 Bari.SaxLP	
+KORG	01/W	Multisound	105 Tenor Sax	
+KORG	01/W	Multisound	106 T.Sax LP	
+KORG	01/W	Multisound	107 Alto Sax	
+KORG	01/W	Multisound	108 A.Sax LP	
+KORG	01/W	Multisound	109 SopranoSax	
+KORG	01/W	Multisound	110 S.Sax LP	
+KORG	01/W	Multisound	111 Tuba/FrH	
+KORG	01/W	Multisound	112 Tuba/FrHLP	
+KORG	01/W	Multisound	113 Trombone 1	
+KORG	01/W	Multisound	114 Trombone 2	
+KORG	01/W	Multisound	115 Mute Tromb	
+KORG	01/W	Multisound	116 Trumpet	
+KORG	01/W	Multisound	117 Trumpet LP	
+KORG	01/W	Multisound	118 Mute TP	
+KORG	01/W	Multisound	119 Mute TP LP	
+KORG	01/W	Multisound	120 BrightHorn	
+KORG	01/W	Multisound	121 Brass 1	
+KORG	01/W	Multisound	122 Brass 2	
+KORG	01/W	Multisound	123 StringEns.	
+KORG	01/W	Multisound	124 StrEns.LP1	
+KORG	01/W	Multisound	125 StrEns.LP2	
+KORG	01/W	Multisound	126 StrEns.LP3	
+KORG	01/W	Multisound	127 AnaStrings	
+KORG	01/W	Multisound	128 Analog	
+KORG	01/W	Multisound	129 PWM	
+KORG	01/W	Multisound	130 Violin	
+KORG	01/W	Multisound	131 Cello	
+KORG	01/W	Multisound	132 Pizzicato	
+KORG	01/W	Multisound	133 Voice	
+KORG	01/W	Multisound	134 Choir	
+KORG	01/W	Multisound	135 Soft Choir	
+KORG	01/W	Multisound	136 Ahhs	
+KORG	01/W	Multisound	137 Air Vox	
+KORG	01/W	Multisound	138 Chorello	
+KORG	01/W	Multisound	139 Yo Vox	
+KORG	01/W	Multisound	140 Syn Vox	
+KORG	01/W	Multisound	141 Syn Vox LP	
+KORG	01/W	Multisound	142 Lub Wave	
+KORG	01/W	Multisound	143 Ether Bell	
+KORG	01/W	Multisound	144 Ghostly	
+KORG	01/W	Multisound	145 Alia Bass	
+KORG	01/W	Multisound	146 Sync.Wave	
+KORG	01/W	Multisound	147 Spectrum 1	
+KORG	01/W	Multisound	148 Spectrum 2	
+KORG	01/W	Multisound	149 Spectrum 3	
+KORG	01/W	Multisound	150 Stadium	
+KORG	01/W	Multisound	151 Stadium NT	
+KORG	01/W	Multisound	152 Thing	
+KORG	01/W	Multisound	153 Thing NT	
+KORG	01/W	Multisound	154 Belltree	
+KORG	01/W	Multisound	155 BelltreeNT	
+KORG	01/W	Multisound	156 Wind Bell	
+KORG	01/W	Multisound	157 WindBellNT	
+KORG	01/W	Multisound	158 Tri Roll	
+KORG	01/W	Multisound	159 TriRoll NT	
+KORG	01/W	Multisound	160 Clicker	
+KORG	01/W	Multisound	161 Lore	
+KORG	01/W	Multisound	162 Lore NT	
+KORG	01/W	Multisound	163 Crickets 1	
+KORG	01/W	Multisound	164 Crickts1NT	
+KORG	01/W	Multisound	165 Crickets 2	
+KORG	01/W	Multisound	166 Crickts2NT	
+KORG	01/W	Multisound	167 MagicBell	
+KORG	01/W	Multisound	168 Tron Up	
+KORG	01/W	Multisound	169 TronUP LP	
+KORG	01/W	Multisound	170 TronUP NT	
+KORG	01/W	Multisound	171 Tooter	
+KORG	01/W	Multisound	172 Tooter LP	
+KORG	01/W	Multisound	173 Flute FX	
+KORG	01/W	Multisound	174 FluteFX LP	
+KORG	01/W	Multisound	175 Flutter	
+KORG	01/W	Multisound	176 Flutter LP	
+KORG	01/W	Multisound	177 Tap 1	
+KORG	01/W	Multisound	178 Tap 2	
+KORG	01/W	Multisound	179 Tap 3	
+KORG	01/W	Multisound	180 Tap 4	
+KORG	01/W	Multisound	181 Tap 5	
+KORG	01/W	Multisound	182 Tap 6	
+KORG	01/W	Multisound	183 Orch Hit	
+KORG	01/W	Multisound	184 Snare Cast	
+KORG	01/W	Multisound	185 Syn Snare	
+KORG	01/W	Multisound	186 Rev Snare	
+KORG	01/W	Multisound	187 Fist	
+KORG	01/W	Multisound	188 CrshCymbal	
+KORG	01/W	Multisound	189 Orch Crash	
+KORG	01/W	Multisound	190 OrchCrshLP	
+KORG	01/W	Multisound	191 OrchCrshNT	
+KORG	01/W	Multisound	192 Orch Perc	
+KORG	01/W	Multisound	193 Hi Hat	
+KORG	01/W	Multisound	194 Hi Hat NT	
+KORG	01/W	Multisound	195 Bell Ride	
+KORG	01/W	Multisound	196 Ping Ride	
+KORG	01/W	Multisound	197 ProccesTom	
+KORG	01/W	Multisound	198 Timpani	
+KORG	01/W	Multisound	199 Timpani LP	
+KORG	01/W	Multisound	200 Cabasa	
+KORG	01/W	Multisound	201 Cabasa NT	
+KORG	01/W	Multisound	202 Agogo	
+KORG	01/W	Multisound	203 Cowbell	
+KORG	01/W	Multisound	204 Low Bongo	
+KORG	01/W	Multisound	205 Claves	
+KORG	01/W	Multisound	206 Timbales	
+KORG	01/W	Multisound	207 WoodBlock1	
+KORG	01/W	Multisound	208 WoodBlock2	
+KORG	01/W	Multisound	209 Vibe Hit	
+KORG	01/W	Multisound	210 Syn Claves	
+KORG	01/W	Multisound	211 Syn Tom 1	
+KORG	01/W	Multisound	212 Syn Tom 2	
+KORG	01/W	Multisound	213 Zap 1	
+KORG	01/W	Multisound	214 Zap 2	
+KORG	01/W	Multisound	215 Industry 1	
+KORG	01/W	Multisound	216 Industr1NT	
+KORG	01/W	Multisound	217 Industry 2	
+KORG	01/W	Multisound	218 Industr2NT	
+KORG	01/W	Multisound	219 Rev Thing	
+KORG	01/W	Multisound	220 Digital 1	
+KORG	01/W	Multisound	221 Digital 2	
+KORG	01/W	Multisound	222 Mini 1a	
+KORG	01/W	Multisound	223 VS 102	
+KORG	01/W	Multisound	224 VS 38	
+KORG	01/W	Multisound	225 VS 39	
+KORG	01/W	Multisound	226 VS 48	
+KORG	01/W	Multisound	227 VS 52	
+KORG	01/W	Multisound	228 VS 57	
+KORG	01/W	Multisound	229 VS 58	
+KORG	01/W	Multisound	230 VS 71	
+KORG	01/W	Multisound	231 VS 72	
+KORG	01/W	Multisound	232 VS 88	
+KORG	01/W	Multisound	233 VS 89	
+KORG	01/W	Multisound	234 13-35	
+KORG	01/W	Multisound	235 DWGS Clav	
+KORG	01/W	Multisound	236 DWGSOrgan1	
+KORG	01/W	Multisound	237 DWGSOrgan2	
+KORG	01/W	Multisound	238 DWGS E.P.1	
+KORG	01/W	Multisound	239 DWGS E.P.2	
+KORG	01/W	Multisound	240 Saw	
+KORG	01/W	Multisound	241 Ramp	
+KORG	01/W	Multisound	242 Square	
+KORG	01/W	Multisound	243 Pulse 25%	
+KORG	01/W	Multisound	244 Pulse 16%	
+KORG	01/W	Multisound	245 Pulse 8%	
+KORG	01/W	Multisound	246 Pulse 4%	
+KORG	01/W	Multisound	247 Syn Sine 1	
+KORG	01/W	Multisound	248 Syn Sine 2	
+KORG	01/W	Multisound	249 Syn Sine 3	
+KORG	01/W	Multisound	250 Syn Sine 4	
+KORG	01/W	Multisound	251 Syn Sine 5	
+KORG	01/W	Multisound	252 Syn Sine 6	
+KORG	01/W	Multisound	253 Syn Sine 7	
+KORG	01/W	Multisound	254 Sine	
+KORG	01/W	Drumsound	000 Fat Kick	
+KORG	01/W	Drumsound	001 Rock Kick	
+KORG	01/W	Drumsound	002 Ambi.Kick	
+KORG	01/W	Drumsound	003 Crisp Kick	
+KORG	01/W	Drumsound	004 Punch Kick	
+KORG	01/W	Drumsound	005 Real Kick	
+KORG	01/W	Drumsound	006 Dance Kick	
+KORG	01/W	Drumsound	007 Gated Kick	
+KORG	01/W	Drumsound	008 ProcesKick	
+KORG	01/W	Drumsound	009 Metal Kick	
+KORG	01/W	Drumsound	010 Syn Kick 1	
+KORG	01/W	Drumsound	011 Syn Kick 2	
+KORG	01/W	Drumsound	012 Snare 1	
+KORG	01/W	Drumsound	013 Snare 2	
+KORG	01/W	Drumsound	014 PicloSnare	
+KORG	01/W	Drumsound	015 Soft Snare	
+KORG	01/W	Drumsound	016 TightSnare	
+KORG	01/W	Drumsound	017 Ambi.Snare	
+KORG	01/W	Drumsound	018 Rev Snare	
+KORG	01/W	Drumsound	019 RollSnare1	
+KORG	01/W	Drumsound	020 RollSnare2	
+KORG	01/W	Drumsound	021 Rock Snare	
+KORG	01/W	Drumsound	022 GatedSnare	
+KORG	01/W	Drumsound	023 HouseSnare	
+KORG	01/W	Drumsound	024 Syn Snare1	
+KORG	01/W	Drumsound	025 Syn Snare2	
+KORG	01/W	Drumsound	026 Fist	
+KORG	01/W	Drumsound	027 Side Stick	
+KORG	01/W	Drumsound	028 Syn Rim	
+KORG	01/W	Drumsound	029 CrshCymbal	
+KORG	01/W	Drumsound	030 Tite HH	
+KORG	01/W	Drumsound	031 Close HH	
+KORG	01/W	Drumsound	032 Open HH	
+KORG	01/W	Drumsound	033 Pedal HH	
+KORG	01/W	Drumsound	034 CloseSynHH	
+KORG	01/W	Drumsound	035 Open SynHH	
+KORG	01/W	Drumsound	036 Ride Edge	
+KORG	01/W	Drumsound	037 Ride Cup	
+KORG	01/W	Drumsound	038 Tom	
+KORG	01/W	Drumsound	039 ProcessTom	
+KORG	01/W	Drumsound	040 Syn Tom 1	
+KORG	01/W	Drumsound	041 Syn Tom 2	
+KORG	01/W	Drumsound	042 Agogo	
+KORG	01/W	Drumsound	043 Lo Bongo	
+KORG	01/W	Drumsound	044 Hi Bongo	
+KORG	01/W	Drumsound	045 Slap Bongo	
+KORG	01/W	Drumsound	046 Claves	
+KORG	01/W	Drumsound	047 Syn Claves	
+KORG	01/W	Drumsound	048 Open Conga	
+KORG	01/W	Drumsound	049 Slap Conga	
+KORG	01/W	Drumsound	050 Palm Conga	
+KORG	01/W	Drumsound	051 Mute Conga	
+KORG	01/W	Drumsound	052 Maracas	
+KORG	01/W	Drumsound	053 L-Shaker	
+KORG	01/W	Drumsound	054 S-Shaker	
+KORG	01/W	Drumsound	055 Cabasa	
+KORG	01/W	Drumsound	056 MuteTriang	
+KORG	01/W	Drumsound	057 OpenTriang	
+KORG	01/W	Drumsound	058 Tambourine	
+KORG	01/W	Drumsound	059 Cowbell	
+KORG	01/W	Drumsound	060 R-Timbal	
+KORG	01/W	Drumsound	061 Hi Timbal	
+KORG	01/W	Drumsound	062 Lo Timbal	
+KORG	01/W	Drumsound	063 WoodBlockH	
+KORG	01/W	Drumsound	064 WoodBlockM	
+KORG	01/W	Drumsound	065 WoodBlockL	
+KORG	01/W	Drumsound	066 Hand Claps	
+KORG	01/W	Drumsound	067 Zap 1	
+KORG	01/W	Drumsound	068 Zap 2	
+KORG	01/W	Drumsound	069 Stick Hit	
+KORG	01/W	Drumsound	070 Scratch Hi	
+KORG	01/W	Drumsound	071 Scratch Lo	
+KORG	01/W	Drumsound	072 ScratchDbl	
+KORG	01/W	Drumsound	073 Castanet	
+KORG	01/W	Drumsound	074 FingerSnap	
+KORG	01/W	Drumsound	075 Industry	
+KORG	01/W	Drumsound	076 Rev Thing	
+KORG	01/W	Drumsound	077 Kalimba	
+KORG	01/W	Drumsound	078 Marimba 1	
+KORG	01/W	Drumsound	079 Marimba 2	
+KORG	01/W	Drumsound	080 Marimba 3	
+KORG	01/W	Drumsound	081 Log Drum 1	
+KORG	01/W	Drumsound	082 Log Drum 2	
+KORG	01/W	Drumsound	083 Digi.Bell	
+KORG	01/W	Drumsound	084 BrightBell	
+KORG	01/W	Drumsound	085 MetalBell1	
+KORG	01/W	Drumsound	086 MetalBell2	
+KORG	01/W	Drumsound	087 Gamelan 1	
+KORG	01/W	Drumsound	088 Gamelan 2	
+KORG	01/W	Drumsound	089 Pole	
+KORG	01/W	Drumsound	090 TubulBel 1	
+KORG	01/W	Drumsound	091 TubulBel 2	
+KORG	01/W	Drumsound	092 Gong	
+KORG	01/W	Drumsound	093 Wind Gong	
+KORG	01/W	Drumsound	094 Alia Bass	
+KORG	01/W	Drumsound	095 Spectrum 1	
+KORG	01/W	Drumsound	096 Spectrum2a	
+KORG	01/W	Drumsound	097 Spectrum2b	
+KORG	01/W	Drumsound	098 Noise	
+KORG	01/W	Drumsound	099 Stadium	
+KORG	01/W	Drumsound	100 Thing	
+KORG	01/W	Drumsound	101 Belltree	
+KORG	01/W	Drumsound	102 Tri Roll	
+KORG	01/W	Drumsound	103 Yo vox	
+KORG	01/W	Drumsound	104 Flutter	
+KORG	01/W	Drumsound	105 Timpani	
+KORG	01/W	Drumsound	106 Orch Crash	
+KORG	01/W	Drumsound	107 Music Box1	
+KORG	01/W	Drumsound	108 Music Box2	
+KORG	01/W	Drumsound	109 Tron Up	
+KORG	01/W	Drumsound	110 Clicker 1	
+KORG	01/W	Drumsound	111 Clicker 2	
+KORG	01/W	Drumsound	112 Clicker 3	
+KORG	01/W	Drumsound	113 Crickets	
+KORG	01/W	Drumsound	114 Crash 2	
+KORG	01/W	Drumsound	115 Orch Hit	
+KORG	01/W	Drumsound	116 Wind Bell	
+KORG	01/W	Drumsound	117 Metronome1	
+KORG	01/W	Drumsound	118 Metronome2	

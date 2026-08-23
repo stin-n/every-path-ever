@@ -1,0 +1,928 @@
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A03 (NTSC)	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A03 (NTSC)	Triangle	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A03 (NTSC)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A03 (NTSC)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A03 (NTSC)	DMC	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A07 (PAL)	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A07 (PAL)	Triangle	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A07 (PAL)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A07 (PAL)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A07 (PAL)	DMC	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A0X (unlimited)	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A0X (unlimited)	Triangle	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A0X (unlimited)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A0X (unlimited)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> 2A0X -> RP2A0X (unlimited)	DMC	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1 MHz)	Long Noise (deprecated)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1 MHz)	Hard Wave 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1 MHz)	Hard Wave 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1 MHz)	Hard Wave 3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1 MHz)	Sync Buzzer	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.5 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.5 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.5 MHz)	Long Noise (deprecated)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.5 MHz)	Hard Wave 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.5 MHz)	Hard Wave 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.5 MHz)	Hard Wave 3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.5 MHz)	Sync Buzzer	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.79 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.79 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.79 MHz)	Long Noise (deprecated)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.79 MHz)	Hard Wave 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.79 MHz)	Hard Wave 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.79 MHz)	Hard Wave 3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (1.79 MHz)	Sync Buzzer	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (2 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (2 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (2 MHz)	Long Noise (deprecated)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (2 MHz)	Hard Wave 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (2 MHz)	Hard Wave 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (2 MHz)	Hard Wave 3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (2 MHz)	Sync Buzzer	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (894.886 kHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (894.886 kHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (894.886 kHz)	Long Noise (deprecated)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (894.886 kHz)	Hard Wave 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (894.886 kHz)	Hard Wave 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (894.886 kHz)	Hard Wave 3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (894.886 kHz)	Sync Buzzer	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (unlimited)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (unlimited)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (unlimited)	Long Noise (deprecated)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (unlimited)	Hard Wave 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (unlimited)	Hard Wave 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (unlimited)	Hard Wave 3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> AY-3-8910 (unlimited)	Sync Buzzer	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> YM2149F (2 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> YM2149F (2 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> YM2149F (2 MHz)	Long Noise (deprecated)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> YM2149F (2 MHz)	Hard Wave 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> YM2149F (2 MHz)	Hard Wave 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> YM2149F (2 MHz)	Hard Wave 3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> AY -> YM2149F (2 MHz)	Sync Buzzer	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T0	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T4	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T5	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T6	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_T7	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_N0	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_N4	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_N5	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (NTSC)	D1771C_N7	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T0	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T3	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T4	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T5	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T6	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_T7	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_N0	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_N4	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_N5	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1771C -> D1771C (Unlimited)	D1771C_N7	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Piano	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Fantasy	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Violin	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Flute	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Guitar 1	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Guitar 2	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	English Horn	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Drum Snare	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D1867G -> VL-1	Drum Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> D65010G	D65010G031	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG (unlimited)	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG (unlimited)	Wave	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG (unlimited)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG (unlimited)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG-CPU	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG-CPU	Wave	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG-CPU	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> DMG-CPU	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> SGB	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> SGB	Wave	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> SGB	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> DMG -> SGB	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> M5232 -> M5232 (unlimited)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> M5232 -> M5232 (unlimited)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> P824X -> P8244 (NTSC)	Tone	
+Plogue	chipsounds	Program -> 01. Pure Chip -> P824X -> P8244 (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> P824X -> P8245 (PAL)	Tone	
+Plogue	chipsounds	Program -> 01. Pure Chip -> P824X -> P8245 (PAL)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> P825X	P8253 (NTSC)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	000 (5bit->17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	000 (5bit->9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	0X1 (5bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	010 (5bit->4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	100 (17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	100 (9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	1X1 (pure)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|16Bit)	110 (4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	000 (5bit->17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	000 (5bit->9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	0X1 (5bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	010 (5bit->4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	100 (17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	100 (9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	1X1 (pure)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|1.79Mhz|8Bit)	110 (4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	000 (5bit->17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	000 (5bit->9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	0X1 (5bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	010 (5bit->4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	100 (17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	100 (9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	1X1 (pure)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|16Bit)	110 (4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	000 (5bit->17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	000 (5bit->9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	0X1 (5bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	010 (5bit->4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	100 (17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	100 (9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	1X1 (pure)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|15Khz|8Bit)	110 (4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	000 (5bit->17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	000 (5bit->9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	0X1 (5bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	010 (5bit->4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	100 (17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	100 (9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	1X1 (pure)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|16Bit)	110 (4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	000 (5bit->17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	000 (5bit->9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	0X1 (5bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	010 (5bit->4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	100 (17bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	100 (9bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	1X1 (pure)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> POKEY -> POKEY (1.79Mhz|64Khz|8Bit)	110 (4bit)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	Triangle	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	Saw	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	_ST	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	P_T	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	PS_	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	PST	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	RM_T_T	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	RM_TS_TS	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 6581 (NTSC)	RM_TS_TS_MAJ	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	Pulse	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	Triangle	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	Saw	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	_ST	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	P_T	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	PS_	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	PST	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	RM_T_T	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	RM_TS_TS	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SID -> 8580 (NTSC)	RM_TS_TS_MAJ	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.536 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.536 MHz)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.536 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.536 MHz)	Short Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.536 MHz)	Long Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.79 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.79 MHz)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.79 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.79 MHz)	Short Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (1.79 MHz)	Long Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (2 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (2 MHz)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (2 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (2 MHz)	Short Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (2 MHz)	Long Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (3.58 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (3.58 MHz)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (3.58 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (3.58 MHz)	Short Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (3.58 MHz)	Long Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (4 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (4 MHz)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (4 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (4 MHz)	Short Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (4 MHz)	Long Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (unlimited)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (unlimited)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (unlimited)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (unlimited)	Short Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN76489AN (unlimited)	Long Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN94624N (3.58 MHz)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN94624N (3.58 MHz)	Short Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN94624N (3.58 MHz)	Long Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN94624N (3.58 MHz)	Short Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> SN76489 -> SN94624N (3.58 MHz)	Long Noise (ch3)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (NTSC)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (PAL)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (PAL)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (PAL)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (unlimited)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (unlimited)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TED -> 8360 (unlimited)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 1 (SAW)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 2 (Idle Tank)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 3 (Engine)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 4/5 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 6/10 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 7/9 (Pitfall)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 8 (Noise)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 12/13 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 14 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (NTSC)	Dist 15 (Buzz)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 1 (SAW)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 2 (Idle Tank)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 3 (Engine)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 4/5 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 6/10 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 7/9 (Pitfall)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 8 (Noise)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 12/13 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 14 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (PAL)	Dist 15 (Buzz)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 1 (SAW)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 2 (Idle Tank)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 3 (Engine)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 4/5 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 6/10 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 7/9 (Pitfall)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 8 (Noise)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 12/13 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 14 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (full range)	Dist 15 (Buzz)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 1 (SAW)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 2 (Idle Tank)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 3 (Engine)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 4/5 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 6/10 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 7/9 (Pitfall)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 8 (Noise)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 12/13 (Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 14 (Near Square)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> TIA -> TIA (unlimited)	Dist 15 (Buzz)	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (NTSC)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (NTSC)	9Bit Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (NTSC)	Combined	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (PAL)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (PAL)	9Bit Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (PAL)	Combined	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (unlimited)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (unlimited)	9Bit Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> UVI -> 2637 (unlimited)	Combined	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	10	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	1000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	1010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	1011	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	1110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	10010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	10100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	10110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	11000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	11010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	100100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	101010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	101100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Alto (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	10	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	1000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	1010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	1011	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	1110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	10010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	10100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	10110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	11000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	11010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	100100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	101010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	101100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Bass (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	10	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	1000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	1010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	1011	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	1110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	10010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	10100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	10110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	11000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	11010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	100100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	101010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	101100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6560 Soprano (NTSC)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	10	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	1000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	1010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	1011	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	1110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	10010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	10100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	10110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	11000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	11010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	100100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	101010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	101100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Alto (PAL)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	10	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	1000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	1010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	1011	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	1110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	10010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	10100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	10110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	11000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	11010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	100100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	101010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	101100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Bass (PAL)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	10	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	1000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	1010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	1011	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	1110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	10010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	10100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	10110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	11000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	11010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	100100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	101010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	101100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 6561 Soprano (PAL)	Noise	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	Square	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	10	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	1000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	1010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	1011	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	1110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	10010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	10100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	10110	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	11000	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	11010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	100100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	101010	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	101100	
+Plogue	chipsounds	Program -> 01. Pure Chip -> VIC-I -> 656X (unlimited)	Noise	
+Plogue	chipsounds	Program -> 02. Custom Waveforms	Hard Sync	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 00	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 01	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 02	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 03	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 04	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 05	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 06	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 07	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 08	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 09	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 10	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Misc Multipulse	KS: 11	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	sierpinski	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	42 melody	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	viznut2	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	viznut3	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	viznut4	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	viznut5	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	moon scanner	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	viznut7	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	viznut8	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	Dante(Short)	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Music Formulas	Dante(Long)	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	5bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	6bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	7bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	8bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	9bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	10bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	11bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	12bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	13bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	14bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	15bit	
+Plogue	chipsounds	Program -> 02. Custom Waveforms -> Two Tap LFSRs	16bit	
+Plogue	chipsounds	Program -> 03. Multisamples	2A0X Loops	
+Plogue	chipsounds	Program -> 03. Multisamples	MelStrings 4Bit	
+Plogue	chipsounds	Program -> 03. Multisamples	MelStrings DMC	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	deepbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	digdug	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	dxbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	filterbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	funbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	funkbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	gato	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	korgbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	monobass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 1	pulse	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	monsterbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	popbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	rubberbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	slapbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	softbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	synthebass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	techbass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	tunebass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Bass 2	wowbass19	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Brass	hallbrass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Brass	horns	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Brass	synbrass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Brass	licks	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Brass	roombrass	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	marimba	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	perco	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	synclaves	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	dreambells	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	heifer	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	exbells	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	pingbells	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Chrom percs	jahrmarkt1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	bassdrum1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	bassdrum2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	bassdrum3	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	bassdrum4	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	snare1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	snare2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	snare3	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	snare4	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	snare5	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	popsnare1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	popsnare2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 1	popsnare3	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	closehihat	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	hihat1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	hihat2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	dxtom	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	electom	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	claps1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	claps2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	claves	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	conga	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	cowbell	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	shaker	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Drums 2	woodblock	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	blast	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	blubzing	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	call	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	dangerous	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	mechanic1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	mechanic2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	smash1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 FX	smash2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	ringpiano	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	steinway	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	celeste	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	epiano	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	muteclav	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	organ	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	klickorgan	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	sixtease	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	noteman	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Keyboards	faerytale	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	bigbow	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	asia	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	digiharp	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	panflute	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	sinecz	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	metalkeys	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	theegg	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	tinewave	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	cinema	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Lead	jahrmarkt210	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	analogstring	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	korgstring	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	magic	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	nightmare	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	outlaw	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	richstring	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	soundtrack	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	strange	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	sweep	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	touch	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Pads	voices	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings1	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings2	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings3	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings4	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings5	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings6	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings7	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	strings8	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	wabberstring	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	pizza	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	jetes	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Strings	koto	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	alien	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	aligator	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	breath	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	heavysynth	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	detune	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	chink	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	heaven	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	hooman	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	korgbeau	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 1	korgbow	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	korgfilter	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	polysynth	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	shamus	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	squares	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	stabs	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	synthpiano	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	great	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	leader	
+Plogue	chipsounds	Program -> 03. Multisamples -> ST-01 -> ST-01 Synth 2	nice19	
+Plogue	chipsounds	Program -> 03. Multisamples	TIA Deaths	
+Plogue	chipsounds	Program -> 03. Multisamples	TIA Loops	
+Plogue	chipsounds	Program -> 04. Drums	Funky Drummer digis	
+Plogue	chipsounds	Program -> 04. Drums	Joe Kit 4Bit	
+Plogue	chipsounds	Program -> 04. Drums	Joe Kit DMC	
+Plogue	chipsounds	Program -> 04. Drums	Jules Kit 4Bit	
+Plogue	chipsounds	Program -> 04. Drums	Jules Kit DMC	
+Plogue	chipsounds	Program -> 04. Drums	Pro Drum v2.0 digis	
+Plogue	chipsounds	Program -> 04. Drums	ST-01-Drums	
+Plogue	chipsounds	Program -> 05. Arcade	DK	
+Plogue	chipsounds	Program -> 05. Arcade	DKJR	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Analog Effects	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (0,0) unl	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (0,0)	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (1,0) unl	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (1,0)	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (0,1) unl	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (0,1)	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (1,1) unl	
+Plogue	chipsounds	Program -> 05. Arcade -> Galax	Pitch (1,1)	
+Plogue	chipsounds	Program -> 05. Arcade	Phoenix	
+Plogue	chipsounds	Program -> 05. Arcade	S.Invaders	
+Plogue	chipsounds	Program -> 05. Arcade	Zxxn	
+Plogue	chipsounds	Snapshot -> Arps	AR 8-bit Currency	
+Plogue	chipsounds	Snapshot -> Arps	AR Alternating	
+Plogue	chipsounds	Snapshot -> Arps	AR Basic Major Stab	
+Plogue	chipsounds	Snapshot -> Arps	AR Basic Minor Stab	
+Plogue	chipsounds	Snapshot -> Arps	AR BigN chords	
+Plogue	chipsounds	Snapshot -> Arps	AR Car Race1	
+Plogue	chipsounds	Snapshot -> Arps	AR Car Race2	
+Plogue	chipsounds	Snapshot -> Arps	AR Healing Potion	
+Plogue	chipsounds	Snapshot -> Arps	AR Liquid Arp	
+Plogue	chipsounds	Snapshot -> Arps	AR Minor Skies	
+Plogue	chipsounds	Snapshot -> Arps	AR Oddness	
+Plogue	chipsounds	Snapshot -> Arps	AR OddO2	
+Plogue	chipsounds	Snapshot -> Arps	AR One Shots	
+Plogue	chipsounds	Snapshot -> Arps	AR One-Up	
+Plogue	chipsounds	Snapshot -> Arps	AR Pad	
+Plogue	chipsounds	Snapshot -> Arps	AR Power Up	
+Plogue	chipsounds	Snapshot -> Arps	AR Raspy Arp Hits	
+Plogue	chipsounds	Snapshot -> Arps	AR Raw GB Arp	
+Plogue	chipsounds	Snapshot -> Arps	AR Select Option	
+Plogue	chipsounds	Snapshot -> Arps	AR SN Double Arp	
+Plogue	chipsounds	Snapshot -> Arps	AR Stereo Arp Stab	
+Plogue	chipsounds	Snapshot -> Arps	AR User LFO	
+Plogue	chipsounds	Snapshot -> Bass	BA 8-bit Dubstep	
+Plogue	chipsounds	Snapshot -> Bass	BA Attack	
+Plogue	chipsounds	Snapshot -> Bass	BA Beehive	
+Plogue	chipsounds	Snapshot -> Bass	BA BigN Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA BigN Bass 2	
+Plogue	chipsounds	Snapshot -> Bass	BA Bit Hits	
+Plogue	chipsounds	Snapshot -> Bass	BA Chip Junglist	
+Plogue	chipsounds	Snapshot -> Bass	BA Chip Trio	
+Plogue	chipsounds	Snapshot -> Bass	BA Deep Chip Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Delay Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA DnB Wavetable	
+Plogue	chipsounds	Snapshot -> Bass	BA Doom Pulse	
+Plogue	chipsounds	Snapshot -> Bass	BA Double Dose	
+Plogue	chipsounds	Snapshot -> Bass	BA Double GB	
+Plogue	chipsounds	Snapshot -> Bass	BA DXish Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Echo Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Engine Groove	
+Plogue	chipsounds	Snapshot -> Bass	BA Fat Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Fat Chips	
+Plogue	chipsounds	Snapshot -> Bass	BA Filtweak	
+Plogue	chipsounds	Snapshot -> Bass	BA Get Bent	
+Plogue	chipsounds	Snapshot -> Bass	BA Gray Pixels	
+Plogue	chipsounds	Snapshot -> Bass	BA Gritty Downtempo	
+Plogue	chipsounds	Snapshot -> Bass	BA Grunge	
+Plogue	chipsounds	Snapshot -> Bass	BA Just Slap It On	
+Plogue	chipsounds	Snapshot -> Bass	BA MegaSID	
+Plogue	chipsounds	Snapshot -> Bass	BA Metallic Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA MisterToast	
+Plogue	chipsounds	Snapshot -> Bass	BA MultiSID	
+Plogue	chipsounds	Snapshot -> Bass	BA N-Pulse	
+Plogue	chipsounds	Snapshot -> Bass	BA Phat DnB	
+Plogue	chipsounds	Snapshot -> Bass	BA Phat SID Duo	
+Plogue	chipsounds	Snapshot -> Bass	BA Plastic	
+Plogue	chipsounds	Snapshot -> Bass	BA Pulse Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Punchy VIC-1	
+Plogue	chipsounds	Snapshot -> Bass	BA Pure 64 Analog	
+Plogue	chipsounds	Snapshot -> Bass	BA Pure 64 Digital	
+Plogue	chipsounds	Snapshot -> Bass	BA Reso Pulse	
+Plogue	chipsounds	Snapshot -> Bass	BA Rough Texture	
+Plogue	chipsounds	Snapshot -> Bass	BA Short Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA SID Monster	
+Plogue	chipsounds	Snapshot -> Bass	BA SID Sub	
+Plogue	chipsounds	Snapshot -> Bass	BA Smooth Sub	
+Plogue	chipsounds	Snapshot -> Bass	BA Speccy PWM	
+Plogue	chipsounds	Snapshot -> Bass	BA Square Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Squeezed In	
+Plogue	chipsounds	Snapshot -> Bass	BA ST-01 Basses (KS)	
+Plogue	chipsounds	Snapshot -> Bass	BA Thick Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Thick Sync	
+Plogue	chipsounds	Snapshot -> Bass	BA Titanium	
+Plogue	chipsounds	Snapshot -> Bass	BA Trance Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA VIC 2Osc	
+Plogue	chipsounds	Snapshot -> Bass	BA VIC-I Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA VL-1 Bass	
+Plogue	chipsounds	Snapshot -> Bass	BA Wavetable Pulse	
+Plogue	chipsounds	Snapshot -> Bass	BA ZX Buzzy	
+Plogue	chipsounds	Snapshot -> Bass	BA ZX Trio	
+Plogue	chipsounds	Snapshot -> Drums	DR 8-bit Toms	
+Plogue	chipsounds	Snapshot -> Drums	DR BigN Drums	
+Plogue	chipsounds	Snapshot -> Drums	DR Chromatic Congas	
+Plogue	chipsounds	Snapshot -> Drums	DR Club Claps	
+Plogue	chipsounds	Snapshot -> Drums	DR Club Kick	
+Plogue	chipsounds	Snapshot -> Drums	DR Dirty Sub Kick	
+Plogue	chipsounds	Snapshot -> Drums	DR Distorted	
+Plogue	chipsounds	Snapshot -> Drums	DR Ethnos	
+Plogue	chipsounds	Snapshot -> Drums	DR Funky Kit	
+Plogue	chipsounds	Snapshot -> Drums	DR Funky Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR Funny Beat	
+Plogue	chipsounds	Snapshot -> Drums	DR GBS Rattle	
+Plogue	chipsounds	Snapshot -> Drums	DR Hi Hat Closed	
+Plogue	chipsounds	Snapshot -> Drums	DR Hi Hat Open	
+Plogue	chipsounds	Snapshot -> Drums	DR HiHat Loop	
+Plogue	chipsounds	Snapshot -> Drums	DR Jellied Toms	
+Plogue	chipsounds	Snapshot -> Drums	DR Jule's 4-bit Kit	
+Plogue	chipsounds	Snapshot -> Drums	DR Jule's DMC kit	
+Plogue	chipsounds	Snapshot -> Drums	DR Metallic Hits	
+Plogue	chipsounds	Snapshot -> Drums	DR Noise Loop	
+Plogue	chipsounds	Snapshot -> Drums	DR Noise Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR Pro Kit	
+Plogue	chipsounds	Snapshot -> Drums	DR Record Scratches	
+Plogue	chipsounds	Snapshot -> Drums	DR Room Kick	
+Plogue	chipsounds	Snapshot -> Drums	DR SID Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR SID Snare 2	
+Plogue	chipsounds	Snapshot -> Drums	DR SID Snare 3	
+Plogue	chipsounds	Snapshot -> Drums	DR ST-01 Kit	
+Plogue	chipsounds	Snapshot -> Drums	DR ST-01 Percs (KS)	
+Plogue	chipsounds	Snapshot -> Drums	DR Tekkno Kick	
+Plogue	chipsounds	Snapshot -> Drums	DR TIA Beat 1	
+Plogue	chipsounds	Snapshot -> Drums	DR TIA Beat 2	
+Plogue	chipsounds	Snapshot -> Drums	DR TIA Beat 3	
+Plogue	chipsounds	Snapshot -> Drums	DR TIA Beat 4	
+Plogue	chipsounds	Snapshot -> Drums	DR TIA Kick	
+Plogue	chipsounds	Snapshot -> Drums	DR TIA Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR Tight Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR Trash Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR UVI Noise Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR UVI Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR VGM Kick	
+Plogue	chipsounds	Snapshot -> Drums	DR VL-1 Da Da Da	
+Plogue	chipsounds	Snapshot -> Drums	DR VL-1 Drums	
+Plogue	chipsounds	Snapshot -> Drums	DR XS Drumloop 1	
+Plogue	chipsounds	Snapshot -> Drums	DR XS Drumloop 2	
+Plogue	chipsounds	Snapshot -> Drums	DR YM Noise Drums	
+Plogue	chipsounds	Snapshot -> Drums	DR Zaps	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Kick 1	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Kick 2	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Kick 3	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Noise Snare	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Snare 1	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Snare 2	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Snare 3	
+Plogue	chipsounds	Snapshot -> Drums	DR ZX Snare 4	
+Plogue	chipsounds	Snapshot -> FX	FX 8-bit Shotgun	
+Plogue	chipsounds	Snapshot -> FX	FX Access Denied	
+Plogue	chipsounds	Snapshot -> FX	FX Answer The Phone	
+Plogue	chipsounds	Snapshot -> FX	FX Arcade	
+Plogue	chipsounds	Snapshot -> FX	FX Chaos Hits	
+Plogue	chipsounds	Snapshot -> FX	FX Chaotic Swell	
+Plogue	chipsounds	Snapshot -> FX	FX Chirping Crickets	
+Plogue	chipsounds	Snapshot -> FX	FX Chomp	
+Plogue	chipsounds	Snapshot -> FX	FX Circuit Bent TIA	
+Plogue	chipsounds	Snapshot -> FX	FX Circuit Bent TIA Loop	
+Plogue	chipsounds	Snapshot -> FX	FX Computer Startup	
+Plogue	chipsounds	Snapshot -> FX	FX Crash And Burn	
+Plogue	chipsounds	Snapshot -> FX	FX Cute Explosions	
+Plogue	chipsounds	Snapshot -> FX	FX Deadly Swarm	
+Plogue	chipsounds	Snapshot -> FX	FX Defender Fire	
+Plogue	chipsounds	Snapshot -> FX	FX Divebomb	
+Plogue	chipsounds	Snapshot -> FX	FX DK	
+Plogue	chipsounds	Snapshot -> FX	FX DKJR	
+Plogue	chipsounds	Snapshot -> FX	FX Drop Hit	
+Plogue	chipsounds	Snapshot -> FX	FX Echo Laser	
+Plogue	chipsounds	Snapshot -> FX	FX Exciting Motorcycle	
+Plogue	chipsounds	Snapshot -> FX	FX Explosive Diarrhea	
+Plogue	chipsounds	Snapshot -> FX	FX Flame Thrower	
+Plogue	chipsounds	Snapshot -> FX	FX Flicker	
+Plogue	chipsounds	Snapshot -> FX	FX Galag Fire	
+Plogue	chipsounds	Snapshot -> FX	FX Galax	
+Plogue	chipsounds	Snapshot -> FX	FX Glissando	
+Plogue	chipsounds	Snapshot -> FX	FX Goomba Squash	
+Plogue	chipsounds	Snapshot -> FX	FX Grab Item	
+Plogue	chipsounds	Snapshot -> FX	FX Hit The Breaks	
+Plogue	chipsounds	Snapshot -> FX	FX Ice Hits	
+Plogue	chipsounds	Snapshot -> FX	FX Ignition Switch	
+Plogue	chipsounds	Snapshot -> FX	FX Jump Up	
+Plogue	chipsounds	Snapshot -> FX	FX KaBlam!	
+Plogue	chipsounds	Snapshot -> FX	FX KickTheKoopa	
+Plogue	chipsounds	Snapshot -> FX	FX Killed An Enemy	
+Plogue	chipsounds	Snapshot -> FX	FX Klaxxon	
+Plogue	chipsounds	Snapshot -> FX	FX LFO Hit	
+Plogue	chipsounds	Snapshot -> FX	FX Low Laser	
+Plogue	chipsounds	Snapshot -> FX	FX Metal Clash	
+Plogue	chipsounds	Snapshot -> FX	FX Noise FX	
+Plogue	chipsounds	Snapshot -> FX	FX Noise FX 1	
+Plogue	chipsounds	Snapshot -> FX	FX Noise Intro	
+Plogue	chipsounds	Snapshot -> FX	FX Noise Lasers	
+Plogue	chipsounds	Snapshot -> FX	FX OddityTwo	
+Plogue	chipsounds	Snapshot -> FX	FX Pain	
+Plogue	chipsounds	Snapshot -> FX	FX Pause Button	
+Plogue	chipsounds	Snapshot -> FX	FX Pedal Tone	
+Plogue	chipsounds	Snapshot -> FX	FX Phoenix	
+Plogue	chipsounds	Snapshot -> FX	FX PV-1000 Fire	
+Plogue	chipsounds	Snapshot -> FX	FX Raspy Laser	
+Plogue	chipsounds	Snapshot -> FX	FX Ratchet	
+Plogue	chipsounds	Snapshot -> FX	FX Rebound Laser	
+Plogue	chipsounds	Snapshot -> FX	FX RingModRiser	
+Plogue	chipsounds	Snapshot -> FX	FX Running Sprites	
+Plogue	chipsounds	Snapshot -> FX	FX S. Invaders	
+Plogue	chipsounds	Snapshot -> FX	FX SCV Pause	
+Plogue	chipsounds	Snapshot -> FX	FX Select Game	
+Plogue	chipsounds	Snapshot -> FX	FX Simple Explosion	
+Plogue	chipsounds	Snapshot -> FX	FX Splash	
+Plogue	chipsounds	Snapshot -> FX	FX ST-01 FX (KS)	
+Plogue	chipsounds	Snapshot -> FX	FX Star Castle Fire	
+Plogue	chipsounds	Snapshot -> FX	FX Teleporter	
+Plogue	chipsounds	Snapshot -> FX	FX Thud	
+Plogue	chipsounds	Snapshot -> FX	FX Thwomp (G3)	
+Plogue	chipsounds	Snapshot -> FX	FX TIA Loops	
+Plogue	chipsounds	Snapshot -> FX	FX TIA Swell	
+Plogue	chipsounds	Snapshot -> FX	FX Tube Warp	
+Plogue	chipsounds	Snapshot -> FX	FX UVI Chopped	
+Plogue	chipsounds	Snapshot -> FX	FX VGM Windup	
+Plogue	chipsounds	Snapshot -> FX	FX Warp Drive	
+Plogue	chipsounds	Snapshot -> FX	FX X'd Swords(Play High)	
+Plogue	chipsounds	Snapshot -> FX	FX Zxxn	
+Plogue	chipsounds	Snapshot -> Lead	LD 2600V	
+Plogue	chipsounds	Snapshot -> Lead	LD 8-bit Grunge	
+Plogue	chipsounds	Snapshot -> Lead	LD Abadox	
+Plogue	chipsounds	Snapshot -> Lead	LD AY Sync Lead	
+Plogue	chipsounds	Snapshot -> Lead	LD Backwards	
+Plogue	chipsounds	Snapshot -> Lead	LD Basic But Classic	
+Plogue	chipsounds	Snapshot -> Lead	LD BigN PWM	
+Plogue	chipsounds	Snapshot -> Lead	LD Bismuth	
+Plogue	chipsounds	Snapshot -> Lead	LD Blippy	
+Plogue	chipsounds	Snapshot -> Lead	LD Bold 1Osc	
+Plogue	chipsounds	Snapshot -> Lead	LD Buzz Square	
+Plogue	chipsounds	Snapshot -> Lead	LD Buzzpulse	
+Plogue	chipsounds	Snapshot -> Lead	LD Buzzy Octave Runs	
+Plogue	chipsounds	Snapshot -> Lead	LD Chipstyle DX	
+Plogue	chipsounds	Snapshot -> Lead	LD Classic Duet	
+Plogue	chipsounds	Snapshot -> Lead	LD Classic VGM	
+Plogue	chipsounds	Snapshot -> Lead	LD Creamy	
+Plogue	chipsounds	Snapshot -> Lead	LD Creepy	
+Plogue	chipsounds	Snapshot -> Lead	LD Delay Lead	
+Plogue	chipsounds	Snapshot -> Lead	LD Dementia	
+Plogue	chipsounds	Snapshot -> Lead	LD Digital GB	
+Plogue	chipsounds	Snapshot -> Lead	LD Eccentric	
+Plogue	chipsounds	Snapshot -> Lead	LD Fake FM	
+Plogue	chipsounds	Snapshot -> Lead	LD Fake Verb	
+Plogue	chipsounds	Snapshot -> Lead	LD Faux Delay	
+Plogue	chipsounds	Snapshot -> Lead	LD Funky Filters	
+Plogue	chipsounds	Snapshot -> Lead	LD GarbageInGarbageOut	
+Plogue	chipsounds	Snapshot -> Lead	LD GB Deep Vox	
+Plogue	chipsounds	Snapshot -> Lead	LD Germs	
+Plogue	chipsounds	Snapshot -> Lead	LD Goodnight	
+Plogue	chipsounds	Snapshot -> Lead	LD Graveyard	
+Plogue	chipsounds	Snapshot -> Lead	LD Hardstyle Silicon	
+Plogue	chipsounds	Snapshot -> Lead	LD Hollow	
+Plogue	chipsounds	Snapshot -> Lead	LD Hoover64	
+Plogue	chipsounds	Snapshot -> Lead	LD Kick Lead	
+Plogue	chipsounds	Snapshot -> Lead	LD Krazy Korus	
+Plogue	chipsounds	Snapshot -> Lead	LD Magic Violin	
+Plogue	chipsounds	Snapshot -> Lead	LD Maniac Piz	
+Plogue	chipsounds	Snapshot -> Lead	LD Metallic Lead	
+Plogue	chipsounds	Snapshot -> Lead	LD MonoPlumber	
+Plogue	chipsounds	Snapshot -> Lead	LD Mystery	
+Plogue	chipsounds	Snapshot -> Lead	LD Octave Run Hits	
+Plogue	chipsounds	Snapshot -> Lead	LD Pan-O-Tron	
+Plogue	chipsounds	Snapshot -> Lead	LD PC Speaker	
+Plogue	chipsounds	Snapshot -> Lead	LD Phased	
+Plogue	chipsounds	Snapshot -> Lead	LD Phat Chip	
+Plogue	chipsounds	Snapshot -> Lead	LD Phat Trance	
+Plogue	chipsounds	Snapshot -> Lead	LD Power Fifths	
+Plogue	chipsounds	Snapshot -> Lead	LD PWM FunkiNESs	
+Plogue	chipsounds	Snapshot -> Lead	LD Quackery	
+Plogue	chipsounds	Snapshot -> Lead	LD R-Lead	
+Plogue	chipsounds	Snapshot -> Lead	LD RaunchyNESs	
+Plogue	chipsounds	Snapshot -> Lead	LD Ravey	
+Plogue	chipsounds	Snapshot -> Lead	LD Raw GB Lead	
+Plogue	chipsounds	Snapshot -> Lead	LD Road to Shanghai	
+Plogue	chipsounds	Snapshot -> Lead	LD Rubbery	
+Plogue	chipsounds	Snapshot -> Lead	LD Saw Lead	
+Plogue	chipsounds	Snapshot -> Lead	LD SID 5ths	
+Plogue	chipsounds	Snapshot -> Lead	LD SID Brass	
+Plogue	chipsounds	Snapshot -> Lead	LD SID Porta	
+Plogue	chipsounds	Snapshot -> Lead	LD SID Saxophone	
+Plogue	chipsounds	Snapshot -> Lead	LD ST-01 Leads (KS)	
+Plogue	chipsounds	Snapshot -> Lead	LD Standard NES	
+Plogue	chipsounds	Snapshot -> Lead	LD StarCastle Drone	
+Plogue	chipsounds	Snapshot -> Lead	LD Supersaw	
+Plogue	chipsounds	Snapshot -> Lead	LD Texture	
+Plogue	chipsounds	Snapshot -> Lead	LD Thick-n-Juicy	
+Plogue	chipsounds	Snapshot -> Lead	LD Tremolo	
+Plogue	chipsounds	Snapshot -> Lead	LD Trill Flute	
+Plogue	chipsounds	Snapshot -> Lead	LD VL-1 Violin	
+Plogue	chipsounds	Snapshot -> Lead	LD Voluptuous	
+Plogue	chipsounds	Snapshot -> Lead	LD Wavescanner	
+Plogue	chipsounds	Snapshot -> Lead	LD Wild Card	
+Plogue	chipsounds	Snapshot -> Lead	LD Wohwoh	
+Plogue	chipsounds	Snapshot -> Multitimbral	2600	
+Plogue	chipsounds	Snapshot -> Multitimbral	64	
+Plogue	chipsounds	Snapshot -> Multitimbral	Amiga ST-01	
+Plogue	chipsounds	Snapshot -> Multitimbral	Chupathingy Setup	
+Plogue	chipsounds	Snapshot -> Multitimbral	CSDJ	
+Plogue	chipsounds	Snapshot -> Multitimbral	CV (NTSC)	
+Plogue	chipsounds	Snapshot -> Multitimbral	MIDIBigN	
+Plogue	chipsounds	Snapshot -> Multitimbral	ST	
+Plogue	chipsounds	Snapshot -> Multitimbral	V20 (NTSC)	
+Plogue	chipsounds	Snapshot -> Multitimbral	V20 (PAL)	
+Plogue	chipsounds	Snapshot -> Pad	PD 4-bit Mellotron	
+Plogue	chipsounds	Snapshot -> Pad	PD Chillout	
+Plogue	chipsounds	Snapshot -> Pad	PD Cloudwalker	
+Plogue	chipsounds	Snapshot -> Pad	PD Irata	
+Plogue	chipsounds	Snapshot -> Pad	PD Magic Crystals	
+Plogue	chipsounds	Snapshot -> Pad	PD Melancholy	
+Plogue	chipsounds	Snapshot -> Pad	PD Pan LFO	
+Plogue	chipsounds	Snapshot -> Pad	PD Polymento	
+Plogue	chipsounds	Snapshot -> Pad	PD PolyTIA	
+Plogue	chipsounds	Snapshot -> Pad	PD Ring Mod	
+Plogue	chipsounds	Snapshot -> Pad	PD ST-01 Creepy	
+Plogue	chipsounds	Snapshot -> Pad	PD ST-01 Pads (KS)	
+Plogue	chipsounds	Snapshot -> Pad	PD Sunshine	
+Plogue	chipsounds	Snapshot -> Pad	PD SuperSID Strings	
+Plogue	chipsounds	Snapshot -> Synth	SY 8-bit Techno	
+Plogue	chipsounds	Snapshot -> Synth	SY 800 brass	
+Plogue	chipsounds	Snapshot -> Synth	SY 800 Organ	
+Plogue	chipsounds	Snapshot -> Synth	SY BigN Trio	
+Plogue	chipsounds	Snapshot -> Synth	SY Cheap Digital	
+Plogue	chipsounds	Snapshot -> Synth	SY Church Organ	
+Plogue	chipsounds	Snapshot -> Synth	SY Classic PolyNESS 1	
+Plogue	chipsounds	Snapshot -> Synth	SY Classic PolyNESS 2	
+Plogue	chipsounds	Snapshot -> Synth	SY Dance Chords	
+Plogue	chipsounds	Snapshot -> Synth	SY DC PolyNESS	
+Plogue	chipsounds	Snapshot -> Synth	SY Dirty Polysynth	
+Plogue	chipsounds	Snapshot -> Synth	SY Ethnic Keys	
+Plogue	chipsounds	Snapshot -> Synth	SY Grace Note	
+Plogue	chipsounds	Snapshot -> Synth	SY Impulses	
+Plogue	chipsounds	Snapshot -> Synth	SY Lambda	
+Plogue	chipsounds	Snapshot -> Synth	SY Math (KS)	
+Plogue	chipsounds	Snapshot -> Synth	SY Mellow Chords	
+Plogue	chipsounds	Snapshot -> Synth	SY Metal Hits	
+Plogue	chipsounds	Snapshot -> Synth	SY PolySpeccy	
+Plogue	chipsounds	Snapshot -> Synth	SY PolysynSwell	
+Plogue	chipsounds	Snapshot -> Synth	SY Pop Organ	
+Plogue	chipsounds	Snapshot -> Synth	SY Rough Chords	
+Plogue	chipsounds	Snapshot -> Synth	SY Sequencer Food 1	
+Plogue	chipsounds	Snapshot -> Synth	SY Sequencer Food 2	
+Plogue	chipsounds	Snapshot -> Synth	SY Sequencer Food 3	
+Plogue	chipsounds	Snapshot -> Synth	SY Short Chord	
+Plogue	chipsounds	Snapshot -> Synth	SY SID Piano	
+Plogue	chipsounds	Snapshot -> Synth	SY Snowman	
+Plogue	chipsounds	Snapshot -> Synth	SY ST-01 Brass (KS)	
+Plogue	chipsounds	Snapshot -> Synth	SY ST-01 Strings (KS)	
+Plogue	chipsounds	Snapshot -> Synth	SY ST-01 Synth1 (KS)	
+Plogue	chipsounds	Snapshot -> Synth	SY ST-01 Synth2 (KS)	
+Plogue	chipsounds	Snapshot -> Synth	SY Subway-oid	
+Plogue	chipsounds	Snapshot -> Synth	SY Synthichord	
+Plogue	chipsounds	Snapshot -> Synth	SY Tremolo Bells	
+Plogue	chipsounds	Snapshot -> Synth	SY VIC-I Bells	

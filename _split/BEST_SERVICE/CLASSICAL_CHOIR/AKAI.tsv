@@ -1,0 +1,463 @@
+Best Service	Classical Choir	Partition A -> AHH -> PROGRAM	AHH	
+Best Service	Classical Choir	Partition A -> AHH -> PROGRAM	AHH   VEL-SW	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	A2	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	A3        -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	A3        -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	A5	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	C3        -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	C3        -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	C4        -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	C4        -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	ES3	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	ES5       -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	ES5       -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#3       -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#3       -R	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#5       -L	
+Best Service	Classical Choir	Partition A -> AHH -> SAMPLE	F#5       -R	
+Best Service	Classical Choir	Partition A -> EHH -> PROGRAM	EHH	
+Best Service	Classical Choir	Partition A -> EHH -> PROGRAM	EHH   VEL-SW	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A2        -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A2        -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A3        -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A3        -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A5        -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	A5        -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	C3        -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	C3        -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	C4	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	ES3	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	ES5	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#3       -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#3       -R	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#5       -L	
+Best Service	Classical Choir	Partition A -> EHH -> SAMPLE	F#5       -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> PROGRAM	MAU COMBI  1	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	A3  AA    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	A3  AA    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	A3  MM    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	A3  MM    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	A3  UU    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	A3  UU    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	-C-	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	C4  AA    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	C4  AA    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	C4  MM    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	C4  MM    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	C4  UU    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	C4  UU    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	ES3 AA	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	ES3 MM    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	ES3 MM    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	ES3 UU    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	ES3 UU    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	F#3 AA    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	F#3 AA    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	F#3 MM    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	F#3 MM    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	F#3 UU    -L	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	F#3 UU    -R	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	FFF	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	HHH	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	-K-	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	-P-	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	SCHSCH	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	SSS	
+Best Service	Classical Choir	Partition A -> FEMALE COMBI -> SAMPLE	-T-	
+Best Service	Classical Choir	Partition A -> GLISSANDO 1 -> PROGRAM	GLISSANDO 1	
+Best Service	Classical Choir	Partition A -> GLISSANDO 1 -> SAMPLE	GLISS  I	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> PROGRAM	HAHUFATONG	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	A1	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	C2	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	ES1	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	ES2	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	F#1	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	F#2	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	FA-    A	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	FA-    C	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	FA-    ES	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	FA-    F#	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HA-    A	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HA-    C	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HA-    ES	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HA-    F#	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HU-    A	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HU-    C	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HU-    ES	
+Best Service	Classical Choir	Partition A -> HAHUFATONG -> SAMPLE	HU-    F#	
+Best Service	Classical Choir	Partition A -> HOMMM -> PROGRAM	HOMMM	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition A -> HOMMM -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition A -> HOUUU -> PROGRAM	HOUUU	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition A -> HOUUU -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> PROGRAM	MAOI-COMBI 1	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	A1  MM    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	A1  MM    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	A2  AA	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	A2  II    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	A2  II    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	A2  OO    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	A2  OO    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C2  MM    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C2  MM    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C3  AA    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C3  AA    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C3  II    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C3  II    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C3  OO    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	C3  OO    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	ES2 AA    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	ES2 AA    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	ES2 II    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	ES2 II    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	ES2 OO    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	ES2 OO    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#1 MM    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#1 MM    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#2 AA    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#2 AA    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#2 II    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#2 II    -R	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#2 OO    -L	
+Best Service	Classical Choir	Partition A -> MALE COMBI -> SAMPLE	F#2 OO    -R	
+Best Service	Classical Choir	Partition A -> VOHMMM -> PROGRAM	VOHMMM	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition A -> VOHMMM -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> PROGRAM	ZOOMMM	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition A -> ZOOMMM -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition B -> EEH -> PROGRAM	EEH	
+Best Service	Classical Choir	Partition B -> EEH -> PROGRAM	EEH   VEL-SW	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A2        -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A2        -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A3        -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A3        -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A5        -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	A5        -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	C3        -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	C3        -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	C4        -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	C4        -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES3       -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES3       -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES5       -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	ES5       -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	F#3       -L	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	F#3       -R	
+Best Service	Classical Choir	Partition B -> EEH -> SAMPLE	F#5	
+Best Service	Classical Choir	Partition B -> GLISSANDO 2 -> PROGRAM	GLISSANDO 2	
+Best Service	Classical Choir	Partition B -> GLISSANDO 2 -> SAMPLE	GLISS II	
+Best Service	Classical Choir	Partition B -> MHH -> PROGRAM	MHH	
+Best Service	Classical Choir	Partition B -> MHH -> PROGRAM	MHH   VEL-SW	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	A2        -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	A2        -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	A3        -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	A3        -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	C3        -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	C3        -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	C4        -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	C4        -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	ES3       -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	ES3       -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	F#3       -L	
+Best Service	Classical Choir	Partition B -> MHH -> SAMPLE	F#3       -R	
+Best Service	Classical Choir	Partition B -> OHH -> PROGRAM	OHH	
+Best Service	Classical Choir	Partition B -> OHH -> PROGRAM	OHH   VEL-SW	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A2        -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A2        -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A3        -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A3        -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A5        -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	A5        -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	C3        -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	C3        -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	C4	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES3       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES3       -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES5       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	ES5       -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#3       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#3       -R	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#5       -L	
+Best Service	Classical Choir	Partition B -> OHH -> SAMPLE	F#5       -R	
+Best Service	Classical Choir	Partition B -> OOH -> PROGRAM	OOH	
+Best Service	Classical Choir	Partition B -> OOH -> PROGRAM	OOH   VEL-SW	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A2        -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A2        -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A3        -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A3        -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A5        -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	A5        -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	C3        -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	C3        -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	C4        -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	C4        -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	ES3       -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	ES3       -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	ES5	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#3       -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#3       -R	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#5       -L	
+Best Service	Classical Choir	Partition B -> OOH -> SAMPLE	F#5       -R	
+Best Service	Classical Choir	Partition B -> UNI-CLUSTER -> PROGRAM	CLUSTER-UNI1	
+Best Service	Classical Choir	Partition B -> UNI-CLUSTER -> PROGRAM	CLUSTER-UNI2	
+Best Service	Classical Choir	Partition B -> UNI-CLUSTER -> PROGRAM	UNI-CLUSTER1	
+Best Service	Classical Choir	Partition B -> UNI-CLUSTER -> PROGRAM	UNI-CLUSTER2	
+Best Service	Classical Choir	Partition B -> UNI-CLUSTER -> SAMPLE	CL-UNI.F#3-L	
+Best Service	Classical Choir	Partition B -> UNI-CLUSTER -> SAMPLE	CLU-UNI.C3-L	
+Best Service	Classical Choir	Partition B -> UNI-CLUSTER -> SAMPLE	UNI-CL.F#3-L	
+Best Service	Classical Choir	Partition B -> VVV -> PROGRAM	VVV	
+Best Service	Classical Choir	Partition B -> VVV -> PROGRAM	VVV   VEL-SW	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	A1	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	A2	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	A3	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	C2	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	C3	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	C4	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	ES1	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	ES2	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	ES3	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	ES5	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	F#1	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	F#2	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	F#3	
+Best Service	Classical Choir	Partition B -> VVV -> SAMPLE	F#5	
+Best Service	Classical Choir	Partition B -> YHH -> PROGRAM	YHH	
+Best Service	Classical Choir	Partition B -> YHH -> PROGRAM	YHH   VEL-SW	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A1        -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A1        -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A2        -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A2        -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A3        -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A3        -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A5        -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	A5        -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	C2        -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	C2        -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	C3        -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	C3        -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	C4        -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	C4        -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES1       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES1       -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES2       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES2       -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES3       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES3       -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES5       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	ES5       -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#1       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#1       -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#2       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#2       -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#3       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#3       -R	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#5       -L	
+Best Service	Classical Choir	Partition B -> YHH -> SAMPLE	F#5       -R	
+Best Service	Classical Choir	Partition B -> ZZZ -> PROGRAM	ZZZ	
+Best Service	Classical Choir	Partition B -> ZZZ -> PROGRAM	ZZZ   VEL-SW	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	A1	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	A2	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	A3	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	C2	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	C3	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	C4	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	ES1	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	ES2	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	ES3	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	ES5	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	F#1	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	F#2	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	F#3	
+Best Service	Classical Choir	Partition B -> ZZZ -> SAMPLE	F#5	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> PROGRAM	CLUSTER  1	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> PROGRAM	CLUSTER  2	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> PROGRAM	CLUSTER  3	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> PROGRAM	CLUSTER  4	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> PROGRAM	CLUSTER  5	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> PROGRAM	CLUSTER  6	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> SAMPLE	CLUSTER 1	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> SAMPLE	CLUSTER 2	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> SAMPLE	CLUSTER 3	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> SAMPLE	CLUSTER 4	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> SAMPLE	CLUSTER 5 -L	
+Best Service	Classical Choir	Partition C -> CLUSTER 1-6 -> SAMPLE	CLUSTER 6 -L	
+Best Service	Classical Choir	Partition C -> CLUSTER 7-8 -> PROGRAM	CLUSTER  7	
+Best Service	Classical Choir	Partition C -> CLUSTER 7-8 -> PROGRAM	CLUSTER  8	
+Best Service	Classical Choir	Partition C -> CLUSTER 7-8 -> SAMPLE	CLUSTER 7	
+Best Service	Classical Choir	Partition C -> CLUSTER 7-8 -> SAMPLE	CLUSTER 8	
+Best Service	Classical Choir	Partition C -> CLUSTER 9 -> PROGRAM	CLUSTER  9	
+Best Service	Classical Choir	Partition C -> CLUSTER 9 -> SAMPLE	CLUSTER 9	
+Best Service	Classical Choir	Partition C -> FALLS -> PROGRAM	FALL  1	
+Best Service	Classical Choir	Partition C -> FALLS -> PROGRAM	FALL  2	
+Best Service	Classical Choir	Partition C -> FALLS -> PROGRAM	FALL  3	
+Best Service	Classical Choir	Partition C -> FALLS -> PROGRAM	FALL  4	
+Best Service	Classical Choir	Partition C -> FALLS -> PROGRAM	FALL  5	
+Best Service	Classical Choir	Partition C -> FALLS -> PROGRAM	FALL  6	
+Best Service	Classical Choir	Partition C -> FALLS -> PROGRAM	FALL  7	
+Best Service	Classical Choir	Partition C -> FALLS -> SAMPLE	FALL  1	
+Best Service	Classical Choir	Partition C -> FALLS -> SAMPLE	FALL  2   -L	
+Best Service	Classical Choir	Partition C -> FALLS -> SAMPLE	FALL  3	
+Best Service	Classical Choir	Partition C -> FALLS -> SAMPLE	FALL  4	
+Best Service	Classical Choir	Partition C -> FALLS -> SAMPLE	FALL  5	
+Best Service	Classical Choir	Partition C -> FALLS -> SAMPLE	FALL  6	
+Best Service	Classical Choir	Partition C -> FALLS -> SAMPLE	FALL  7	
+Best Service	Classical Choir	Partition C -> GLIS UP+DOWN -> PROGRAM	GLIS UP+DOWN	
+Best Service	Classical Choir	Partition C -> GLIS UP+DOWN -> SAMPLE	GLISS DOWN	
+Best Service	Classical Choir	Partition C -> GLIS UP+DOWN -> SAMPLE	GLISS UP	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> PROGRAM	OOAEE+EEAOO	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	IAU A	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	IAU C	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	IAU ES	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	IAU F#	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	UAI A	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	UAI C	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	UAI ES	
+Best Service	Classical Choir	Partition C -> OOAEE+EEAOO -> SAMPLE	UAI F#	
+Best Service	Classical Choir	Partition C -> RRR -> PROGRAM	RRR	
+Best Service	Classical Choir	Partition C -> RRR -> PROGRAM	RRR   VEL-SW	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	A1	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	A2	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	A3	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	C2	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	C3	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	C4	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	ES1	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	ES2	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	ES3	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	ES5	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	F#1	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	F#2	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	F#3	
+Best Service	Classical Choir	Partition C -> RRR -> SAMPLE	F#5	
+Best Service	Classical Choir	Partition C -> VIBRATO -> PROGRAM	VIBRATO  1	
+Best Service	Classical Choir	Partition C -> VIBRATO -> PROGRAM	VIBRATO  2	
+Best Service	Classical Choir	Partition C -> VIBRATO -> SAMPLE	VIBRATO C	
+Best Service	Classical Choir	Partition C -> VIBRATO -> SAMPLE	VIBRATO F#	
+Best Service	Classical Choir	Partition C -> VOICELESS -> PROGRAM	VOICELESS	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	-C-	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	FFF	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	HHH	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	-K-	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	-P-	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	SCHSCH	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	SSS	
+Best Service	Classical Choir	Partition C -> VOICELESS -> SAMPLE	-T-	
+Best Service	Classical Choir	Partition C -> WHISTLE -> PROGRAM	WHISTLE-CLUS	
+Best Service	Classical Choir	Partition C -> WHISTLE -> PROGRAM	WHISTLE-GLIS	
+Best Service	Classical Choir	Partition C -> WHISTLE -> PROGRAM	WHISTLER	
+Best Service	Classical Choir	Partition C -> WHISTLE -> SAMPLE	WHISTLE 1	
+Best Service	Classical Choir	Partition C -> WHISTLE -> SAMPLE	WHISTLE 2	
+Best Service	Classical Choir	Partition C -> WHISTLE -> SAMPLE	WHISTLE 3 -L	
+Best Service	Classical Choir	Partition C -> WHISTLE -> SAMPLE	WHISTLE 3 -R	

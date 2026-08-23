@@ -1,0 +1,357 @@
+Company/Manufacturer	Product	Path/Bank	Program	Notes
+				
+Table of Contents				
+				
+JUMP TO:	Special Edition Vol. 1			
+(Click the cell, and click the				
+hyperlink that comes up.)				
+				
+to-do: add the remaining Special Edition Volumes + extensions, add the giga stuff, basically just add everything				
+Special Edition Vol. 1		(Released: April 2, 2007)		
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Chord Presets	SE01 Solo String Chords	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Chord Presets	SE03 Orchestra String Chords	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Chord Presets	SE11 Woodwind Chords	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Chord Presets	SE21 Brass Chords	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 01 Solo Strings	SE DB Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 01 Solo Strings	SE VA Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 01 Solo Strings	SE VC Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 01 Solo Strings	SE VI Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 03 Orchestra Strings	SE DB-6 Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 03 Orchestra Strings	SE VA-10 Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 03 Orchestra Strings	SE VC-8 Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 03 Orchestra Strings	SE VI-14 Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 11 Flutes	SE FL1 Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 11 Flutes	SE PFL Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 12 Oboes	SE EH Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 12 Oboes	SE Obfr Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 13 Clarinets	SE BCL Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 13 Clarinets	SE CLBb Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 14 Bassoons	SE BA Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 14 Bassoons	SE CBA Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 21 Horns	SE HO-a4 Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 21 Horns	SE HOtr Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 22 Trumpets	SE Tr-a3 PRESET VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 22 Trumpets	SE TrC Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 23 Trombones	SE BTB Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 23 Trombones	SE TB-a3 Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 23 Trombones	SE TTB Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI PRO-2 Presets -> 24 Tubas	SE TU Preset VIPRO	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Inspiration Presets	SE_All_Strings_Legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Inspiration Presets	SE_Dynamic_and_Majestic	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Inspiration Presets	SE_Follow_him	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Inspiration Presets	SE_John_and_Terry	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Inspiration Presets	SE_Majestic_Brass	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Inspiration Presets	SE_Roses_and_Lilies	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE01 Preset Solo Strings	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE03 Preset Orchestral Strings	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE05 Preset Harp	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE11 Preset Flutes	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE12 Preset Oboes	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE13 Preset Clarinets	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE14 Preset Bassoons	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE21 Preset Horns	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE22 Preset Trumpets	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE23 Preset Trombones	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE24 Preset Tuba	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE31 Preset Keyboards	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE32 Preset Mallets	
+Vienna Symphonic Library	Special Edition Vol. 1	PRESET -> VI Presets	SE33 Preset Percussion	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 01 So-Str Chords (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 02 So-Str Chords (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 03 So-Str Chords (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 04 So-Str Chords (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 11 So-Str Cho-rep (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 12 So-Str Cho-rep (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 13 So-Str Cho-rep (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 01 Solo Strings Chords	SE 14 So-Str Cho-rep (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 01 Or-Str Chords (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 02 Or-Str Chords (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 03 Or-Str Chords (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 04 Or-Str Chords (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 11 Or-Str Cho-rep (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 12 Or-Str Cho-rep (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 13 Or-Str Cho-rep (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 03 Orchestra Strings Chords	SE 14 Or-Str Cho-rep (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 01 WW Chords (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 02 WW Chords (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 03 WW Chords (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 04 WW Chords (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 11 WW Cho-rep (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 12 WW Cho-rep (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 13 WW Cho-rep (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 11 Woodwinds Chords	SE 14 WW Cho-rep (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 01 BR Chords (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 02 BR Chords (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 03 BR Chords (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 04 BR Chords (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 11 BR Cho-rep (8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 12 BR Cho-rep (3)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 13 BR Cho-rep (5)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Chord Matrices -> 21 Brass Chords	SE 14 BR Cho-rep (7+8)	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 01 Solo Violin	SE VI 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 01 Solo Violin	SE VI 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 01 Solo Violin	SE VI 32 arpeggios	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 02 Solo Viola	SE VA 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 02 Solo Viola	SE VA 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 02 Solo Viola	SE VA 32 arpeggios	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 03 Solo Cello	SE VC 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 03 Solo Cello	SE VC 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 03 Solo Cello	SE VC 32 arpeggios	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 04 Solo Bass	SE DB 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 01 Solo Strings -> 04 Solo Bass	SE DB 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 01 Violins Orchestra	SE VI-14 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 01 Violins Orchestra	SE VI-14 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 01 Violins Orchestra	SE VI-14 32 arpeggios	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 02 Violas Orchestra	SE VA-10 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 02 Violas Orchestra	SE VA-10 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 02 Violas Orchestra	SE VA-10 32 arpeggios	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 03 Celli Orchetra	SE VC-8 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 03 Celli Orchetra	SE VC-8 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 03 Celli Orchetra	SE VC-8 32 arpeggios	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 04 Bassi Orchestra	SE DB-6 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 03 Orchestral Strings -> 04 Bassi Orchestra	SE DB-6 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 11 Flutes -> 11 Piccolo	SE PFL 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 11 Flutes -> 11 Piccolo	SE PFL 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 11 Flutes -> 12 Flute 1	SE FL1 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 11 Flutes -> 12 Flute 1	SE FL1 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 12 Oboes -> 21 Oboe french	SE OBfr 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 12 Oboes -> 21 Oboe french	SE OBfr 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 12 Oboes -> 24 English horn	SE EH 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 12 Oboes -> 24 English horn	SE EH 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 13 Clarinets -> 32 Clarinet Bb	SE CLBb 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 13 Clarinets -> 32 Clarinet Bb	SE CLBb 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 13 Clarinets -> 33 Bass clarinet	SE BCL 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 13 Clarinets -> 33 Bass clarinet	SE BCL 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 14 Bassoons -> 41 Bassoon	SE BA 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 14 Bassoons -> 41 Bassoon	SE BA 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 14 Bassoons -> 42 Contra bassoon	SE CBA 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 14 Bassoons -> 42 Contra bassoon	SE CBA 02_leg-speed	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 21 Horns -> 12 Horn triple	SE HOtr 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 21 Horns -> 13 Horn ensembel (4)	SE HO-a4 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 22 Trumpets -> 02 Trumpet C	SE TrC 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 22 Trumpets -> 04 Trumpet ensemble (3)	SE Tr-a3 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 23 Trombones -> 21 Tenor trombone	SE TTB 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 23 Trombones -> 23 Bass trombone	SE BTB 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 23 Trombones -> 25 Trombone ensemble	SE TB-a3 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> VI PRO-2 Matrices -> 24 Tubas -> 31 Tuba	SE TU 01_basic	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	01S Solo violin	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	02S Solo viola	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	03S Solo cello	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	04S Solo Bass	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	05S Solo violin + violin - 8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	06S Solo violin + viola - 8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	07S Solo viola + cello - 8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 01 Solo strings	08S Solo cello + bass - 8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	21S Strings violins	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	22S Strings violas	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	23S Strings cellos	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	24S Strings basses	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	25S Str violins+violins-8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	26S Strings violins+violas-8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	27S Strings violas+cellos-8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	28S Strings cellos+basses-8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 03 Orchestral strings	29S Strings all	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 05 Harp	41S Harp	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 11 Flutes	01S Piccolo	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 11 Flutes	02S Flute 1	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 11 Flutes	06S Piccolo + flute 1 - 8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 12 Oboes	11S Oboe french	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 12 Oboes	14S English Horn	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 12 Oboes	16S Oboe+english horn-8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 13 Clarinets	22S Clarinet Bb	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 13 Clarinets	23S Bass clarinet	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 13 Clarinets	26S Clarinet Bb + bass 8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 14 Bassoons	31 Bassoon	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 14 Bassoons	32 Contra bassoon	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 14 Bassoons	34 Bassoon + contra - 8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 21 Horns	02S Horn triple	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 21 Horns	03S Horn ensemble - a4	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 22 Trumpets	12S Trumpet C	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 22 Trumpets	14S Trumpet ensemble	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 23 Trombones	21S Tenor trombone	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 23 Trombones	23S Bass trombone	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 23 Trombones	25S Trombone ensemble	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 23 Trombones	27S Tenor tromb+bass-8va	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 24 Tubas	31S Tuba	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 31 Keyboards	01S Bosendorfer	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 31 Keyboards	04S Celesta	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 32 Mallets	05S Glockenspiel	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 32 Mallets	06S Xylophone	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 32 Mallets	07S Vibraphone	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 32 Mallets	08S Marimbaphone	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 33 Percussion	11S Timpani	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 33 Percussion	12S Drums	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 33 Percussion	13S Cymbals+Gongs	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 33 Percussion	14S Percussion	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 33 Percussion	15S Tubular Bells	
+Vienna Symphonic Library	Special Edition Vol. 1	MATRIX -> 33 Percussion	16S Plate Bells	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	01S VI staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	02S VI detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	03S VI sustaine	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	04S VI sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	05S VI legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	06S VI portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	07S VI tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	08S VI pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	11S VA staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	12S VA detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	13S VA sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	14S VA sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	15S VA legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	16S VA portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	17S VA tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	18S VA pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	21S VC staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	22S VC detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	23S VC sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	24S VC sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	25S VC legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	26S VC portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	27S VC tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	28S VC pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	31S DB staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	32S DB detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	33S DB sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	34S DB sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	35S DB legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	36S DB portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	37S DB tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 01 Solo Strings	38S DB pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	01S VI-14 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	02S VI-14 detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	03S VI-14 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	04S VI-14 sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	05S VI-14 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	06S VI-14 portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	07S VI-14 tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	08S VI-14 pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	11S VA-10 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	12S VA-10 detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	13S VA-10 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	14S VA-10 sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	15S VA-10 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	16S VA-10 portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	17S VA-10 tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	18S VA-10 pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	21S VC-8 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	22S VC-8 detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	23S VC-8 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	24S VC-8 sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	25S VC-8 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	26S VC-8 portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	27S VC-8 tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	28S VC-8 pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	31S DB-6 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	32S DB-6 detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	33S DB-6 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	34S DB-6 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	35S DB-6 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	36S DB-6 portamento	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	37S DB-6 tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	38S DB-6 pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	41S Strings staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	42S Strings detache	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	43S Strings sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	44S Strings sfz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	45S Strings tremolo	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 03 Orchestral Strings	46S Strings pizz	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 05 Harp	01 HA normal	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 05 Harp	02 HA harmonics	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	01S PFL staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	02S PFL sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	03S PFL sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	04S PFL legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	05S PFL legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	11S FL1 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	12S FL1 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	13S FL1 sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	14S FL1 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 11 Flutes	15S FL1 legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	01S OBfr staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	02S OBfr sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	03S OBfr sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	04S OBfr legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	05S OBfr legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	31S EH staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	32S EH sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	33S EH sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	34S EH legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 12 Oboes	35S EH legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	11S CLBb staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	12S CLBb sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	13S CLBb sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	14S CLBb legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	15S CLBb legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	21S BCL staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	21S BCL sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	21S BCL sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	21S BCL legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 13 Clarinets	21S BCL legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	01S BA staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	01S BA sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	01S BA sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	01S BA legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	01S BA legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	11S CBA staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	12S CBA sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	13S CBA sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	14S CBA legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 14 Bassoons	15S CBA legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	11S HOtr staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	12S HOtr sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	13S HOtr sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	14S HOtr legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	15S HOtr legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	21S HO-a4 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	22S HO-a4 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	23S HO-a4 sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	24S HO-a4 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 21 Horns	25S HO-a4 legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	11S TrC staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	12S TrC sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	13S TrC sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	14S TrC legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	15S TrC legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	31S Tr-a3 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	32S Tr-a3 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	33S Tr-a3 sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	34S Tr-a3 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 22 Trumpets	35S Tr-a3 legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	01S TTB staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	02S TTB sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	03S TTB sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	04S TTB legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	05S TTB legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	21S BTB staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	22S BTB sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	23S BTB sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	24S BTB legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	25S BTB legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	41S TB-a3 staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	42S TB-a3 sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	43S TB-a3 sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	44S TB-a3 legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 23 Trombones	45S TB-a3 legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 24 Tubas	01S TU staccato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 24 Tubas	02S TU sustain	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 24 Tubas	03S TU sforzato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 24 Tubas	04S TU legato	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 24 Tubas	05S TU legato-sus	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	01 Timpani Single-Hits	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	02 Timpani Single-Hits secco	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	03 Timpani  roll	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	11 Drums	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	21 Cymbals+Gong	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	31 Percussion	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	41 Tubular Bells	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 31 Percussion	42 Plate Bells	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	01 Bosendorfer pedal up	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	02 Bosendorfer pedal down	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	31 Celesta	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	32 Celesta soft	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	41 Glockenspiel	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	51 Xylophone	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	61 Vibraphone motor off	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	62 Vibraphone moter on	
+Vienna Symphonic Library	Special Edition Vol. 1	PATCH -> 32 Keyboards+Mallets	71 Marimbaphone	
+Tab filled out by: ashy				Jump to top

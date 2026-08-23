@@ -1,0 +1,50 @@
+Emagic	ES M	#factory 1	#reset	
+Emagic	ES M	#factory 1	clean_pulse	
+Emagic	ES M	#factory 1	dark_kick	
+Emagic	ES M	#factory 1	dark_square	
+Emagic	ES M	#factory 1	dist_kick	
+Emagic	ES M	#factory 1	flyn baz	
+Emagic	ES M	#factory 1	full_drive	
+Emagic	ES M	#factory 1	hi_Q	
+Emagic	ES M	#factory 1	hi_rezz	
+Emagic	ES M	#factory 1	mix_octave	
+Emagic	ES M	#factory 1	mr_Q	
+Emagic	ES M	#factory 1	no_rezz bass	
+Emagic	ES M	#factory 1	perc_glide	
+Emagic	ES M	#factory 1	perc_over	
+Emagic	ES M	#factory 1	pulse_sequence	
+Emagic	ES M	#factory 1	saw_over	
+Emagic	ES M	#factory 1	saw_rezz	
+Emagic	ES M	#factory 1	self_velo	
+Emagic	ES M	#factory 1	sequence_bass	
+Emagic	ES M	#factory 1	short clean bass	
+Emagic	ES M	#factory 1	short_klick	
+Emagic	ES M	#factory 1	simple_saw PK	
+Emagic	ES M	#factory 1	teebee 01	
+Emagic	ES M	#factory 1	teebee 02	
+Emagic	ES M	#factory 1	teebee 03	
+Emagic	ES M	#factory 1	teebee 04	
+Emagic	ES M	#factory 2	#reset	
+Emagic	ES M	#factory 2	acid	
+Emagic	ES M	#factory 2	basic_bass1	Hidden; only appears in preset list when manually renamed to add .PST file extension
+Emagic	ES M	#factory 2	basic_bass2	
+Emagic	ES M	#factory 2	bass_bleep	
+Emagic	ES M	#factory 2	chemical_bass	
+Emagic	ES M	#factory 2	drum'n bass	
+Emagic	ES M	#factory 2	dub_bass	
+Emagic	ES M	#factory 2	harmonix_bass	
+Emagic	ES M	#factory 2	house_bass	
+Emagic	ES M	#factory 2	house_organ	
+Emagic	ES M	#factory 2	low_sweep	
+Emagic	ES M	#factory 2	OD_Per_Bass	Hidden; only appears in preset list when manually renamed to add .PST file extension
+Emagic	ES M	#factory 2	plug_bass	
+Emagic	ES M	#factory 2	resistance	
+Emagic	ES M	#factory 2	reso_lution	
+Emagic	ES M	#factory 2	square_bass	
+Emagic	ES M	#factory 2	squared_over_drive	
+Emagic	ES M	#factory 2	sub_bass	
+Emagic	ES M	#factory 2	tb_long	
+Emagic	ES M	#factory 2	tb_short	
+Emagic	ES M	#factory 2	velo_bleep	
+Emagic	ES M	#factory 2	Wet Perc Bass	Hidden; only appears in preset list when manually renamed to add .PST file extension
+Emagic	ES M		#reset	

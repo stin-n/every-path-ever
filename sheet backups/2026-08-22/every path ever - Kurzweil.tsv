@@ -1,0 +1,3128 @@
+Company/Manufacturer	Product	Path/Bank	Program	Notes
+				
+Table of Contents				
+				
+JUMP TO:	K2000			
+(Click the cell, and click the	K2000 V2			
+hyperlink that comes up.)	Orchestral ROM			
+	Contemporary ROM			
+	Stereo Piano ROM			
+	K2500			
+	K2VX			
+				
+				
+to-do: add setups and keymaps to k2000 r1, add farm programs to roms, add more products				
+K2000				
+Revision 1		(Released: 1991)		
+Kurzweil	K2000	Programs -> TOP 30	1 Sweeper	
+Kurzweil	K2000	Programs -> TOP 30	2 Vectoring 1	
+Kurzweil	K2000	Programs -> TOP 30	3 Sink Monsta	
+Kurzweil	K2000	Programs -> TOP 30	4 Ethereal Strings	
+Kurzweil	K2000	Programs -> TOP 30	5 Dynamic Piano	
+Kurzweil	K2000	Programs -> TOP 30	6 Farelite Vox	
+Kurzweil	K2000	Programs -> TOP 30	7 Vari-Arch	
+Kurzweil	K2000	Programs -> TOP 30	8 Tranquility	
+Kurzweil	K2000	Programs -> TOP 30	9 Jazz Quartet	
+Kurzweil	K2000	Programs -> TOP 30	10 Digital E. Piano	
+Kurzweil	K2000	Programs -> TOP 30	11 Mod Carrier	
+Kurzweil	K2000	Programs -> TOP 30	12 Rockin Lead	
+Kurzweil	K2000	Programs -> TOP 30	13 Castle Drums	
+Kurzweil	K2000	Programs -> TOP 30	14 Water Flute	
+Kurzweil	K2000	Programs -> TOP 30	15 Alaska	
+Kurzweil	K2000	Programs -> TOP 30	16 Klakran	
+Kurzweil	K2000	Programs -> TOP 30	17 Mogue Bass	
+Kurzweil	K2000	Programs -> TOP 30	18 Wind Vox	
+Kurzweil	K2000	Programs -> TOP 30	19 French Horns	
+Kurzweil	K2000	Programs -> TOP 30	20 Square Lead	
+Kurzweil	K2000	Programs -> TOP 30	21 Hi Reso Sweeper	
+Kurzweil	K2000	Programs -> TOP 30	22 Sax Sections	
+Kurzweil	K2000	Programs -> TOP 30	23 Brass V Trig Stab	
+Kurzweil	K2000	Programs -> TOP 30	24 Islanders	
+Kurzweil	K2000	Programs -> TOP 30	25 Alien Factory	
+Kurzweil	K2000	Programs -> TOP 30	26 Doomsday	
+Kurzweil	K2000	Programs -> TOP 30	27 Pipes	
+Kurzweil	K2000	Programs -> TOP 30	28 B-2000	
+Kurzweil	K2000	Programs -> TOP 30	29  Atmospheres	
+Kurzweil	K2000	Programs -> TOP 30	30 PressForThunder!	
+Kurzweil	K2000	Programs -> PIANO	31 ClassicalPiano	
+Kurzweil	K2000	Programs -> PIANO	32 Stage Piano	
+Kurzweil	K2000	Programs -> PIANO	33 Rock Piano	
+Kurzweil	K2000	Programs -> PIANO	34 Piano&FilterStr	
+Kurzweil	K2000	Programs -> PIANO	35 Dual Elec Piano	
+Kurzweil	K2000	Programs -> PIANO	36 Tine Elec Piano	
+Kurzweil	K2000	Programs -> PIANO	37 Funky Elec Piano	
+Kurzweil	K2000	Programs -> DRUMS	38 Stereo Drum Kit	
+Kurzweil	K2000	Programs -> DRUMS	39 Studio Kit	
+Kurzweil	K2000	Programs -> DRUMS	40 Punchy Drums	
+Kurzweil	K2000	Programs -> DRUMS	41 Reflection Kit	
+Kurzweil	K2000	Programs -> DRUMS	42 West Room Kit	
+Kurzweil	K2000	Programs -> DRUMS	43 Rock Kit	
+Kurzweil	K2000	Programs -> DRUMS	44 Synth Kit	
+Kurzweil	K2000	Programs -> DRUMS	45 Street Drums	
+Kurzweil	K2000	Programs -> DRUMS	46 Rock Quartet	
+Kurzweil	K2000	Programs -> PERC	47 5 8ve Percussion	
+Kurzweil	K2000	Programs -> PERC	48 Dyn Percussion	
+Kurzweil	K2000	Programs -> PERC	49 GlockBarSmash	
+Kurzweil	K2000	Programs -> PERC	50 Bell Tree	
+Kurzweil	K2000	Programs -> PERC	51 Orch Hit	
+Kurzweil	K2000	Programs -> BASS	52 Dual Bass	
+Kurzweil	K2000	Programs -> BASS	53 Fretless Bass	
+Kurzweil	K2000	Programs -> BASS	54 Finger Bass	
+Kurzweil	K2000	Programs -> BASS	55 Half Wound Bass	
+Kurzweil	K2000	Programs -> BASS	56 Funk Me Bass	
+Kurzweil	K2000	Programs -> BASS	57 Too Bad Bass	
+Kurzweil	K2000	Programs -> BASS	58 Pop Attack Bass	
+Kurzweil	K2000	Programs -> BASS	59 Hammer Bass	
+Kurzweil	K2000	Programs -> BASS	60 Big Mono Bass	
+Kurzweil	K2000	Programs -> BASS	61 ATK Bass	
+Kurzweil	K2000	Programs -> BASS	62 WonderSynth Bass	
+Kurzweil	K2000	Programs -> BASS	63 SynBass Lead Prs	
+Kurzweil	K2000	Programs -> GUITAR	64 Crank It Up	
+Kurzweil	K2000	Programs -> GUITAR	65 Raunchy Lead	
+Kurzweil	K2000	Programs -> GUITAR	66 Soon	
+Kurzweil	K2000	Programs -> GUITAR	67 Guitar Mutes	
+Kurzweil	K2000	Programs -> GUITAR	68 Muitar	
+Kurzweil	K2000	Programs -> GUITAR	69 Clean Lead Gtr	
+Kurzweil	K2000	Programs -> GUITAR	70 Flanged Elec Guitar	
+Kurzweil	K2000	Programs -> GUITAR	71 Steel Str Guitar	
+Kurzweil	K2000	Programs -> GUITAR	72 Acous 12 String	
+Kurzweil	K2000	Programs -> GUITAR	73 12 Str w/Leslie	
+Kurzweil	K2000	Programs -> GUITAR	74 nylon /harmonics	
+Kurzweil	K2000	Programs -> GUITAR	75 Kotolin	
+Kurzweil	K2000	Programs -> GUITAR	76 Sitar	
+Kurzweil	K2000	Programs -> GUITAR	77 Guitar/Flute/Str	
+Kurzweil	K2000	Programs -> ORGAN	78 Perc Organ	
+Kurzweil	K2000	Programs -> ORGAN	79 Ballad Organ	
+Kurzweil	K2000	Programs -> ORGAN	80 Gospel Organ	
+Kurzweil	K2000	Programs -> ORGAN	81 Synth Organ	
+Kurzweil	K2000	Programs -> ORGAN	82 Clavinet	
+Kurzweil	K2000	Programs -> ORGAN	83 DX Clav	
+Kurzweil	K2000	Programs -> ORGAN	84 Stereo Vibes	
+Kurzweil	K2000	Programs -> ORGAN	85 Wood Bars	
+Kurzweil	K2000	Programs -> ORGAN	86 Conga Mallet	
+Kurzweil	K2000	Programs -> ORGAN	87 Voice Marimba	
+Kurzweil	K2000	Programs -> LEAD	88 DigThat DC Lead	
+Kurzweil	K2000	Programs -> LEAD	89 Hard Sync Lead	
+Kurzweil	K2000	Programs -> LEAD	90 Prs Mello Lead	
+Kurzweil	K2000	Programs -> LEAD	91 Clock S&H Lead	
+Kurzweil	K2000	Programs -> LEAD	92 Lonely Fifths	
+Kurzweil	K2000	Programs -> LEAD	93 Fat Fifths	
+Kurzweil	K2000	Programs -> STRINGS	94 String Orchestra	
+Kurzweil	K2000	Programs -> STRINGS	95 Touch StringOrch	
+Kurzweil	K2000	Programs -> STRINGS	96 Inigma Strings	
+Kurzweil	K2000	Programs -> STRINGS	97 Voice+String Pad	
+Kurzweil	K2000	Programs -> STRINGS	98 Slo Solo Strings	
+Kurzweil	K2000	Programs -> STRINGS	99 Elec Violin	
+Kurzweil	K2000	Programs -> STRINGS	100 Synth String Ens	
+Kurzweil	K2000	Programs -> STRINGS	101 Pseudo Ensemble	
+Kurzweil	K2000	Programs -> STRINGS	102 Orchestra	
+Kurzweil	K2000	Programs -> SECTIONS	103 Toto Brass	
+Kurzweil	K2000	Programs -> SECTIONS	104 Brass Fanfare	
+Kurzweil	K2000	Programs -> SECTIONS	105 Big Band Section	
+Kurzweil	K2000	Programs -> SECTIONS	106 Hip Brass	
+Kurzweil	K2000	Programs -> SAX	107 Synth Soft Alto	
+Kurzweil	K2000	Programs -> SAX	108 Res Wheel Sax	
+Kurzweil	K2000	Programs -> SAX	109 Tenor Saxophone	
+Kurzweil	K2000	Programs -> SAX	110 Pseudo Bari	
+Kurzweil	K2000	Programs -> BRASS	111 Solo Trumpet	
+Kurzweil	K2000	Programs -> BRASS	112 Miles Unmuted	
+Kurzweil	K2000	Programs -> BRASS	113 20's Trumpet	
+Kurzweil	K2000	Programs -> BRASS	114 Trombone	
+Kurzweil	K2000	Programs -> BRASS	115 Tuba	
+Kurzweil	K2000	Programs -> FLUTE	116 Solo Flute	
+Kurzweil	K2000	Programs -> FLUTE	117 VeloJazz Flute	
+Kurzweil	K2000	Programs -> FLUTE	118 PiccoloMono	
+Kurzweil	K2000	Programs -> FLUTE	119 Toot Attack	
+Kurzweil	K2000	Programs -> VOICE	120 Warm Choir	
+Kurzweil	K2000	Programs -> VOICE	121 CathedralVoice	
+Kurzweil	K2000	Programs -> VOICE	122 Star Voisses	
+Kurzweil	K2000	Programs -> VOICE	123 Shaping Voices	
+Kurzweil	K2000	Programs -> VOICE	124 Low World Vox	
+Kurzweil	K2000	Programs -> VOICE	125 Vocal Aire	
+Kurzweil	K2000	Programs -> VOICE	126 Air Vox	
+Kurzweil	K2000	Programs -> ANALOG	127 Orchestral Pad	
+Kurzweil	K2000	Programs -> ANALOG	128 Poly Analog 5th	
+Kurzweil	K2000	Programs -> ANALOG	129 7th World String	
+Kurzweil	K2000	Programs -> ANALOG	130 Filtara	
+Kurzweil	K2000	Programs -> ANALOG	131 Sweep SynOrch	
+Kurzweil	K2000	Programs -> ANALOG	132 Phaze Sweep	
+Kurzweil	K2000	Programs -> ANALOG	133 12 Little Osc's!	
+Kurzweil	K2000	Programs -> ANALOG	134 Poly Touch	
+Kurzweil	K2000	Programs -> ANALOG	135 DualOsc Synbrass	
+Kurzweil	K2000	Programs -> ANALOG	136 AM Square Synth	
+Kurzweil	K2000	Programs -> ANALOG	137 Gabrielle Keys	
+Kurzweil	K2000	Programs -> ANALOG	138 Analog Brass	
+Kurzweil	K2000	Programs -> ANALOG	139 Comping Synth	
+Kurzweil	K2000	Programs -> ANALOG	140 Resonator	
+Kurzweil	K2000	Programs -> ANALOG	141 Stereo Sweeps	
+Kurzweil	K2000	Programs -> ANALOG	142 Punchy Poly	
+Kurzweil	K2000	Programs -> ANALOG	143 PWM Strings	
+Kurzweil	K2000	Programs -> ANALOG	144 Fat Analog Brass	
+Kurzweil	K2000	Programs -> ANALOG	145 2000 Odyssey	
+Kurzweil	K2000	Programs -> ANALOG	146 Analogue	
+Kurzweil	K2000	Programs -> ANALOG	147 Hybrid Sweep	
+Kurzweil	K2000	Programs -> ANALOG	148 Oh Bee!!!	
+Kurzweil	K2000	Programs -> ANALOG	149 70's Poly Synth	
+Kurzweil	K2000	Programs -> ANALOG	150 Pulsar	
+Kurzweil	K2000	Programs -> DIGITAL	151 Operators	
+Kurzweil	K2000	Programs -> DIGITAL	152 Digi-Bells	
+Kurzweil	K2000	Programs -> DIGITAL	153 Digi-Lite	
+Kurzweil	K2000	Programs -> DIGITAL	154 GentleBellChior	
+Kurzweil	K2000	Programs -> DIGITAL	155 Tinklebell	
+Kurzweil	K2000	Programs -> DIGITAL	156 Metallic Death	
+Kurzweil	K2000	Programs -> DIGITAL	157 Breathy Synth	
+Kurzweil	K2000	Programs -> DIGITAL	158 Heavee Metal	
+Kurzweil	K2000	Programs -> DIGITAL	159 NU Age Pick	
+Kurzweil	K2000	Programs -> DIGITAL	160 Flauta	
+Kurzweil	K2000	Programs -> DIGITAL	161 Vectoring 2	
+Kurzweil	K2000	Programs -> DIGITAL	162 Shimmerling	
+Kurzweil	K2000	Programs -> DIGITAL	163 Outside L/A	
+Kurzweil	K2000	Programs -> DIGITAL	164 Newage	
+Kurzweil	K2000	Programs -> DIGITAL	165 Chorusar	
+Kurzweil	K2000	Programs -> DIGITAL	166 Utopian Comp	
+Kurzweil	K2000	Programs -> DIGITAL	167 Duality	
+Kurzweil	K2000	Programs -> DIGITAL	168 Synharp	
+Kurzweil	K2000	Programs -> DIGITAL	169 Velveteen	
+Kurzweil	K2000	Programs -> DIGITAL	170 Deep Atmospheres	
+Kurzweil	K2000	Programs -> DIGITAL	171 West Bombay	
+Kurzweil	K2000	Programs -> DIGITAL	172 Cymbal Pad	
+Kurzweil	K2000	Programs -> DIGITAL	173 Digialog	
+Kurzweil	K2000	Programs -> DIGITAL	174 Bella Voce	
+Kurzweil	K2000	Programs -> DIGITAL	175 Ice Expansion	
+Kurzweil	K2000	Programs -> DIGITAL	176 Guitar/Flute/Str	(This patch is listed twice in the ROM)
+Kurzweil	K2000	Programs -> DIGITAL	177 Belle Orchestra	
+Kurzweil	K2000	Programs -> DIGITAL	178 Tine Sine	
+Kurzweil	K2000	Programs -> DIGITAL	179 Angel Pad	
+Kurzweil	K2000	Programs -> DIGITAL	180 Mallet Chorus	
+Kurzweil	K2000	Programs -> DIGITAL	181 Mod Lag City	
+Kurzweil	K2000	Programs -> DIGITAL	182 Bells	
+Kurzweil	K2000	Programs -> DIGITAL	183 Warm Bell	
+Kurzweil	K2000	Programs -> DIGITAL	184 Glass Harmonica	
+Kurzweil	K2000	Programs -> DIGITAL	185 Dreamy Keys	
+Kurzweil	K2000	Programs -> DIGITAL	186 Digital Poly	
+Kurzweil	K2000	Programs -> DIGITAL	187 Digital Stack	
+Kurzweil	K2000	Programs -> DIGITAL	188 New Age Wood	
+Kurzweil	K2000	Programs -> FILM FX	189 Suspence	
+Kurzweil	K2000	Programs -> FILM FX	190 DeathToTheVoices	
+Kurzweil	K2000	Programs -> FILM FX	191 Control Formants	
+Kurzweil	K2000	Programs -> FILM FX	192 Auto Percussion	
+Kurzweil	K2000	Programs -> FILM FX	193 Qnirp	
+Kurzweil	K2000	Programs -> FILM FX	194 RainforestCrunch	
+Kurzweil	K2000	Programs -> FILM FX	195 Riding The Rails	
+Kurzweil	K2000	Programs -> FILM FX	196 Industry	
+Kurzweil	K2000	Programs -> FILM FX	197 2000 X	
+Kurzweil	K2000	Programs	198 Click	
+Kurzweil	K2000	Programs	199 Default Program	
+Revision 2 - V2/V3		(Released: ~1993)		Jump to top
+Kurzweil	K2000 V2/V3	Programs	1 3rd World Order	
+Kurzweil	K2000 V2/V3	Programs	2 Stereo Grand	
+Kurzweil	K2000 V2/V3	Programs	3 Touch Orchestra	
+Kurzweil	K2000 V2/V3	Programs	4 Preview Drums	
+Kurzweil	K2000 V2/V3	Programs	5 Crank It Up	
+Kurzweil	K2000 V2/V3	Programs	6 Dual Bass	
+Kurzweil	K2000 V2/V3	Programs	7 Fair Breath	
+Kurzweil	K2000 V2/V3	Programs	8 Trumpet&Bone	
+Kurzweil	K2000 V2/V3	Programs	9 Rock Stack	
+Kurzweil	K2000 V2/V3	Programs	10 Timershift	
+Kurzweil	K2000 V2/V3	Programs	11 Neo-Prophet	
+Kurzweil	K2000 V2/V3	Programs	12 Tine Elec Piano	
+Kurzweil	K2000 V2/V3	Programs	13 Touch StringOrch	
+Kurzweil	K2000 V2/V3	Programs	14 Orchestral Perc	
+Kurzweil	K2000 V2/V3	Programs	15 Steel Str Guitar	
+Kurzweil	K2000 V2/V3	Programs	16 Funk Me Bass	
+Kurzweil	K2000 V2/V3	Programs	17 Mixed Chior	
+Kurzweil	K2000 V2/V3	Programs	18 Miles Unmuted	
+Kurzweil	K2000 V2/V3	Programs	19 Bella Voce	
+Kurzweil	K2000 V2/V3	Programs	20 Big Jupiter	
+Kurzweil	K2000 V2/V3	Programs	21 Passion Source	
+Kurzweil	K2000 V2/V3	Programs	22 Piano&SloStrings	
+Kurzweil	K2000 V2/V3	Programs	23 Grand Strings	
+Kurzweil	K2000 V2/V3	Programs	24 West Room Kit	
+Kurzweil	K2000 V2/V3	Programs	25 Press Wah Wah	
+Kurzweil	K2000 V2/V3	Programs	26 No Frets	
+Kurzweil	K2000 V2/V3	Programs	27 Low World Vox	
+Kurzweil	K2000 V2/V3	Programs	28 20's Trumpet	
+Kurzweil	K2000 V2/V3	Programs	29 Ana's Saws	
+Kurzweil	K2000 V2/V3	Programs	30 Fun Delay Square	
+Kurzweil	K2000 V2/V3	Programs	31 Fantasia	
+Kurzweil	K2000 V2/V3	Programs	32 Brite Klav	
+Kurzweil	K2000 V2/V3	Programs	33 Marcato S.Strngs	
+Kurzweil	K2000 V2/V3	Programs	34 Castle Drums	
+Kurzweil	K2000 V2/V3	Programs	35 Dist Harmonics	
+Kurzweil	K2000 V2/V3	Programs	36 D House Bass	
+Kurzweil	K2000 V2/V3	Programs	37 Perc Voices	
+Kurzweil	K2000 V2/V3	Programs	38 Tenor Sax	
+Kurzweil	K2000 V2/V3	Programs	39 Car's Sync	
+Kurzweil	K2000 V2/V3	Programs	40 Islanders	
+Kurzweil	K2000 V2/V3	Programs	41 Auto Wavesession	
+Kurzweil	K2000 V2/V3	Programs	42 Bright Piano	
+Kurzweil	K2000 V2/V3	Programs	43 Hall Horns	
+Kurzweil	K2000 V2/V3	Programs	44 General MIDI Kit	
+Kurzweil	K2000 V2/V3	Programs	45 Acous 12 String	
+Kurzweil	K2000 V2/V3	Programs	46 Big Mono Bass	
+Kurzweil	K2000 V2/V3	Programs	47 Bamboo Voices	
+Kurzweil	K2000 V2/V3	Programs	48 StreetCorner Sax	
+Kurzweil	K2000 V2/V3	Programs	49 All In The Fader	
+Kurzweil	K2000 V2/V3	Programs	50 2000 Odyssey	
+Kurzweil	K2000 V2/V3	Programs	51 Night Ryder	
+Kurzweil	K2000 V2/V3	Programs	52 Dual Elec Piano	
+Kurzweil	K2000 V2/V3	Programs	53 Orchestral Winds	
+Kurzweil	K2000 V2/V3	Programs	54 Rock Kit	
+Kurzweil	K2000 V2/V3	Programs	55 Slo Chorus Gtr	
+Kurzweil	K2000 V2/V3	Programs	56 Pop Attack Bass	
+Kurzweil	K2000 V2/V3	Programs	57 Wind Vox	
+Kurzweil	K2000 V2/V3	Programs	58 Get Real Bari	
+Kurzweil	K2000 V2/V3	Programs	59 Vectoring	
+Kurzweil	K2000 V2/V3	Programs	60 Stereo Sweeps	
+Kurzweil	K2000 V2/V3	Programs	61 Glasswaves	
+Kurzweil	K2000 V2/V3	Programs	62 Gospel Organ	
+Kurzweil	K2000 V2/V3	Programs	63 Solo Flute	
+Kurzweil	K2000 V2/V3	Programs	64 Real Drums	
+Kurzweil	K2000 V2/V3	Programs	65 Guitar Mutes 1	
+Kurzweil	K2000 V2/V3	Programs	66 Finger Bass	
+Kurzweil	K2000 V2/V3	Programs	67 Digital Chior	
+Kurzweil	K2000 V2/V3	Programs	68 Hip Brass	
+Kurzweil	K2000 V2/V3	Programs	69 Utopian Comp	
+Kurzweil	K2000 V2/V3	Programs	70 Lucky Lead	
+Kurzweil	K2000 V2/V3	Programs	71 Gargantuan	
+Kurzweil	K2000 V2/V3	Programs	72 Williamsong	
+Kurzweil	K2000 V2/V3	Programs	73 Solo Trumpet	
+Kurzweil	K2000 V2/V3	Programs	74 Dyn Percussion	
+Kurzweil	K2000 V2/V3	Programs	75 Ravitar	
+Kurzweil	K2000 V2/V3	Programs	76 Warm Bass	
+Kurzweil	K2000 V2/V3	Programs	77 Mallet Voice	
+Kurzweil	K2000 V2/V3	Programs	78 Reed Section	
+Kurzweil	K2000 V2/V3	Programs	79 Outside L/A	
+Kurzweil	K2000 V2/V3	Programs	80 Press For Effect	
+Kurzweil	K2000 V2/V3	Programs	81 Flatliners	
+Kurzweil	K2000 V2/V3	Programs	82 Perc Organ	
+Kurzweil	K2000 V2/V3	Programs	83 Orchestral Brass	
+Kurzweil	K2000 V2/V3	Programs	84 Street Drums	
+Kurzweil	K2000 V2/V3	Programs	85 Cee Tuar	
+Kurzweil	K2000 V2/V3	Programs	86 Hammer Bass	
+Kurzweil	K2000 V2/V3	Programs	87 DeathToTheVoices	
+Kurzweil	K2000 V2/V3	Programs	88 BrassVTrigStab	
+Kurzweil	K2000 V2/V3	Programs	89 Velveteen	
+Kurzweil	K2000 V2/V3	Programs	90 Hybrid Sweep	
+Kurzweil	K2000 V2/V3	Programs	91 Clockbells	
+Kurzweil	K2000 V2/V3	Programs	92 Digital E Piano	
+Kurzweil	K2000 V2/V3	Programs	93 Slo Solo Strings	
+Kurzweil	K2000 V2/V3	Programs	94 Beat Box	
+Kurzweil	K2000 V2/V3	Programs	95 Sweetar	
+Kurzweil	K2000 V2/V3	Programs	96 Mondo Bass	
+Kurzweil	K2000 V2/V3	Programs	97 Brass Fanfare	
+Kurzweil	K2000 V2/V3	Programs	98 Jazz Quartet	
+Kurzweil	K2000 V2/V3	Programs	99 Modular Lead	
+Kurzweil	K2000 V2/V3	Programs	100 Balarimba	
+Kurzweil	K2000 V2/V3	Programs	101 Ethereal Strings	
+Kurzweil	K2000 V2/V3	Programs	102 Piano / S.String	
+Kurzweil	K2000 V2/V3	Programs	103 5 8ve Percussion	
+Kurzweil	K2000 V2/V3	Programs	104 3 Layer Kit	
+Kurzweil	K2000 V2/V3	Programs	105 Guitar Mutes 2	
+Kurzweil	K2000 V2/V3	Programs	106 Too Bad Bass	
+Kurzweil	K2000 V2/V3	Programs	107 Pipes 1	
+Kurzweil	K2000 V2/V3	Programs	108 Jethro's Flute	
+Kurzweil	K2000 V2/V3	Programs	109 Pinger	
+Kurzweil	K2000 V2/V3	Programs	110 DigThat DC Lead	
+Kurzweil	K2000 V2/V3	Programs	111 Klakran	
+Kurzweil	K2000 V2/V3	Programs	112 DX Clav	
+Kurzweil	K2000 V2/V3	Programs	113 Baroque Strings	
+Kurzweil	K2000 V2/V3	Programs	114 Dance Kit	
+Kurzweil	K2000 V2/V3	Programs	115 Clean Lead Gtr	
+Kurzweil	K2000 V2/V3	Programs	116 WonderSynth Bass	
+Kurzweil	K2000 V2/V3	Programs	117 Stackoid	
+Kurzweil	K2000 V2/V3	Programs	118 Orient Wind	
+Kurzweil	K2000 V2/V3	Programs	119 40 Something	
+Kurzweil	K2000 V2/V3	Programs	120 Dyno Synbrass	
+Kurzweil	K2000 V2/V3	Programs	121 Lunar Dance	
+Kurzweil	K2000 V2/V3	Programs	122 Ballad Organ	
+Kurzweil	K2000 V2/V3	Programs	123 Glockenspiel	
+Kurzweil	K2000 V2/V3	Programs	124 BellTree)BigBell	
+Kurzweil	K2000 V2/V3	Programs	125 HelterSkelterGtr	
+Kurzweil	K2000 V2/V3	Programs	126 Alaska	
+Kurzweil	K2000 V2/V3	Programs	127 Touch Down	
+Kurzweil	K2000 V2/V3	Programs	128 Almost Muted	
+Kurzweil	K2000 V2/V3	Programs	129 PressForThunder!	
+Kurzweil	K2000 V2/V3	Programs	130 Hi Res Sweeper	
+Kurzweil	K2000 V2/V3	Programs	131 Deep Atmospheres	
+Kurzweil	K2000 V2/V3	Programs	132 Pipes 2	
+Kurzweil	K2000 V2/V3	Programs	133 Hall Kettles	
+Kurzweil	K2000 V2/V3	Programs	134 Auto Percussion	
+Kurzweil	K2000 V2/V3	Programs	135 Soon	
+Kurzweil	K2000 V2/V3	Programs	136 Oh Bee!!!	
+Kurzweil	K2000 V2/V3	Programs	137 Sisternal	
+Kurzweil	K2000 V2/V3	Programs	138 A Kordian	
+Kurzweil	K2000 V2/V3	Programs	139 Industrial Komp	
+Kurzweil	K2000 V2/V3	Programs	140 Clock S&H Lead	
+Kurzweil	K2000 V2/V3	Programs	141 Multi-Texture	
+Kurzweil	K2000 V2/V3	Programs	142 Quillsichord	
+Kurzweil	K2000 V2/V3	Programs	143 Toto Brass	
+Kurzweil	K2000 V2/V3	Programs	144 Belles	
+Kurzweil	K2000 V2/V3	Programs	145 Kotolin	
+Kurzweil	K2000 V2/V3	Programs	146 Walking Bass	
+Kurzweil	K2000 V2/V3	Programs	147 Vibratone	
+Kurzweil	K2000 V2/V3	Programs	148 Analog  Brazz	
+Kurzweil	K2000 V2/V3	Programs	149 The Night Shift	
+Kurzweil	K2000 V2/V3	Programs	150 7th World String	
+Kurzweil	K2000 V2/V3	Programs	151 Tranquility	
+Kurzweil	K2000 V2/V3	Programs	152 B-2000	
+Kurzweil	K2000 V2/V3	Programs	153 Trombone	
+Kurzweil	K2000 V2/V3	Programs	154 Wave Bells	
+Kurzweil	K2000 V2/V3	Programs	155 AcousGtr&Strings	
+Kurzweil	K2000 V2/V3	Programs	156 Mogue Bass	
+Kurzweil	K2000 V2/V3	Programs	157 Orchestral Pad	
+Kurzweil	K2000 V2/V3	Programs	158 A.Bass&Ride/Pno	
+Kurzweil	K2000 V2/V3	Programs	159 In The Well	
+Kurzweil	K2000 V2/V3	Programs	160 Synth Wood Flute	
+Kurzweil	K2000 V2/V3	Programs	161 Shimmerling	
+Kurzweil	K2000 V2/V3	Programs	162 Toy Box	
+Kurzweil	K2000 V2/V3	Programs	163 Orch Hit	
+Kurzweil	K2000 V2/V3	Programs	164 Glassy Eyes	
+Kurzweil	K2000 V2/V3	Programs	165 Syncro Taps	
+Kurzweil	K2000 V2/V3	Programs	166 Metallica	
+Kurzweil	K2000 V2/V3	Programs	167 Organarimba	
+Kurzweil	K2000 V2/V3	Programs	168 AM Square Synth	
+Kurzweil	K2000 V2/V3	Programs	169 Through The Blue	
+Kurzweil	K2000 V2/V3	Programs	170 Pulsar	
+Kurzweil	K2000 V2/V3	Programs	171 Sweeper	
+Kurzweil	K2000 V2/V3	Programs	172 Rock Quartet	
+Kurzweil	K2000 V2/V3	Programs	173 Ensemble Pizz	
+Kurzweil	K2000 V2/V3	Programs	174 Organellica	
+Kurzweil	K2000 V2/V3	Programs	175 Classical Gtr	
+Kurzweil	K2000 V2/V3	Programs	176 Talk Talk	
+Kurzweil	K2000 V2/V3	Programs	177 Waterflute	
+Kurzweil	K2000 V2/V3	Programs	178 Lonely Fifths	
+Kurzweil	K2000 V2/V3	Programs	179 RainforestCrunch	
+Kurzweil	K2000 V2/V3	Programs	180 Native Dream	
+Kurzweil	K2000 V2/V3	Programs	181 Stratosphere	
+Kurzweil	K2000 V2/V3	Programs	182 Guitar / Flute	
+Kurzweil	K2000 V2/V3	Programs	183 Klarinet	
+Kurzweil	K2000 V2/V3	Programs	184 Press Evolution	
+Kurzweil	K2000 V2/V3	Programs	185 Rockin' Lead	
+Kurzweil	K2000 V2/V3	Programs	186 The Buzz	
+Kurzweil	K2000 V2/V3	Programs	187 Wood Bars	
+Kurzweil	K2000 V2/V3	Programs	188 Poly Analog 5th	
+Kurzweil	K2000 V2/V3	Programs	189 Northern Winds	
+Kurzweil	K2000 V2/V3	Programs	190 Doomsday	
+Kurzweil	K2000 V2/V3	Programs	191 Ethereal Echoes	
+Kurzweil	K2000 V2/V3	Programs	192 Harp On It	
+Kurzweil	K2000 V2/V3	Programs	193 Solo Bass Horn	
+Kurzweil	K2000 V2/V3	Programs	194 Alien Industry	
+Kurzweil	K2000 V2/V3	Programs	195 Slo FlangeStrngs	
+Kurzweil	K2000 V2/V3	Programs	196 Riding The Rails	
+Kurzweil	K2000 V2/V3	Programs	197 Heavee Metal	
+Kurzweil	K2000 V2/V3	Programs	198 Click	
+Kurzweil	K2000 V2/V3	Programs	199 Default Program	
+Kurzweil	K2000 V2/V3	Setups	1 Mega Force	Contains Patch 88, 9
+Kurzweil	K2000 V2/V3	Setups	2 Modern Keys	Contains Patch 117, 31
+Kurzweil	K2000 V2/V3	Setups	3 Classic Octaves	Contains Patch 42 three times at different octaves
+Kurzweil	K2000 V2/V3	Setups	4 Total Orchestra	Contains Patch 14, 83, 13
+Kurzweil	K2000 V2/V3	Setups	5 Port Control	Contains Patch 11, 9, 99
+Kurzweil	K2000 V2/V3	Setups	6 Emperor's Son	Contains Patch 77, 91, 40
+Kurzweil	K2000 V2/V3	Setups	7 Jamming	Contains Patch 158, 128
+Kurzweil	K2000 V2/V3	Setups	8 Strings & Winds	Contains Patch 53, 23
+Kurzweil	K2000 V2/V3	Setups	9 Jaco/Bell Tree	Contains Patch 26, 35, 124
+Kurzweil	K2000 V2/V3	Setups	10 Ana's Revenge	Contains Patch 20, 168, 197
+Kurzweil	K2000 V2/V3	Setups	11 China Garden	Contains Patch 85, 61, 118
+Kurzweil	K2000 V2/V3	Setups	12 Passion Bells	Contains Patch 19, 51, 21
+Kurzweil	K2000 V2/V3	Setups	13 Power Stack	Contains Patch 97, 150
+Kurzweil	K2000 V2/V3	Setups	14 After You	Contains Patch 172, 5
+Kurzweil	K2000 V2/V3	Setups	15 Harmonic Duet	Contains Patch 109, 72, 35
+Kurzweil	K2000 V2/V3	Setups	16 Yo House!	Contains Patch 85, 86, 56
+Kurzweil	K2000 V2/V3	Setups	17 Fluid Guitars	Contains Patch 15, 55
+Kurzweil	K2000 V2/V3	Setups	18 Funcussion 1	Contains Patch 74, 44, 104
+Kurzweil	K2000 V2/V3	Setups	19 Native Song	Contains Patch 119, 177
+Kurzweil	K2000 V2/V3	Setups	20 Fusion Clav	Contains Patch 52, 112
+Kurzweil	K2000 V2/V3	Setups	21 Hybrid Brass 1	
+Kurzweil	K2000 V2/V3	Setups	22 The Beginning	
+Kurzweil	K2000 V2/V3	Setups	23 Ballad Piano	
+Kurzweil	K2000 V2/V3	Setups	24 Cosmic Debries	
+Kurzweil	K2000 V2/V3	Setups	25 Orch Ensemble	
+Kurzweil	K2000 V2/V3	Setups	26 Beat Box Master	
+Kurzweil	K2000 V2/V3	Setups	27 Funkster	
+Kurzweil	K2000 V2/V3	Setups	28 SellYourOldGear	
+Kurzweil	K2000 V2/V3	Setups	29 Mega Pipes	
+Kurzweil	K2000 V2/V3	Setups	30 OctaStrings	
+Kurzweil	K2000 V2/V3	Setups	31 Funcussion 2	
+Kurzweil	K2000 V2/V3	Setups	32 Ballad Guitar	
+Kurzweil	K2000 V2/V3	Setups	33 Shipwrecked	
+Kurzweil	K2000 V2/V3	Setups	34 Big Wet LeadGtr	
+Kurzweil	K2000 V2/V3	Setups	35 Parisian	
+Kurzweil	K2000 V2/V3	Setups	36 Kicking Brass	
+Kurzweil	K2000 V2/V3	Setups	37 Dessert Wind	
+Kurzweil	K2000 V2/V3	Setups	38 Guitar& Piano8ve	
+Kurzweil	K2000 V2/V3	Setups	39 Clean Fifths	
+Kurzweil	K2000 V2/V3	Setups	40 Pacman Bass	
+Kurzweil	K2000 V2/V3	Setups	41 Stacked 1	
+Kurzweil	K2000 V2/V3	Setups	42 Liquid Image	
+Kurzweil	K2000 V2/V3	Setups	43 Police Attack	
+Kurzweil	K2000 V2/V3	Setups	44 DTunedPercussion	
+Kurzweil	K2000 V2/V3	Setups	45 Into The Gorge	
+Kurzweil	K2000 V2/V3	Setups	46 Mighty Clav	
+Kurzweil	K2000 V2/V3	Setups	47 Big Monster Kit	
+Kurzweil	K2000 V2/V3	Setups	48 GatesOf Delerium	
+Kurzweil	K2000 V2/V3	Setups	49 Stacked 2	
+Kurzweil	K2000 V2/V3	Setups	50 SaxSection &Lead	
+Kurzweil	K2000 V2/V3	Setups	51 Pipe & Choir	
+Kurzweil	K2000 V2/V3	Setups	52 Pressure Keys	
+Kurzweil	K2000 V2/V3	Setups	53 Piano/Cello	
+Kurzweil	K2000 V2/V3	Setups	54 Double Manual	
+Kurzweil	K2000 V2/V3	Setups	55 Too Blue	
+Kurzweil	K2000 V2/V3	Setups	56 Dead Zone	
+Kurzweil	K2000 V2/V3	Setups	57 Awaken	
+Kurzweil	K2000 V2/V3	Setups	58 Gabriel's Horns	
+Kurzweil	K2000 V2/V3	Setups	59 Lush Life	
+Kurzweil	K2000 V2/V3	Setups	60 Octave Pizz	
+Kurzweil	K2000 V2/V3	Setups	61 Pieroet	
+Kurzweil	K2000 V2/V3	Setups	62 Jazz Duet	
+Kurzweil	K2000 V2/V3	Setups	63 SuperHybridSynth	
+Kurzweil	K2000 V2/V3	Setups	64 Satellites	
+Kurzweil	K2000 V2/V3	Setups	65 Piano/Flute	
+Kurzweil	K2000 V2/V3	Setups	66 Ballad E. Piano	
+Kurzweil	K2000 V2/V3	Setups	67 T Banks	
+Kurzweil	K2000 V2/V3	Setups	68 Over The Edge	
+Kurzweil	K2000 V2/V3	Setups	69 Rhythm & Spice	
+Kurzweil	K2000 V2/V3	Setups	70 Lounge Lizard	
+Kurzweil	K2000 V2/V3	Setups	71 Stab Stack	
+Kurzweil	K2000 V2/V3	Setups	72 Mono & Poly	
+Kurzweil	K2000 V2/V3	Setups	73 Guitar Duo	
+Kurzweil	K2000 V2/V3	Setups	74 Omega Drums	
+Kurzweil	K2000 V2/V3	Setups	75 Chamber Strings	
+Kurzweil	K2000 V2/V3	Setups	76 Raga in D	
+Kurzweil	K2000 V2/V3	Setups	77 Vangelyes	
+Kurzweil	K2000 V2/V3	Setups	78 Night In Havana	
+Kurzweil	K2000 V2/V3	Setups	79 S & H	
+Kurzweil	K2000 V2/V3	Setups	80 Picked SynthBass	
+Kurzweil	K2000 V2/V3	Setups	81 Yahnee's Dream	
+Kurzweil	K2000 V2/V3	Setups	82 Soundtrack	
+Kurzweil	K2000 V2/V3	Setups	83 Thunder In LA	
+Kurzweil	K2000 V2/V3	Setups	84 Mallet Games	
+Kurzweil	K2000 V2/V3	Setups	85 Funk Power Split	
+Kurzweil	K2000 V2/V3	Setups	86 Unity Gain	
+Kurzweil	K2000 V2/V3	Setups	87 Olias	
+Kurzweil	K2000 V2/V3	Setups	88 Methenian	
+Kurzweil	K2000 V2/V3	Setups	89 Many Facets	
+Kurzweil	K2000 V2/V3	Setups	90 Hybrid Brass 2	
+Kurzweil	K2000 V2/V3	Setups	91 Pizz & Bass	
+Kurzweil	K2000 V2/V3	Setups	92 Ringflute	
+Kurzweil	K2000 V2/V3	Setups	93 Meditation	
+Kurzweil	K2000 V2/V3	Setups	94 Bars & Bells	
+Kurzweil	K2000 V2/V3	Setups	95 Bells Amoure	
+Kurzweil	K2000 V2/V3	Setups	96 Short Fuse	
+Kurzweil	K2000 V2/V3	Setups	97 Wavestream	
+Kurzweil	K2000 V2/V3	Setups	98 Keep Talking	
+Kurzweil	K2000 V2/V3	Setups	99 New Age Ensemble	
+Kurzweil	K2000 V2/V3	Setups	100 Basic Setup	Contains Patch 199
+Orchestral ROM		(Released: ~1993)		Jump to top
+Kurzweil	Orchestral ROM	Programs -> ORCHESTRAS	900 TotalCntrl Orch1	
+Kurzweil	Orchestral ROM	Programs -> ORCHESTRAS	901 TotalCntrl Orch2	
+Kurzweil	Orchestral ROM	Programs -> ORCHESTRAS	902 BaroqueOrchestra	
+Kurzweil	Orchestral ROM	Programs -> ORCHESTRAS	903 Oboe&Flute w/Str	
+Kurzweil	Orchestral ROM	Programs -> ORCHESTRAS	904 Horn&Flute w/Str	
+Kurzweil	Orchestral ROM	Programs -> ORCHESTRAS	905 Trp&Horns w/Str	
+Kurzweil	Orchestral ROM	Programs -> WINDS	906 Piccolo	
+Kurzweil	Orchestral ROM	Programs -> WINDS	907 Orchestral Flute	
+Kurzweil	Orchestral ROM	Programs -> WINDS	908 Solo Flute	
+Kurzweil	Orchestral ROM	Programs -> WINDS	909 Orchestral Oboe	
+Kurzweil	Orchestral ROM	Programs -> WINDS	910 Solo Oboe	
+Kurzweil	Orchestral ROM	Programs -> WINDS	911 2nd Oboe	
+Kurzweil	Orchestral ROM	Programs -> WINDS	912 Orch EnglishHorn	
+Kurzweil	Orchestral ROM	Programs -> WINDS	913 Solo EnglishHorn	
+Kurzweil	Orchestral ROM	Programs -> WINDS	914 Orch Clarinet	
+Kurzweil	Orchestral ROM	Programs -> WINDS	915 Solo Clarinet	
+Kurzweil	Orchestral ROM	Programs -> WINDS	916 Orch Bassoon	
+Kurzweil	Orchestral ROM	Programs -> WINDS	917 Solo Bassoon	
+Kurzweil	Orchestral ROM	Programs -> WINDS	918 Woodwinds 1	
+Kurzweil	Orchestral ROM	Programs -> WINDS	919 Woodwinds 2	
+Kurzweil	Orchestral ROM	Programs -> BRASS	920 Dynamic Trumpet	
+Kurzweil	Orchestral ROM	Programs -> BRASS	921 Copland Sft Trp	
+Kurzweil	Orchestral ROM	Programs -> BRASS	922 Orch Trumpet	
+Kurzweil	Orchestral ROM	Programs -> BRASS	923 Soft Trumpet	
+Kurzweil	Orchestral ROM	Programs -> BRASS	924 Strght Mute Trp	
+Kurzweil	Orchestral ROM	Programs -> BRASS	925 French Horn MW	
+Kurzweil	Orchestral ROM	Programs -> BRASS	926 Slow Horn	
+Kurzweil	Orchestral ROM	Programs -> BRASS	927 F Horn Con Sord	
+Kurzweil	Orchestral ROM	Programs -> BRASS	928 F Horns a2 MW	
+Kurzweil	Orchestral ROM	Programs -> BRASS	929 French Horn Sec1	
+Kurzweil	Orchestral ROM	Programs -> BRASS	930 French Horn Sec2	
+Kurzweil	Orchestral ROM	Programs -> BRASS	931 Solo Trombone	
+Kurzweil	Orchestral ROM	Programs -> BRASS	932 Tuba	
+Kurzweil	Orchestral ROM	Programs -> BRASS	933 Dyn Hi Brass	
+Kurzweil	Orchestral ROM	Programs -> BRASS	934 Dyn Lo Brass	
+Kurzweil	Orchestral ROM	Programs -> BRASS	935 Dyn Brass & Horn	
+Kurzweil	Orchestral ROM	Programs -> BRASS	936 Soaring Brass	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	937 MarcatoViolin MW	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	938 Solo Violin	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	939 2nd Violin	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	940 Orch Viola	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	941 Solo Viola	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	942 Slow Viola	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	943 Marcato Cello MW	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	944 Solo Cello	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	945 Slow Cello	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	946 Arco Dbl Bass	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	947 Slow Arco Bass	
+Kurzweil	Orchestral ROM	Programs -> SOLO STRINGS	948 Brt Dbl Bass	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	949 Touch Strings	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	950 Fast Strings MW	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	951 Chamber Section	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	952 Sfz Strings MW	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	953 Sweet Strings	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	954 Baroque Strg Ens	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	955 Big String Ens	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	956 Bass String Sec	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	957 Pizzicato String	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	958 Wet Pizz	
+Kurzweil	Orchestral ROM	Programs -> SECTION STRINGS	959 Arco & Pizz	
+Kurzweil	Orchestral ROM	Programs -> PLUCKED STRINGS	960 Classical Guitar	
+Kurzweil	Orchestral ROM	Programs -> PLUCKED STRINGS	961 Virtuoso Guitar	
+Kurzweil	Orchestral ROM	Programs -> PLUCKED STRINGS	962 Acoustic Bass	
+Kurzweil	Orchestral ROM	Programs -> PLUCKED STRINGS	963 Snappy Jazz Bass	
+Kurzweil	Orchestral ROM	Programs -> PLUCKED STRINGS	964 Dynamic Harp	
+Kurzweil	Orchestral ROM	Programs -> PLUCKED STRINGS	965 Harp w/8ve CTL	
+Kurzweil	Orchestral ROM	Programs -> PLUCKED STRINGS	966 Harp Arps	
+Kurzweil	Orchestral ROM	Programs -> KEYBOARDS	967 Celesta	
+Kurzweil	Orchestral ROM	Programs -> KEYBOARDS	968 Pipes	
+Kurzweil	Orchestral ROM	Programs -> KEYBOARDS	969 Pedal Pipes	
+Kurzweil	Orchestral ROM	Programs -> KEYBOARDS	970 Church Bells	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	971 Glockenspiel	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	972 Xylophone	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	973 Chimes	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	974 Timpani/Chimes	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	975 Timpani	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	976 Timpani & Perc	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	977 Big Drum Corp	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	978 Orch Percussion1	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	979 Orch Percussion2	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	980 Jam Corp	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	981 Conga & Perc	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	982 Woody Jam Rack	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	983 Metal Garden	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	984 Hot Tamali Kit	
+Kurzweil	Orchestral ROM	Programs -> PERCUSSION	985 Funk Kit	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	986 Magic Guitar	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	987 Glass Bow	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	988 Synth Orch	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	989 Nooage InstaHarp	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	990 AC Dream	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	991 Synth Dulcimer	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	992 Glistener	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	993 Afro Multi CTL	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	994 Tranquil Sleigh	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	995 Batman Strings	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	996 Ethnoo Lead	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	997 Orch Pad CTL	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	998 Choral Sleigh	
+Kurzweil	Orchestral ROM	Programs -> SYNTHS	999 Pad Nine	
+Kurzweil	Orchestral ROM	Setups	900 Deep Piano Rbn	
+Kurzweil	Orchestral ROM	Setups	901 Choir & Harp	
+Kurzweil	Orchestral ROM	Setups	902 Orchestrator	
+Kurzweil	Orchestral ROM	Setups	903 Piano Concerto	
+Kurzweil	Orchestral ROM	Setups	904 Xmas Carols	
+Kurzweil	Orchestral ROM	Setups	905 Sideline Perc	
+Kurzweil	Orchestral ROM	Setups	906 TonalGroov C5->	
+Kurzweil	Orchestral ROM	Setups	907 Exotic Grooves	
+Kurzweil	Orchestral ROM	Setups	908 Lunar Harp	
+Kurzweil	Orchestral ROM	Setups	909 Themes	
+Kurzweil	Orchestral ROM	Setups	910 Wet Piano	
+Kurzweil	Orchestral ROM	Setups	911 enter the Jester	
+Kurzweil	Orchestral ROM	Setups	912 Tap the Jester	
+Kurzweil	Orchestral ROM	Setups	913 Hybrid Strings	
+Kurzweil	Orchestral ROM	Setups	914 Wonderous Spaces	
+Kurzweil	Orchestral ROM	Setups	915 Metal Orch Pad	
+Kurzweil	Orchestral ROM	Setups	916 Toon prs	
+Kurzweil	Orchestral ROM	Setups	917 Tranquil Sea	
+Kurzweil	Orchestral ROM	Setups	918 Sick Clock Jam	
+Kurzweil	Orchestral ROM	Setups	919 Orc Split	
+Kurzweil	Orchestral ROM	Setups	920 Baroque Brass	
+Kurzweil	Orchestral ROM	Setups	921 Unison Orchestra	
+Kurzweil	Orchestral ROM	Setups	922 Unison w/Pizz	
+Kurzweil	Orchestral ROM	Setups	923 Switch Orchestra	
+Kurzweil	Orchestral ROM	Setups	924 Pizz/Str/Winds	
+Kurzweil	Orchestral ROM	Setups	925 Harp Arps Cmaj	
+Kurzweil	Orchestral ROM	Setups	926 Desert Bloom E1	
+Kurzweil	Orchestral ROM	Setups	927 Exotic Charge	
+Kurzweil	Orchestral ROM	Setups	928 ET Comes Home	
+Kurzweil	Orchestral ROM	Setups	929 Fanfare Orch	
+Kurzweil	Orchestral ROM	Setups	930 Switch Orch 2	
+Kurzweil	Orchestral ROM	Setups	931 Orbiting Venus	
+Kurzweil	Orchestral ROM	Setups	932 Glass Dulcimer	
+Kurzweil	Orchestral ROM	Setups	933 Hybrid Reeds	
+Kurzweil	Orchestral ROM	Setups	934 Two Hand Pizz	
+Kurzweil	Orchestral ROM	Setups	935 Slo Str & Horn	
+Kurzweil	Orchestral ROM	Setups	936 Pianist Band	
+Kurzweil	Orchestral ROM	Setups	937 Prepared Pianos	
+Kurzweil	Orchestral ROM	Setups	938 FSW1 solo winds	
+Kurzweil	Orchestral ROM	Setups	939 Strings&Winds	
+Kurzweil	Orchestral ROM	Setups	940 Str Ens Solo MW	
+Kurzweil	Orchestral ROM	Setups	941 Pno&Vox&Pizz	
+Kurzweil	Orchestral ROM	Setups	942 Down Wind SmRbn	
+Kurzweil	Orchestral ROM	Setups	943 Guitar & Piano	
+Kurzweil	Orchestral ROM	Setups	944 Cirrus 9	
+Kurzweil	Orchestral ROM	Setups	945 Dry Plucks	
+Kurzweil	Orchestral ROM	Setups	946 String Collage	
+Kurzweil	Orchestral ROM	Setups	947 Esoterica	
+Kurzweil	Orchestral ROM	Setups	948 Poseidon	
+Kurzweil	Orchestral ROM	Setups	949 Stalkers	
+Kurzweil	Orchestral ROM	Setups	950 Diabolic Trickle	
+Kurzweil	Orchestral ROM	KeyMap	900 Oboe	
+Kurzweil	Orchestral ROM	KeyMap	901 English Horn	
+Kurzweil	Orchestral ROM	KeyMap	902 Bassoon	
+Kurzweil	Orchestral ROM	KeyMap	903 Clarinet	
+Kurzweil	Orchestral ROM	KeyMap	904 Bassoon/Oboe	
+Kurzweil	Orchestral ROM	KeyMap	905 Bsn/EHrn/Oboe	
+Kurzweil	Orchestral ROM	KeyMap	906 Flute 2	
+Kurzweil	Orchestral ROM	KeyMap	907 Eng Horn/Oboe	
+Kurzweil	Orchestral ROM	KeyMap	910 Soft Trumpet	
+Kurzweil	Orchestral ROM	KeyMap	911 French Horn	
+Kurzweil	Orchestral ROM	KeyMap	912 French Hrn Sec	
+Kurzweil	Orchestral ROM	KeyMap	913 Tuba	
+Kurzweil	Orchestral ROM	KeyMap	914 Tuba/Horn	
+Kurzweil	Orchestral ROM	KeyMap	915 Tuba/Hrn Sec	
+Kurzweil	Orchestral ROM	KeyMap	916 Tuba/Sft Trmpt	
+Kurzweil	Orchestral ROM	KeyMap	917 Trombet	
+Kurzweil	Orchestral ROM	KeyMap	918 Trumpbone	
+Kurzweil	Orchestral ROM	KeyMap	919 Trombone/SftTrmpt	
+Kurzweil	Orchestral ROM	KeyMap	920 Timpani	
+Kurzweil	Orchestral ROM	KeyMap	921 Snare Roll	
+Kurzweil	Orchestral ROM	KeyMap	922 Snare Hit	
+Kurzweil	Orchestral ROM	KeyMap	923 Orch Bass Drum	
+Kurzweil	Orchestral ROM	KeyMap	924 Orch Crash	
+Kurzweil	Orchestral ROM	KeyMap	925 Tam Tam	
+Kurzweil	Orchestral ROM	KeyMap	926 Triangle	
+Kurzweil	Orchestral ROM	KeyMap	927 Tambourine Roll	
+Kurzweil	Orchestral ROM	KeyMap	928 Tamb Hit	
+Kurzweil	Orchestral ROM	KeyMap	929 Sleigh Bells	
+Kurzweil	Orchestral ROM	KeyMap	930 Woodblock	
+Kurzweil	Orchestral ROM	KeyMap	931 Low Clave	
+Kurzweil	Orchestral ROM	KeyMap	932 Castanet Hit	
+Kurzweil	Orchestral ROM	KeyMap	933 Castanet Up	
+Kurzweil	Orchestral ROM	KeyMap	934 Dry Snares	
+Kurzweil	Orchestral ROM	KeyMap	935 Amb Snare	
+Kurzweil	Orchestral ROM	KeyMap	936 Bass Drums	
+Kurzweil	Orchestral ROM	KeyMap	937 Orch Perc Units	
+Kurzweil	Orchestral ROM	KeyMap	938 Orch Perc Full	
+Kurzweil	Orchestral ROM	KeyMap	939 Misc Percussion	
+Kurzweil	Orchestral ROM	KeyMap	940 2Hand Amb Kit	
+Kurzweil	Orchestral ROM	KeyMap	941 2Hand Dry Kit	
+Kurzweil	Orchestral ROM	KeyMap	942 2H Kit Unit1	
+Kurzweil	Orchestral ROM	KeyMap	943 2H Kit Unit2	
+Kurzweil	Orchestral ROM	KeyMap	944 Xylophone	
+Kurzweil	Orchestral ROM	KeyMap	945 Glockenspiel	
+Kurzweil	Orchestral ROM	KeyMap	946 Chimes	
+Kurzweil	Orchestral ROM	KeyMap	947 2Hand DrumCorp	
+Kurzweil	Orchestral ROM	KeyMap	948 Lite Metal	
+Kurzweil	Orchestral ROM	KeyMap	949 Woody Perc	
+Kurzweil	Orchestral ROM	KeyMap	950 Celeste	
+Kurzweil	Orchestral ROM	KeyMap	951 Plucked Harp	
+Kurzweil	Orchestral ROM	KeyMap	952 Harp Gliss	
+Kurzweil	Orchestral ROM	KeyMap	953 Nylon String Gtr	
+Kurzweil	Orchestral ROM	KeyMap	954 Nylon Str noA2	
+Kurzweil	Orchestral ROM	KeyMap	955 Nylon for dulc	
+Kurzweil	Orchestral ROM	KeyMap	957 Acoustic Bass	
+Kurzweil	Orchestral ROM	KeyMap	960 Pizz Strings	
+Kurzweil	Orchestral ROM	KeyMap	961 Full Kbd DblBass	
+Kurzweil	Orchestral ROM	KeyMap	962 Solo Violin	
+Kurzweil	Orchestral ROM	KeyMap	963 Solo Viola	
+Kurzweil	Orchestral ROM	KeyMap	964 Solo Cello	
+Kurzweil	Orchestral ROM	KeyMap	965 Fast Solo Cello	
+Kurzweil	Orchestral ROM	KeyMap	966 Solo Double Bass	
+Kurzweil	Orchestral ROM	KeyMap	967 Bass/Cello	
+Kurzweil	Orchestral ROM	KeyMap	968 Bass/Cello/Vio	
+Kurzweil	Orchestral ROM	KeyMap	969 Cello/Vla/Cello	
+Kurzweil	Orchestral ROM	KeyMap	970 Cello/Vla/Vln	
+Kurzweil	Orchestral ROM	KeyMap	971 Ens Strings 2	
+Kurzweil	Orchestral ROM	KeyMap	972 Solo Section 1	
+Kurzweil	Orchestral ROM	KeyMap	973 Solo Section 2	
+Kurzweil	Orchestral ROM	KeyMap	979 BassDrum/Timp	
+Kurzweil	Orchestral ROM	KeyMap	980 Organ Wave 8	
+Kurzweil	Orchestral ROM	KeyMap	981 Buzz Wave 2	
+Kurzweil	Orchestral ROM	KeyMap	982 Ahh Buzz Wave	
+Kurzweil	Orchestral ROM	KeyMap	983 OB Wave 1	
+Kurzweil	Orchestral ROM	KeyMap	984 OB Wave 2	
+Kurzweil	Orchestral ROM	KeyMap	985 OB Wave 3	
+Kurzweil	Orchestral ROM	KeyMap	986 Tenor tune alt	
+Kurzweil	Orchestral ROM	KeyMap	987 Dual Ride 1	
+Kurzweil	Orchestral ROM	KeyMap	988 Black Fills C	
+Kurzweil	Orchestral ROM	KeyMap	989 Orc Perc Preview	
+Kurzweil	Orchestral ROM	KeyMap	990 <GM>Standard Kit	
+Kurzweil	Orchestral ROM	KeyMap	991 <GM> Orch Kit	
+Kurzweil	Orchestral ROM	KeyMap	992 Castanets x 3	
+Kurzweil	Orchestral ROM	KeyMap	993 Tambourine x 3	
+Kurzweil	Orchestral ROM	KeyMap	994 Black Fills B	
+Kurzweil	Orchestral ROM	KeyMap	995 Black Fills A	
+Kurzweil	Orchestral ROM	KeyMap	996 2HandDrumCrp NB	
+Kurzweil	Orchestral ROM	KeyMap	997 Sleigh Loop	
+Kurzweil	Orchestral ROM	KeyMap	998 Bs Drm Rumble	
+Kurzweil	Orchestral ROM	KeyMap	999 Church Bell	
+Contemporary ROM		(Released: ~1994)		Jump to top
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	800 Jungle Jam	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	801 Mbira Stack	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	802 Ritual Metals	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	803 Prepared Mbira	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	804 Balinesque	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	805 Ambient Bells	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	806 World Jam 1	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	807 World Jam 2	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	808 India Jam	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	809 Slo Wood Flute	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	810 Hybrid Pan Flute	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	811 Chiff Brass Lead	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	812 Bell Players	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	813 Prs Koto	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	814 Medicine Man	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	815 Mbira	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	816 Kotobira	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	817 Cartoon Perc	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	818 CowGogiBell	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	819 Perc Pan Lead	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	820 Trippy Organ	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	821 Koto Followers	
+Kurzweil	Contemporary ROM	Programs -> ETHNIC/WORLD INSTRUMENTS	822 Hybrid Horn	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	823 Dyno EP Lead	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	824 ParaKoto	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	825 Super Clav	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	826 StrataClav	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	827 Touch Clav	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	828 Bad Klav	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	829 Rad Rotor	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	830 B-2001	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	831 Perc Organ	
+Kurzweil	Contemporary ROM	Programs -> KEYBOARDS	832 Drawbar Organ CS	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	833 Bebop Alto Sax	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	834 Soft Alto Sax	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	835 Soprano Sax	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	836 Low Soft Sax	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	837 Air Reeds CS	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	838 Jazz Muted Trp	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	839 Jazz Lab Band	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	840 Harmon Section	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	841 Sfz Cres Brass	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	842 Neo Stabs	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	843 Gtr Jazz Band	
+Kurzweil	Contemporary ROM	Programs -> BRASS & REEDS	844 Full Rock Band	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	845 World Rave Kit	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	846 Punch Gate Kit	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	847 Shadow Kit	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	848 Fat Traps	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	849 Generator Kit	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	850 Shudder Kit	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	851 Crowd Stomper	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	852 Econo Kit	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	853 EDrum Kit 1	
+Kurzweil	Contemporary ROM	Programs -> DRUM KITS	854 EDrum Kit 2	
+Kurzweil	Contemporary ROM	Programs -> LOOPS	855 Dog Chases Tail	
+Kurzweil	Contemporary ROM	Programs -> LOOPS	856 Saw Loop Factory	
+Kurzweil	Contemporary ROM	Programs -> BASSES	857 Two Live Bass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	858 Dual/Tri Bass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	859 Clav-o-Bass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	860 Chirp Bass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	861 DigiBass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	862 Mono Synth Bass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	863 Touch MiniBass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	864 Ostinato Bass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	865 House Bass	
+Kurzweil	Contemporary ROM	Programs -> BASSES	866 Dubb Bass	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	867 Straight Strat	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	868 Chorus Gtr	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	869 Strataguitar	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	870 Elect 12 String	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	871 Dyn Jazz Guitar	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	872 Pedal Steel	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	873 Strummer DistGtr	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	874 Rock Axe	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	875 Hammeron	
+Kurzweil	Contemporary ROM	Programs -> GUITARS	876 Rock Axe mono	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	877 Attack Stack	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	878 Skinny Lead	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	879 Q Sweep SynClav	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	880 Anna Mini	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	881 Ballad Stack	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	882 Big Stack	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	883 BrazKnuckles	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	884 Hybrid Breath	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	885 Hybrid Stack	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	886 Eye Saw	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	887 Mello Hyb Brass	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	888 Sizzl E Pno	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	889 My JayDee	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	890 Slo SynthOrch	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	891 SpaceStation	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	892 Glass Web	
+Kurzweil	Contemporary ROM	Programs -> SYNTH TIMBRES	893 Circus Music	
+Kurzweil	Contemporary ROM	Programs -> PADS	894 Mandala	
+Kurzweil	Contemporary ROM	Programs -> PADS	895 Slow Strat	
+Kurzweil	Contemporary ROM	Programs -> PADS	896 Fluid Koto	
+Kurzweil	Contemporary ROM	Programs -> PADS	897 Koreana Pad	
+Kurzweil	Contemporary ROM	Programs -> PADS	898 Tangerine	
+Kurzweil	Contemporary ROM	Programs -> PADS	899 Planet 9	
+Kurzweil	Contemporary ROM	Setups	800 HyperGroov<-C4->	
+Kurzweil	Contemporary ROM	Setups	801 PianoPad w/Percs	
+Kurzweil	Contemporary ROM	Setups	802 Slo Held Arper	
+Kurzweil	Contemporary ROM	Setups	803 Don'tGetFooled	
+Kurzweil	Contemporary ROM	Setups	804 Touch Game	
+Kurzweil	Contemporary ROM	Setups	805 BeatBoy E1	
+Kurzweil	Contemporary ROM	Setups	806 ZawiClav Split	
+Kurzweil	Contemporary ROM	Setups	807 Dyn Piano Pad	
+Kurzweil	Contemporary ROM	Setups	808 Pulsar Stack	
+Kurzweil	Contemporary ROM	Setups	809 Mt Chicorora C2	
+Kurzweil	Contemporary ROM	Setups	810 Hold Low 3sec Rb	
+Kurzweil	Contemporary ROM	Setups	811 Mettlorfus Pad	
+Kurzweil	Contemporary ROM	Setups	812 Black Keys xtra	
+Kurzweil	Contemporary ROM	Setups	813 Jungle Jammer	
+Kurzweil	Contemporary ROM	Setups	814 Huge Rock Band	
+Kurzweil	Contemporary ROM	Setups	815 Rock Ballad	
+Kurzweil	Contemporary ROM	Setups	816 Jazz Setup	
+Kurzweil	Contemporary ROM	Setups	817 Two Touchers	
+Kurzweil	Contemporary ROM	Setups	818 Frontier prs	
+Kurzweil	Contemporary ROM	Setups	819 Eclectric Grand	
+Kurzweil	Contemporary ROM	Setups	820 Bad Trip FtSw/MW	
+Kurzweil	Contemporary ROM	Setups	821 WhirliToys	
+Kurzweil	Contemporary ROM	Setups	822 PluckSynths Perc	
+Kurzweil	Contemporary ROM	Setups	823 SusPed RhythmJam	
+Kurzweil	Contemporary ROM	Setups	824 Ballad Piano Pad	
+Kurzweil	Contemporary ROM	Setups	825 Big AnaLoveVibe	
+Kurzweil	Contemporary ROM	Setups	826 Shock Breaks	
+Kurzweil	Contemporary ROM	Setups	827 Four Pluckers	
+Kurzweil	Contemporary ROM	Setups	828 WaterPiano Pad	
+Kurzweil	Contemporary ROM	Setups	829 Padded Room	
+Kurzweil	Contemporary ROM	Setups	830 AtmosPolySphere	
+Kurzweil	Contemporary ROM	Setups	831 Breath Pad	
+Kurzweil	Contemporary ROM	Setups	832 Trippy Jam	
+Kurzweil	Contemporary ROM	Setups	833 MeditationGuits	
+Kurzweil	Contemporary ROM	Setups	834 Cool Down Funk	
+Kurzweil	Contemporary ROM	Setups	835 Tek`Groov C5->	
+Kurzweil	Contemporary ROM	Setups	836 Big Fat Split	
+Kurzweil	Contemporary ROM	Setups	837 The Pump C2	
+Kurzweil	Contemporary ROM	Setups	838 Ana Basses	
+Kurzweil	Contemporary ROM	Setups	839 Multi Followers	
+Kurzweil	Contemporary ROM	Setups	840 Plucksynths	
+Kurzweil	Contemporary ROM	Setups	841 10 Leagues Under	
+Kurzweil	Contemporary ROM	Setups	842 Gremlin Arps	
+Kurzweil	Contemporary ROM	Setups	843 Broken Toys	
+Kurzweil	Contemporary ROM	Setups	844 Two Synth	
+Kurzweil	Contemporary ROM	Setups	845 Machine Shop	
+Kurzweil	Contemporary ROM	Setups	846 Farawaway Place	
+Kurzweil	Contemporary ROM	Setups	847 BehindEnemyLines	
+Kurzweil	Contemporary ROM	Setups	848 Tunnel Visionprs	
+Kurzweil	Contemporary ROM	Setups	849 Siesmic Trance	
+Kurzweil	Contemporary ROM	Setups	850 Medal	
+Kurzweil	Contemporary ROM	KeyMap	800 Hybrid Pan	
+Kurzweil	Contemporary ROM	KeyMap	801 Glass Rim Tone	
+Kurzweil	Contemporary ROM	KeyMap	802 Synth Vox	
+Kurzweil	Contemporary ROM	KeyMap	803 Orch Pad	
+Kurzweil	Contemporary ROM	KeyMap	804 Koreana	
+Kurzweil	Contemporary ROM	KeyMap	805 Heaven Bells	
+Kurzweil	Contemporary ROM	KeyMap	806 MIDI Stack	
+Kurzweil	Contemporary ROM	KeyMap	807 Synth Brass	
+Kurzweil	Contemporary ROM	KeyMap	808 DigiBass	
+Kurzweil	Contemporary ROM	KeyMap	809 AnaBass	
+Kurzweil	Contemporary ROM	KeyMap	810 Mini Saw	
+Kurzweil	Contemporary ROM	KeyMap	811 EBass Pick	
+Kurzweil	Contemporary ROM	KeyMap	812 EBass Slap	
+Kurzweil	Contemporary ROM	KeyMap	813 Clean Elec Gtr	
+Kurzweil	Contemporary ROM	KeyMap	814 Distorted Guitar	
+Kurzweil	Contemporary ROM	KeyMap	815 Dist Harmonics	
+Kurzweil	Contemporary ROM	KeyMap	816 Clav	
+Kurzweil	Contemporary ROM	KeyMap	817 Tone Wheel Organ	
+Kurzweil	Contemporary ROM	KeyMap	818 Muted Trumpet	
+Kurzweil	Contemporary ROM	KeyMap	819 Soft Alto Sax	
+Kurzweil	Contemporary ROM	KeyMap	820 Koto	
+Kurzweil	Contemporary ROM	KeyMap	821 Mbira	
+Kurzweil	Contemporary ROM	KeyMap	822 Tabla Ta	
+Kurzweil	Contemporary ROM	KeyMap	823 Tabla Tin	
+Kurzweil	Contemporary ROM	KeyMap	824 Tabla Dhin	
+Kurzweil	Contemporary ROM	KeyMap	825 Tabla/Bayan Dha	
+Kurzweil	Contemporary ROM	KeyMap	826 Bayan	
+Kurzweil	Contemporary ROM	KeyMap	827 Ghatam Bass Tone	
+Kurzweil	Contemporary ROM	KeyMap	828 Small Ghatam	
+Kurzweil	Contemporary ROM	KeyMap	829 Ghatam Shell	
+Kurzweil	Contemporary ROM	KeyMap	830 Ghatam Slap	
+Kurzweil	Contemporary ROM	KeyMap	831 Dumbek Open Tone	
+Kurzweil	Contemporary ROM	KeyMap	832 Dumbek Brt Tone	
+Kurzweil	Contemporary ROM	KeyMap	833 Dumbek Tek	
+Kurzweil	Contemporary ROM	KeyMap	834 Dumbek Snap	
+Kurzweil	Contemporary ROM	KeyMap	835 Dumbek Dry Dum	
+Kurzweil	Contemporary ROM	KeyMap	836 Djembe Tone	
+Kurzweil	Contemporary ROM	KeyMap	837 Djembe Cl Slap	
+Kurzweil	Contemporary ROM	KeyMap	838 Djembe Open Slap	
+Kurzweil	Contemporary ROM	KeyMap	839 Djembe Finger	
+Kurzweil	Contemporary ROM	KeyMap	840 Djembe w/ Stick	
+Kurzweil	Contemporary ROM	KeyMap	841 Muzhar	
+Kurzweil	Contemporary ROM	KeyMap	842 Talking Drum Lo	
+Kurzweil	Contemporary ROM	KeyMap	843 Talking Drum Hi	
+Kurzweil	Contemporary ROM	KeyMap	844 Luna Drum Dry	
+Kurzweil	Contemporary ROM	KeyMap	845 Luna Drum Hi	
+Kurzweil	Contemporary ROM	KeyMap	846 Log Drum Lo	
+Kurzweil	Contemporary ROM	KeyMap	847 Log Drum Hi	
+Kurzweil	Contemporary ROM	KeyMap	848 Shakers/Tamborim	
+Kurzweil	Contemporary ROM	KeyMap	849 Gankogui Bell Lo	
+Kurzweil	Contemporary ROM	KeyMap	850 Gankogui Bell Hi	
+Kurzweil	Contemporary ROM	KeyMap	851 Tibetan Cymbal	
+Kurzweil	Contemporary ROM	KeyMap	852 Tibetan Bowl	
+Kurzweil	Contemporary ROM	KeyMap	853 Indo Bowl Gong	
+Kurzweil	Contemporary ROM	KeyMap	854 Prev Ethnic Perc	
+Kurzweil	Contemporary ROM	KeyMap	855 Cartoon Perc	
+Kurzweil	Contemporary ROM	KeyMap	856 Prev EDrum Map	
+Kurzweil	Contemporary ROM	KeyMap	857 Toms Map	
+Kurzweil	Contemporary ROM	KeyMap	858 ProcKick/Snr Map	
+Kurzweil	Contemporary ROM	KeyMap	859 EDrum Kit 1	
+Kurzweil	Contemporary ROM	KeyMap	860 EDrum Kit 2	
+Kurzweil	Contemporary ROM	KeyMap	861 1 Lyr Proc Kit	
+Kurzweil	Contemporary ROM	KeyMap	862 Industry Perc	
+Kurzweil	Contemporary ROM	KeyMap	863 Tuned Loops	
+Kurzweil	Contemporary ROM	KeyMap	870 PreparedMbira L1	
+Kurzweil	Contemporary ROM	KeyMap	871 PreparedMbira L2	
+Kurzweil	Contemporary ROM	KeyMap	872 World Jam 1 L1	
+Kurzweil	Contemporary ROM	KeyMap	873 World Jam 1 L2	
+Kurzweil	Contemporary ROM	KeyMap	874 World Jam 1 L3	
+Kurzweil	Contemporary ROM	KeyMap	875 India Jam L1	
+Kurzweil	Contemporary ROM	KeyMap	876 India Jam L2	
+Kurzweil	Contemporary ROM	KeyMap	877 World Jam 2 L1	
+Kurzweil	Contemporary ROM	KeyMap	878 World Jam 2 L2	
+Kurzweil	Contemporary ROM	KeyMap	879 World Jam 2 L3	
+Kurzweil	Contemporary ROM	KeyMap	880 World Jam 2 L4	
+Kurzweil	Contemporary ROM	KeyMap	881 World Jam 2 L5	
+Kurzweil	Contemporary ROM	KeyMap	882 World Jam 2 L6	
+Kurzweil	Contemporary ROM	KeyMap	883 World Jam 2 L7	
+Kurzweil	Contemporary ROM	KeyMap	884 World Jam 2 L8	
+Kurzweil	Contemporary ROM	KeyMap	885 CowGogiBell L1	
+Kurzweil	Contemporary ROM	KeyMap	886 Dual Log Drum	
+Kurzweil	Contemporary ROM	KeyMap	887 Jungle ProcDrms	
+Kurzweil	Contemporary ROM	KeyMap	888 JungleBrushTip1	
+Kurzweil	Contemporary ROM	KeyMap	889 JungleBrushTip2	
+Kurzweil	Contemporary ROM	KeyMap	890 Jungle Birds	
+Kurzweil	Contemporary ROM	KeyMap	891 Jungle Ghtm rel	
+Kurzweil	Contemporary ROM	KeyMap	892 Jungle Tabla	
+Kurzweil	Contemporary ROM	KeyMap	893 Jungle Dumbek	
+Kurzweil	Contemporary ROM	KeyMap	894 Jungle ProcDrms2	
+Kurzweil	Contemporary ROM	KeyMap	895 Jungle Ghtm Strgt	
+Kurzweil	Contemporary ROM	KeyMap	896 Syn Bass Pick	
+Kurzweil	Contemporary ROM	KeyMap	897 ARP SAW	
+Kurzweil	Contemporary ROM	KeyMap	898 ARP PW30%	
+Kurzweil	Contemporary ROM	KeyMap	899 OB PW25%	
+Stereo Piano ROM		(Released: 1994 or later)		Jump to top
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	770 Concert Piano 1	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	771 Studio Grand	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	772 Brt Grand & Str	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	773 Stereo Solo Pno	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	774 Brt Concert Pno	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	775 Concert Piano 2	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	776 Soft Piano	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	777 Piano for Layers	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	778 Rok Piano	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	779 RandomPan Grand	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	780 MonoStudioGrand	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	781 Grand & Elec 1	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	782 Grand & Elec 2	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	783 St Pno & Vox Pad	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	784 Funky Piano	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	785 E Grand Stack	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	786 Way Dark Piano	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	787 Piano Chase	
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	788 Piano Trio	Only selectable if Orchestral ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	789 Pno & Syn String	Only selectable if Orchestral ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	790 Fluid Grand	Only selectable if Orchestral ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	791 Haunted Piano	Only selectable if Orchestral ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	792 Xylopiano	Only selectable if Orchestral ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	793 Grand,Harp&Lead	Only selectable if Orchestral ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	794 Water Piano	Only selectable if Contemporary ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	795 StPno & OrchPad	Only selectable if Contemporary ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	796 Grand & Pad	Only selectable if Contemporary ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	797 Pop Grand Stack	Only selectable if Contemporary ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	798 Prepared Piano	Only selectable if Contemporary ROM is also installed
+Kurzweil	Stereo Piano ROM	Programs -> PIANOS	799 Tack Piano Stack	Only selectable if Contemporary ROM is also installed
+Kurzweil	Stereo Piano ROM	KeyMap	770 Stereo Piano	
+Kurzweil	Stereo Piano ROM	KeyMap	771 Piano Left	
+Kurzweil	Stereo Piano ROM	KeyMap	772 Piano Right	
+Kurzweil	Stereo Piano ROM	KeyMap	773 Pno440 Left	
+Kurzweil	Stereo Piano ROM	KeyMap	774 Pno440 Right	
+Kurzweil	Stereo Piano ROM	KeyMap	775 Mono Piano	
+Kurzweil	Stereo Piano ROM	KeyMap	776 Mono Piano 440	
+Kurzweil	Stereo Piano ROM	KeyMap	777 Hybrid Piano 1	
+Kurzweil	Stereo Piano ROM	KeyMap	778 Way Dull Piano	
+Kurzweil	Stereo Piano ROM	Sample	770 StereoPiano b0	
+Kurzweil	Stereo Piano ROM	Sample	771 StereoPiano e1	
+Kurzweil	Stereo Piano ROM	Sample	772 StereoPiano a1	
+Kurzweil	Stereo Piano ROM	Sample	773 StereoPiano d2	
+Kurzweil	Stereo Piano ROM	Sample	774 StereoPiano a#2	
+Kurzweil	Stereo Piano ROM	Sample	775 StereoPiano d3	
+Kurzweil	Stereo Piano ROM	Sample	776 StereoPiano a3	
+Kurzweil	Stereo Piano ROM	Sample	777 StereoPiano c#4	
+Kurzweil	Stereo Piano ROM	Sample	778 StereoPiano f4	
+Kurzweil	Stereo Piano ROM	Sample	779 StereoPiano b4	
+Kurzweil	Stereo Piano ROM	Sample	780 StereoPiano f5	
+Kurzweil	Stereo Piano ROM	Sample	781 StereoPiano b5	
+Kurzweil	Stereo Piano ROM	Sample	782 StereoPiano e6	
+Kurzweil	Stereo Piano ROM	Sample	783 StereoPiano a6	
+Kurzweil	Stereo Piano ROM	Sample	784 StereoPiano a6NR	
+Kurzweil	Stereo Piano ROM	Sample	785 StereoPiano e7	
+Kurzweil	Stereo Piano ROM	Sample	786 Piano Left	
+Kurzweil	Stereo Piano ROM	Sample	787 Piano Right	
+K2500 / K2500R		(Released: ~1996)		Jump to top
+Kurzweil	K2500	Programs -> KEYBOARDS	1 Acoustic Piano	
+Kurzweil	K2500	Programs -> KEYBOARDS	2 Stage Piano	
+Kurzweil	K2500	Programs -> KEYBOARDS	3 BriteGrand	
+Kurzweil	K2500	Programs -> KEYBOARDS	4 ClassicPiano&Vox	
+Kurzweil	K2500	Programs -> KEYBOARDS	5 Ballad Pno&Str	
+Kurzweil	K2500	Programs -> KEYBOARDS	6 Rock Piano 1	
+Kurzweil	K2500	Programs -> KEYBOARDS	7 Honky-Tonk	
+Kurzweil	K2500	Programs -> KEYBOARDS	8 E Grand & Pad	
+Kurzweil	K2500	Programs -> KEYBOARDS	9 Classic E Piano	
+Kurzweil	K2500	Programs -> KEYBOARDS	10 Dyno E Piano	
+Kurzweil	K2500	Programs -> KEYBOARDS	11 E Piano PF	
+Kurzweil	K2500	Programs -> KEYBOARDS	12 Suitcase E Pno	
+Kurzweil	K2500	Programs -> KEYBOARDS	13 Brite Klav	
+Kurzweil	K2500	Programs -> KEYBOARDS	14 Match Stick	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	15 Big PWM	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	16 Matrix 12	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	17 OBX Braz 4	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	18 Memorymoog 4	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	19 Prophet Pulse 2	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	20 Prophet Square 2	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	21 New Shaper	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	22 Klicomp tree	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	23 Digicomp	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	24 Da Clav	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	25 Simpilton	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	26 Synth Caliope	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	27 Chiffloots	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	28 Bamboo Voices	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	29 Hyper Guitar	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	30 Dreamers	
+Kurzweil	K2500	Programs -> COMPING SYNTHS	31 Pluxichord	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	32 Fluty Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	33 Gooshy Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	34 Orient Wind	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	35 DC Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	36 Duke's Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	37 FM Harmonica	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	38 Mini Lead Poly	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	39 AlaZawi	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	40 JR's Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	41 Funky Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	42 Hammeron Synth	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	43 Synthitar Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	44 Modular Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	45 Prophet Sync	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	46 Brt Saxy Lead	
+Kurzweil	K2500	Programs -> LEAD SYNTHS	47 Don Corllione'	
+Kurzweil	K2500	Programs -> DRUMS	48 Studio Kit 1	
+Kurzweil	K2500	Programs -> DRUMS	49 Studio Kit 2 MW	
+Kurzweil	K2500	Programs -> DRUMS	50 2 Live Kits MW	
+Kurzweil	K2500	Programs -> DRUMS	51 Rock Kit	
+Kurzweil	K2500	Programs -> DRUMS	52 Jazz Kit	
+Kurzweil	K2500	Programs -> DRUMS	53 Reggae Kit	
+Kurzweil	K2500	Programs -> DRUMS	54 Light Kit	
+Kurzweil	K2500	Programs -> DRUMS	55 Garage Kit MW	
+Kurzweil	K2500	Programs -> DRUMS	56 Techno Kit	
+Kurzweil	K2500	Programs -> DRUMS	57 General MIDI Kit	
+Kurzweil	K2500	Programs -> DRUMS	58 Slam'n Drums	
+Kurzweil	K2500	Programs -> DRUMS	59 Perc Section MW	
+Kurzweil	K2500	Programs -> DRUMS	60 Industry Set	
+Kurzweil	K2500	Programs -> DRUMS	61 Techno Loops	
+Kurzweil	K2500	Programs -> DRUMS	62 Rhythmatic	
+Kurzweil	K2500	Programs -> DRUMS	63 Dualimba	
+Kurzweil	K2500	Programs -> PERCUSSION	64 TouchDrums	
+Kurzweil	K2500	Programs -> PERCUSSION	65 Hand Drums	
+Kurzweil	K2500	Programs -> PERCUSSION	66 Dynamic Perc	
+Kurzweil	K2500	Programs -> PERCUSSION	67 Mark Tree	
+Kurzweil	K2500	Programs -> PERCUSSION	68 Bell Player	
+Kurzweil	K2500	Programs -> PERCUSSION	69 Marimba	
+Kurzweil	K2500	Programs -> PERCUSSION	70 Excited Marimba	
+Kurzweil	K2500	Programs -> BASSES	71 Dual E Bass	
+Kurzweil	K2500	Programs -> BASSES	72 Warm Bass	
+Kurzweil	K2500	Programs -> BASSES	73 Sustain E Bass	
+Kurzweil	K2500	Programs -> BASSES	74 Ripper Bass	
+Kurzweil	K2500	Programs -> BASSES	75 Yama Bass	
+Kurzweil	K2500	Programs -> BASSES	76 Synth Fretless	
+Kurzweil	K2500	Programs -> BASSES	77 Fretless Lead	
+Kurzweil	K2500	Programs -> BASSES	78 Moogy Bass 1	
+Kurzweil	K2500	Programs -> BASSES	79 Moogy Bass 2	
+Kurzweil	K2500	Programs -> BASSES	80 Mix Bass	
+Kurzweil	K2500	Programs -> BASSES	81 Tite Rave Bass	
+Kurzweil	K2500	Programs -> BASSES	82 Synth Bass	
+Kurzweil	K2500	Programs -> BASSES	83 House Bass	
+Kurzweil	K2500	Programs -> GUITARS	84 Acoustic Guitar	
+Kurzweil	K2500	Programs -> GUITARS	85 Steel Str Guitar	
+Kurzweil	K2500	Programs -> GUITARS	86 12-str Guitar	
+Kurzweil	K2500	Programs -> GUITARS	87 Strummer Guitar	
+Kurzweil	K2500	Programs -> GUITARS	88 Slo Chorus Gtr	
+Kurzweil	K2500	Programs -> GUITARS	89 Captain Crunch	
+Kurzweil	K2500	Programs -> GUITARS	90 Smooth Lead	
+Kurzweil	K2500	Programs -> GUITARS	91 Dist Harmonics	
+Kurzweil	K2500	Programs -> GUITARS	92 Kotolin	
+Kurzweil	K2500	Programs -> GUITARS	93 Cee Taur	
+Kurzweil	K2500	Programs -> GUITARS	94 Green Acres	
+Kurzweil	K2500	Programs -> ORGANS	95 Perc Organ 2500	
+Kurzweil	K2500	Programs -> ORGANS	96 Ballad Organ 2	
+Kurzweil	K2500	Programs -> ORGANS	97 Gospel Organ	
+Kurzweil	K2500	Programs -> ORGANS	98 Drive Organ	
+Kurzweil	K2500	Programs -> ORGANS	99 Rotating B's&M's	
+Kurzweil	K2500	Programs -> ORGANS	100 Cheeze	
+Kurzweil	K2500	Programs -> ORGANS	101 Tamborgan	
+Kurzweil	K2500	Programs -> ORGANS	102 Organ Pad	
+Kurzweil	K2500	Programs -> ORGANS	103 Chiffy Pipes	
+Kurzweil	K2500	Programs -> ORGANS	104 Offertory	
+Kurzweil	K2500	Programs -> ORGANS	105 Pedal Pipes	
+Kurzweil	K2500	Programs -> ORGANS	106 Church Organ	
+Kurzweil	K2500	Programs -> ORGANS	107 Resorgan	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	108 Fast Strings	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	109 Att ctl Fast Str	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	110 Att ctl Med Str	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	111 SfzTrem Strings	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	112 ClassicalStrings	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	113 SloClassical Str	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	114 Silk Strings	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	115 Fast Violin	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	116 Slo Solo Cello	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	117 Stereo Slo Str	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	118 Cathedral Choir	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	119 Mixed Chior	
+Kurzweil	K2500	Programs -> STRINGS/CHOIR	120 The Choir	
+Kurzweil	K2500	Programs -> WINDS	121 Wendy's Flute	
+Kurzweil	K2500	Programs -> WINDS	122 Treble Flute	
+Kurzweil	K2500	Programs -> WINDS	123 Baroque Flute	
+Kurzweil	K2500	Programs -> WINDS	124 Soft Tenor Sax	
+Kurzweil	K2500	Programs -> WINDS	125 Fast Solo Tenor	
+Kurzweil	K2500	Programs -> BRASS	126 Dynamic Trumpet	
+Kurzweil	K2500	Programs -> BRASS	127 Miles Unmuted	
+Kurzweil	K2500	Programs -> BRASS	128 Strght Mute Trpt	
+Kurzweil	K2500	Programs -> BRASS	129 Almost Muted	
+Kurzweil	K2500	Programs -> BRASS	130 Solo Trombone	
+Kurzweil	K2500	Programs -> BRASS	131 Sfz Bone	
+Kurzweil	K2500	Programs -> ENSEMBLES	132 Trumpet Section	
+Kurzweil	K2500	Programs -> ENSEMBLES	133 Hip Brass	
+Kurzweil	K2500	Programs -> ENSEMBLES	134 Brt Miami Brass	
+Kurzweil	K2500	Programs -> ENSEMBLES	135 Orchestral Brass	
+Kurzweil	K2500	Programs -> ENSEMBLES	136 Sax Section	
+Kurzweil	K2500	Programs -> ENSEMBLES	137 Dyn Big Band	
+Kurzweil	K2500	Programs -> ENSEMBLES	138 Flute & Slo Str	
+Kurzweil	K2500	Programs -> ENSEMBLES	139 Horn&Flute w/Str	
+Kurzweil	K2500	Programs -> ENSEMBLES	140 DynamicOrchestra	
+Kurzweil	K2500	Programs -> ENSEMBLES	141 Touch Orchestra	
+Kurzweil	K2500	Programs -> ENSEMBLES	142 Slo Ensamble	
+Kurzweil	K2500	Programs -> ENSEMBLES	143 W Tell Orchestra	
+Kurzweil	K2500	Programs -> ENSEMBLES	144 Jazz Band	
+Kurzweil	K2500	Programs -> ENSEMBLES	145 Rock Quartet	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	146 Gargantuanism	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	147 Tranquil Pluck	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	148 The Chase	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	149 Enterprize	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	150 Magic Orchestra	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	151 Passion Source	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	152 Microwave	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	153 Fuzz Lite	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	154 Solina Phaze	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	155 Arystal	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	156 Timershift	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	157 Aurora	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	158 Gongers	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	159 Arrakis Grand	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	160 Sisternal	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	161 PPG 4	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	162 Pseudomento MW	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	163 Big Strings	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	164 Spaced	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	165 Digital Chior	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	166 Meditation Pad	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	167 The Cymbal Sings	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	168 Slo FlangeStrngs	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	169 Lushlife	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	170 Crystal too	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	171 Multi Marimba	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	172 Wave Power	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	173 Noo Mutes	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	174 Hammer Violin	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	175 Mallet Flutes	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	176 Malletoo	
+Kurzweil	K2500	Programs -> HYBRID SYNTHS	177 Ethereal Echos	
+Kurzweil	K2500	Programs -> PAD SYNTHS	178 Padifier	
+Kurzweil	K2500	Programs -> PAD SYNTHS	179 Spaced Inn	
+Kurzweil	K2500	Programs -> PAD SYNTHS	180 Glass Bow	
+Kurzweil	K2500	Programs -> PAD SYNTHS	181 Angel Pass	
+Kurzweil	K2500	Programs -> PAD SYNTHS	182 In the Air	
+Kurzweil	K2500	Programs -> PAD SYNTHS	183 Matrix Mellostr	
+Kurzweil	K2500	Programs -> PAD SYNTHS	184 Ethereal Strings	
+Kurzweil	K2500	Programs -> PAD SYNTHS	185 Dawning	
+Kurzweil	K2500	Programs -> PAD SYNTHS	186 Synth Strings	
+Kurzweil	K2500	Programs -> PAD SYNTHS	187 Choir Fixer	
+Kurzweil	K2500	Programs -> PAD SYNTHS	188 Shine On	
+Kurzweil	K2500	Programs -> PAD SYNTHS	189 ChoirStrings	
+Kurzweil	K2500	Programs -> PAD SYNTHS	190 Launch Pad	
+Kurzweil	K2500	Programs -> EFFECTS SOUNDS	191 cymbal thing	
+Kurzweil	K2500	Programs -> EFFECTS SOUNDS	192 a no way CS	
+Kurzweil	K2500	Programs -> EFFECTS SOUNDS	193 Enviroments	
+Kurzweil	K2500	Programs -> EFFECTS SOUNDS	194 Gremlin Group	
+Kurzweil	K2500	Programs -> EFFECTS SOUNDS	195 Thunder Storm	
+Kurzweil	K2500	Programs -> EFFECTS SOUNDS	196 Northern Winds	
+Kurzweil	K2500	Programs -> EFFECTS SOUNDS	197 Doomsday	
+Kurzweil	K2500	Programs -> UTILITY	198 Click	
+Kurzweil	K2500	Programs -> UTILITY	199 Default Program	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	00 Prophet Clav	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	01 Prophet Clav #3	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	02 Prophet Disco	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	03 Prophet Disco 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	04 Prophet Fuzz	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	05 Prophet Fuzz #2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	06 Prophet Piano 1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	07 Prophet Pulse 1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	08 Prophet Pulse 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	09 Prophet Pulse 3	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	10 Prophet Pulse 4	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	11 Prophet Pulse 5	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	12 Prophet PWM Clav	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	13 Prophet Square 1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	14 Prophet Square 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	15 Prophet Square 3	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	16 Prophet Square 4	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	17 Prophet phase	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	18 Brightsaw Prophet	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	19 Neo-Prophet	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	20 Mellow Prophet	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	21 70's Synth	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	22 Big Mondo PWM	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	23 Big PWM	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	24 Big PWM #2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	25 Big PWM #5	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	26 Env PWM	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	27 PWM Ags	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	28 Journey Synth	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	29 Ana's Saws	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	30 OB-8 1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	31 Obyrez #1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	32 R&B Synth	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	33 Clean Sweep	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	34 Alaska	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	35 Analog Saw Pad	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	36 Poly Analog 1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	37 Poly Analog 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	38 Poly Analog 5th	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	39 Bright and Fat	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	40 Saw Teeth	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	41  9 Osc Sweep	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	42 Big Synthy #1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	43 Saw Repeater	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	44 Sawz	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	45 Big Jupiter	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	46 Dry Pluck Pad	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	47 o b Waves	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	48 Polysynth	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	49 Thick Osc	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	50 Oh Bee !!!	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	51 OBX Braz #1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	52 OBX Braz #2a	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	53 OBX Braz #4	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	54 Synth Brass	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	55 Real OBX Braz	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	56 Synbrass Sect	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	57 Synth Brass 1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	58 Synth Brass 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	59 Mellow Synbrass	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	60 Dyno Synbrass	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	61 Analog Brazz	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	62 Memorymoog #4	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	63 Memorymoog Split	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	64 Poly 2600 #1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	65 Poly ARP #1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	66 Poly ARP #2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	67 Elka 4	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	68 Elka II	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	69 Univox Piano #2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	70 Univox Piano #3	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	71 Matrix 12	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	72 Matrix 12 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	73 Matrix 12 House	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	74 Matrix 12 Rez 5	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	75 Matrix 12 Soft 5	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	76 Chiffatron	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	77 Mellotron	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	78 Mellotron 1	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	79 Mellotron 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	80 Mellotron 3	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	81 Tron Flutes	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	82 Tron Flutes 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	83 Tron Vox	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	84 Tron Vox 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	85 Tron Tapes	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	86 Tron Tapes 2	
+Kurzweil	K2500	Farm -> ANACOMPS.K25	87 Tron Strings	
+Kurzweil	K2500	Farm -> ANALEADS.K25	00 Chick Lead 1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	01 Chick Lick	
+Kurzweil	K2500	Farm -> ANALEADS.K25	02 Duke Lead 1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	03 Duke Lead 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	04 Duke's Lead 3	
+Kurzweil	K2500	Farm -> ANALEADS.K25	05 Control Formants	
+Kurzweil	K2500	Farm -> ANALEADS.K25	06 Ewi Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	07 Ewi Lead 2 (CS)	
+Kurzweil	K2500	Farm -> ANALEADS.K25	08 Porta Lead (CS)	
+Kurzweil	K2500	Farm -> ANALEADS.K25	09 Ballad Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	10 Wakeman #2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	11 Wakeman #3	
+Kurzweil	K2500	Farm -> ANALEADS.K25	12 Duo Synth	
+Kurzweil	K2500	Farm -> ANALEADS.K25	13 Zawinul 2600	
+Kurzweil	K2500	Farm -> ANALEADS.K25	14 Zawinul 2600 #2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	15 Quadra #1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	16 Quadra #2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	17 Quadra #3	
+Kurzweil	K2500	Farm -> ANALEADS.K25	18 Maj/Min Break	
+Kurzweil	K2500	Farm -> ANALEADS.K25	19 Dr. Dre Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	20 Lonely 5ths	
+Kurzweil	K2500	Farm -> ANALEADS.K25	21 Mini Lead #1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	22 Mini Lead #2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	23 Mini Lead #3	
+Kurzweil	K2500	Farm -> ANALEADS.K25	24 Mini Lead #4	
+Kurzweil	K2500	Farm -> ANALEADS.K25	25 Mini Lead #5	
+Kurzweil	K2500	Farm -> ANALEADS.K25	26 Mini Lead #6	
+Kurzweil	K2500	Farm -> ANALEADS.K25	27 Mini Lead #7	
+Kurzweil	K2500	Farm -> ANALEADS.K25	28 Mini Lead #8	
+Kurzweil	K2500	Farm -> ANALEADS.K25	29 Poly Mini	
+Kurzweil	K2500	Farm -> ANALEADS.K25	30 Mini 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	31 Poly Mini 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	32 PseudamentoCS	
+Kurzweil	K2500	Farm -> ANALEADS.K25	33 Pseudamento 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	34 Pseudamento 3	
+Kurzweil	K2500	Farm -> ANALEADS.K25	35 Pseudamento 5	
+Kurzweil	K2500	Farm -> ANALEADS.K25	36 Pseudamento 6	
+Kurzweil	K2500	Farm -> ANALEADS.K25	37 Pseudamento 7	
+Kurzweil	K2500	Farm -> ANALEADS.K25	38 MonoLead 1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	39 PRS Wow Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	40 Rich Raunch 1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	41 Rich Raunch 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	42 Wakeman	
+Kurzweil	K2500	Farm -> ANALEADS.K25	43 Wakeman#1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	44 Wakeman#4	
+Kurzweil	K2500	Farm -> ANALEADS.K25	45 JR Lead 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	46 Later Emerson	
+Kurzweil	K2500	Farm -> ANALEADS.K25	47 DC Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	48 Modular Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	49 Lucky Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	50 Mono Brass	
+Kurzweil	K2500	Farm -> ANALEADS.K25	51 OB Brass	
+Kurzweil	K2500	Farm -> ANALEADS.K25	52 SynBass Lead PRS	
+Kurzweil	K2500	Farm -> ANALEADS.K25	53 Clock S&H Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	54 Fun Delay Square	
+Kurzweil	K2500	Farm -> ANALEADS.K25	55 Square Pad	
+Kurzweil	K2500	Farm -> ANALEADS.K25	56 TimsDukeyDick 1	
+Kurzweil	K2500	Farm -> ANALEADS.K25	57 TimsDukeyDick 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	58 AlaZawinul	
+Kurzweil	K2500	Farm -> ANALEADS.K25	59 Lead Program	
+Kurzweil	K2500	Farm -> ANALEADS.K25	60 Lead Program 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	61 RezoLead Program	
+Kurzweil	K2500	Farm -> ANALEADS.K25	62 Skinny Lead	
+Kurzweil	K2500	Farm -> ANALEADS.K25	63 Car's Sync	
+Kurzweil	K2500	Farm -> ANALEADS.K25	64 Car's Sync 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	65 Classic Sync	
+Kurzweil	K2500	Farm -> ANALEADS.K25	66 Sync	
+Kurzweil	K2500	Farm -> ANALEADS.K25	67 Sync It !	
+Kurzweil	K2500	Farm -> ANALEADS.K25	68 Prophet Sync 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	69 Yo Mama !	
+Kurzweil	K2500	Farm -> ANALEADS.K25	70 Velocitync 2	
+Kurzweil	K2500	Farm -> ANALEADS.K25	71 Prophet Sync	
+Kurzweil	K2500	Farm -> ANALEADS.K25	72 Velocitync 3	
+Kurzweil	K2500	Farm -> ANAPADS.K25	00 Orch Pad 4	
+Kurzweil	K2500	Farm -> ANAPADS.K25	01 Lore Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	02 MatrixMelostring	
+Kurzweil	K2500	Farm -> ANAPADS.K25	03 String Like 2	
+Kurzweil	K2500	Farm -> ANAPADS.K25	04 Eerie Synth Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	05 Resonator	
+Kurzweil	K2500	Farm -> ANAPADS.K25	06 ARP Omni	
+Kurzweil	K2500	Farm -> ANAPADS.K25	07 String Machine 1	
+Kurzweil	K2500	Farm -> ANAPADS.K25	08 Synstring	
+Kurzweil	K2500	Farm -> ANAPADS.K25	09 Mixpad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	10 Mello Analog	
+Kurzweil	K2500	Farm -> ANAPADS.K25	11 Oberheim Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	12 Prophet Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	13 Memorymoog #2	
+Kurzweil	K2500	Farm -> ANAPADS.K25	14 Mister Softy	
+Kurzweil	K2500	Farm -> ANAPADS.K25	15 OB-8 Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	16 Slo Generic OBX	
+Kurzweil	K2500	Farm -> ANAPADS.K25	17 Prophet 5 Mello	
+Kurzweil	K2500	Farm -> ANAPADS.K25	18 Prophet 5 Mello5	
+Kurzweil	K2500	Farm -> ANAPADS.K25	19 Slo PWM	
+Kurzweil	K2500	Farm -> ANAPADS.K25	20 Soft PWM	
+Kurzweil	K2500	Farm -> ANAPADS.K25	21 Soft PWM 7	
+Kurzweil	K2500	Farm -> ANAPADS.K25	22 Slow Filter	
+Kurzweil	K2500	Farm -> ANAPADS.K25	23 JB Synth Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	24 Sawphaze	
+Kurzweil	K2500	Farm -> ANAPADS.K25	25 Sawphaze 7th	
+Kurzweil	K2500	Farm -> ANAPADS.K25	26 Solina Phaze	
+Kurzweil	K2500	Farm -> ANAPADS.K25	27 Solina Phaze 2	
+Kurzweil	K2500	Farm -> ANAPADS.K25	28 Solina Phaze 7th	
+Kurzweil	K2500	Farm -> ANAPADS.K25	29 Sweep Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	30 AM Square Synth	
+Kurzweil	K2500	Farm -> ANAPADS.K25	31 Matrix 12 Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	32 Matrix 12 Pad 5	
+Kurzweil	K2500	Farm -> ANAPADS.K25	33 Matrix 12 Pad 5 II	
+Kurzweil	K2500	Farm -> ANAPADS.K25	34 Slo SawPad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	35 Pad 5th	
+Kurzweil	K2500	Farm -> ANAPADS.K25	36 Another Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	37 Bag Slush Pod	
+Kurzweil	K2500	Farm -> ANAPADS.K25	38 Big Lush Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	39 Slo Lush Pad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	40 Lo Pad 7 Split	
+Kurzweil	K2500	Farm -> ANAPADS.K25	41 Matrix SoftPad	
+Kurzweil	K2500	Farm -> ANAPADS.K25	42 Matrix SoftPad 5	
+Kurzweil	K2500	Farm -> ANAPADS.K25	43 In the Air	
+Kurzweil	K2500	Farm -> ANAPADS.K25	44 Ride Sweep	
+Kurzweil	K2500	Farm -> ANAPADS.K25	45 Pulsar	
+Kurzweil	K2500	Farm -> ANAPADS.K25	46 Scanners	
+Kurzweil	K2500	Farm -> BASS.K25	00 Dual E Bass 1	
+Kurzweil	K2500	Farm -> BASS.K25	01 Dual E Bass 2	
+Kurzweil	K2500	Farm -> BASS.K25	02 Warm Dual Bass	
+Kurzweil	K2500	Farm -> BASS.K25	03 Sustain EBass 2	
+Kurzweil	K2500	Farm -> BASS.K25	04 Fingered Bass	
+Kurzweil	K2500	Farm -> BASS.K25	05 Fingered Bass 2	
+Kurzweil	K2500	Farm -> BASS.K25	06 Picked Bass	
+Kurzweil	K2500	Farm -> BASS.K25	07 Finger Bass	
+Kurzweil	K2500	Farm -> BASS.K25	08 Warm Bass	
+Kurzweil	K2500	Farm -> BASS.K25	09 E Bass & Ride	
+Kurzweil	K2500	Farm -> BASS.K25	10 Ripper	
+Kurzweil	K2500	Farm -> BASS.K25	11 Slap Bass 1	
+Kurzweil	K2500	Farm -> BASS.K25	12 Slap E Bass Prs	
+Kurzweil	K2500	Farm -> BASS.K25	13 Funk Me Bass	
+Kurzweil	K2500	Farm -> BASS.K25	14 Hammer Bass	
+Kurzweil	K2500	Farm -> BASS.K25	15 Too Bad Bass	
+Kurzweil	K2500	Farm -> BASS.K25	16 Walking Bass	
+Kurzweil	K2500	Farm -> BASS.K25	17 No Frets	
+Kurzweil	K2500	Farm -> BASS.K25	18 Big Lo Bass	
+Kurzweil	K2500	Farm -> BASS.K25	19 Big Mono Bass	
+Kurzweil	K2500	Farm -> BASS.K25	20 2 Big Basses	
+Kurzweil	K2500	Farm -> BASS.K25	21 Bass & Lead	
+Kurzweil	K2500	Farm -> BASS.K25	22 Bass & Rhodes	
+Kurzweil	K2500	Farm -> BASS.K25	23 Dubb Bass	
+Kurzweil	K2500	Farm -> BASS.K25	24 Mooger Bass	
+Kurzweil	K2500	Farm -> BASS.K25	25 Big Res Bass	
+Kurzweil	K2500	Farm -> BASS.K25	26 AnalogBass D	
+Kurzweil	K2500	Farm -> BASS.K25	27 Saw Bass	
+Kurzweil	K2500	Farm -> BASS.K25	28 Synth Bass 1	
+Kurzweil	K2500	Farm -> BASS.K25	29 WonderSynth Bass	
+Kurzweil	K2500	Farm -> BASS.K25	30 Mondo Bass	
+Kurzweil	K2500	Farm -> BASS.K25	31 Mogue Bass 2	
+Kurzweil	K2500	Farm -> BASS.K25	32 Mogue Bass 3	
+Kurzweil	K2500	Farm -> BASS.K25	33 Doom Bass	
+Kurzweil	K2500	Farm -> BASS.K25	34 Matrix Big Bass	
+Kurzweil	K2500	Farm -> BASS.K25	35 Matrix BigBass 3	
+Kurzweil	K2500	Farm -> BASS.K25	36 Moogy Bass #1	
+Kurzweil	K2500	Farm -> BASS.K25	37 Moogy Bass #2	
+Kurzweil	K2500	Farm -> BASS.K25	38 Moogy Bass #3	
+Kurzweil	K2500	Farm -> BASS.K25	39 Moogy Bass #4	
+Kurzweil	K2500	Farm -> BASS.K25	40 Moogy Bass #5	
+Kurzweil	K2500	Farm -> BASS.K25	41 Moogy Bass #6	
+Kurzweil	K2500	Farm -> BASS.K25	42 Moogy Bass #8	
+Kurzweil	K2500	Farm -> BASS.K25	43 ProphetPulsBass 2	
+Kurzweil	K2500	Farm -> BASS.K25	44 ProphetPulsBass 3	
+Kurzweil	K2500	Farm -> BASS.K25	45 ProphetPulseBass	
+Kurzweil	K2500	Farm -> BASS.K25	46 Synth Bass 2	
+Kurzweil	K2500	Farm -> BASS.K25	47 Synth Bass 3	
+Kurzweil	K2500	Farm -> BASS.K25	48 Tuch Bass	
+Kurzweil	K2500	Farm -> BASS.K25	49 Tuch Bass 2	
+Kurzweil	K2500	Farm -> BASS.K25	50 Unison House	
+Kurzweil	K2500	Farm -> BASS.K25	51 Pop Attack Bass	
+Kurzweil	K2500	Farm -> BASS.K25	52 Slap House Bass	
+Kurzweil	K2500	Farm -> BASS.K25	53 AnaHouse Bass	
+Kurzweil	K2500	Farm -> BASS.K25	54 House Bass #3	
+Kurzweil	K2500	Farm -> BASS.K25	55 House Bass #4	
+Kurzweil	K2500	Farm -> BASS.K25	56 House Bass #5	
+Kurzweil	K2500	Farm -> BASS.K25	57 House Bass #6	
+Kurzweil	K2500	Farm -> BASS.K25	58 House Bass #7	
+Kurzweil	K2500	Farm -> BASS.K25	59 Low BigBass 3	
+Kurzweil	K2500	Farm -> BASS.K25	60 Low BigBass 4	
+Kurzweil	K2500	Farm -> BELLS.K25	00 Larabell	
+Kurzweil	K2500	Farm -> BELLS.K25	01 Space Bell 1	
+Kurzweil	K2500	Farm -> BELLS.K25	02 Metallic Pad	
+Kurzweil	K2500	Farm -> BELLS.K25	03 Fantasia	
+Kurzweil	K2500	Farm -> BELLS.K25	04 Space Bell 6	
+Kurzweil	K2500	Farm -> BELLS.K25	05 d50  Voce 2	
+Kurzweil	K2500	Farm -> BELLS.K25	06 Leningrad	
+Kurzweil	K2500	Farm -> BELLS.K25	07 with Yinklers	
+Kurzweil	K2500	Farm -> BELLS.K25	08 Lullaby	
+Kurzweil	K2500	Farm -> BELLS.K25	09 Tranquility	
+Kurzweil	K2500	Farm -> BELLS.K25	10 Tranquil Bell	
+Kurzweil	K2500	Farm -> BELLS.K25	11 PM'S Bell Pad	
+Kurzweil	K2500	Farm -> BELLS.K25	12 Digiphaze	
+Kurzweil	K2500	Farm -> BELLS.K25	13 Blistener	
+Kurzweil	K2500	Farm -> BELLS.K25	14 Simmbell	
+Kurzweil	K2500	Farm -> BELLS.K25	15 BellTree)BigBell	
+Kurzweil	K2500	Farm -> BELLS.K25	16 Crystal	
+Kurzweil	K2500	Farm -> BELLS.K25	17 DigiBell 1	
+Kurzweil	K2500	Farm -> BELLS.K25	18 Wave Bells	
+Kurzweil	K2500	Farm -> BELLS.K25	19 Little Metals	
+Kurzweil	K2500	Farm -> BELLS.K25	20 Clangorous	
+Kurzweil	K2500	Farm -> BELLS.K25	21 Gong Layers	
+Kurzweil	K2500	Farm -> BELLS.K25	22 Mallet Pad	
+Kurzweil	K2500	Farm -> BELLS.K25	23 Clockbells	
+Kurzweil	K2500	Farm -> BELLS.K25	24 Balarimba	
+Kurzweil	K2500	Farm -> BELLS.K25	25 Pinger	
+Kurzweil	K2500	Farm -> BELLS.K25	26 Belles	
+Kurzweil	K2500	Farm -> BELLS.K25	27 Toy Box	
+Kurzweil	K2500	Farm -> BRASS.K25	00 Dynamic Trumpet	
+Kurzweil	K2500	Farm -> BRASS.K25	01 Solo trp mw vib	
+Kurzweil	K2500	Farm -> BRASS.K25	02 Miles Unmuted	
+Kurzweil	K2500	Farm -> BRASS.K25	03 Gentle trumpet	
+Kurzweil	K2500	Farm -> BRASS.K25	04 Strght Mute Trpt	
+Kurzweil	K2500	Farm -> BRASS.K25	05 Muted trumpet 2	
+Kurzweil	K2500	Farm -> BRASS.K25	06 Sfz "mute" trp	
+Kurzweil	K2500	Farm -> BRASS.K25	07 20's Trumpet	
+Kurzweil	K2500	Farm -> BRASS.K25	08 Almost Muted	
+Kurzweil	K2500	Farm -> BRASS.K25	09 Trombone	
+Kurzweil	K2500	Farm -> BRASS.K25	10 Solo Trombone	
+Kurzweil	K2500	Farm -> BRASS.K25	11 Sfz Bone	
+Kurzweil	K2500	Farm -> BRASS.K25	12 Tuba	
+Kurzweil	K2500	Farm -> BRASS.K25	13 Solo Bass Horn	
+Kurzweil	K2500	Farm -> BRASS.K25	14 Legato Flute	
+Kurzweil	K2500	Farm -> BRASS.K25	15 Legato Flute(prs)	
+Kurzweil	K2500	Farm -> BRASS.K25	16 Orchestral Flute	
+Kurzweil	K2500	Farm -> BRASS.K25	17 fast orch flute	
+Kurzweil	K2500	Farm -> BRASS.K25	18 wendy's Flute 2	
+Kurzweil	K2500	Farm -> BRASS.K25	19 Treble Flute	
+Kurzweil	K2500	Farm -> BRASS.K25	20 Jethro's Flute	
+Kurzweil	K2500	Farm -> BRASS.K25	21 JethroFlute(prs)	
+Kurzweil	K2500	Farm -> BRASS.K25	22 Baroque Flute 1	
+Kurzweil	K2500	Farm -> BRASS.K25	23 Baroque Flute 2	
+Kurzweil	K2500	Farm -> BRASS.K25	24 EchoFlute	
+Kurzweil	K2500	Farm -> BRASS.K25	25 Piccolo	
+Kurzweil	K2500	Farm -> BRASS.K25	26 Orch Piccolo 3	
+Kurzweil	K2500	Farm -> BRASS.K25	27 Tenor Sax	
+Kurzweil	K2500	Farm -> BRASS.K25	28 Kenny's Tenor	
+Kurzweil	K2500	Farm -> BRASS.K25	29 StreetCorner Sax	
+Kurzweil	K2500	Farm -> BRASS.K25	30 Get Real Bari	
+Kurzweil	K2500	Farm -> BRASS.K25	31 Fake Sax	
+Kurzweil	K2500	Farm -> BRASS.K25	32 Hybrid Sax	
+Kurzweil	K2500	Farm -> BRASS.K25	33 Reed Section	
+Kurzweil	K2500	Farm -> BRASS.K25	34 Sax Section 8ve 1	
+Kurzweil	K2500	Farm -> BRASS.K25	35 Section Sax 2	
+Kurzweil	K2500	Farm -> BRASS.K25	36 Tijuana Brass	
+Kurzweil	K2500	Farm -> BRASS.K25	37 Trp Section 1	
+Kurzweil	K2500	Farm -> BRASS.K25	38 Trps & Bones	
+Kurzweil	K2500	Farm -> BRASS.K25	39 Bri Trp & Bone	
+Kurzweil	K2500	Farm -> BRASS.K25	40 Trumpet & Bone	
+Kurzweil	K2500	Farm -> BRASS.K25	41 Hip Brass	
+Kurzweil	K2500	Farm -> BRASS.K25	42 Brass Section	
+Kurzweil	K2500	Farm -> BRASS.K25	43 Brass Band	
+Kurzweil	K2500	Farm -> BRASS.K25	44 Dyn Hi Brass B	
+Kurzweil	K2500	Farm -> BRASS.K25	45 Dyn Lo Brass B	
+Kurzweil	K2500	Farm -> BRASS.K25	46 Dyn Tbn & Hrn	
+Kurzweil	K2500	Farm -> BRASS.K25	47 Huge Brass 2	
+Kurzweil	K2500	Farm -> BRASS.K25	48 Huge Brass Too	
+Kurzweil	K2500	Farm -> BRASS.K25	49 SoftLowBrass B	
+Kurzweil	K2500	Farm -> BRASS.K25	50 Hall Horns	
+Kurzweil	K2500	Farm -> BRASS.K25	51 Mello Orch Brass	
+Kurzweil	K2500	Farm -> BRASS.K25	52 Chorale Brass 4	
+Kurzweil	K2500	Farm -> BRASS.K25	53 Soft Section 1	
+Kurzweil	K2500	Farm -> BRASS.K25	54 Soft BigBand 2	
+Kurzweil	K2500	Farm -> BRASS.K25	55 Big Band 3	
+Kurzweil	K2500	Farm -> BRASS.K25	56 Big Band 4	
+Kurzweil	K2500	Farm -> BRASS.K25	60 Trombone Section	
+Kurzweil	K2500	Farm -> BRASS.K25	61 Braz Sect	
+Kurzweil	K2500	Farm -> BRASS.K25	62 Orchestral Brass	
+Kurzweil	K2500	Farm -> BRASS.K25	63 SoftLowBrass	
+Kurzweil	K2500	Farm -> BRASS.K25	64 Spit Brass	
+Kurzweil	K2500	Farm -> BRASS.K25	65 Stacc. Brass & St	
+Kurzweil	K2500	Farm -> BRASS.K25	66 Brass & Strings	
+Kurzweil	K2500	Farm -> BRASS.K25	67 Huge Brass	
+Kurzweil	K2500	Farm -> DIGITAL.K25	00 Carrie or Maud	
+Kurzweil	K2500	Farm -> DIGITAL.K25	01 FM Guitar 1	
+Kurzweil	K2500	Farm -> DIGITAL.K25	02 FM Guitar 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	03 FM Guitar 3	
+Kurzweil	K2500	Farm -> DIGITAL.K25	04 FM Guitar 5	
+Kurzweil	K2500	Farm -> DIGITAL.K25	05 FM Harmonica	
+Kurzweil	K2500	Farm -> DIGITAL.K25	06 FM Lead	
+Kurzweil	K2500	Farm -> DIGITAL.K25	07 Funfare Leadelay	
+Kurzweil	K2500	Farm -> DIGITAL.K25	08 Monolead 1	
+Kurzweil	K2500	Farm -> DIGITAL.K25	09 Shape Mod Rules !	
+Kurzweil	K2500	Farm -> DIGITAL.K25	10 VS-Type	
+Kurzweil	K2500	Farm -> DIGITAL.K25	11 Wave Table II	
+Kurzweil	K2500	Farm -> DIGITAL.K25	12 Velveteen	
+Kurzweil	K2500	Farm -> DIGITAL.K25	13 Digi Strange	
+Kurzweil	K2500	Farm -> DIGITAL.K25	14 Buzz-a-Loo Too	
+Kurzweil	K2500	Farm -> DIGITAL.K25	15 Buzz-a-Loo	
+Kurzweil	K2500	Farm -> DIGITAL.K25	16 Digi Wet 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	17 The Buzz	
+Kurzweil	K2500	Farm -> DIGITAL.K25	18 Hybrid Sweep	
+Kurzweil	K2500	Farm -> DIGITAL.K25	19 Buzz Ofe	
+Kurzweil	K2500	Farm -> DIGITAL.K25	20 Cycler	
+Kurzweil	K2500	Farm -> DIGITAL.K25	21 Fuzz Lite 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	22 Growl	
+Kurzweil	K2500	Farm -> DIGITAL.K25	23 Cycler 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	24 Farr Feesah	
+Kurzweil	K2500	Farm -> DIGITAL.K25	25 Rezzysteppy	
+Kurzweil	K2500	Farm -> DIGITAL.K25	26 Whipstep	
+Kurzweil	K2500	Farm -> DIGITAL.K25	27 Deetuara II	
+Kurzweil	K2500	Farm -> DIGITAL.K25	28 Shap Mod Oscar	
+Kurzweil	K2500	Farm -> DIGITAL.K25	29 Backwards 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	30 Backwards 3	
+Kurzweil	K2500	Farm -> DIGITAL.K25	31 Backwards 4	
+Kurzweil	K2500	Farm -> DIGITAL.K25	32 Klikomp too	
+Kurzweil	K2500	Farm -> DIGITAL.K25	33 Klikomp tree	
+Kurzweil	K2500	Farm -> DIGITAL.K25	34 CS Clav	
+Kurzweil	K2500	Farm -> DIGITAL.K25	35 Talking Clav 3	
+Kurzweil	K2500	Farm -> DIGITAL.K25	36 Klav Ennette	
+Kurzweil	K2500	Farm -> DIGITAL.K25	37 Shape 3	
+Kurzweil	K2500	Farm -> DIGITAL.K25	38 Shape 1	
+Kurzweil	K2500	Farm -> DIGITAL.K25	39 New Shaper	
+Kurzweil	K2500	Farm -> DIGITAL.K25	40 RAD wave 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	41 Buzz Slap	
+Kurzweil	K2500	Farm -> DIGITAL.K25	42 Rizzak	
+Kurzweil	K2500	Farm -> DIGITAL.K25	43 Chorusar II	
+Kurzweil	K2500	Farm -> DIGITAL.K25	44 Lowteeth	
+Kurzweil	K2500	Farm -> DIGITAL.K25	45 Digi Power	
+Kurzweil	K2500	Farm -> DIGITAL.K25	46 Microwave 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	47 Insect Klav Rise	
+Kurzweil	K2500	Farm -> DIGITAL.K25	48 Insectrise	
+Kurzweil	K2500	Farm -> DIGITAL.K25	49 FuzzFall	
+Kurzweil	K2500	Farm -> DIGITAL.K25	50 EP Lead	
+Kurzweil	K2500	Farm -> DIGITAL.K25	51 Ep Lead Too	
+Kurzweil	K2500	Farm -> DIGITAL.K25	52 PPG 9	
+Kurzweil	K2500	Farm -> DIGITAL.K25	53 Slo PPG 10	
+Kurzweil	K2500	Farm -> DIGITAL.K25	54 PPG 1	
+Kurzweil	K2500	Farm -> DIGITAL.K25	55 PPG 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	56 PPG 4	
+Kurzweil	K2500	Farm -> DIGITAL.K25	57 PPG 8	
+Kurzweil	K2500	Farm -> DIGITAL.K25	58 Shape 2	
+Kurzweil	K2500	Farm -> DIGITAL.K25	59 Shape 4	
+Kurzweil	K2500	Farm -> DIGITAL.K25	60 Cricketar	
+Kurzweil	K2500	Farm -> DIGITAL.K25	61 Piano Ring	
+Kurzweil	K2500	Farm -> DIGITAL.K25	62 StringBell	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	00 AMB KICK 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	01 Tight Amb Kick 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	02 Sharp Amb Kick 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	03 AMB KICK 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	04 Room Kick Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	05 Big Kick Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	06 Dyn Kick Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	07 Gate Kick Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	08 Rock Kick Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	09 Amb Kick DR 2eKT	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	10 Crack Kick 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	11 AMB KICK 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	12 Fat Kick Drum 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	13 Pad Kick Drum 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	14 DRY KICK 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	15 Beater Kick Drum	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	16 Soft Kick Drum1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	17 Low Kick 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	18 Dance Kick 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	19 Dead Kick 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	20 DRY KICK 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	21 HighnDry Kick Dr	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	22 SoftnDry Kick Dr	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	23 Sub Kick Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	24 Noise Kick Drum	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	25 High'n Low Kick	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	26 Noisy Kick 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	27 Fried Kick 2f	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	28 Jazz Kick Drum 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	29 Jazz Kick Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	30 Techno Kick 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	31 little kick	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	32 Klik Kick	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	33 Cut Kick	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	34 Kick Drums	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	35 AMB SNARE 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	36 Rock Snare 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	37 Pop Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	38 Dance Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	39 Sharp Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	40 AMB SNARE 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	41 Big Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	42 Short Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	43 Deep Cut Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	44 Low Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	45 AMB SNARE 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	46 Big Hall Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	47 Metal Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	48 High Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	49 Hard Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	50 sLow Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	51 Tight Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	52 Gated Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	53 Amb/Dry Snare MW	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	54 DRY SNARE 1SOFT	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	55 Short Soft Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	56 Dyn Dry Snare 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	57 Deep Dry Snare 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	58 DRY SNARE 1HARD	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	59 Hard Attk DrySna	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	60 Cracked Dry Snar	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	61 Snappy Dry Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	62 DRY SNARE 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	63 Open Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	64 PunchySnare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	65 Studio Snare2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	66 DRY SNARE 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	67 Ringer Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	68 Roll Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	69 Harm Snare3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	70 Dual Dry Snare 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	71 Dual Dry Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	72 Dual Dry Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	73 Snare Drum 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	74 Snare Drum 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	75 Brush 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	76 Brush 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	77 Brush 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	78 Deep Brush	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	79 Hard Brush	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	80 Sharp Brush	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	81 Harmful Brush	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	82 Techno Snare 1	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	83 Techno Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	84 Res Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	85 Snare w/Ring	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	86 Res Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	87 Deep Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	88 Deep Snare 2	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	89 Deep Snare 3	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	90 Deep Snare 4	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	91 Deep Snare 5	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	92 Dual Deep Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	93 Ringy Snare	
+Kurzweil	K2500	Farm -> DKICKSNR.K25	94 Snare Program	
+Kurzweil	K2500	Farm -> DRUMS.K25	00 CR 78 III	
+Kurzweil	K2500	Farm -> DRUMS.K25	01 CR 78 J	
+Kurzweil	K2500	Farm -> DRUMS.K25	02 CR 78 Kick	
+Kurzweil	K2500	Farm -> DRUMS.K25	03 CR 78 Snare 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	04 CR 78 Hat	
+Kurzweil	K2500	Farm -> DRUMS.K25	05 CR 78 Hat 2 o	
+Kurzweil	K2500	Farm -> DRUMS.K25	06 CR 78 Hat o/c	
+Kurzweil	K2500	Farm -> DRUMS.K25	07 CR 78 Splish	
+Kurzweil	K2500	Farm -> DRUMS.K25	08 Fake Snare	
+Kurzweil	K2500	Farm -> DRUMS.K25	09 Fake Toms	
+Kurzweil	K2500	Farm -> DRUMS.K25	10 Fake Toms 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	11 Fake Hat	
+Kurzweil	K2500	Farm -> DRUMS.K25	12 Fake Hat Open	
+Kurzweil	K2500	Farm -> DRUMS.K25	13 Fake Hat o/c	
+Kurzweil	K2500	Farm -> DRUMS.K25	14 Fake Splash	
+Kurzweil	K2500	Farm -> DRUMS.K25	15 Rezit Klik	
+Kurzweil	K2500	Farm -> DRUMS.K25	16 Rezit Tick	
+Kurzweil	K2500	Farm -> DRUMS.K25	17 Rezit Klave	
+Kurzweil	K2500	Farm -> DRUMS.K25	18 Rezit Bongos	
+Kurzweil	K2500	Farm -> DRUMS.K25	19 Rezit Guiros	
+Kurzweil	K2500	Farm -> DRUMS.K25	20 Rezit Guiros 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	21 Rezit Guiros 3	
+Kurzweil	K2500	Farm -> DRUMS.K25	22 Rezit Sidestick	
+Kurzweil	K2500	Farm -> DRUMS.K25	23 Kowbell 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	24 Kowbell 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	25 Kowbell 3	
+Kurzweil	K2500	Farm -> DRUMS.K25	26 Kewbell 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	27 Kipbell 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	28 Tekno Kick	
+Kurzweil	K2500	Farm -> DRUMS.K25	29 Tryangle 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	30 Tryangle 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	31 808 Toms	
+Kurzweil	K2500	Farm -> DRUMS.K25	32 Noised	
+Kurzweil	K2500	Farm -> DRUMS.K25	33 Noised Sweep	
+Kurzweil	K2500	Farm -> DRUMS.K25	34 Zing 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	35 Zing 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	36 Thwick 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	37 Klap 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	38 Klap 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	39 Simmons	
+Kurzweil	K2500	Farm -> DRUMS.K25	40 Synth Tom	
+Kurzweil	K2500	Farm -> DRUMS.K25	41 Log Drum 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	42 Shaker Thing	
+Kurzweil	K2500	Farm -> DRUMS.K25	43 High Shaker	
+Kurzweil	K2500	Farm -> DRUMS.K25	44 Native Drum	
+Kurzweil	K2500	Farm -> DRUMS.K25	45 Dyn Perc	
+Kurzweil	K2500	Farm -> DRUMS.K25	46 5 Drums Low	
+Kurzweil	K2500	Farm -> DRUMS.K25	47 Dyn Snare Kit	
+Kurzweil	K2500	Farm -> DRUMS.K25	48 LightAmb DynKit	
+Kurzweil	K2500	Farm -> DRUMS.K25	49 New Dance Kit	
+Kurzweil	K2500	Farm -> DRUMS.K25	50 J Bottham	
+Kurzweil	K2500	Farm -> DRUMS.K25	51 1 Layer dry kit	
+Kurzweil	K2500	Farm -> DRUMS.K25	52 1 Layer dry kit2	
+Kurzweil	K2500	Farm -> DRUMS.K25	53 1 Layer Amb kit1	
+Kurzweil	K2500	Farm -> DRUMS.K25	54 1 Layer Amb kit2	
+Kurzweil	K2500	Farm -> DRUMS.K25	55 1 Layer Amb kit3	
+Kurzweil	K2500	Farm -> DRUMS.K25	56 Drums Program 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	57 Drums Program 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	58 Drums Program 3	
+Kurzweil	K2500	Farm -> DRUMS.K25	59 Drums Program 4	
+Kurzweil	K2500	Farm -> DRUMS.K25	60 Drums Program 5	
+Kurzweil	K2500	Farm -> DRUMS.K25	61 Toms 1	
+Kurzweil	K2500	Farm -> DRUMS.K25	62 Toms 2	
+Kurzweil	K2500	Farm -> DRUMS.K25	63 Toms 3	
+Kurzweil	K2500	Farm -> DRUMS.K25	64 Malletone	
+Kurzweil	K2500	Farm -> DRUMS.K25	65 Wood Bars	
+Kurzweil	K2500	Farm -> DRUMS.K25	66 Metal Bars	
+Kurzweil	K2500	Farm -> DRUMS.K25	67 Glockenspiel	
+Kurzweil	K2500	Farm -> DRUMS.K25	68 Tine Mariba	
+Kurzweil	K2500	Farm -> DRUMS.K25	69 Marimba Vibe	
+Kurzweil	K2500	Farm -> DRUMS.K25	70 JARO bell Ens	
+Kurzweil	K2500	Farm -> DRUMS.K25	71 JARO bell Ens 3	
+Kurzweil	K2500	Farm -> DRUMS.K25	72 Cym Roll!	
+Kurzweil	K2500	Farm -> DRUMS.K25	73 Gong Release	
+Kurzweil	K2500	Farm -> DRUMS.K25	74 Cym Roll 2 Cmplx	
+Kurzweil	K2500	Farm -> DRUMS.K25	75 TouchmTones	
+Kurzweil	K2500	Farm -> DRUMS.K25	76 Snappy JR	
+Kurzweil	K2500	Farm -> DRUMS.K25	77 Perky Lizards	
+Kurzweil	K2500	Farm -> DRUMS.K25	78 Touchy Rezoid	
+Kurzweil	K2500	Farm -> DRUMS.K25	79 Killamon-Jaro	
+Kurzweil	K2500	Farm -> DRUMS.K25	80 STEP-OOO-DOO	
+Kurzweil	K2500	Farm -> DRUMS.K25	81 Multipercs	
+Kurzweil	K2500	Farm -> DRUMS.K25	82 Killamon-Jaro 2	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	00 Flute & Slo str	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	01 Horn&Flute w/Str	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	02 Winds&Strings 2	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	03 W Tell Orchestra	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	04 Touch Orchestra	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	05 Orch Hit	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	06 Slo Ensemble	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	07 Mello Slo Ens	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	08 Voice w/ upper Str	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	09 ChoirStrings 1	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	10 St Choir&Strings	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	11 Syn Orch Winds	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	12 Syn Orch Pad	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	13  12 Str Rhodes	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	14 Williamsong	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	15 40 Something	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	16 Guitar / Flute	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	17 Piano / Cello	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	18 A.Bass&Ride/ Piano	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	19 Jazz Club	
+Kurzweil	K2500	Farm -> ENSEMBLE.K25	20 Trio 1	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	00 Aurora Part 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	01 Choir Jumps	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	02 Hipass Pad 6	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	03 Putthings	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	04 Smoothings	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	05 Stutterer	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	06 Timbre Steps	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	07 Solar System	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	08 Solar System 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	09 Solar System 3	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	10 Space Moves	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	11 Time Traveler 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	12 Bell Steps	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	13 Spac'd 1	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	14 Spac'd 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	15 Star Theme	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	16 Stringer W/01	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	17 Pair o' Pads	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	18 Soft fm 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	19 Wind Vox	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	20 Shimmerling	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	21 Stereo Sweeps	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	22 Multi-Texture	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	23 Touch Down	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	24 Choir Things	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	25 Heavens Voxx	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	26 Tinglethings	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	27 Mallet Choir 3	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	28 World's Order 1	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	29 World's Order 4	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	30 Angelia	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	31 DreamVox 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	32 Low World Vox	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	33 Enya Vocal Pad	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	34 Slo Syn Pad	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	35 DreamVox	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	36 Sisternal II	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	37 Sisternal 3	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	38 SloSynPad 2 (CS)	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	39 Snare Thing Pad	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	40 Flatliners	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	41 Fair Breath	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	42 Flutevox	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	43 Flutevox 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	44 Passion Source 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	45 Passion Base	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	46 Launch Pad 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	47 Waterphone	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	48 Glass Bow 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	49 Glasswaves	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	50 Glassy Eyes	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	51 Cycle 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	52 Harmonic Synth	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	53 Aliens 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	54 SloHarm	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	55 Slo HiHarm	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	56 Slo Vox Formant	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	57 Vectoring	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	58 Vectoring 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	59 Vectoring 3	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	60 Syn Tambura	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	61 LoWorld Shift 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	62  Odyssey	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	63 Deep Atmosphere	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	64 Lush Life 1	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	65 Lush Life 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	66 Lovershift	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	67 PM's Lead Pad	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	68 PressFor Thunder!	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	69 Bone Thing	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	70 Disaster	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	71 Aliens Voice	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	72 Space Notch 2	
+Kurzweil	K2500	Farm -> ETHEREAL.K25	73 Launch Pad Water	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	00 Fun Program	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	01 Fun 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	02 Hello 2 b	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	03 Talk Talk	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	04 Noise PWM Qnirp	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	05 NoizFalls	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	06 NoizFalls 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	07 Sub Space	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	08 Wavionics	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	09 Winds 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	10 Downpour	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	11 Press Wind	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	12 Thunder/Rain	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	13 Thunder 3	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	14 Aliens	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	15 Crashear	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	16 Pell ShakThing 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	17 Pell Thing 3	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	18 What!	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	19 Criks	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	20 Sinebird	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	21 Sinebird 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	22 Sineforest	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	23 RainforestCrunch	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	24 Chirps	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	25 Speilbergs	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	26 Captain Nemo	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	27 Meow Scratch	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	28 Qnirp	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	29 Shape lfo 1	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	30 Shape lfo 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	31 Shape lfo 3	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	32 Shape lfo MW	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	33 Xylo Lore	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	34 Notreallyrandom	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	35 Subotnick (CS)	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	36 ' ndustry 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	37 The Night Shift	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	38 Ffich	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	39 Strike 2nd	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	40 Slider Spaceout	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	41 DeathToTheVoices	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	42 Freddy's Hands	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	43 Slay Bells	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	44 Slay Drum	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	45 Dream State 2	
+Kurzweil	K2500	Farm -> FXSOUNDS.K25	46 Con Ed	
+Kurzweil	K2500	Farm -> GUITARS.K25	00 Acoustic Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	01 Steel Str Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	02 Steel Str Guitar 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	03 12-str Guitar 1	
+Kurzweil	K2500	Farm -> GUITARS.K25	04 12-str Guitar 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	05 Rich Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	06 Fluid Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	07 Fluid Guitar 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	08 Magic Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	09 Meditator 4	
+Kurzweil	K2500	Farm -> GUITARS.K25	10 Atmosphere	
+Kurzweil	K2500	Farm -> GUITARS.K25	11 Modern Harp	
+Kurzweil	K2500	Farm -> GUITARS.K25	12 Sweetar	
+Kurzweil	K2500	Farm -> GUITARS.K25	13 Steel String	
+Kurzweil	K2500	Farm -> GUITARS.K25	14 12 String	
+Kurzweil	K2500	Farm -> GUITARS.K25	15 Hybrid Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	16 Pluxichord 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	17 Clean Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	18 AcGtr&StrPad	
+Kurzweil	K2500	Farm -> GUITARS.K25	19 AcGtr&Strings 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	20 Para Gtr w/ Voice	
+Kurzweil	K2500	Farm -> GUITARS.K25	21 Mod Lag City	
+Kurzweil	K2500	Farm -> GUITARS.K25	22 Heaven Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	23 Oto Pad	
+Kurzweil	K2500	Farm -> GUITARS.K25	24 Majic Guitar #2	
+Kurzweil	K2500	Farm -> GUITARS.K25	25 Meditator E	
+Kurzweil	K2500	Farm -> GUITARS.K25	26 Nylon Ensemble 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	27 A.Gtr.Ensemb.(CS)	
+Kurzweil	K2500	Farm -> GUITARS.K25	28 3 Guitars (CS)	
+Kurzweil	K2500	Farm -> GUITARS.K25	29 All Guitars (CS)	
+Kurzweil	K2500	Farm -> GUITARS.K25	30 Slo Chorus Gtr	
+Kurzweil	K2500	Farm -> GUITARS.K25	31 Stereo Jazz Guit	
+Kurzweil	K2500	Farm -> GUITARS.K25	32 Clean Lead Gtr	
+Kurzweil	K2500	Farm -> GUITARS.K25	33 Jazz Dream	
+Kurzweil	K2500	Farm -> GUITARS.K25	34 Steriojazzguitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	35 Muted Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	36 Muted Guitar 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	37 Guitar Mutes 1	
+Kurzweil	K2500	Farm -> GUITARS.K25	38 Guitar Mutes 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	39 Mutes 3	
+Kurzweil	K2500	Farm -> GUITARS.K25	40 Mutes 4	
+Kurzweil	K2500	Farm -> GUITARS.K25	41 Mutes 5	
+Kurzweil	K2500	Farm -> GUITARS.K25	42 Fancy Mutes	
+Kurzweil	K2500	Farm -> GUITARS.K25	43 Jungle Mutes	
+Kurzweil	K2500	Farm -> GUITARS.K25	44 Press For Effect	
+Kurzweil	K2500	Farm -> GUITARS.K25	45 Distortion Gtr	
+Kurzweil	K2500	Farm -> GUITARS.K25	46 xFadeDistGuitar 2	
+Kurzweil	K2500	Farm -> GUITARS.K25	47 Nasty Lead Gtr	
+Kurzweil	K2500	Farm -> GUITARS.K25	48 Rockin Lead	
+Kurzweil	K2500	Farm -> GUITARS.K25	49 Press WahWah	
+Kurzweil	K2500	Farm -> GUITARS.K25	50 HelterSkelter Gtr	
+Kurzweil	K2500	Farm -> GUITARS.K25	51 GRUNGE	
+Kurzweil	K2500	Farm -> GUITARS.K25	52 Attacker	
+Kurzweil	K2500	Farm -> GUITARS.K25	53 Crank It Up	
+Kurzweil	K2500	Farm -> GUITARS.K25	54 Harmonics Gtr.	
+Kurzweil	K2500	Farm -> GUITARS.K25	55 Dist Harmonics	
+Kurzweil	K2500	Farm -> GUITARS.K25	56 Soon	
+Kurzweil	K2500	Farm -> GUITARS.K25	57 Charang	
+Kurzweil	K2500	Farm -> GUITARS.K25	58 Smithereen	
+Kurzweil	K2500	Farm -> GUITARS.K25	59 Guitar Lead	
+Kurzweil	K2500	Farm -> GUITARS.K25	60 Optical Link	
+Kurzweil	K2500	Farm -> GUITARS.K25	61 Meathead	
+Kurzweil	K2500	Farm -> GUITARS.K25	62 Kotolin	
+Kurzweil	K2500	Farm -> GUITARS.K25	63 Twangy Lead	
+Kurzweil	K2500	Farm -> GUITARS.K25	64 lectric twang	
+Kurzweil	K2500	Farm -> GUITARS.K25	65 Ravitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	66 Cee Tuar	
+Kurzweil	K2500	Farm -> GUITARS.K25	67 NewAge Guitar	
+Kurzweil	K2500	Farm -> GUITARS.K25	68 Classical Gtr	
+Kurzweil	K2500	Farm -> GUITARS.K25	69 Green Acres	
+Kurzweil	K2500	Farm -> GUITARS.K25	70 Para Pick w/ Voice	
+Kurzweil	K2500	Farm -> GUITARS.K25	71 Syncro Taps	
+Kurzweil	K2500	Farm -> GUITARS.K25	72 Stratosphere	
+Kurzweil	K2500	Farm -> HYBPERC.K25	00 Night Ryder	
+Kurzweil	K2500	Farm -> HYBPERC.K25	01 Ethnick 1	
+Kurzweil	K2500	Farm -> HYBPERC.K25	02 Neastern	
+Kurzweil	K2500	Farm -> HYBPERC.K25	03 Zawinul	
+Kurzweil	K2500	Farm -> HYBPERC.K25	04 Industrial Komp	
+Kurzweil	K2500	Farm -> HYBPERC.K25	05 Timber Shifter	
+Kurzweil	K2500	Farm -> HYBPERC.K25	06 Mod Bel	
+Kurzweil	K2500	Farm -> HYBPERC.K25	07 Klank 1	
+Kurzweil	K2500	Farm -> HYBPERC.K25	08 Toy Store II	
+Kurzweil	K2500	Farm -> HYBPERC.K25	09 Baribun	
+Kurzweil	K2500	Farm -> HYBPERC.K25	10 Choir Stabs	
+Kurzweil	K2500	Farm -> HYBPERC.K25	11 Resimallet	
+Kurzweil	K2500	Farm -> HYBPERC.K25	12 Perc Flute	
+Kurzweil	K2500	Farm -> HYBPERC.K25	13 Gateperc Too	
+Kurzweil	K2500	Farm -> HYBPERC.K25	14 Islanders	
+Kurzweil	K2500	Farm -> HYBPERC.K25	15 Driver 4	
+Kurzweil	K2500	Farm -> HYBPERC.K25	16 Driver 5	
+Kurzweil	K2500	Farm -> HYBPERC.K25	17 D50 Voicebell	
+Kurzweil	K2500	Farm -> HYBPERC.K25	18 Vox Marimba	
+Kurzweil	K2500	Farm -> HYBPERC.K25	19 Wet Voices	
+Kurzweil	K2500	Farm -> HYBPERC.K25	20 New Dawn 2	
+Kurzweil	K2500	Farm -> HYBPERC.K25	21 Wood Pad	
+Kurzweil	K2500	Farm -> HYBPERC.K25	22 Ensamble 1	
+Kurzweil	K2500	Farm -> HYBPERC.K25	23 Perc Voices	
+Kurzweil	K2500	Farm -> HYBPERC.K25	24 Mallet Voice	
+Kurzweil	K2500	Farm -> HYBPERC.K25	25 Klakran	
+Kurzweil	K2500	Farm -> HYBPERC.K25	26 Bella Voce	
+Kurzweil	K2500	Farm -> HYBPERC.K25	27 Noo Marimbala	
+Kurzweil	K2500	Farm -> HYBPERC.K25	28 Sweet Mallets	
+Kurzweil	K2500	Farm -> HYBPERC.K25	29 Tranquil Pluck 2	
+Kurzweil	K2500	Farm -> HYBPERC.K25	30 Dyn Marimba	
+Kurzweil	K2500	Farm -> HYBPERC.K25	31 Arystal 1	
+Kurzweil	K2500	Farm -> HYBPERC.K25	32 Arystal 2	
+Kurzweil	K2500	Farm -> HYBPERC.K25	33 Arystal 3	
+Kurzweil	K2500	Farm -> HYBPERC.K25	34 Dankness	
+Kurzweil	K2500	Farm -> HYBPERC.K25	35 In the Well	
+Kurzweil	K2500	Farm -> HYBPERC.K25	36 Orchestrar	
+Kurzweil	K2500	Farm -> HYBPERC.K25	37 Orchestrar 2	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	00 Brt SynChoir	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	01 Angel Pad	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	02 Big TynthTex	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	03 Bush String Pad	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	04 Lush Strangs	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	05 Fake String	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	06 Stereo ChoirStr	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	07 Mirage Strings	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	08 FatMan Str II CS	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	09 Fatman Strings	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	10 Thick Low Pad	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	11 Synth Choir Ensemble	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	12 New Dawn	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	13 Big Single	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	14 Mella Tron	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	15 Froese String	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	16 String Reversal	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	17 DistortResonance	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	18 Hi Res Sweeper	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	19 7th World String	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	20 Sweeper	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	21 Lunar Dance	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	22 Stack Pad 4	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	23 String Machines	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	24 Fairlite Like	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	25 String Stack	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	26 Golck 'n Brass	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	27 Grand String	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	28 LA Stack	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	29 Rock Stack	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	30 All in the Fader	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	31 Utopian Comp	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	32 Gargantuan	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	33 Outside L/A	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	34 Stackoid	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	35 Ethnick 2	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	36 Hybrid Flute	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	37 Clave Flute	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	38 Xyliope	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	39 Fake Chiff	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	40 Fluty Lead 4	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	41 Perky Caliope	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	42 Koto Inside	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	43 Koto Inside 2	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	44 Chiff Lead	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	45 Marimba & Flutes	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	46 Flooter 2	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	47 E Pno & Lead 1	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	48 Bars & Lead	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	49 Vibe 5th	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	50 7-Sax Delay	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	51 7-Sax Delay 2	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	52 Mutant Brass	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	53 Neu Trumps	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	54 New Rumpett	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	55 Process Sax	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	56 RezTouch Sax 5th	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	57 S+H Violin	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	58 String Function	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	59 Violastic 2	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	60 BushKate Cellos	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	61 Aliens Wood	
+Kurzweil	K2500	Farm -> HYBRIDS.K25	62 A Kordian	
+Kurzweil	K2500	Farm -> ORGANS.K25	00 Ballad Organ 2 pr	
+Kurzweil	K2500	Farm -> ORGANS.K25	01 Ballad Organ 3	
+Kurzweil	K2500	Farm -> ORGANS.K25	02 London Hammond	
+Kurzweil	K2500	Farm -> ORGANS.K25	03 London Hammond 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	04 Drive Organ	
+Kurzweil	K2500	Farm -> ORGANS.K25	05 Drive Organ 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	06 Rotating B&M's 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	07 Perc Organ	
+Kurzweil	K2500	Farm -> ORGANS.K25	08 Clav Organ MW	
+Kurzweil	K2500	Farm -> ORGANS.K25	09 Bee3	
+Kurzweil	K2500	Farm -> ORGANS.K25	10 Tamborgan #2	
+Kurzweil	K2500	Farm -> ORGANS.K25	11 Pipes 1	
+Kurzweil	K2500	Farm -> ORGANS.K25	12 Pipes 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	13 Pipes 3	
+Kurzweil	K2500	Farm -> ORGANS.K25	14 Sanctuary Pipes	
+Kurzweil	K2500	Farm -> ORGANS.K25	15 Sanctuary Pipes2	
+Kurzweil	K2500	Farm -> ORGANS.K25	16 Flute Pipe1 C+MW	
+Kurzweil	K2500	Farm -> ORGANS.K25	17 Flute Pipes 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	18 Cath.Pipes(C+MW)	
+Kurzweil	K2500	Farm -> ORGANS.K25	19 Cathedral Pipes2	
+Kurzweil	K2500	Farm -> ORGANS.K25	20 Pedal Pipes 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	21 Pedal Pipes 3	
+Kurzweil	K2500	Farm -> ORGANS.K25	22 Pipes 2 (C+MW)	
+Kurzweil	K2500	Farm -> ORGANS.K25	23 Pipes 3 (C+MW)	
+Kurzweil	K2500	Farm -> ORGANS.K25	24 Pipes 4 (C+MW)	
+Kurzweil	K2500	Farm -> ORGANS.K25	25 Organ 1 (drawbar)	
+Kurzweil	K2500	Farm -> ORGANS.K25	26 Organ 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	27 Organ 2 (perc)	
+Kurzweil	K2500	Farm -> ORGANS.K25	28 Mello Perc	
+Kurzweil	K2500	Farm -> ORGANS.K25	29 Tamb Organ	
+Kurzweil	K2500	Farm -> ORGANS.K25	30 Organarimba	
+Kurzweil	K2500	Farm -> ORGANS.K25	31 Organellica	
+Kurzweil	K2500	Farm -> ORGANS.K25	32 Synth Pipe	
+Kurzweil	K2500	Farm -> ORGANS.K25	33 Mello organ	
+Kurzweil	K2500	Farm -> ORGANS.K25	34 Organ pad 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	35 Organ 3 (perc)	
+Kurzweil	K2500	Farm -> ORGANS.K25	36 DrawbarPerc	
+Kurzweil	K2500	Farm -> ORGANS.K25	37 Diver	
+Kurzweil	K2500	Farm -> ORGANS.K25	38 Diver 2	
+Kurzweil	K2500	Farm -> ORGANS.K25	39 Diver 3	
+Kurzweil	K2500	Farm -> ORGANS.K25	40 Driver 3	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	00 ClassicalPiano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	01 ClassPiano 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	02 DynamicPiano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	03 BalladPiano 3	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	04 CP-70	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	05 CP-70 1 layer	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	06 Stereo Grand	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	07 Studio Piano 1	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	08 Studio Piano 3	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	09 -Studio Piano 5	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	10 Rock Syn Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	11 Rock Piano 1	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	12 Piano&SloStrings	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	13 ClassPiano&Voice	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	14 ClassPiano&Str	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	15 Blld Piano & Str	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	16 Piano&FilterStr	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	17 Piano & Voicepad	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	18 Vox Tite Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	19 Britegrand 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	20 Britegrand 3	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	21 Bright Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	22 Bright Piano 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	23 House Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	24 Tight Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	25 Lennon Piano 1	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	26 New Age CP-70	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	27 Honky-Tonk	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	28 Yama E Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	29 Electric Grand	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	30 Grand & Electric	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	31 Grand n Elec 4	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	32 Grando Elec 5	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	33 Grand&Elec&Choir	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	34 Warm E Grand 1	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	35 Classic E Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	36 Classic E Pno 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	37 Fluid E Piano 1	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	38 Tine Waves	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	39 Dual Rhodes 1	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	40 Foster E Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	41 Dual Rhodes 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	42 Phase Rhodes	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	43 EQ chrRhodes	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	44 Celest EP (CS)	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	45 Tine Elec Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	46 Dual Elec Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	47 Suitcase E Pno	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	48 St Suitcase EP 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	49 Dyno E Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	50 Digital E Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	51 FM EP	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	52 New EP	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	53 Yamaha E Pno 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	54 PF Elec Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	55 Dx Rhodes	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	56 Dig E Piano	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	57 Elec Piano + Vox	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	58 Vollenweider	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	59 Dualin' pianos	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	60 E Gtrs & E Pno	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	61 Clavinetist	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	62 Brite Clav	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	63 DX Clav	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	64 ClavBassHarp	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	65 Clav 5	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	66 Quillsichord	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	67 Harpsichord 1	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	68 Harpsichord 2	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	69 Harpschd & Str	
+Kurzweil	K2500	Farm -> PNOEPNO.K25	70 Baroquen Trio	
+Kurzweil	K2500	Farm -> STRINGS.K25	00 Straight Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	01 Fast Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	02 Fast Wet Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	03 Strings eq 1	
+Kurzweil	K2500	Farm -> STRINGS.K25	04 Strings eq 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	05 New Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	06 New Strings 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	07 New Strings 3	
+Kurzweil	K2500	Farm -> STRINGS.K25	08 Att Ctl Fast Str	
+Kurzweil	K2500	Farm -> STRINGS.K25	09 Very Touch Str	
+Kurzweil	K2500	Farm -> STRINGS.K25	10 Vel Strings B	
+Kurzweil	K2500	Farm -> STRINGS.K25	11 AttCtl Med Str 1	
+Kurzweil	K2500	Farm -> STRINGS.K25	12 AttCtl Med Str 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	13 Sfz Strings MW	
+Kurzweil	K2500	Farm -> STRINGS.K25	14 Sfz Trem Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	15 Stereo Med Str	
+Kurzweil	K2500	Farm -> STRINGS.K25	16 Grand Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	17 Quick Strings MW	
+Kurzweil	K2500	Farm -> STRINGS.K25	18 Mixed Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	19 Chmbr Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	20 Baroque Strings	
+Kurzweil	K2500	Farm -> STRINGS.K25	21 ClassicalStrSect	
+Kurzweil	K2500	Farm -> STRINGS.K25	22 Silk Strings 1	
+Kurzweil	K2500	Farm -> STRINGS.K25	23 Slo Classical St	
+Kurzweil	K2500	Farm -> STRINGS.K25	24 Silk Strings 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	25 Prs Slo Violn	
+Kurzweil	K2500	Farm -> STRINGS.K25	26 SloViolin prs	
+Kurzweil	K2500	Farm -> STRINGS.K25	27 Violin att vib	
+Kurzweil	K2500	Farm -> STRINGS.K25	28 MarcatoViolin MW	
+Kurzweil	K2500	Farm -> STRINGS.K25	29 Marcato S . Strngs	
+Kurzweil	K2500	Farm -> STRINGS.K25	30 Elec Violin	
+Kurzweil	K2500	Farm -> STRINGS.K25	31 Slo Solo Str 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	32 Mellow Cello	
+Kurzweil	K2500	Farm -> STRINGS.K25	33 Synth Pizz 1	
+Kurzweil	K2500	Farm -> STRINGS.K25	34 Synth Pizz 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	35 Synth Pizz 3	
+Kurzweil	K2500	Farm -> STRINGS.K25	36 Synth Pizz 4 lo	
+Kurzweil	K2500	Farm -> STRINGS.K25	37 String Paddy	
+Kurzweil	K2500	Farm -> STRINGS.K25	38 String Paddy 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	39 Melle Orchestra	
+Kurzweil	K2500	Farm -> STRINGS.K25	40 Slo Ensemble	
+Kurzweil	K2500	Farm -> STRINGS.K25	41 MelloStr & Choir	
+Kurzweil	K2500	Farm -> STRINGS.K25	42 Stereo Str Pad 1	
+Kurzweil	K2500	Farm -> STRINGS.K25	43 Stereo Str Pad 2	
+Kurzweil	K2500	Farm -> STRINGS.K25	44 Stereo Str Pad 3	
+Kurzweil	K2500	Farm -> VOX.K25	00 CathedralVoice	
+Kurzweil	K2500	Farm -> VOX.K25	01 Bach Fixer	
+Kurzweil	K2500	Farm -> VOX.K25	02 St Slo Voices	
+Kurzweil	K2500	Farm -> VOX.K25	03 Smooth Choir	
+Kurzweil	K2500	Farm -> VOX.K25	04 Dream Vox 2	
+Kurzweil	K2500	Farm -> VOX.K25	05 Vox 2	
+Kurzweil	K2500	Farm -> VOX.K25	06 Breath Pad 1	
+Kurzweil	K2500	Farm -> VOX.K25	07 The Voice	
+Kurzweil	K2500	Farm -> VOX.K25	08 Angels	
+Kurzweil	K2500	Farm -> VOX.K25	09 Chant	
+Kurzweil	K2500	Farm -> VOX.K25	10 Belle Orchestra	
+Kurzweil	K2500	Farm -> VOX.K25	11 Fake Vox 3	
+Kurzweil	K2500	Farm -> VOX.K25	12 Fake Vox II	
+Kurzweil	K2500	Farm -> VOX.K25	13 PM's Choir Pad	
+Kurzweil	K2500	Farm -> VOX.K25	14 Voice w/ Upper Str	
+Kurzweil	K2500	Farm -> VOX.K25	15 Smooth Choir 2	
+Kurzweil	K2500	Farm -> VOX.K25	16 Vox Piano	
+Kurzweil	K2500	Farm -> VOX.K25	17 Emu Vox	
+Kurzweil	K2500	Farm -> VOX.K25	18 Flutters	
+Kurzweil	K2500	Farm -> VOX.K25	19 Fake Vox	
+Kurzweil	K2500	Farm -> VOX.K25	20 Passover	
+Kurzweil	K2500	Setups	1 Majesty	Contains Patch 150, 16, 17
+Kurzweil	K2500	Setups	2 Sahara	Contains Patch 93, 32, 148
+Kurzweil	K2500	Setups	3 Full Orchestra	Contains Patch 141, 139, 131
+Kurzweil	K2500	Setups	4 Hyper Funk	Contains Patch 14, 29
+Kurzweil	K2500	Setups	5 LowCsGroove	Contains Patch 61, 14, 79
+Kurzweil	K2500	Setups	6 Waviator	Contains Patch 172, 16, 151
+Kurzweil	K2500	Setups	7 Air Guitar	Contains Patch 30, 151
+Kurzweil	K2500	Setups	8 Power Lead	Contains Patch 39, 40, 41
+Kurzweil	K2500	Setups	9 TotalEnvironment	Contains Patch 191, 192, 196
+Kurzweil	K2500	Setups	10 Combi Pluck	Contains Patch 93, 92, 25
+Kurzweil	K2500	Setups	11 Stop Time	Contains Patch 62, 90, 98
+Kurzweil	K2500	Setups	12 Ultra Clav	Contains Patch 74, 14, 23
+Kurzweil	K2500	Setups	13 Thru The Void	Contains Patch 193, 146, 118
+Kurzweil	K2500	Setups	14 BigBee	Contains Patch 99, 96
+Kurzweil	K2500	Setups	15 Dirty BigBee	Contains Patch 96, 96, 99
+Kurzweil	K2500	Setups	16 Daze of Analog	Contains Patch 39, 40, 186
+Kurzweil	K2500	Setups	17 Bell Bliss	Contains Patch 191, 29, 183
+Kurzweil	K2500	Setups	18 Echo In Time	Contains Patch 173, 164, 147
+Kurzweil	K2500	Setups	19 Royal Prog	Contains Patch 150, 32
+Kurzweil	K2500	Setups	20 Choirz	Contains Patch 118, 147
+Kurzweil	K2500	Setups	21 SummerSnows	Contains Patch 151, 10, 86
+Kurzweil	K2500	Setups	22 Armenian Song	Contains Patch 34, 182, 151
+Kurzweil	K2500	Setups	23 Vital Wave	Contains Patch 161, 15, 71
+Kurzweil	K2500	Setups	24 Chordal Passion	Contains Patch 152, 11, 151
+Kurzweil	K2500	Setups	25 Bell Voyage	Contains Patch 178, 149, 150
+Kurzweil	K2500	Setups	26 Micro Magic	Contains Patch 152, 149, 29
+Kurzweil	K2500	Setups	27 E Piano Pipes	Contains Patch 10, 166
+Kurzweil	K2500	Setups	28 Avalon	Contains Patch 169, 10, 10
+Kurzweil	K2500	Setups	29 Celeste Pad	Contains Patch 189, 10
+Kurzweil	K2500	Setups	30 Starlight Piano	Contains Patch 10, 155, 157
+Kurzweil	K2500	Setups	31 Windowpane EP	Contains Patch 10, 155, 180
+Kurzweil	K2500	Setups	32 Grand & Electric	Contains Patch 10, 8
+Kurzweil	K2500	Setups	33 EP & Strings	Contains Patch 9, 10, 113
+Kurzweil	K2500	Setups	34 MalleTines	Contains Patch 11, 69
+Kurzweil	K2500	Setups	35 Age Of Atlantis	Contains Patch 159, 4, 190
+Kurzweil	K2500	Setups	36 Tinged Piano	Contains Patch 8, 28, 161
+Kurzweil	K2500	Setups	37 Combi Clav	Contains Patch 13, 24, 23
+Kurzweil	K2500	Setups	38 Dynomatch	Contains Patch 14, 10
+Kurzweil	K2500	Setups	39 Clav EP Organ	Contains Patch 14, 12, 96
+Kurzweil	K2500	Setups	40 Mallet Pad	Contains Patch 69, 102
+Kurzweil	K2500	Setups	41 Organomics	Contains Patch 101, 102, 97
+Kurzweil	K2500	Setups	42 Match Point Splt	Contains Patch 14, 99, 79
+Kurzweil	K2500	Setups	43 Pipes 1	Contains Patch 106, 103
+Kurzweil	K2500	Setups	44 Pipes 2	Contains Patch 105, 103, 104
+Kurzweil	K2500	Setups	45 Phantom Organ	Contains Patch 106, 96, 104
+Kurzweil	K2500	Setups	46 Shadow Pad	Contains Patch 102, 180, 182
+Kurzweil	K2500	Setups	47 Spiral Pad	Contains Patch 177, 165
+Kurzweil	K2500	Setups	48 Crystal Pad	Contains Patch 147, 155
+Kurzweil	K2500	Setups	49 Tranquil Waves	Contains Patch 161, 147, 182
+Kurzweil	K2500	Setups	50 Melody Voyage	Contains Patch 167, 163, 190
+Kurzweil	K2500	Setups	51 RoundTheSquare	Contains Patch 20, 186
+Kurzweil	K2500	Setups	52 Desert Wind	Contains Patch 93, 32, 20
+Kurzweil	K2500	Setups	53 Soaring Solo	Contains Patch 43, 40, 42
+Kurzweil	K2500	Setups	54 Double Manual	Contains Patch 39, 35
+Kurzweil	K2500	Setups	55 Joyful Lead	Contains Patch 93, 32, 33
+Kurzweil	K2500	Setups	56 Perc 5ths	Contains Patch 69, 70, 9
+Kurzweil	K2500	Setups	57 Big Combi Perc	Contains Patch 50, 65, 64
+Kurzweil	K2500	Setups	58 Swing Trio	Contains Patch 144, 69, 10
+Kurzweil	K2500	Setups	59 EP Trio	Contains Patch 144, 10
+Kurzweil	K2500	Setups	60 Pno Trio	Contains Patch 144, 3
+Kurzweil	K2500	Setups	61 Power Play	Contains Patch 145, 96, 98
+Kurzweil	K2500	Setups	62 Big Jazz	Contains Patch 144, 132, 137
+Kurzweil	K2500	Setups	63 LivDrum/DualBass	Contains Patch 50, 71
+Kurzweil	K2500	Setups	64 TekDrum/RaveBass	Contains Patch 56, 81
+Kurzweil	K2500	Setups	65 BigTekDrm/RavBas	Contains Patch 60, 65, 81
+Kurzweil	K2500	Setups	66 The Falling Sky	Contains Patch 155, 15, 177
+Kurzweil	K2500	Setups	67 Inner Wave	Contains Patch 172, 30, 21
+Kurzweil	K2500	Setups	68 Gig Brass	Contains Patch 133, 18, 132
+Kurzweil	K2500	Setups	69 FatSo	Contains Patch 17, 15
+Kurzweil	K2500	Setups	70 Festival Brass	Contains Patch 135, 132
+Kurzweil	K2500	Setups	71 WindyOrch MWPR	Contains Patch 140, 3, 196
+Kurzweil	K2500	Setups	72 8ve Slo Orch	Contains Patch 117, 139
+Kurzweil	K2500	Setups	73 Slo tutti Orch	Contains Patch 113, 138, 121
+Kurzweil	K2500	Setups	74 Fast tutti Orch	Contains Patch 112, 109, 69
+Kurzweil	K2500	Setups	75 Pno & Stereo Ens	Contains Patch 117, 4
+Kurzweil	K2500	Setups	76 PastaMan	Contains Patch 47, 112
+Kurzweil	K2500	Setups	77 HammerFlange	Contains Patch 168, 174
+Kurzweil	K2500	Setups	78 Spaced Strings	Contains Patch 188, 168, 163
+Kurzweil	K2500	Setups	79 Mist Strings	Contains Patch 148, 186, 18
+Kurzweil	K2500	Setups	80 Crunch&Lead	Contains Patch 43, 89, 42
+Kurzweil	K2500	Setups	81 Ethnic & Analog	Contains Patch 93, 30, 79
+Kurzweil	K2500	Setups	82 Dulcimer Gtr	Contains Patch 87, 29
+Kurzweil	K2500	Setups	83 Floyd Wheel	Contains Patch 86, 155, 184
+Kurzweil	K2500	Setups	84 Man of Steel	Contains Patch 86, 161, 150
+Kurzweil	K2500	Setups	85 2 Hand Comp	Contains Patch 87, 86, 166
+Kurzweil	K2500	Setups	86 Guitar Pad	Contains Patch 88, 166
+Kurzweil	K2500	Setups	87 Big Gtr/CymSings	Contains Patch 88, 86, 167
+Kurzweil	K2500	Setups	88 GB Band	Contains Patch 72, 173, 8
+Kurzweil	K2500	Setups	89 StThomas	Contains Patch 72, 176, 28
+Kurzweil	K2500	Setups	90 RastaSauce	Contains Patch 72, 173, 95
+Kurzweil	K2500	Setups	91 Gtrs & Lead	Contains Patch 32, 88, 29
+Kurzweil	K2500	Setups	92 HoDown	Contains Patch 115, 94, 87
+Kurzweil	K2500	Setups	93 Piano/Cello	Contains Patch 1, 116
+Kurzweil	K2500	Setups	94 3 Martini Shade	Contains Patch 10, 72, 124
+Kurzweil	K2500	Setups	95 Synth Ensemble	Contains Patch 147, 32, 27
+Kurzweil	K2500	Setups	96 Rhythm/Chiff	Contains Patch 66, 92, 27
+Kurzweil	K2500	Setups	97 Rhythm/SynLead	Contains Patch 66, 92, 41
+Kurzweil	K2500	Setups	98 Noo Dance	Contains Patch 62, 92, 173
+Kurzweil	K2500	Setups	99 Earth & Sky	Contains Patch 185, 86, 27
+Kurzweil	K2500	Setups	100 Basic Setup	Contains Patch 199
+Kurzweil	K2500	KeyMap	0 None	
+Kurzweil	K2500	KeyMap	1 Grand Piano	
+Kurzweil	K2500	KeyMap	2 Dual Elec Piano	
+Kurzweil	K2500	KeyMap	3 Hard Elec Piano	
+Kurzweil	K2500	KeyMap	4 Soft Elec Piano	
+Kurzweil	K2500	KeyMap	5 Voices	
+Kurzweil	K2500	KeyMap	6 Ensemble Strings	
+Kurzweil	K2500	KeyMap	7 Elec Jazz Guitar	
+Kurzweil	K2500	KeyMap	8 Acoustic Guitar	
+Kurzweil	K2500	KeyMap	9 5 String Guitar	
+Kurzweil	K2500	KeyMap	10 Dual E Bass	
+Kurzweil	K2500	KeyMap	11 Elec Pick Bass	
+Kurzweil	K2500	KeyMap	12 Elec Slap Bass	
+Kurzweil	K2500	KeyMap	13 Finger Atk Bass	
+Kurzweil	K2500	KeyMap	14 Flute	
+Kurzweil	K2500	KeyMap	15 Tenor Saxophone	
+Kurzweil	K2500	KeyMap	16 Sax no Altissimo	
+Kurzweil	K2500	KeyMap	17 Trumpet	
+Kurzweil	K2500	KeyMap	18 Trombone	
+Kurzweil	K2500	KeyMap	19 Trombone/Trumpet	
+Kurzweil	K2500	KeyMap	20 Bone/Trp 2	
+Kurzweil	K2500	KeyMap	21 Trombet	
+Kurzweil	K2500	KeyMap	22 Trumpbone	
+Kurzweil	K2500	KeyMap	23 Preview Drums	
+Kurzweil	K2500	KeyMap	24 Dry Kit1	
+Kurzweil	K2500	KeyMap	25 Dry Kit2	
+Kurzweil	K2500	KeyMap	26 Amb Kit 1	
+Kurzweil	K2500	KeyMap	27 Amb Kit 2	
+Kurzweil	K2500	KeyMap	28 Amb Kit 3	
+Kurzweil	K2500	KeyMap	29 2 8ve Dry Kit	
+Kurzweil	K2500	KeyMap	30 General MIDI Kit	
+Kurzweil	K2500	KeyMap	39 Ride Rim Cymbal	
+Kurzweil	K2500	KeyMap	40 Ride Bell Cymbal	
+Kurzweil	K2500	KeyMap	41 Crash Cymbal	
+Kurzweil	K2500	KeyMap	42 Closed Hihat	
+Kurzweil	K2500	KeyMap	43 Slt Open Hihat	
+Kurzweil	K2500	KeyMap	44 Open Hihat	
+Kurzweil	K2500	KeyMap	45 Open>Close Hihat	
+Kurzweil	K2500	KeyMap	46 Foot Close Hihat	
+Kurzweil	K2500	KeyMap	47 Dry Kick 1	
+Kurzweil	K2500	KeyMap	48 Dry Kick 2	
+Kurzweil	K2500	KeyMap	49 Amb Kick 1	
+Kurzweil	K2500	KeyMap	50 Amb Kick 2	
+Kurzweil	K2500	KeyMap	51 Amb Kick 3	
+Kurzweil	K2500	KeyMap	52 DrySnare 1 Soft	
+Kurzweil	K2500	KeyMap	53 DrySnare 1 Hard	
+Kurzweil	K2500	KeyMap	54 Dual Dry Snare 1	
+Kurzweil	K2500	KeyMap	55 Dry Snare 2	
+Kurzweil	K2500	KeyMap	56 Dry Snare 3	
+Kurzweil	K2500	KeyMap	57 Ambient Snare 1	
+Kurzweil	K2500	KeyMap	58 Ambient Snare 2	
+Kurzweil	K2500	KeyMap	59 Ambient Snare 3	
+Kurzweil	K2500	KeyMap	60 Cross Stick	
+Kurzweil	K2500	KeyMap	62 10in Dry Tom	
+Kurzweil	K2500	KeyMap	63 12in Dry Tom	
+Kurzweil	K2500	KeyMap	64 15in Dry Tom	
+Kurzweil	K2500	KeyMap	65 13in Amb Tom	
+Kurzweil	K2500	KeyMap	66 15in Amb Tom	
+Kurzweil	K2500	KeyMap	67 16in Amb Tom	
+Kurzweil	K2500	KeyMap	68 Reversals	
+Kurzweil	K2500	KeyMap	69 Reverse Bell	
+Kurzweil	K2500	KeyMap	71 Bidir Amb Kick 1	
+Kurzweil	K2500	KeyMap	72 Reverse Snare	
+Kurzweil	K2500	KeyMap	73 Conga Bass	
+Kurzweil	K2500	KeyMap	74 Conga Slap	
+Kurzweil	K2500	KeyMap	75 Conga Tone	
+Kurzweil	K2500	KeyMap	76 Syn Conga Tap	
+Kurzweil	K2500	KeyMap	77 Timbale	
+Kurzweil	K2500	KeyMap	78 Timbale Shell	
+Kurzweil	K2500	KeyMap	79 Cabasa	
+Kurzweil	K2500	KeyMap	80 Clave	
+Kurzweil	K2500	KeyMap	81 Cowbell	
+Kurzweil	K2500	KeyMap	82 Tambourine	
+Kurzweil	K2500	KeyMap	83 Handclaps	
+Kurzweil	K2500	KeyMap	84 Reverse Crash	
+Kurzweil	K2500	KeyMap	85 Reverse Clsd Hat	
+Kurzweil	K2500	KeyMap	86 Reverse Open Hat	
+Kurzweil	K2500	KeyMap	87 Reverse hat loop	
+Kurzweil	K2500	KeyMap	88 Chiff	
+Kurzweil	K2500	KeyMap	89 Chirp	
+Kurzweil	K2500	KeyMap	90 FM Bell Trans	
+Kurzweil	K2500	KeyMap	91 Waterphone	
+Kurzweil	K2500	KeyMap	92 Metal Clank	
+Kurzweil	K2500	KeyMap	93 TimbaleShell Atk	
+Kurzweil	K2500	KeyMap	94 Cowbell Atk	
+Kurzweil	K2500	KeyMap	95 Timbale Atk	
+Kurzweil	K2500	KeyMap	96 Bell Attack	
+Kurzweil	K2500	KeyMap	97 Clave Atk	
+Kurzweil	K2500	KeyMap	98 Wood Bar Atk	
+Kurzweil	K2500	KeyMap	99 Conga Tone Atk	
+Kurzweil	K2500	KeyMap	100 Conga Slap Atk	
+Kurzweil	K2500	KeyMap	101 Elec Pno Atk	
+Kurzweil	K2500	KeyMap	102 Brass Attack	
+Kurzweil	K2500	KeyMap	103 Bow Attack	
+Kurzweil	K2500	KeyMap	104 Jazz Guitar Atk	
+Kurzweil	K2500	KeyMap	105 Steel Guitar Atk	
+Kurzweil	K2500	KeyMap	106 Perc Atk 1	
+Kurzweil	K2500	KeyMap	107 Perc Atk 2	
+Kurzweil	K2500	KeyMap	108 Perc Atk 3	
+Kurzweil	K2500	KeyMap	109 Wood Bars	
+Kurzweil	K2500	KeyMap	110 Solo Strings	
+Kurzweil	K2500	KeyMap	111 Six String Mutes	
+Kurzweil	K2500	KeyMap	112 Oboe Wave	
+Kurzweil	K2500	KeyMap	113 Clav Wave	
+Kurzweil	K2500	KeyMap	114 Elec Piano Wave	
+Kurzweil	K2500	KeyMap	115 Bell Wave	
+Kurzweil	K2500	KeyMap	116 Ping Wave	
+Kurzweil	K2500	KeyMap	117 Drawbars 1-3	
+Kurzweil	K2500	KeyMap	118 Drawbars 1-4	
+Kurzweil	K2500	KeyMap	119 Drawbars 1-3 Dist	
+Kurzweil	K2500	KeyMap	120 Full Drawbars	
+Kurzweil	K2500	KeyMap	121 Drawbars 1-4,8	
+Kurzweil	K2500	KeyMap	122 Organ Wave 1	
+Kurzweil	K2500	KeyMap	123 Organ Wave 2	
+Kurzweil	K2500	KeyMap	124 Organ Wave 3	
+Kurzweil	K2500	KeyMap	125 Organ Wave 4	
+Kurzweil	K2500	KeyMap	126 Organ Wave 5	
+Kurzweil	K2500	KeyMap	127 Organ Wave 6	
+Kurzweil	K2500	KeyMap	128 Organ Wave 7	
+Kurzweil	K2500	KeyMap	129 Partials 1-3	
+Kurzweil	K2500	KeyMap	130 Partials 4-7	
+Kurzweil	K2500	KeyMap	131 Partials 8-12	
+Kurzweil	K2500	KeyMap	132 Partials 13-20	
+Kurzweil	K2500	KeyMap	133 Partials 21-30	
+Kurzweil	K2500	KeyMap	134 Partials 1&2	
+Kurzweil	K2500	KeyMap	135 Partials 3&4	
+Kurzweil	K2500	KeyMap	136 Partials 5-7	
+Kurzweil	K2500	KeyMap	137 Partials 8-10	
+Kurzweil	K2500	KeyMap	138 Partials 11-15	
+Kurzweil	K2500	KeyMap	139 Partials 16-21	
+Kurzweil	K2500	KeyMap	140 Partials 2-4	
+Kurzweil	K2500	KeyMap	141 Partials 5,7,9,11	
+Kurzweil	K2500	KeyMap	142 Partials 1,2,4	
+Kurzweil	K2500	KeyMap	143 Partials 1,2,4,6	
+Kurzweil	K2500	KeyMap	144 Partials 3-5	
+Kurzweil	K2500	KeyMap	145 Partials 1-3	
+Kurzweil	K2500	KeyMap	146 Partials 1,3,5	
+Kurzweil	K2500	KeyMap	147 Partials 1&4	
+Kurzweil	K2500	KeyMap	148 Partials 1&6	
+Kurzweil	K2500	KeyMap	149 Partials 1&8	
+Kurzweil	K2500	KeyMap	150 Partials 1&12	
+Kurzweil	K2500	KeyMap	151 Sawtooth	
+Kurzweil	K2500	KeyMap	152 Dull Sawtooth	
+Kurzweil	K2500	KeyMap	153 Very Dull Saw	
+Kurzweil	K2500	KeyMap	154 Square Wave	
+Kurzweil	K2500	KeyMap	155 Dull Square	
+Kurzweil	K2500	KeyMap	156 Very Dull Square	
+Kurzweil	K2500	KeyMap	157 Buzzy Square	
+Kurzweil	K2500	KeyMap	158 Buzz Wave	
+Kurzweil	K2500	KeyMap	159 Hi Formant Wave	
+Kurzweil	K2500	KeyMap	160 PrimeNumberWave	
+Kurzweil	K2500	KeyMap	161 Triangle Wave	
+Kurzweil	K2500	KeyMap	162 Third Wave	
+Kurzweil	K2500	KeyMap	163 Sine Wave	
+Kurzweil	K2500	KeyMap	164 ExtDynPrtls1	
+Kurzweil	K2500	KeyMap	165 ExtDynPart2	
+Kurzweil	K2500	KeyMap	166 ExtDynSaw	
+Kurzweil	K2500	KeyMap	167 Mellow Vox	
+Kurzweil	K2500	KeyMap	168 Silence	
+Kurzweil	K2500	KeyMap	169 Synflute Brt	
+Kurzweil	K2500	KeyMap	170 Synflute mello	
+Kurzweil	K2500	KeyMap	171 SlapBass/Guitar	
+Kurzweil	K2500	KeyMap	172 Mello Vox 2	
+Kurzweil	K2500	KeyMap	173 Shift Guitar 2	
+Kurzweil	K2500	KeyMap	174 Single Mute	
+Kurzweil	K2500	KeyMap	177 Fingered Bass 2	
+Kurzweil	K2500	KeyMap	178 Ext Dual Bass	
+Kurzweil	K2500	KeyMap	179 Syn Bass Pick	
+Kurzweil	K2500	KeyMap	180 Syn Bass Slap	
+Kurzweil	K2500	KeyMap	181 Shift Guitar	
+Kurzweil	K2500	KeyMap	182 Syn Guitar	
+Kurzweil	K2500	KeyMap	183 Syn Voices	
+Kurzweil	K2500	KeyMap	184 Syn Voices 2	
+Kurzweil	K2500	KeyMap	185 Perc Voice	
+Kurzweil	K2500	KeyMap	186 Synstrings 1	
+Kurzweil	K2500	KeyMap	187 Synstrings 2	
+Kurzweil	K2500	KeyMap	188 Syn Piano	
+Kurzweil	K2500	KeyMap	189 Funny Perc	
+Kurzweil	K2500	KeyMap	190 TechnoLoops	
+Kurzweil	K2500	KeyMap	191 Hat Loop	
+Kurzweil	K2500	KeyMap	199 Silence	
+K2VX		(Released: ~1996)		Jump to top
+Kurzweil	K2VX	Programs -> 600'S BANK	600 Cookin' Bee	
+Kurzweil	K2VX	Programs -> 600'S BANK	601 In Curved Air	
+Kurzweil	K2VX	Programs -> 600'S BANK	602 Comping Hammond	
+Kurzweil	K2VX	Programs -> 600'S BANK	603 Water Organ	
+Kurzweil	K2VX	Programs -> 600'S BANK	604 Organ	
+Kurzweil	K2VX	Programs -> 600'S BANK	605 Lowdown Hammond	
+Kurzweil	K2VX	Programs -> 600'S BANK	606 Glasglock Organ	
+Kurzweil	K2VX	Programs -> 600'S BANK	607 20/600 Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	608 Semisynth Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	609 Pick It Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	610 Watermellon Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	611 Gate Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	612 TB Bass (mw)	
+Kurzweil	K2VX	Programs -> 600'S BANK	613 Trent Bass #1	
+Kurzweil	K2VX	Programs -> 600'S BANK	614 Trance Bass (mw)	
+Kurzweil	K2VX	Programs -> 600'S BANK	615 Tick Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	616 Autobahn Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	617 Gatthana Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	618 BrightPunch Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	619 Phatsaw bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	620 Outside Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	621 Midfingered Bass	
+Kurzweil	K2VX	Programs -> 600'S BANK	622 Brite Stand-up	
+Kurzweil	K2VX	Programs -> 600'S BANK	623 Dirt Drums	
+Kurzweil	K2VX	Programs -> 600'S BANK	624 Dirt Drums 2	
+Kurzweil	K2VX	Programs -> 600'S BANK	625 Broken Drums	
+Kurzweil	K2VX	Programs -> 600'S BANK	626 New Country Kit	
+Kurzweil	K2VX	Programs -> 600'S BANK	627 Dirty Kit	
+Kurzweil	K2VX	Programs -> 600'S BANK	628 Hip Kit	
+Kurzweil	K2VX	Programs -> 600'S BANK	629 PowerPhase Kit	
+Kurzweil	K2VX	Programs -> 600'S BANK	630 Distorto Set	
+Kurzweil	K2VX	Programs -> 600'S BANK	631 Stereo Kit 1	
+Kurzweil	K2VX	Programs -> 600'S BANK	632 Stereo Kit 2	
+Kurzweil	K2VX	Programs -> 600'S BANK	633 New 3 Layer Kit	
+Kurzweil	K2VX	Programs -> 600'S BANK	634 New 3 Layer Kit2	
+Kurzweil	K2VX	Programs -> 600'S BANK	635 New 3 Layer Kit3	
+Kurzweil	K2VX	Programs -> 600'S BANK	636 Garage Metal	
+Kurzweil	K2VX	Programs -> 600'S BANK	637 Tweed Strum	
+Kurzweil	K2VX	Programs -> 600'S BANK	638 Ratty Strat	
+Kurzweil	K2VX	Programs -> 600'S BANK	639 Cure Guitar	
+Kurzweil	K2VX	Programs -> 600'S BANK	640 Guitar Shapes CS	
+Kurzweil	K2VX	Programs -> 600'S BANK	641 Fingered Nylon	
+Kurzweil	K2VX	Programs -> 600'S BANK	642 Tele In Room	
+Kurzweil	K2VX	Programs -> 600'S BANK	643 Phleetwood Mute	
+Kurzweil	K2VX	Programs -> 600'S BANK	644 Filterfunk Gtr	
+Kurzweil	K2VX	Programs -> 600'S BANK	645 Micro Guitar	
+Kurzweil	K2VX	Programs -> 600'S BANK	646 Dreamguitar	
+Kurzweil	K2VX	Programs -> 600'S BANK	647 Digi Clav	
+Kurzweil	K2VX	Programs -> 600'S BANK	648 Vintage EP	
+Kurzweil	K2VX	Programs -> 600'S BANK	649 Ahh ReleaseClav	
+Kurzweil	K2VX	Programs -> 600'S BANK	650 Ahh klav	
+Kurzweil	K2VX	Programs -> 600'S BANK	651 Klose 2 Klav	
+Kurzweil	K2VX	Programs -> 600'S BANK	652 Chopik Twang	
+Kurzweil	K2VX	Programs -> 600'S BANK	653 Vintage Keez	
+Kurzweil	K2VX	Programs -> 600'S BANK	654 Bello Reeds	
+Kurzweil	K2VX	Programs -> 600'S BANK	655 Brite brass	
+Kurzweil	K2VX	Programs -> 600'S BANK	656 Brass Pows	
+Kurzweil	K2VX	Programs -> 600'S BANK	657 Quackin' Reeds	
+Kurzweil	K2VX	Programs -> 600'S BANK	658 Pinnder Brass	
+Kurzweil	K2VX	Programs -> 600'S BANK	659 Muted Trumps	
+Kurzweil	K2VX	Programs -> 600'S BANK	660 Brass Mass (mw)	
+Kurzweil	K2VX	Programs -> 600'S BANK	661 Orch Brass (mw)	
+Kurzweil	K2VX	Programs -> 600'S BANK	662 Reed Leed	
+Kurzweil	K2VX	Programs -> 600'S BANK	663 Mitzva Lead	
+Kurzweil	K2VX	Programs -> 600'S BANK	664 Detooned Reads	
+Kurzweil	K2VX	Programs -> 600'S BANK	665 Sax Appeal	
+Kurzweil	K2VX	Programs -> 600'S BANK	666 Tenor It	
+Kurzweil	K2VX	Programs -> 600'S BANK	667 Eric's Flutters	
+Kurzweil	K2VX	Programs -> 600'S BANK	668 TouchString	
+Kurzweil	K2VX	Programs -> 600'S BANK	669 Samplestar	
+Kurzweil	K2VX	Programs -> 600'S BANK	670 Dis Saxified	
+Kurzweil	K2VX	Programs -> 600'S BANK	671 SynOrch Power	
+Kurzweil	K2VX	Programs -> 600'S BANK	672 Sweet Harp	
+Kurzweil	K2VX	Programs -> 600'S BANK	673 PizzBira	
+Kurzweil	K2VX	Programs -> 600'S BANK	674 Rich Orchpad	
+Kurzweil	K2VX	Programs -> 600'S BANK	675 Alien Pitzz	
+Kurzweil	K2VX	Programs -> 600'S BANK	676 Harp Orch	
+Kurzweil	K2VX	Programs -> 600'S BANK	677 Touchy Flute	
+Kurzweil	K2VX	Programs -> 600'S BANK	678 The Full Orch	
+Kurzweil	K2VX	Programs -> 600'S BANK	679 Synwind Wood	
+Kurzweil	K2VX	Programs -> 600'S BANK	680 Orchestra Pad	
+Kurzweil	K2VX	Programs -> 600'S BANK	681 Dream Flute	
+Kurzweil	K2VX	Programs -> 600'S BANK	682 Shaku Like	
+Kurzweil	K2VX	Programs -> 600'S BANK	683 Gataflute	
+Kurzweil	K2VX	Programs -> 600'S BANK	684 Altosyn	
+Kurzweil	K2VX	Programs -> 600'S BANK	685 Pleasant Ensemble	
+Kurzweil	K2VX	Programs -> 600'S BANK	686 Panchiff	
+Kurzweil	K2VX	Programs -> 600'S BANK	687 Intimate Alto	
+Kurzweil	K2VX	Programs -> 600'S BANK	688 Brassett	
+Kurzweil	K2VX	Programs -> 600'S BANK	689 Pulse Notch	
+Kurzweil	K2VX	Programs -> 600'S BANK	690 Poly RezoArp	
+Kurzweil	K2VX	Programs -> 600'S BANK	691 Quizzy-Modo	
+Kurzweil	K2VX	Programs -> 600'S BANK	692 Dataslide rez	
+Kurzweil	K2VX	Programs -> 600'S BANK	693 Cee Pee 80	
+Kurzweil	K2VX	Programs -> 600'S BANK	694 ShapeComp	
+Kurzweil	K2VX	Programs -> 600'S BANK	695 CS-80 SawPad	
+Kurzweil	K2VX	Programs -> 600'S BANK	696 Sunlead (mw)	
+Kurzweil	K2VX	Programs -> 600'S BANK	697 Spanner	
+Kurzweil	K2VX	Programs -> 600'S BANK	698 Softsaw Rez	
+Kurzweil	K2VX	Programs -> 600'S BANK	699 Simplesaw Lead	
+Kurzweil	K2VX	Programs -> 700'S BANK	700 Ravesaw Lead	
+Kurzweil	K2VX	Programs -> 700'S BANK	701 Dataslide Pulse	
+Kurzweil	K2VX	Programs -> 700'S BANK	702 Arp Axxe	
+Kurzweil	K2VX	Programs -> 700'S BANK	703 70's Pulsemod	
+Kurzweil	K2VX	Programs -> 700'S BANK	704 Hi Thin Pulse	
+Kurzweil	K2VX	Programs -> 700'S BANK	705 Pulsemod Rez	
+Kurzweil	K2VX	Programs -> 700'S BANK	706 Pulsesweep Comp	
+Kurzweil	K2VX	Programs -> 700'S BANK	707 Slo Tririze	
+Kurzweil	K2VX	Programs -> 700'S BANK	708 Sawbright 7	
+Kurzweil	K2VX	Programs -> 700'S BANK	709 Touchwaves	
+Kurzweil	K2VX	Programs -> 700'S BANK	710 Lodown Gritts	
+Kurzweil	K2VX	Programs -> 700'S BANK	711 New K-Synn	
+Kurzweil	K2VX	Programs -> 700'S BANK	712 Stackwave	
+Kurzweil	K2VX	Programs -> 700'S BANK	713 Metal Synth	
+Kurzweil	K2VX	Programs -> 700'S BANK	714 Buzz Synth	
+Kurzweil	K2VX	Programs -> 700'S BANK	715 Craftwork Saw	
+Kurzweil	K2VX	Programs -> 700'S BANK	716 Craftwork Digi	
+Kurzweil	K2VX	Programs -> 700'S BANK	717 Synbuzz	
+Kurzweil	K2VX	Programs -> 700'S BANK	718 Klangar	
+Kurzweil	K2VX	Programs -> 700'S BANK	719 Slotri	
+Kurzweil	K2VX	Programs -> 700'S BANK	720 Juno Thru Amp	
+Kurzweil	K2VX	Programs -> 700'S BANK	721 Neo-Bell1	
+Kurzweil	K2VX	Programs -> 700'S BANK	722 Neo-Bell2	
+Kurzweil	K2VX	Programs -> 700'S BANK	723 Neo-Bell3	
+Kurzweil	K2VX	Programs -> 700'S BANK	724 Bell Of Dreams	
+Kurzweil	K2VX	Programs -> 700'S BANK	725 Fake toy Piano	
+Kurzweil	K2VX	Programs -> 700'S BANK	726 Waterven Bell	
+Kurzweil	K2VX	Programs -> 700'S BANK	727 Bellstring	
+Kurzweil	K2VX	Programs -> 700'S BANK	728 Being Bells	
+Kurzweil	K2VX	Programs -> 700'S BANK	729 New Hibells	
+Kurzweil	K2VX	Programs -> 700'S BANK	730 Multimba	
+Kurzweil	K2VX	Programs -> 700'S BANK	731 Steel Gatam	
+Kurzweil	K2VX	Programs -> 700'S BANK	732 Rimmjob	
+Kurzweil	K2VX	Programs -> 700'S BANK	733 Indar Duals	
+Kurzweil	K2VX	Programs -> 700'S BANK	734 Space Log	
+Kurzweil	K2VX	Programs -> 700'S BANK	735 Mizzars	
+Kurzweil	K2VX	Programs -> 700'S BANK	736 East Trance	
+Kurzweil	K2VX	Programs -> 700'S BANK	737 Ganko Toy	
+Kurzweil	K2VX	Programs -> 700'S BANK	738 Steel Drims	
+Kurzweil	K2VX	Programs -> 700'S BANK	739 Perc Uzi	
+Kurzweil	K2VX	Programs -> 700'S BANK	740 Log gate	
+Kurzweil	K2VX	Programs -> 700'S BANK	741 Dualloggs	
+Kurzweil	K2VX	Programs -> 700'S BANK	742 Digilog	
+Kurzweil	K2VX	Programs -> 700'S BANK	743 Tinn Metal	
+Kurzweil	K2VX	Programs -> 700'S BANK	744 East Tinn	
+Kurzweil	K2VX	Programs -> 700'S BANK	745 Gank-Seq	
+Kurzweil	K2VX	Programs -> 700'S BANK	746 Printpress Perk	
+Kurzweil	K2VX	Programs -> 700'S BANK	747 New Nylon-Mbira	
+Kurzweil	K2VX	Programs -> 700'S BANK	748 New Log Age	
+Kurzweil	K2VX	Programs -> 700'S BANK	749 Passionate	
+Kurzweil	K2VX	Programs -> 700'S BANK	750 Poweride	
+Kurzweil	K2VX	Programs -> 700'S BANK	751 Vox Wash	
+Kurzweil	K2VX	Programs -> 700'S BANK	752 EthnoGhost	
+Kurzweil	K2VX	Programs -> 700'S BANK	753 Julie with...	
+Kurzweil	K2VX	Programs -> 700'S BANK	754 Beauty Pad	
+Kurzweil	K2VX	Programs -> 700'S BANK	755 Waterworld	
+Kurzweil	K2VX	Programs -> 700'S BANK	756 Zipper Vox	
+Kurzweil	K2VX	Programs -> 700'S BANK	757 Gutterpad	
+Kurzweil	K2VX	Programs -> 700'S BANK	758 Propellor	
+Kurzweil	K2VX	Programs -> 700'S BANK	759 Synthesized Vox	
+Kurzweil	K2VX	Programs -> 700'S BANK	760 Daydreams	
+Kurzweil	K2VX	Programs -> 700'S BANK	761 Thick n' thin	
+Kurzweil	K2VX	Programs -> 700'S BANK	762 Studio Rhythm	
+Kurzweil	K2VX	Programs -> 700'S BANK	763 Hiss Monster	
+Kurzweil	K2VX	Programs -> 700'S BANK	764 Ambi-ence	
+Kurzweil	K2VX	Programs -> 700'S BANK	765 Gothic	
+Kurzweil	K2VX	Programs -> 700'S BANK	766 SynComp	
+Kurzweil	K2VX	Programs -> 700'S BANK	767 Ruggratts	
+Kurzweil	K2VX	Programs -> 700'S BANK	768 Chungarr	
+Kurzweil	K2VX	Programs -> 700'S BANK	769 Megatran	
+Kurzweil	K2VX	Programs -> 700'S BANK	770 The Synth	
+Kurzweil	K2VX	Programs -> 700'S BANK	771 Low Rock Garden	
+Kurzweil	K2VX	Programs -> 700'S BANK	772 Rosin Change	
+Kurzweil	K2VX	Programs -> 700'S BANK	773 Subot 1	
+Kurzweil	K2VX	Programs -> 700'S BANK	774 Round n'Perky	
+Kurzweil	K2VX	Programs -> 700'S BANK	775 Lassie Go Away	
+Kurzweil	K2VX	Programs -> 700'S BANK	776 Chariots	
+Kurzweil	K2VX	Programs -> 700'S BANK	777 Vxall	
+Kurzweil	K2VX	Programs -> 700'S BANK	778 Heavens Door	
+Kurzweil	K2VX	Programs -> 700'S BANK	779 Nickel Odeon	
+Kurzweil	K2VX	Programs -> 700'S BANK	780 Mutato Head	
+Kurzweil	K2VX	Programs -> 700'S BANK	781 Three Winds	
+Kurzweil	K2VX	Programs -> 700'S BANK	782 Angel Mass	
+Kurzweil	K2VX	Programs -> 700'S BANK	783 Peters Pad	
+Kurzweil	K2VX	Programs -> 700'S BANK	784 Instant Enya	
+Kurzweil	K2VX	Programs -> 700'S BANK	785 Edenesque	
+Kurzweil	K2VX	Programs -> 700'S BANK	786 Tickeler	
+Kurzweil	K2VX	Programs -> 700'S BANK	787 Instant-Eyesham	
+Kurzweil	K2VX	Programs -> 700'S BANK	788 E-Noze DX	
+Kurzweil	K2VX	Programs -> 700'S BANK	789 Lo Mondopad	
+Kurzweil	K2VX	Programs -> 700'S BANK	790 Vox Panhorn	
+Kurzweil	K2VX	Programs -> 700'S BANK	791 Suck Wind	
+Kurzweil	K2VX	Programs -> 700'S BANK	792 Crimson Rosin	
+Kurzweil	K2VX	Programs -> 700'S BANK	793 Hybrid	
+Kurzweil	K2VX	Programs -> 700'S BANK	794 Kurz'd Pipe	
+Kurzweil	K2VX	Programs -> 700'S BANK	795 Bowlinese	
+Kurzweil	K2VX	Programs -> 700'S BANK	796 Starbright	
+Kurzweil	K2VX	Programs -> 700'S BANK	797 Starbright 2	
+Kurzweil	K2VX	Programs -> 700'S BANK	798 Kalidescope	
+Kurzweil	K2VX	Programs -> 700'S BANK	799 Kaliope	
+Kurzweil	K2VX	Industrial/Techno	00 Java set	
+Kurzweil	K2VX	Industrial/Techno	01 Trek Cymbals	
+Kurzweil	K2VX	Industrial/Techno	02 Brain Buzz	
+Kurzweil	K2VX	Industrial/Techno	03 Bali Tek drum	
+Kurzweil	K2VX	Industrial/Techno	04 Space Java Set	
+Kurzweil	K2VX	Industrial/Techno	05 Electro tibet bell	
+Kurzweil	K2VX	Industrial/Techno	06 Udu Techno Perc	
+Kurzweil	K2VX	Industrial/Techno	07 Metal Log Stab	
+Kurzweil	K2VX	Industrial/Techno	08 Electrologs	
+Kurzweil	K2VX	Industrial/Techno	09 Kraftwerk Perc	
+Kurzweil	K2VX	Industrial/Techno	10 Cascade Bellset	
+Kurzweil	K2VX	Industrial/Techno	11 Plectrum	
+Kurzweil	K2VX	Industrial/Techno	12 Clocks Cloaked 1	
+Kurzweil	K2VX	Industrial/Techno	13 Tech Jabs	
+Kurzweil	K2VX	Industrial/Techno	14 240BPM hit	
+Kurzweil	K2VX	Industrial/Techno	15 Mr a meet Mr D	
+Kurzweil	K2VX	Industrial/Techno	16 Cyberloop c4	
+Kurzweil	K2VX	Industrial/Techno	17 Cyberloop 2	
+Kurzweil	K2VX	Industrial/Techno	18 Techno 5ths in E	
+Kurzweil	K2VX	Industrial/Techno	19 Techno 5ths in  C	
+Kurzweil	K2VX	Industrial/Techno	20 Techno 5ths in A	
+Kurzweil	K2VX	Industrial/Techno	21 Techno Rez hits	
+Kurzweil	K2VX	Industrial/Techno	22 Don't Go there	
+Kurzweil	K2VX	Industrial/Techno	23 Housepiano+bass	
+Kurzweil	K2VX	Industrial/Techno	24 Acidbath Grand	
+Kurzweil	K2VX	Industrial/Techno	25 Bad Dream Piano	
+Kurzweil	K2VX	Industrial/Techno	26 Spiral Piano	
+Kurzweil	K2VX	Industrial/Techno	27 Industrial Bass	
+Kurzweil	K2VX	Industrial/Techno	28 Phase Bass	
+Kurzweil	K2VX	Industrial/Techno	29 Seerious lows	
+Kurzweil	K2VX	Industrial/Techno	30 Housebassw/dist	
+Kurzweil	K2VX	Industrial/Techno	31 Attack Bass	
+Kurzweil	K2VX	Industrial/Techno	32 70's Mutron Bass	
+Kurzweil	K2VX	Industrial/Techno	33 Mutron Moog	
+Kurzweil	K2VX	Industrial/Techno	34 Industrianabass	
+Kurzweil	K2VX	Industrial/Techno	35 Industrianabass 2	
+Kurzweil	K2VX	Industrial/Techno	36 Destructo Bass	
+Kurzweil	K2VX	Industrial/Techno	37 Big Bottom Bass	
+Kurzweil	K2VX	Industrial/Techno	38 Thud Thump Bass	
+Kurzweil	K2VX	Industrial/Techno	39 Fat Matrix Bass	
+Kurzweil	K2VX	Industrial/Techno	40 Morphed Rock Kit]	
+Kurzweil	K2VX	Industrial/Techno	41 Downward Kit	
+Kurzweil	K2VX	Industrial/Techno	42 PUMP UP THE KIT	
+Kurzweil	K2VX	Industrial/Techno	43 Downward 2	
+Kurzweil	K2VX	Industrial/Techno	44 Ya don't stop kit	
+Kurzweil	K2VX	Industrial/Techno	45 Go-go kitw/trump	
+Kurzweil	K2VX	Industrial/Techno	46 Workhouse kit	
+Kurzweil	K2VX	Industrial/Techno	47 NASA kit	
+Kurzweil	K2VX	Industrial/Techno	48 Bomb da Bass kit	
+Kurzweil	K2VX	Industrial/Techno	49 KitwTurntable	
+Kurzweil	K2VX	Industrial/Techno	50 Brain Scraper	
+Kurzweil	K2VX	Industrial/Techno	51 Run Loop Run	
+Kurzweil	K2VX	Industrial/Techno	52 Run Loop Run 2	
+Kurzweil	K2VX	Industrial/Techno	53 Run Loop Run 3	
+Kurzweil	K2VX	Industrial/Techno	54 Hold C2-C4	
+Kurzweil	K2VX	Industrial/Techno	55 Brain Scraper 2	
+Kurzweil	K2VX	Industrial/Techno	56 Clock Guitar	
+Kurzweil	K2VX	Industrial/Techno	57 Run Loop 4	
+Kurzweil	K2VX	Industrial/Techno	58 House Minor	
+Kurzweil	K2VX	Industrial/Techno	59 Rhythymspike	
+Kurzweil	K2VX	Industrial/Techno	60 House Major	
+Kurzweil	K2VX	Industrial/Techno	61 S+H Clock Vocal	
+Kurzweil	K2VX	Industrial/Techno	62 Trance hits(mod)	
+Kurzweil	K2VX	Industrial/Techno	63 Tron Wave Seq	
+Kurzweil	K2VX	Industrial/Techno	64 Raveosity	
+Kurzweil	K2VX	Industrial/Techno	65 Crunch o matic	
+Kurzweil	K2VX	Industrial/Techno	66 Flangechime	
+Kurzweil	K2VX	Industrial/Techno	67 Rise(data)	
+Kurzweil	K2VX	Industrial/Techno	68 House swishes	
+Kurzweil	K2VX	Industrial/Techno	69 Madame Belltree	
+Kurzweil	K2VX	Industrial/Techno	70 First Contact	
+Kurzweil	K2VX	Industrial/Techno	71 Across the Univ. 95	
+Kurzweil	K2VX	Industrial/Techno	72 ENO	
+Kurzweil	K2VX	Industrial/Techno	73 Crystal Mine	
+Kurzweil	K2VX	Industrial/Techno	74 Clones	
+Kurzweil	K2VX	Industrial/Techno	75 Funk Lead	
+Kurzweil	K2VX	Industrial/Techno	76 70's Mutron CL 2	
+Kurzweil	K2VX	Industrial/Techno	77 Funk Gtrr 7th	
+Kurzweil	K2VX	Industrial/Techno	78 Plan 9 arp	
+Kurzweil	K2VX	Industrial/Techno	79 Plan 9 arp 2	
+Kurzweil	K2VX	Industrial/Techno	80 Psycho pt.436	
+Kurzweil	K2VX	Industrial/Techno	81 Movie Strings	
+Kurzweil	K2VX	Industrial/Techno	82 Movie 2	
+Kurzweil	K2VX	Industrial/Techno	83 Moving Triang	
+Kurzweil	K2VX	Industrial/Techno	84 Moving Triang 2	
+Kurzweil	K2VX	Industrial/Techno	85 Depeche Mbox	
+Kurzweil	K2VX	Industrial/Techno	86 The Dose	
+Kurzweil	K2VX	Industrial/Techno	87 Chaser	
+Kurzweil	K2VX	Industrial/Techno	88 Dist. Sq. 5ths	
+Kurzweil	K2VX	Industrial/Techno	89 Whatchamacallit	
+Kurzweil	K2VX	Industrial/Techno	90 Double FUZZ	
+Kurzweil	K2VX	Industrial/Techno	91 Anadelay moog	
+Kurzweil	K2VX	Industrial/Techno	92 Mandala	
+Kurzweil	K2VX	Industrial/Techno	93 NSN Mandala	
+Kurzweil	K2VX	Industrial/Techno	94 orbital	
+Kurzweil	K2VX	Industrial/Techno	95 Critter	
+Kurzweil	K2VX	Industrial/Techno	96 Riddim Sticks	
+Kurzweil	K2VX	Industrial/Techno	97 Clock Arp	
+Kurzweil	K2VX	Industrial/Techno	98 Techs tures	
+Kurzweil	K2VX	Industrial/Techno	99 Fuzz Man	
+Kurzweil	K2VX	KeyMap	0 None	
+Kurzweil	K2VX	KeyMap	1 Grand Piano	
+Kurzweil	K2VX	KeyMap	2 Dual Elec Piano	
+Kurzweil	K2VX	KeyMap	3 Hard Elec Piano	
+Kurzweil	K2VX	KeyMap	4 Soft Elec Piano	
+Kurzweil	K2VX	KeyMap	5 Voices	
+Kurzweil	K2VX	KeyMap	6 Ensemble Strings	
+Kurzweil	K2VX	KeyMap	7 Elec Jazz Guitar	
+Kurzweil	K2VX	KeyMap	8 Acoustic Guitar	
+Kurzweil	K2VX	KeyMap	9 5 String Guitar	
+Kurzweil	K2VX	KeyMap	10 Dual E Bass	
+Kurzweil	K2VX	KeyMap	11 Elec Pick Bass	
+Kurzweil	K2VX	KeyMap	12 Elec Slap Bass	
+Kurzweil	K2VX	KeyMap	13 Finger Atk Bass	
+Kurzweil	K2VX	KeyMap	14 Flute	
+Kurzweil	K2VX	KeyMap	15 Tenor Saxophone	
+Kurzweil	K2VX	KeyMap	16 Sax no Altissimo	
+Kurzweil	K2VX	KeyMap	17 Trumpet	
+Kurzweil	K2VX	KeyMap	18 Trombone	
+Kurzweil	K2VX	KeyMap	19 Trombone/Trumpet	
+Kurzweil	K2VX	KeyMap	20 Preview Kit	
+Kurzweil	K2VX	KeyMap	21 5 8va Dry Kit 1	
+Kurzweil	K2VX	KeyMap	22 5 8va Dry Kit 2	
+Kurzweil	K2VX	KeyMap	23 5 8va Dry Kit 3	
+Kurzweil	K2VX	KeyMap	24 5 8va Dry Kit 4	
+Kurzweil	K2VX	KeyMap	25 5 8va Amb Kit 1	
+Kurzweil	K2VX	KeyMap	26 5 8va Amb Kit 2	
+Kurzweil	K2VX	KeyMap	27 5 8va Amb Kit 3	
+Kurzweil	K2VX	KeyMap	28 5 8va Amb Kit 4	
+Kurzweil	K2VX	KeyMap	29 5 8va Amb Kit 5	
+Kurzweil	K2VX	KeyMap	30 5 8va Amb Kit 6	
+Kurzweil	K2VX	KeyMap	31 5 8va Amb Kit 7	
+Kurzweil	K2VX	KeyMap	32 5 8va Amb Kit 8	
+Kurzweil	K2VX	KeyMap	33 5 8va Amb Kit 9	
+Kurzweil	K2VX	KeyMap	34 5 8va Amb Kit 10	
+Kurzweil	K2VX	KeyMap	35 5 8va Amb Kit 11	
+Kurzweil	K2VX	KeyMap	36 5 8va Amb Kit 12	
+Kurzweil	K2VX	KeyMap	37 2 8va Dry Kit 1	
+Kurzweil	K2VX	KeyMap	38 General MIDI Kit	
+Kurzweil	K2VX	KeyMap	39 Ride Rim Cymbal	
+Kurzweil	K2VX	KeyMap	40 Ride Bell Cymbal	
+Kurzweil	K2VX	KeyMap	41 Crash Cymbal	
+Kurzweil	K2VX	KeyMap	42 Closed Hihat	
+Kurzweil	K2VX	KeyMap	43 SlightOpen Hihat	
+Kurzweil	K2VX	KeyMap	44 Open Hihat	
+Kurzweil	K2VX	KeyMap	45 Open>Close Hihat	
+Kurzweil	K2VX	KeyMap	46 Foot Close Hihat	
+Kurzweil	K2VX	KeyMap	47 22in Dry Kick	
+Kurzweil	K2VX	KeyMap	48 20in Dry Kick	
+Kurzweil	K2VX	KeyMap	49 24in Amb Kick	
+Kurzweil	K2VX	KeyMap	50 20in Amb Kick	
+Kurzweil	K2VX	KeyMap	51 22in Amb Kick	
+Kurzweil	K2VX	KeyMap	52 8in Dry Snare	
+Kurzweil	K2VX	KeyMap	53 Dual Metal Snare	
+Kurzweil	K2VX	KeyMap	54 Metal Snare Soft	
+Kurzweil	K2VX	KeyMap	55 Metal Snare Hard	
+Kurzweil	K2VX	KeyMap	56 Ambient Snare 1	
+Kurzweil	K2VX	KeyMap	57 Ambient Snare 2	
+Kurzweil	K2VX	KeyMap	58 Ambient Snare 3	
+Kurzweil	K2VX	KeyMap	59 Ambient Snare 4	
+Kurzweil	K2VX	KeyMap	60 Sidestick	
+Kurzweil	K2VX	KeyMap	61 Toms in 4ths	
+Kurzweil	K2VX	KeyMap	62 10in Dry Tom	
+Kurzweil	K2VX	KeyMap	63 12in Dry Tom	
+Kurzweil	K2VX	KeyMap	64 14in Dry Tom	
+Kurzweil	K2VX	KeyMap	65 10in Amb Tom	
+Kurzweil	K2VX	KeyMap	66 12in Amb Tom	
+Kurzweil	K2VX	KeyMap	67 13in Amb Tom	
+Kurzweil	K2VX	KeyMap	68 16in Amb Tom	
+Kurzweil	K2VX	KeyMap	69 Preview Perc	
+Kurzweil	K2VX	KeyMap	70 5 8va Latin Perc	
+Kurzweil	K2VX	KeyMap	71 Metal Perc	
+Kurzweil	K2VX	KeyMap	72 Tracking Perc	
+Kurzweil	K2VX	KeyMap	73 Conga Bass	
+Kurzweil	K2VX	KeyMap	74 Conga Slap	
+Kurzweil	K2VX	KeyMap	75 Conga Tone	
+Kurzweil	K2VX	KeyMap	76 Conga Tap	
+Kurzweil	K2VX	KeyMap	77 Timbale	
+Kurzweil	K2VX	KeyMap	78 Timbale Shell	
+Kurzweil	K2VX	KeyMap	79 Cabasa	
+Kurzweil	K2VX	KeyMap	80 Claves	
+Kurzweil	K2VX	KeyMap	81 Cowbell	
+Kurzweil	K2VX	KeyMap	82 Tambourine	
+Kurzweil	K2VX	KeyMap	83 Handclap	
+Kurzweil	K2VX	KeyMap	84 Perc Loop 1	
+Kurzweil	K2VX	KeyMap	85 Perc Loop 2	
+Kurzweil	K2VX	KeyMap	86 Perc Loop 3	
+Kurzweil	K2VX	KeyMap	87 Perc Loop 4	
+Kurzweil	K2VX	KeyMap	88 Chiff	
+Kurzweil	K2VX	KeyMap	89 Chirp	
+Kurzweil	K2VX	KeyMap	90 FM Bell Trans	
+Kurzweil	K2VX	KeyMap	91 Waterphone	
+Kurzweil	K2VX	KeyMap	92 Metal Clank	
+Kurzweil	K2VX	KeyMap	93 TimbaleShell Atk	
+Kurzweil	K2VX	KeyMap	94 Cowbell Atk	
+Kurzweil	K2VX	KeyMap	95 Timbale Atk	
+Kurzweil	K2VX	KeyMap	96 Bell Attack	
+Kurzweil	K2VX	KeyMap	97 Clave Atk	
+Kurzweil	K2VX	KeyMap	98 Wood Bar Atk	
+Kurzweil	K2VX	KeyMap	99 Conga Tone Atk	
+Kurzweil	K2VX	KeyMap	100 Conga Slap Atk	
+Kurzweil	K2VX	KeyMap	101 Elec Pno Atk	
+Kurzweil	K2VX	KeyMap	102 Brass Attack	
+Kurzweil	K2VX	KeyMap	103 Bow Attack	
+Kurzweil	K2VX	KeyMap	104 Jazz Guitar Atk	
+Kurzweil	K2VX	KeyMap	105 Steel Guitar Atk	
+Kurzweil	K2VX	KeyMap	106 Perc Atk 1	
+Kurzweil	K2VX	KeyMap	107 Perc Atk 2	
+Kurzweil	K2VX	KeyMap	108 Perc Atk 3	
+Kurzweil	K2VX	KeyMap	109 Wood Bars	
+Kurzweil	K2VX	KeyMap	110 Solo Strings	
+Kurzweil	K2VX	KeyMap	111 Six String Mutes	
+Kurzweil	K2VX	KeyMap	112 Oboe Wave	
+Kurzweil	K2VX	KeyMap	113 Clav Wave	
+Kurzweil	K2VX	KeyMap	114 Elec Piano Wave	
+Kurzweil	K2VX	KeyMap	115 Bell Wave	
+Kurzweil	K2VX	KeyMap	116 Ping Wave	
+Kurzweil	K2VX	KeyMap	117 Drawbars 1-3	
+Kurzweil	K2VX	KeyMap	118 Drawbars 1-4	
+Kurzweil	K2VX	KeyMap	119 Drawbars 1-3 Dist	
+Kurzweil	K2VX	KeyMap	120 Full Drawbars	
+Kurzweil	K2VX	KeyMap	121 Drawbars 1-4,8	
+Kurzweil	K2VX	KeyMap	122 Organ Wave 1	
+Kurzweil	K2VX	KeyMap	123 Organ Wave 2	
+Kurzweil	K2VX	KeyMap	124 Organ Wave 3	
+Kurzweil	K2VX	KeyMap	125 Organ Wave 4	
+Kurzweil	K2VX	KeyMap	126 Organ Wave 5	
+Kurzweil	K2VX	KeyMap	127 Organ Wave 6	
+Kurzweil	K2VX	KeyMap	128 Organ Wave 7	
+Kurzweil	K2VX	KeyMap	129 Partials 1-3	
+Kurzweil	K2VX	KeyMap	130 Partials 4-7	
+Kurzweil	K2VX	KeyMap	131 Partials 8-12	
+Kurzweil	K2VX	KeyMap	132 Partials 13-20	
+Kurzweil	K2VX	KeyMap	133 Partials 21-30	
+Kurzweil	K2VX	KeyMap	134 Partials 1&2	
+Kurzweil	K2VX	KeyMap	135 Partials 3&4	
+Kurzweil	K2VX	KeyMap	136 Partials 5-7	
+Kurzweil	K2VX	KeyMap	137 Partials 8-10	
+Kurzweil	K2VX	KeyMap	138 Partials 11-15	
+Kurzweil	K2VX	KeyMap	139 Partials 16-21	
+Kurzweil	K2VX	KeyMap	140 Partials 2-4	
+Kurzweil	K2VX	KeyMap	141 Partials 5,7,9,11	
+Kurzweil	K2VX	KeyMap	142 Partials 1,2,4	
+Kurzweil	K2VX	KeyMap	143 Partials 1,2,4,6	
+Kurzweil	K2VX	KeyMap	144 Partials 3-5	
+Kurzweil	K2VX	KeyMap	145 Partials 1-3	
+Kurzweil	K2VX	KeyMap	146 Partials 1,3,5	
+Kurzweil	K2VX	KeyMap	147 Partials 1&4	
+Kurzweil	K2VX	KeyMap	148 Partials 1&6	
+Kurzweil	K2VX	KeyMap	149 Partials 1&8	
+Kurzweil	K2VX	KeyMap	150 Partials 1&12	
+Kurzweil	K2VX	KeyMap	151 Sawtooth	
+Kurzweil	K2VX	KeyMap	152 Dull Sawtooth	
+Kurzweil	K2VX	KeyMap	153 Very Dull Saw	
+Kurzweil	K2VX	KeyMap	154 Square Wave	
+Kurzweil	K2VX	KeyMap	155 Dull Square	
+Kurzweil	K2VX	KeyMap	156 Very Dull Square	
+Kurzweil	K2VX	KeyMap	157 Buzzy Square	
+Kurzweil	K2VX	KeyMap	158 Buzz Wave	
+Kurzweil	K2VX	KeyMap	159 Hi Formant Wave	
+Kurzweil	K2VX	KeyMap	160 PrimeNumber Wave	
+Kurzweil	K2VX	KeyMap	161 Triangle Wave	
+Kurzweil	K2VX	KeyMap	162 Third Wave	
+Kurzweil	K2VX	KeyMap	163 Sine Wave	
+Kurzweil	K2VX	KeyMap	164 ExtDynPrtls1	
+Kurzweil	K2VX	KeyMap	165 ExtDynPart2	
+Kurzweil	K2VX	KeyMap	166 ExtDynSaw	
+Kurzweil	K2VX	KeyMap	167 Mellow Vox	
+Kurzweil	K2VX	KeyMap	168 Silence	
+Kurzweil	K2VX	KeyMap	169 FluteClarn	
+Kurzweil	K2VX	KeyMap	170 Flute Breath	
+Kurzweil	K2VX	KeyMap	171 Plus+Bass	
+Kurzweil	K2VX	KeyMap	172 Voices 2	
+Kurzweil	K2VX	KeyMap	173 Pluck2Stack	
+Kurzweil	K2VX	KeyMap	174 Amb Snare Loop	
+Kurzweil	K2VX	KeyMap	175 Preview Perc	
+Kurzweil	K2VX	KeyMap	180 Shift Guitar 2	
+Kurzweil	K2VX	KeyMap	181 Bone/Trp 2	
+Kurzweil	K2VX	KeyMap	182 Synflute mello	
+Kurzweil	K2VX	KeyMap	183 Syn Bass Pick	
+Kurzweil	K2VX	KeyMap	184 Syn Bass Slap	
+Kurzweil	K2VX	KeyMap	185 Syn Guitar	
+Kurzweil	K2VX	KeyMap	186 Syn Voices 2	
+Kurzweil	K2VX	KeyMap	187 Syn Piano	
+Kurzweil	K2VX	KeyMap	188 TechnoLoops	
+Kurzweil	K2VX	KeyMap	189 GeneralMIDI Kit2	
+Kurzweil	K2VX	KeyMap	190 Funny Perc	
+Tab filled out by: KabulentNought, stin, user2w				Jump to top

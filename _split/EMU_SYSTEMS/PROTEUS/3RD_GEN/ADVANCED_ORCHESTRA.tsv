@@ -1,0 +1,315 @@
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	000 cmb:AdvancedOrch	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	001 cmb:Traditional	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	002 str:LegatoString	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	003 cmb:Orch Split	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	004 prc:Orchestra 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	005 brs:Brass	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	006 cmb:Full Symph	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	007 cmb:Symph Minor	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	008 str:Vib mp-f vSt	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	009 str:Sus Stereo	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	010 str:Sor Stereo	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	011 str:Expressive	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	012 wnd:Expressive	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	013 brs:Expressive	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	014 cmb:BrassOverStr	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	015 wnd:Warm Octs	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	016 cmb:Orch Hit	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	017 str:Staccato 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	018 str:Pizzicato 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	019 cmb:WarmWnd&Str	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	020 cmb:Brass&Winds1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	021 cmb:Velo Orch	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	022 str:Trem Stereo	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	023 str:Con Sordino	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	024 cmb:Legato Orch	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	025 prc:BassSnareCym	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	026 prc:Timpani 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	027 prc:Timpani 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	028 syn:HP Sweep Sus	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	029 syn:Mechawinds	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	030 sfx:Initiator	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	031 sfx:Space Choir	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	032 str:Vibrato f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	033 str:Vib f Stereo	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	034 str:Vibrato mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	035 str:Vib mf Str	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	036 str:Vibrato mp-f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	037 str:Vib mp-f v	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	038 str:Vib mp-f Oct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	039 str:Vib mp 3 Oct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	040 str:Vib mp-Sus	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	041 str:Vb mp-SusOct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	042 str:Vib mp-Tr mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	043 str:Vib mp-Tr f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	044 str:Vib f-Tr f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	045 str:Soft Sustain	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	046 str:Sus Octave	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	047 str:Sus-Vib f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	048 str:Sus-Vib fOct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	049 str:Tremolo ff	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	050 str:Trem f Str	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	051 str:Tremolo mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	052 str:Trem mp Str	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	053 str:Trem mp-fOct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	054 str:VibTrem Str	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	055 str:VbTr mp-fOct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	056 str:Legato 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	057 str:Legato 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	058 str:Sor - Vib mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	059 str:Sor-Vb mpOct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	060 str:Sor - Vib f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	061 str:Sor-Vib fOct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	062 str:Sor - Sus	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	063 str:Sor-Sus Oct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	064 str:Staccato 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	065 brs:Sustained ff	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	066 brs:Sus Str ff	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	067 brs:Sus Oct ff	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	068 brs:Sustained mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	069 brs:Sustained mf	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	070 brs:Sus pp-ff w	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	071 brs:Shout Brass	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	072 brs:WhlWah Brass	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	073 brs:Sfz Brass	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	074 brs:Staccato f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	075 brs:Stac f w	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	076 brs:Staccato mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	077 brs:Warm Brass	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	078 brs:Warm Octs	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	079 brs:Synthy Brass	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	080 brs:SweepyFourth	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	081 brs:Brass Min 9	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	082 brs:Brass Maj6-9	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	083 wnd:Sustained ff	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	084 wnd:Sus ff Str	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	085 wnd:Sus ff Oct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	086 wnd:Sustained mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	087 wnd:Sus mp Str	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	088 wnd:Staccato f	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	089 wnd:Staccato mp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	090 wnd:Super Winds1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	091 wnd:Super Winds2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	092 wnd:Super Winds3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	093 wnd:Warm Winds	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	094 wnd:Slack Winds	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	095 wnd:Sweep Winds	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	096 wnd:Drift Winds	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	097 wnd:Homers Wind	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	098 wnd:Winds Minor	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	099 prc:Orchestra 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	100 prc:Alt Timpani	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	101 prc:Gran Cassa	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	102 prc:GranCassa EQ	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	103 prc:Snare	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	104 prc:Snare EQ	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	105 prc:Bass & Tymp	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	106 prc:BassTympTam	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	107 prc:Cymbals 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	108 prc:Cymbals 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	109 prc:Tam Tam 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	110 prc:Tam Tam 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	111 prc:TamTam&Cymb	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	112 prc:TempleBlcks1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	113 prc:TempleBlcks2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	114 prc:Cowbell p G3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	115 prc:Cowbell f G3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	116 prc:Cow p-f G3 v	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	117 prc:Cowbell p C5	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	118 prc:Cowbell f C5	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	119 prc:Cow p-f C5 v	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	120 prc:Clave B5	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	121 prc:Clave A#5	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	122 prc:Windchimes 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	123 prc:Windchimes 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	124 prc:Layered Perc	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	125 lnk:OrchHitLink	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	126 cmb:AdvancedLnk1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 0	127 cmb:AdvancedLnk2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	000 str:Hall Strings	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	001 str:Dark Legato	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	002 str:Vib w/Stac v	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	003 str:Sus w/Stac	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	004 str:Pizzicato 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	005 str:PizzicatoOct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	006 str:Pizz Sustain	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	007 str:Spic & Pizz	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	008 str:Vi Col Legno	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	009 str:Va Col Legno	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	010 str:ViVaColLegno	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	011 str:VaCoLeg&Spic	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	012 str:VaCoLeg&Pizz	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	013 str:SuperStrngs1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	014 str:SuperStrngs2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	015 str:SuperStrngs3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	016 str:Staccato Oct	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	017 str:Bright Octs	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	018 str:Smooth Pad	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	019 str:Warm Octs 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	020 str:Warm Octs 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	021 str:Warm Octs 3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	022 str:String Maj	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	023 str:String Min 9	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	024 str:Expressive 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	025 str:Legato Octs	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	026 str:Slo Sordino	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	027 str:Alpha 7	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	028 str:B MovieSweep	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	029 str:Slak Vibrato	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	030 str:Trans Trem	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	031 str:Lilting	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	032 cmb:Full Symph 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	033 cmb:Full Symph 3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	034 cmb:Stac Combo	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	035 cmb:Solo Symph	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	036 cmd:Symph 4 Octs	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	037 cmb:Split Orch 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	038 cmb:Split Orch 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	039 cmb:Split Orch 3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	040 cmb:Split Orch 4	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	041 cmb:Split Orch 5	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	042 cmb:Split Orch 6	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	043 cmb:VibratoOrch1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	044 cmb:VibratoOrch2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	045 cmb:Sordino Orch	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	046 cmb:Sustain Orch	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	047 cmb:Phase Orch	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	048 cmb:String&Brs 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	049 cmb:String&Brs 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	050 cmb:String&Brs 3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	051 cmb:String&Brs 4	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	052 cmb:StrOverBrsWd	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	053 cmb:WrmBrs&Str1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	054 cmb:WrmBrs&Str2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	055 cmb:Winds&Strng1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	056 cmb:Winds&Strng2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	057 cmb:WindsOverStr	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	058 cmb:Staccati	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	059 cmb:Theme Pad	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	060 cmb:Brass&Winds2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	061 cmb:High School	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	062 cmb:AccordnSectn	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	063 cmb:Brs StrAtk w	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	064 cmb:Wnd StrAtk w	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	065 cmb:FanfareBrass	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	066 cmb:WndLead&Pad	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	067 cmb:Over Ventura	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	068 cmb:Enjoy Symph	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	069 cmb:FrenchString	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	070 cmb:Brass Mod	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	071 cmb:Tremers	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	072 cmb:Ozz	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	073 cmb:Stacc Echos	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	074 cmb:Clave Winds	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	075 cmb:Wind Blocks	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	076 cmb:Moo Bells	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	077 cmb:Hidden Fifth	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	078 cmb:Reflection	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	079 cmb:Chime String	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	080 syn:BrsLead&Pad	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	081 syn:Millennium	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	082 syn:Digital	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	083 syn:Density	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	084 syn:Astrus	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	085 syn:Sharp Symph	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	086 syn:Rezor Symph	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	087 syn:Tambo Spin	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	088 syn:Tinky Pad	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	089 syn:Evolute 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	090 syn:Evolute 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	091 syn:Synth Keyz	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	092 syn:BandPassion	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	093 syn:Atmos Radio	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	094 syn:String Me	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	095 syn:Wind Harms	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	096 syn:Spiritus	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	097 syn:Orkadelic	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	098 syn:Oceanix	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	099 syn:Voice Symph	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	100 syn:Mid Phasics	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	101 syn:Hi Phasics	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	102 syn:Downmode	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	103 syn:Synth Orch 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	104 syn:Synth Orch 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	105 syn:Synth Orch 3	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	106 syn:Synth Orch 4	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	107 syn:East Temple	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	108 syn:Boinker	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	109 syn:Temple Keys	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	110 syn:FreedomSynth	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	111 syn:Col Leg No	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	112 syn:In Depth	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	113 org:Wind Org 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	114 org:Wind Org 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	115 org:Combo Org 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	116 org:Combo Org 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	117 org:Blue Org	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	118 sfx:The Core	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	119 sfx:Scary	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	120 sfx:Extropia	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	121 sfx:Possum Perc	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	122 sfx:InstntSerial	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	123 sfx:Pulse Orch	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	124 sfx:Way Alt Ork	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	125 sfx:Orch Efx 1	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	126 sfx:Orch Efx 2	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	127 :A.O. V1.0	
+E-MU Systems	Advanced Orchestra ROM	Instruments	000 :None	
+E-MU Systems	Advanced Orchestra ROM	Instruments	001 str:Vibrato f	
+E-MU Systems	Advanced Orchestra ROM	Instruments	002 str:Vibrato mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments	003 str:Soft Sustain	
+E-MU Systems	Advanced Orchestra ROM	Instruments	004 str:Tremolo ff	
+E-MU Systems	Advanced Orchestra ROM	Instruments	005 str:Tremolo mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments	006 str:Sordino	
+E-MU Systems	Advanced Orchestra ROM	Instruments	007 str:Staccato	
+E-MU Systems	Advanced Orchestra ROM	Instruments	008 str:Pizzicato	
+E-MU Systems	Advanced Orchestra ROM	Instruments	009 str:Vi Col Legno	
+E-MU Systems	Advanced Orchestra ROM	Instruments	010 str:Va Col Legno	
+E-MU Systems	Advanced Orchestra ROM	Instruments	011 brs:Sustained ff	
+E-MU Systems	Advanced Orchestra ROM	Instruments	012 brs:Staccato f	
+E-MU Systems	Advanced Orchestra ROM	Instruments	013 brs:Staccato mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments	014 wnd:Sustained ff	
+E-MU Systems	Advanced Orchestra ROM	Instruments	015 wnd:Staccato f	
+E-MU Systems	Advanced Orchestra ROM	Instruments	016 wnd:Staccato mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments	017 prc:Orchestra	
+E-MU Systems	Advanced Orchestra ROM	Instruments	018 prc:Tmple Blocks	
+E-MU Systems	Advanced Orchestra ROM	Instruments	019 prc:Cowbell f 3G	
+E-MU Systems	Advanced Orchestra ROM	Instruments	020 prc:Cowbell f C5	
+E-MU Systems	Advanced Orchestra ROM	Instruments	021 prc:Cowbell p 3G	
+E-MU Systems	Advanced Orchestra ROM	Instruments	022 prc:Cowbell p C5	
+E-MU Systems	Advanced Orchestra ROM	Instruments	023 prc:Clave A#5	
+E-MU Systems	Advanced Orchestra ROM	Instruments	024 prc:Clave B5	
+E-MU Systems	Advanced Orchestra ROM	Instruments	025 prc:Windchimes	
+E-MU Systems	Advanced Orchestra ROM	Instruments	026 prc:Orch P2K V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments	027 prc:Orch P2K V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments	028 prc:Orch P2K V3	
+E-MU Systems	Advanced Orchestra ROM	Instruments	029 prc:Timpani V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments	030 prc:Timpani V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments	031 prc:Cymbals V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments	032 prc:Cymbals V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments	033 prc:Snare V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments	034 prc:Snare V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments	035 prc:Snare V3	
+E-MU Systems	Advanced Orchestra ROM	Instruments	036 prc:Snare V4	
+E-MU Systems	Advanced Orchestra ROM	Instruments	037 prc:Gran Cssa V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments	038 prc:Gran Cssa V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments	039 prc:Gran Cssa V3	
+E-MU Systems	Advanced Orchestra ROM	Instruments	040 prc:Gran Cssa V4	
+E-MU Systems	Advanced Orchestra ROM	Instruments	041 prc:Tam Tam V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments	042 prc:Tam Tam V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments	043 prc:Orch E4 V01	
+E-MU Systems	Advanced Orchestra ROM	Instruments	044 prc:Orch E4 V02	
+E-MU Systems	Advanced Orchestra ROM	Instruments	045 prc:Orch E4 V03	
+E-MU Systems	Advanced Orchestra ROM	Instruments	046 prc:Orch E4 V04	
+E-MU Systems	Advanced Orchestra ROM	Instruments	047 prc:Orch E4 V05	
+E-MU Systems	Advanced Orchestra ROM	Instruments	048 prc:Orch E4 V06	
+E-MU Systems	Advanced Orchestra ROM	Instruments	049 prc:Orch E4 V07	
+E-MU Systems	Advanced Orchestra ROM	Instruments	050 prc:Orch E4 V08	
+E-MU Systems	Advanced Orchestra ROM	Instruments	051 prc:Orch E4 V09	
+E-MU Systems	Advanced Orchestra ROM	Instruments	052 prc:Orch E4 V10	
+E-MU Systems	Advanced Orchestra ROM	Instruments	053 prc:Orch E4 V11	
+E-MU Systems	Advanced Orchestra ROM	Instruments	054 prc:Orch E4 V12	
+E-MU Systems	Advanced Orchestra ROM	Instruments	055 prc:Orch E4 V13	
+E-MU Systems	Advanced Orchestra ROM	Instruments	056 prc:Orch E4 V14	
+E-MU Systems	Advanced Orchestra ROM	Instruments	057 prc:Orch E4 V15	
+E-MU Systems	Advanced Orchestra ROM	Instruments	058 prc:Orch E4 V16	

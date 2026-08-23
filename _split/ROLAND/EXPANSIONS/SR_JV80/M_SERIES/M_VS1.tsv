@@ -1,0 +1,534 @@
+Roland	M-VS1	Patch	  1 Prologue	
+Roland	M-VS1	Patch	  2 Mega 5ths	
+Roland	M-VS1	Patch	  3 Shine on you	
+Roland	M-VS1	Patch	  4 Converge	
+Roland	M-VS1	Patch	  5 JX3P Polaris	
+Roland	M-VS1	Patch	  6 Big Pad Swp	
+Roland	M-VS1	Patch	  7 Big LFOSweep	
+Roland	M-VS1	Patch	  8 The Big Wave	
+Roland	M-VS1	Patch	  9 PG Ominous	
+Roland	M-VS1	Patch	 10 Wavestrings	
+Roland	M-VS1	Patch	 11 Mantrawave	
+Roland	M-VS1	Patch	 12 WavetablePan	
+Roland	M-VS1	Patch	 13 Euro Sweep	
+Roland	M-VS1	Patch	 14 Metal Drone	
+Roland	M-VS1	Patch	 15 EasternTempl	
+Roland	M-VS1	Patch	 16 Shining Wave	
+Roland	M-VS1	Patch	 17 DigitalChoir	
+Roland	M-VS1	Patch	 18 Warm Shimmer	
+Roland	M-VS1	Patch	 19 MachineDream	
+Roland	M-VS1	Patch	 20 Replicants	
+Roland	M-VS1	Patch	 21 Random Pad	
+Roland	M-VS1	Patch	 22 Animotion	
+Roland	M-VS1	Patch	 23 Nervous Pan	
+Roland	M-VS1	Patch	 24 JX-3P Planet	
+Roland	M-VS1	Patch	 25 JP8 Strings1	
+Roland	M-VS1	Patch	 26 JP+OB Strngs	
+Roland	M-VS1	Patch	 27 PWM Strings	
+Roland	M-VS1	Patch	 28 Analog Orch	
+Roland	M-VS1	Patch	 29 Big Strings	
+Roland	M-VS1	Patch	 30 OB Thick Pad	
+Roland	M-VS1	Patch	 31 FullOut Saws	
+Roland	M-VS1	Patch	 32 CS Saw Pad	
+Roland	M-VS1	Patch	 33 CS Strings	
+Roland	M-VS1	Patch	 34 OctavaStrngs	
+Roland	M-VS1	Patch	 35 MemoryMG STR	
+Roland	M-VS1	Patch	 36 Solina	
+Roland	M-VS1	Patch	 37 RS202 String	
+Roland	M-VS1	Patch	 38 RealEnsemble	
+Roland	M-VS1	Patch	 39 Rhapsody STR	
+Roland	M-VS1	Patch	 40 Juno 106 Pad	
+Roland	M-VS1	Patch	 41 Orchestrator	
+Roland	M-VS1	Patch	 42 VP-330 Tutti	
+Roland	M-VS1	Patch	 43 LonesomeHill	
+Roland	M-VS1	Patch	 44 VP-330 Choir	
+Roland	M-VS1	Patch	 45 Girls Choir	
+Roland	M-VS1	Patch	 46 HollowBreath	
+Roland	M-VS1	Patch	 47 JP6 Bend 5th	
+Roland	M-VS1	Patch	 48 JP SquarePad	
+Roland	M-VS1	Patch	 49 Hollow JX	
+Roland	M-VS1	Patch	 50 JX Vox	
+Roland	M-VS1	Patch	 51 Voices JX-8P	
+Roland	M-VS1	Patch	 52 D50 Heavenly	
+Roland	M-VS1	Patch	 53 Somewhere	
+Roland	M-VS1	Patch	 54 JX Melon Vox	
+Roland	M-VS1	Patch	 55 Swell Vox	
+Roland	M-VS1	Patch	 56 VP-330 Sweep	
+Roland	M-VS1	Patch	 57 Tron Choir	
+Roland	M-VS1	Patch	 58 ChoirSynths	
+Roland	M-VS1	Patch	 59 Misty Choir	
+Roland	M-VS1	Patch	 60 Etherial	
+Roland	M-VS1	Patch	 61 Real Mellow	
+Roland	M-VS1	Patch	 62 OctMelotron	
+Roland	M-VS1	Patch	 63 Tron Strings	
+Roland	M-VS1	Patch	 64 Melotron Pad	
+Roland	M-VS1	Patch	 65 StrawberyFlt	
+Roland	M-VS1	Patch	 66 MellowFlutes	
+Roland	M-VS1	Patch	 67 DarkEnsemble	
+Roland	M-VS1	Patch	 68 Power B	
+Roland	M-VS1	Patch	 69 DirtyPurple	
+Roland	M-VS1	Patch	 70 Velo Rotary	
+Roland	M-VS1	Patch	 71 DistOrganFXM	
+Roland	M-VS1	Patch	 72 Gospel B	
+Roland	M-VS1	Patch	 73 Organwave2.2	
+Roland	M-VS1	Patch	 74 VS Organ	
+Roland	M-VS1	Patch	 75 VS Organbell	
+Roland	M-VS1	Patch	 76 VK-1 Organ	
+Roland	M-VS1	Patch	 77 Celesty Juno	
+Roland	M-VS1	Patch	 78 Alpharphisa	
+Roland	M-VS1	Patch	 79 Juno60 Organ	
+Roland	M-VS1	Patch	 80 JX-8P	
+Roland	M-VS1	Patch	 81 D-50 Organ 1	
+Roland	M-VS1	Patch	 82 D-50 Organ 2	
+Roland	M-VS1	Patch	 83 2600 Clk Org	
+Roland	M-VS1	Patch	 84 JX-3P Pipes	
+Roland	M-VS1	Patch	 85 Clavipad	
+Roland	M-VS1	Patch	 86 P10 GuitClav	
+Roland	M-VS1	Patch	 87 Gum Clav	
+Roland	M-VS1	Patch	 88 JunoBiteClav	
+Roland	M-VS1	Patch	 89 Phazyn Clav	
+Roland	M-VS1	Patch	 90 JP-8 Clav	
+Roland	M-VS1	Patch	 91 Alpha Clav	
+Roland	M-VS1	Patch	 92 Hyper Clav	
+Roland	M-VS1	Patch	 93 DrQ 106 Clav	
+Roland	M-VS1	Patch	 94 Perky Pad	
+Roland	M-VS1	Patch	 95 Poly Palette	
+Roland	M-VS1	Patch	 96 Perkolator	
+Roland	M-VS1	Patch	 97 Poly Flange	
+Roland	M-VS1	Patch	 98 MondoDiGiTaL	
+Roland	M-VS1	Patch	 99 and thenMIDI	
+Roland	M-VS1	Patch	100 MKS80 Sprang	
+Roland	M-VS1	Patch	101 JP4Sharp Pad	
+Roland	M-VS1	Patch	102 SH-1000 MIDI	
+Roland	M-VS1	Patch	103 Splatty	
+Roland	M-VS1	Patch	104 CS-Sixty BPF	
+Roland	M-VS1	Patch	105 Waspy Synth	
+Roland	M-VS1	Patch	106 Polychrome	
+Roland	M-VS1	Patch	107 OB Synthy	
+Roland	M-VS1	Patch	108 OBig Poly	
+Roland	M-VS1	Patch	109 80s OBxa	
+Roland	M-VS1	Patch	110 Thick Matrix	
+Roland	M-VS1	Patch	111 Prophetic	
+Roland	M-VS1	Patch	112 Oct MG Saw	
+Roland	M-VS1	Patch	113 CS Power Saw	
+Roland	M-VS1	Patch	114 Juno-6 Power	
+Roland	M-VS1	Patch	115 Hyperphases	
+Roland	M-VS1	Patch	116 Synth-X Phaz	
+Roland	M-VS1	Patch	117 Synth-X Poly	
+Roland	M-VS1	Patch	118 MIDI Brs Pad	
+Roland	M-VS1	Patch	119 Poly X-pandr	
+Roland	M-VS1	Patch	120 Spit Brass	
+Roland	M-VS1	Patch	121 Pro-10 Brass	
+Roland	M-VS1	Patch	122 OB Stab Brs	
+Roland	M-VS1	Patch	123 Pro-5 Brass	
+Roland	M-VS1	Patch	124 P5/MG Brass	
+Roland	M-VS1	Patch	125 MKS80 Brass	
+Roland	M-VS1	Patch	126 MKS-7 Brass	
+Roland	M-VS1	Patch	127 Quack Brass	
+Roland	M-VS1	Patch	128 FM Brass	
+Roland	M-VS1	Patch	129 Dark Brass	
+Roland	M-VS1	Patch	130 MemoryMG Brs	
+Roland	M-VS1	Patch	131 SH2 Brass	
+Roland	M-VS1	Patch	132 RS-202 Brass	
+Roland	M-VS1	Patch	133 Polysync	
+Roland	M-VS1	Patch	134 Wavesync	
+Roland	M-VS1	Patch	135 Rock Sync	
+Roland	M-VS1	Patch	136 T8 Sync	
+Roland	M-VS1	Patch	137 P5 Sync Rush	
+Roland	M-VS1	Patch	138 P5 Sync Lead	
+Roland	M-VS1	Patch	139 Synkoid	
+Roland	M-VS1	Patch	140 Mini Lead 1	
+Roland	M-VS1	Patch	141 Mini Lead 2	
+Roland	M-VS1	Patch	142 Mini Lead 3	
+Roland	M-VS1	Patch	143 Mini Lead 4	
+Roland	M-VS1	Patch	144 VCO Oct Lead	
+Roland	M-VS1	Patch	145 CS Lead	
+Roland	M-VS1	Patch	146 Expressolo	
+Roland	M-VS1	Patch	147 Pats GR-300	
+Roland	M-VS1	Patch	148 Promars Lead	
+Roland	M-VS1	Patch	149 The Melody	
+Roland	M-VS1	Patch	150 SH Solo	
+Roland	M-VS1	Patch	151 Wagnerian Ld	
+Roland	M-VS1	Patch	152 Syn Lead Ma	
+Roland	M-VS1	Patch	153 Naked Cheese	
+Roland	M-VS1	Patch	154 Telstar	
+Roland	M-VS1	Patch	155 Arpy Micro	
+Roland	M-VS1	Patch	156 OB 2 Voice	
+Roland	M-VS1	Patch	157 2 Voice Solo	
+Roland	M-VS1	Patch	158 ClassicLead	
+Roland	M-VS1	Patch	159 Shmoog	
+Roland	M-VS1	Patch	160 Lucky Man	
+Roland	M-VS1	Patch	161 ModularLead	
+Roland	M-VS1	Patch	162 Jupiter Lead	
+Roland	M-VS1	Patch	163 Micro MG	
+Roland	M-VS1	Patch	164 Pulse Lead	
+Roland	M-VS1	Patch	165 SH-2000 Vox	
+Roland	M-VS1	Patch	166 FM Lead	
+Roland	M-VS1	Patch	167 70s Sinusolo	
+Roland	M-VS1	Patch	168 Alpha Lead	
+Roland	M-VS1	Patch	169 MG Swell	
+Roland	M-VS1	Patch	170 MultiMG 5ths	
+Roland	M-VS1	Patch	171 Retrosweep	
+Roland	M-VS1	Patch	172 GR500 SlowLd	
+Roland	M-VS1	Patch	173 OB Bass	
+Roland	M-VS1	Patch	174 MG Beef Bass	
+Roland	M-VS1	Patch	175 Monster MG	
+Roland	M-VS1	Patch	176 Fat MG Bass	
+Roland	M-VS1	Patch	177 ClassicMG Bs	
+Roland	M-VS1	Patch	178 Reso MG Bass	
+Roland	M-VS1	Patch	179 MG Ow Bass	
+Roland	M-VS1	Patch	180 101 Ow Bass	
+Roland	M-VS1	Patch	181 Wet MG Bass	
+Roland	M-VS1	Patch	182 2600 Reso Bs	
+Roland	M-VS1	Patch	183 Talking Bs	
+Roland	M-VS1	Patch	184 MG Bs Pedals	
+Roland	M-VS1	Patch	185 Rogue Bass	
+Roland	M-VS1	Patch	186 Bassic 101	
+Roland	M-VS1	Patch	187 SH101 Zap Bs	
+Roland	M-VS1	Patch	188 101 Oct Bass	
+Roland	M-VS1	Patch	189 JP-4 Bass 1	
+Roland	M-VS1	Patch	190 JP-4 Bass 2	
+Roland	M-VS1	Patch	191 Systm700 Bs1	
+Roland	M-VS1	Patch	192 Systm700 Bs2	
+Roland	M-VS1	Patch	193 SH-2 Bass	
+Roland	M-VS1	Patch	194 TB303 Bs	
+Roland	M-VS1	Patch	195 TB303 AcidBs	
+Roland	M-VS1	Patch	196 Odyssee Bs	
+Roland	M-VS1	Patch	197 House Bass	
+Roland	M-VS1	Patch	198 Woofer Bass	
+Roland	M-VS1	Patch	199 Spike Bass	
+Roland	M-VS1	Patch	200 Big Spike Bs	
+Roland	M-VS1	Patch	201 Sharp Sub Bs	
+Roland	M-VS1	Patch	202 Big Sub Bass	
+Roland	M-VS1	Patch	203 System100 Bs	
+Roland	M-VS1	Patch	204 Techno Bass	
+Roland	M-VS1	Patch	205 Bark Bass	
+Roland	M-VS1	Patch	206 Housine Bass	
+Roland	M-VS1	Patch	207 Super Bass	
+Roland	M-VS1	Patch	208 Midi X Bass	
+Roland	M-VS1	Patch	209 Thips Blips	
+Roland	M-VS1	Patch	210 Techno Perc	
+Roland	M-VS1	Patch	211 2.3 GlassSEQ	
+Roland	M-VS1	Patch	212 Planet-S SEQ	
+Roland	M-VS1	Patch	213 ArpeggiBs+12	
+Roland	M-VS1	Patch	214 ArpeggiSaws	
+Roland	M-VS1	Patch	215 Descender	
+Roland	M-VS1	Patch	216 Playmate	
+Roland	M-VS1	Patch	217 MC8 Sequence	
+Roland	M-VS1	Patch	218 RM Piano 1	
+Roland	M-VS1	Patch	219 Wurlisynth	
+Roland	M-VS1	Patch	220 Syn E.P. 1	
+Roland	M-VS1	Patch	221 AnaSyn E.P.	
+Roland	M-VS1	Patch	222 Synth Vibe	
+Roland	M-VS1	Patch	223 Ring Piano 1	
+Roland	M-VS1	Patch	224 Ring Piano 2	
+Roland	M-VS1	Patch	225 D50 Bellpad1	
+Roland	M-VS1	Patch	226 D50 Bellpad2	
+Roland	M-VS1	Patch	227 D50 Bellpad3	
+Roland	M-VS1	Patch	228 Bell Pad	
+Roland	M-VS1	Patch	229 Fanta-Retro	
+Roland	M-VS1	Patch	230 SimpleEP+Pad	
+Roland	M-VS1	Patch	231 Kalimbasynth	
+Roland	M-VS1	Patch	232 Snow Lake	
+Roland	M-VS1	Patch	233 Tower Silvis	
+Roland	M-VS1	Patch	234 Time flies	
+Roland	M-VS1	Patch	235 Juno-1 Bells	
+Roland	M-VS1	Patch	236 GoodniteBell	
+Roland	M-VS1	Patch	237 2600 TRIbell	
+Roland	M-VS1	Patch	238 Analog Chime	
+Roland	M-VS1	Patch	239 Resotrails	
+Roland	M-VS1	Patch	240 Additive	
+Roland	M-VS1	Patch	241 Random Chime	
+Roland	M-VS1	Patch	242 Asia Wave	
+Roland	M-VS1	Patch	243 Space Echo	
+Roland	M-VS1	Patch	244 Cyborg	
+Roland	M-VS1	Patch	245 MKS80 Vortex	
+Roland	M-VS1	Patch	246 Earthquake	
+Roland	M-VS1	Patch	247 Airdrome Pan	
+Roland	M-VS1	Patch	248 Deep Wind	
+Roland	M-VS1	Patch	249 Chronos	
+Roland	M-VS1	Patch	250 Infinity	
+Roland	M-VS1	Patch	251 Atmosphlange	
+Roland	M-VS1	Patch	252 Aquaphone	
+Roland	M-VS1	Patch	253 Computer Net	
+Roland	M-VS1	Patch	254 Faveoravo	
+Roland	M-VS1	Patch	255 Medusa	
+Roland	M-VS1	Rhythm Set	d 1 Standard	
+Roland	M-VS1	Rhythm Set	d 2 Electric 1	
+Roland	M-VS1	Rhythm Set	d 3 Electric 2	
+Roland	M-VS1	Rhythm Set	d 4 TR-808	
+Roland	M-VS1	Rhythm Set	d 5 CR-78	
+Roland	M-VS1	Rhythm Set	d 6 The Code	
+Roland	M-VS1	Rhythm Set	d 7 Eyes	
+Roland	M-VS1	Rhythm Set	d 8 The Tardis	
+Roland	M-VS1	Performance	P01 Vintage Kit1	
+Roland	M-VS1	Performance	P02 Vintage Kit2	
+Roland	M-VS1	Performance	P03 Power Trance	
+Roland	M-VS1	Performance	P04 Hard Core	
+Roland	M-VS1	Performance	P05 Ambient	
+Roland	M-VS1	Performance	P06 Electric Pop	
+Roland	M-VS1	Performance	P07 Progressive	
+Roland	M-VS1	Performance	P08 Synth Orch	
+Roland	M-VS1	Performance	P09 Hard Rock	
+Roland	M-VS1	Performance	P10 The Code	
+Roland	M-VS1	Performance	P11 Eyes	
+Roland	M-VS1	Performance	P12 The Tardis	
+Roland	M-VS1	Performance	P13 Delay	
+Roland	M-VS1	Performance	P14 Pan-Delay	
+Roland	M-VS1	Performance	P15 Flanger	
+Roland	M-VS1	Performance	P16 layer Sound	
+Roland	M-VS1	Performance	P17 Default Perf	
+Roland	M-VS1	Waveform	001 JP-8 Saw A	
+Roland	M-VS1	Waveform	002 JP-8 Saw C	
+Roland	M-VS1	Waveform	003 JX-10 Saw	
+Roland	M-VS1	Waveform	004 SH-5 Saw	
+Roland	M-VS1	Waveform	005 SH-2 Saw	
+Roland	M-VS1	Waveform	006 SH-101 Saw	
+Roland	M-VS1	Waveform	007 SH-10 Saw	
+Roland	M-VS1	Waveform	008 GR-3 Saw 1	
+Roland	M-VS1	Waveform	009 GR-3 Saw 2	
+Roland	M-VS1	Waveform	010 JU-2 Saw	
+Roland	M-VS1	Waveform	011 MG Saw 1A	
+Roland	M-VS1	Waveform	012 MG Saw 2	
+Roland	M-VS1	Waveform	013 P5 Saw 1A	
+Roland	M-VS1	Waveform	014 P5 Saw 1C	
+Roland	M-VS1	Waveform	015 26 Saw	
+Roland	M-VS1	Waveform	016 AP Saw	
+Roland	M-VS1	Waveform	017 OSC Reso Saw	
+Roland	M-VS1	Waveform	018 KG7 Saw	
+Roland	M-VS1	Waveform	019 KG8 Saw 1	
+Roland	M-VS1	Waveform	020 CS Saw 1A	
+Roland	M-VS1	Waveform	021 CS Saw 1C	
+Roland	M-VS1	Waveform	022 CS Saw 2	
+Roland	M-VS1	Waveform	023 JP-8 SquareA	
+Roland	M-VS1	Waveform	024 JX-10 Square	
+Roland	M-VS1	Waveform	025 SH-5 Square	
+Roland	M-VS1	Waveform	026 MG Square A	
+Roland	M-VS1	Waveform	027 26 Square	
+Roland	M-VS1	Waveform	028 KG MS Square	
+Roland	M-VS1	Waveform	029 CS Square	
+Roland	M-VS1	Waveform	030 JP-8 Pulse 1	
+Roland	M-VS1	Waveform	031 JP-8 Pulse 2	
+Roland	M-VS1	Waveform	032 JP-8 Pulse 3	
+Roland	M-VS1	Waveform	033 JP-8 Pulse 4	
+Roland	M-VS1	Waveform	034 SH-10 Puls	
+Roland	M-VS1	Waveform	035 MG Pulse 1A	
+Roland	M-VS1	Waveform	036 MG Pulse 1C	
+Roland	M-VS1	Waveform	037 MG Pulse 2A	
+Roland	M-VS1	Waveform	038 MG Pulse 2C	
+Roland	M-VS1	Waveform	039 26 Pulse 1	
+Roland	M-VS1	Waveform	040 CS Pulse 2	
+Roland	M-VS1	Waveform	041 JU-2 Sub OSC	
+Roland	M-VS1	Waveform	042 MG Ramp	
+Roland	M-VS1	Waveform	043 26Triangle	
+Roland	M-VS1	Waveform	044 26 Sine	
+Roland	M-VS1	Waveform	045 JP-8 PWM A	
+Roland	M-VS1	Waveform	046 JP-8 PWM B	
+Roland	M-VS1	Waveform	047 JP-8 PWM C	
+Roland	M-VS1	Waveform	048 MG Dt.Saw A	
+Roland	M-VS1	Waveform	049 MG Dt.Saw B	
+Roland	M-VS1	Waveform	050 MG Dt.Saw C	
+Roland	M-VS1	Waveform	051 P5 Dt.Saw A	
+Roland	M-VS1	Waveform	052 P5 Dt.Saw B	
+Roland	M-VS1	Waveform	053 P5 Dt.Saw C	
+Roland	M-VS1	Waveform	054 MG Dt.Squ A	
+Roland	M-VS1	Waveform	055 MG Dt.Squ B	
+Roland	M-VS1	Waveform	056 MG Dt.Squ C	
+Roland	M-VS1	Waveform	057 JP-8 Str A	
+Roland	M-VS1	Waveform	058 JP-8 Str B	
+Roland	M-VS1	Waveform	059 JP-8 Str C	
+Roland	M-VS1	Waveform	060 OB Str 2A	
+Roland	M-VS1	Waveform	061 OB Str 2B	
+Roland	M-VS1	Waveform	062 OB Str 2C	
+Roland	M-VS1	Waveform	063 AP Str Ens A	
+Roland	M-VS1	Waveform	064 AP Str Ens B	
+Roland	M-VS1	Waveform	065 OBXP Str A	
+Roland	M-VS1	Waveform	066 OBXP Str B	
+Roland	M-VS1	Waveform	067 OBXP Str C	
+Roland	M-VS1	Waveform	068 OBXP Str LP	
+Roland	M-VS1	Waveform	069 MG Oct A	
+Roland	M-VS1	Waveform	070 MG Oct B	
+Roland	M-VS1	Waveform	071 MG Dt.Oct A	
+Roland	M-VS1	Waveform	072 MG Dt.Oct C	
+Roland	M-VS1	Waveform	073 OBXP Brass A	
+Roland	M-VS1	Waveform	074 OBXP Brass C	
+Roland	M-VS1	Waveform	075 OBXP BrassLp	
+Roland	M-VS1	Waveform	076 FM Brass	
+Roland	M-VS1	Waveform	077 Waspy	
+Roland	M-VS1	Waveform	078 Waspy Lp	
+Roland	M-VS1	Waveform	079 OB Lead	
+Roland	M-VS1	Waveform	080 OB Lead Lp	
+Roland	M-VS1	Waveform	081 JP-6 SqLead	
+Roland	M-VS1	Waveform	082 JP-6 SqLd Lp	
+Roland	M-VS1	Waveform	083 Blown 2	
+Roland	M-VS1	Waveform	084 PG Sweep 1A	
+Roland	M-VS1	Waveform	085 PG Sweep 1C	
+Roland	M-VS1	Waveform	086 PG Sweep 2A	
+Roland	M-VS1	Waveform	087 PG Sweep 2C	
+Roland	M-VS1	Waveform	088 D-50 HeavenA	
+Roland	M-VS1	Waveform	089 D-50 HeavenB	
+Roland	M-VS1	Waveform	090 D-50 HeavenC	
+Roland	M-VS1	Waveform	091 JX-8P Vox	
+Roland	M-VS1	Waveform	092 JX-8P Vox Lp	
+Roland	M-VS1	Waveform	093 VP-330ChoirA	
+Roland	M-VS1	Waveform	094 VP-330ChoirB	
+Roland	M-VS1	Waveform	095 VP-330ChoirC	
+Roland	M-VS1	Waveform	096 P5 Unisync	
+Roland	M-VS1	Waveform	097 P5 UnisyncLp	
+Roland	M-VS1	Waveform	098 P5 Dipthong	
+Roland	M-VS1	Waveform	099 P5 DipthngLp	
+Roland	M-VS1	Waveform	100 FM Lead	
+Roland	M-VS1	Waveform	101 KG8 Lead	
+Roland	M-VS1	Waveform	102 MG Lead	
+Roland	M-VS1	Waveform	103 MG Lead Lp	
+Roland	M-VS1	Waveform	104 JP-8 Lead	
+Roland	M-VS1	Waveform	105 Digiwave 1	
+Roland	M-VS1	Waveform	106 Digiwave 3	
+Roland	M-VS1	Waveform	107 SRG FM	
+Roland	M-VS1	Waveform	108 Shimmer wave	
+Roland	M-VS1	Waveform	109 VS Organ A	
+Roland	M-VS1	Waveform	110 VS Organ C	
+Roland	M-VS1	Waveform	111 Juno Organ	
+Roland	M-VS1	Waveform	112 Juno OrganLp	
+Roland	M-VS1	Waveform	113 FM Punch	
+Roland	M-VS1	Waveform	114 Mondigital	
+Roland	M-VS1	Waveform	115 MondigitalLp	
+Roland	M-VS1	Waveform	116 JP-8 Clavi A	
+Roland	M-VS1	Waveform	117 JP-8 Clavi C	
+Roland	M-VS1	Waveform	118 JP-8 ClaviLp	
+Roland	M-VS1	Waveform	119 Juno Clavi	
+Roland	M-VS1	Waveform	120 P5 X-mod	
+Roland	M-VS1	Waveform	121 Steam Drum	
+Roland	M-VS1	Waveform	122 Kalimba Atk	
+Roland	M-VS1	Waveform	123 Additive	
+Roland	M-VS1	Waveform	124 MG Blip	
+Roland	M-VS1	Waveform	125 MG Thump	
+Roland	M-VS1	Waveform	126 MG Attack	
+Roland	M-VS1	Waveform	127 VS Bell 1	
+Roland	M-VS1	Waveform	128 JP-6 Bell	
+Roland	M-VS1	Waveform	129 MKS-80 Xmod1	
+Roland	M-VS1	Waveform	130 MKS-80 Xmod2	
+Roland	M-VS1	Waveform	131 MKS-80 Xmod3	
+Roland	M-VS1	Waveform	132 MKS-80 Xmod4	
+Roland	M-VS1	Waveform	133 OB Bass	
+Roland	M-VS1	Waveform	134 OB Bass Lp C	
+Roland	M-VS1	Waveform	135 MG BsPedal	
+Roland	M-VS1	Waveform	136 MG BsPdl LpA	
+Roland	M-VS1	Waveform	137 MG BsPdl LpC	
+Roland	M-VS1	Waveform	138 MG Fat Bs	
+Roland	M-VS1	Waveform	139 MG Sharp Bs1	
+Roland	M-VS1	Waveform	140 MG Big Bs	
+Roland	M-VS1	Waveform	141 MG ClassicBs	
+Roland	M-VS1	Waveform	142 MG Sharp Bs2	
+Roland	M-VS1	Waveform	143 TB-303 Bass	
+Roland	M-VS1	Waveform	144 JP-4 Bass 1	
+Roland	M-VS1	Waveform	145 JP-4 Bass 2	
+Roland	M-VS1	Waveform	146 SH-101 Bs 1	
+Roland	M-VS1	Waveform	147 SH-101 Bs 2	
+Roland	M-VS1	Waveform	148 SH-101 Bs 3	
+Roland	M-VS1	Waveform	149 SH-101 Bs 4	
+Roland	M-VS1	Waveform	150 Sys7 Bs 1	
+Roland	M-VS1	Waveform	151 Sys7 Bs 2	
+Roland	M-VS1	Waveform	152 FM Super Bs	
+Roland	M-VS1	Waveform	153 KG Poly Bs	
+Roland	M-VS1	Waveform	154 Power B slwA	
+Roland	M-VS1	Waveform	155 Power B slwC	
+Roland	M-VS1	Waveform	156 Power B fstA	
+Roland	M-VS1	Waveform	157 Power B fstB	
+Roland	M-VS1	Waveform	158 Power B fstC	
+Roland	M-VS1	Waveform	159 Tron Choir A	
+Roland	M-VS1	Waveform	160 Tron Choir C	
+Roland	M-VS1	Waveform	161 Tron Flute A	
+Roland	M-VS1	Waveform	162 Tron Flute C	
+Roland	M-VS1	Waveform	163 Tron Str A	
+Roland	M-VS1	Waveform	164 Tron Str B	
+Roland	M-VS1	Waveform	165 Tron Str C	
+Roland	M-VS1	Waveform	166 MG White Nz	
+Roland	M-VS1	Waveform	167 SH-5 Pink Nz	
+Roland	M-VS1	Waveform	168 JP-8 X-mod 1	
+Roland	M-VS1	Waveform	169 JP-8 X-mod 2	
+Roland	M-VS1	Waveform	170 P5 Noise 1	
+Roland	M-VS1	Waveform	171 P5 Noise 2	
+Roland	M-VS1	Waveform	172 ZZZ loop	
+Roland	M-VS1	Waveform	173 Atmosphere	
+Roland	M-VS1	Waveform	174 808 SNR 1	
+Roland	M-VS1	Waveform	175 90's Snare	
+Roland	M-VS1	Waveform	176 Piccolo SN	
+Roland	M-VS1	Waveform	177 Rim Shot	
+Roland	M-VS1	Waveform	178 808_RIM	
+Roland	M-VS1	Waveform	179 909_SN1	
+Roland	M-VS1	Waveform	180 C78_SD	
+Roland	M-VS1	Waveform	181 C78_RIM	
+Roland	M-VS1	Waveform	182 SIM_SN1	
+Roland	M-VS1	Waveform	183 Verb Kick	
+Roland	M-VS1	Waveform	184 Round Kick	
+Roland	M-VS1	Waveform	185 808 Kick	
+Roland	M-VS1	Waveform	186 909 Kick	
+Roland	M-VS1	Waveform	187 C78_BD	
+Roland	M-VS1	Waveform	188 E_DR Kick	
+Roland	M-VS1	Waveform	189 Closed HAT 1	
+Roland	M-VS1	Waveform	190 Closed HAT 2	
+Roland	M-VS1	Waveform	191 Open HAT 1	
+Roland	M-VS1	Waveform	192 808_CHH	
+Roland	M-VS1	Waveform	193 808_OHH	
+Roland	M-VS1	Waveform	194 C78_MHH	
+Roland	M-VS1	Waveform	195 C78_CHH	
+Roland	M-VS1	Waveform	196 C78_OHH	
+Roland	M-VS1	Waveform	197 Crash 1	
+Roland	M-VS1	Waveform	198 Ride 1	
+Roland	M-VS1	Waveform	199 Ride Bell 1	
+Roland	M-VS1	Waveform	200 Power Tom Hi	
+Roland	M-VS1	Waveform	201 808_TM3	
+Roland	M-VS1	Waveform	202 E_DR Tom 1	
+Roland	M-VS1	Waveform	203 E_DR Tom 2	
+Roland	M-VS1	Waveform	204 Cross Stick1	
+Roland	M-VS1	Waveform	205 808_CLV	
+Roland	M-VS1	Waveform	206 C78_CLV	
+Roland	M-VS1	Waveform	207 808 Claps	
+Roland	M-VS1	Waveform	208 Cowbell 1	
+Roland	M-VS1	Waveform	209 808_CWBL	
+Roland	M-VS1	Waveform	210 C78_CWBL	
+Roland	M-VS1	Waveform	211 Tambourine	
+Roland	M-VS1	Waveform	212 C78_TMB	
+Roland	M-VS1	Waveform	213 C78_TRI	
+Roland	M-VS1	Waveform	214 C78_LBGO	
+Roland	M-VS1	Waveform	215 CGA Mute Hi	
+Roland	M-VS1	Waveform	216 CGA Mute Lo	
+Roland	M-VS1	Waveform	217 CGA Slap	
+Roland	M-VS1	Waveform	218 Conga Hi	
+Roland	M-VS1	Waveform	219 Conga Lo	
+Roland	M-VS1	Waveform	220 808_CNG1	
+Roland	M-VS1	Waveform	221 Maracas	
+Roland	M-VS1	Waveform	222 808_MRC	
+Roland	M-VS1	Waveform	223 Cabasa Cut	
+Roland	M-VS1	Waveform	224 Cabasa Up	
+Roland	M-VS1	Waveform	225 Cabasa Down	
+Roland	M-VS1	Waveform	226 REV SteamDrm	
+Roland	M-VS1	Waveform	227 REV Blip	
+Roland	M-VS1	Waveform	228 REV Thump	
+Roland	M-VS1	Waveform	229 REV 808 SNR1	
+Roland	M-VS1	Waveform	230 REV 90 Snare	
+Roland	M-VS1	Waveform	231 REV SN 1	
+Roland	M-VS1	Waveform	232 REV SN 4	
+Roland	M-VS1	Waveform	233 REV 909_SN1	
+Roland	M-VS1	Waveform	234 REV SIM_SN1	
+Roland	M-VS1	Waveform	235 REV VerbKick	
+Roland	M-VS1	Waveform	236 REV 808 Kick	
+Roland	M-VS1	Waveform	237 REV 909_K1	
+Roland	M-VS1	Waveform	238 REV E_DRKick	
+Roland	M-VS1	Waveform	239 REV Cl.HAT 1	
+Roland	M-VS1	Waveform	240 REV OpenHAT1	
+Roland	M-VS1	Waveform	241 REV 808_CHH	
+Roland	M-VS1	Waveform	242 REV 808_OHH	
+Roland	M-VS1	Waveform	243 REV Crash 1	
+Roland	M-VS1	Waveform	244 REV Ride 1	
+Roland	M-VS1	Waveform	245 REV Cup	
+Roland	M-VS1	Waveform	246 REV PwTom Hi	
+Roland	M-VS1	Waveform	247 REV 808_TM3	
+Roland	M-VS1	Waveform	248 REV E Tom 1	
+Roland	M-VS1	Waveform	249 REV E Tom 2	
+Roland	M-VS1	Waveform	250 REV X Stick1	
+Roland	M-VS1	Waveform	251 REV 808 Clps	
+Roland	M-VS1	Waveform	252 REV Cowbell1	
+Roland	M-VS1	Waveform	253 REV Conga	
+Roland	M-VS1	Waveform	254 REV Conga Hi	

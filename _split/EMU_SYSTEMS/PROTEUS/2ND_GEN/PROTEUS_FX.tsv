@@ -1,0 +1,717 @@
+E-MU Systems	Proteus FX	Bank 0	000 kbd:GrandPno	
+E-MU Systems	Proteus FX	Bank 0	001 kbd:Heaven	
+E-MU Systems	Proteus FX	Bank 0	002 kbd:TinePno*	
+E-MU Systems	Proteus FX	Bank 0	003 kbd:7ftGrand	
+E-MU Systems	Proteus FX	Bank 0	004 kbd:ElGrand1	
+E-MU Systems	Proteus FX	Bank 0	005 kbd:Roadz 1	
+E-MU Systems	Proteus FX	Bank 0	006 kbd:Tine EP	
+E-MU Systems	Proteus FX	Bank 0	007 kbd:Claved	
+E-MU Systems	Proteus FX	Bank 0	008 prc:Marimba	
+E-MU Systems	Proteus FX	Bank 0	009 prc:Vibe>Mod	
+E-MU Systems	Proteus FX	Bank 0	010 prc:TimbaMal	
+E-MU Systems	Proteus FX	Bank 0	011 prc:Javanese	
+E-MU Systems	Proteus FX	Bank 0	012 prc:Celeste	
+E-MU Systems	Proteus FX	Bank 0	013 prc:Trinidad	
+E-MU Systems	Proteus FX	Bank 0	014 prc:Carillon	
+E-MU Systems	Proteus FX	Bank 0	015 prc:Glock	
+E-MU Systems	Proteus FX	Bank 0	016 org:VintgeB3	
+E-MU Systems	Proteus FX	Bank 0	017 org:That B3	
+E-MU Systems	Proteus FX	Bank 0	018 org:Be Vocal	
+E-MU Systems	Proteus FX	Bank 0	019 org:Rock #2	
+E-MU Systems	Proteus FX	Bank 0	020 org:3rd Perc	
+E-MU Systems	Proteus FX	Bank 0	021 org:PureTone	
+E-MU Systems	Proteus FX	Bank 0	022 org:Synthgan	
+E-MU Systems	Proteus FX	Bank 0	023 org:Tarkus	
+E-MU Systems	Proteus FX	Bank 0	024 gtr:EcoStrat	
+E-MU Systems	Proteus FX	Bank 0	025 gtr:ClenStrt	
+E-MU Systems	Proteus FX	Bank 0	026 gtr:Acoustic	
+E-MU Systems	Proteus FX	Bank 0	027 gtr:12String	
+E-MU Systems	Proteus FX	Bank 0	028 gtr:CombPad*	
+E-MU Systems	Proteus FX	Bank 0	029 gtr:Funky	
+E-MU Systems	Proteus FX	Bank 0	030 gtr:Mutes	
+E-MU Systems	Proteus FX	Bank 0	031 gtr:Lazy G	
+E-MU Systems	Proteus FX	Bank 0	032 bas:Miracle	
+E-MU Systems	Proteus FX	Bank 0	033 bas:& Harms	
+E-MU Systems	Proteus FX	Bank 0	034 bas:Jazzer	
+E-MU Systems	Proteus FX	Bank 0	035 bas:TurboSyn	
+E-MU Systems	Proteus FX	Bank 0	036 bas:FlintRok	
+E-MU Systems	Proteus FX	Bank 0	037 bas:FunkyPop	
+E-MU Systems	Proteus FX	Bank 0	038 bas:Chorused	
+E-MU Systems	Proteus FX	Bank 0	039 bas:Noser	
+E-MU Systems	Proteus FX	Bank 0	040 str:Viol Duo	
+E-MU Systems	Proteus FX	Bank 0	041 str:BigViola	
+E-MU Systems	Proteus FX	Bank 0	042 str:BigCello	
+E-MU Systems	Proteus FX	Bank 0	043 str:Soloists	
+E-MU Systems	Proteus FX	Bank 0	044 str:PizzViol	
+E-MU Systems	Proteus FX	Bank 0	045 str:PizzCeli	
+E-MU Systems	Proteus FX	Bank 0	046 str:8va Pizz	
+E-MU Systems	Proteus FX	Bank 0	047 str:Quartet	
+E-MU Systems	Proteus FX	Bank 0	048 ens:Xpresive	
+E-MU Systems	Proteus FX	Bank 0	049 ens:Orchstra	
+E-MU Systems	Proteus FX	Bank 0	050 ens:Moody	
+E-MU Systems	Proteus FX	Bank 0	051 ens:Symphony	
+E-MU Systems	Proteus FX	Bank 0	052 ens:VoxHuman	
+E-MU Systems	Proteus FX	Bank 0	053 ens:Str&Vox	
+E-MU Systems	Proteus FX	Bank 0	054 ens:Choir	
+E-MU Systems	Proteus FX	Bank 0	055 ens:OBString	
+E-MU Systems	Proteus FX	Bank 0	056 brs:HdTrumpt	
+E-MU Systems	Proteus FX	Bank 0	057 brs:MutedTpt	
+E-MU Systems	Proteus FX	Bank 0	058 brs:Trombone	
+E-MU Systems	Proteus FX	Bank 0	059 brs:Fr Horns	
+E-MU Systems	Proteus FX	Bank 0	060 brs:Section*	
+E-MU Systems	Proteus FX	Bank 0	061 brs:Full On*	
+E-MU Systems	Proteus FX	Bank 0	062 brs:VelFalls	
+E-MU Systems	Proteus FX	Bank 0	063 brs:Layers	
+E-MU Systems	Proteus FX	Bank 0	064 red:SteroSax	
+E-MU Systems	Proteus FX	Bank 0	065 red:"G" Sax	
+E-MU Systems	Proteus FX	Bank 0	066 red:Bari Sax	
+E-MU Systems	Proteus FX	Bank 0	067 red:Soprano	
+E-MU Systems	Proteus FX	Bank 0	068 red:TwinMood	
+E-MU Systems	Proteus FX	Bank 0	069 red:Eng Horn	
+E-MU Systems	Proteus FX	Bank 0	070 red:DblSectn	
+E-MU Systems	Proteus FX	Bank 0	071 red:Oboe	
+E-MU Systems	Proteus FX	Bank 0	072 pip:VerbFlut	
+E-MU Systems	Proteus FX	Bank 0	073 pip:Whistle	
+E-MU Systems	Proteus FX	Bank 0	074 pip:ButtrFlu	
+E-MU Systems	Proteus FX	Bank 0	075 pip:Calliope	
+E-MU Systems	Proteus FX	Bank 0	076 pip:Herble	
+E-MU Systems	Proteus FX	Bank 0	077 pip:SynthVox	
+E-MU Systems	Proteus FX	Bank 0	078 pip:Pizzillo	
+E-MU Systems	Proteus FX	Bank 0	079 pip:Sakura	
+E-MU Systems	Proteus FX	Bank 0	080 led:BrasSolo	
+E-MU Systems	Proteus FX	Bank 0	081 led:MeinSolo	
+E-MU Systems	Proteus FX	Bank 0	082 led:SoloMini	
+E-MU Systems	Proteus FX	Bank 0	083 led:Hollow	
+E-MU Systems	Proteus FX	Bank 0	084 led:Venus NV	
+E-MU Systems	Proteus FX	Bank 0	085 led:PortaMod	
+E-MU Systems	Proteus FX	Bank 0	086 led:BuzzSolo	
+E-MU Systems	Proteus FX	Bank 0	087 led:FuseHorn	
+E-MU Systems	Proteus FX	Bank 0	088 pad:Dark Syn	
+E-MU Systems	Proteus FX	Bank 0	089 pad:Spiritu	
+E-MU Systems	Proteus FX	Bank 0	090 pad:RoxyMuse	
+E-MU Systems	Proteus FX	Bank 0	091 pad:Kryonite	
+E-MU Systems	Proteus FX	Bank 0	092 pad:DeString	
+E-MU Systems	Proteus FX	Bank 0	093 pad:CosmoMan	
+E-MU Systems	Proteus FX	Bank 0	094 pad:Guidance	
+E-MU Systems	Proteus FX	Bank 0	095 pad:Dynalog	
+E-MU Systems	Proteus FX	Bank 0	096 syn:Krystala	
+E-MU Systems	Proteus FX	Bank 0	097 syn:Iron Man	
+E-MU Systems	Proteus FX	Bank 0	098 syn:Flashbak	
+E-MU Systems	Proteus FX	Bank 0	099 syn:Phantazi	
+E-MU Systems	Proteus FX	Bank 0	100 syn:RingHard	
+E-MU Systems	Proteus FX	Bank 0	101 syn:Zoundz	
+E-MU Systems	Proteus FX	Bank 0	102 syn:Watering	
+E-MU Systems	Proteus FX	Bank 0	103 syn:Glisando	
+E-MU Systems	Proteus FX	Bank 0	104 eth:JamSteel	
+E-MU Systems	Proteus FX	Bank 0	105 eth:Kyoto	
+E-MU Systems	Proteus FX	Bank 0	106 eth:Metalia	
+E-MU Systems	Proteus FX	Bank 0	107 eth:KingCong	
+E-MU Systems	Proteus FX	Bank 0	108 eth:Dulcimer	
+E-MU Systems	Proteus FX	Bank 0	109 eth:Balinese	
+E-MU Systems	Proteus FX	Bank 0	110 eth:Far East	
+E-MU Systems	Proteus FX	Bank 0	111 eth:Sitari *	
+E-MU Systems	Proteus FX	Bank 0	112 drm:RockKit1	
+E-MU Systems	Proteus FX	Bank 0	113 drm:Wacky	
+E-MU Systems	Proteus FX	Bank 0	114 drm:SteroKit	
+E-MU Systems	Proteus FX	Bank 0	115 drm:SynthKit	
+E-MU Systems	Proteus FX	Bank 0	116 drm:Snares	
+E-MU Systems	Proteus FX	Bank 0	117 drm:Kicks	
+E-MU Systems	Proteus FX	Bank 0	118 drm:Cymbals	
+E-MU Systems	Proteus FX	Bank 0	119 drm:Tamborin	
+E-MU Systems	Proteus FX	Bank 0	120 sfx:Group #1	
+E-MU Systems	Proteus FX	Bank 0	121 sfx:WildBoy*	
+E-MU Systems	Proteus FX	Bank 0	122 sfx:Infinite	
+E-MU Systems	Proteus FX	Bank 0	123 sfx:LostSoul	
+E-MU Systems	Proteus FX	Bank 0	124 sfx:Cyclotrn	
+E-MU Systems	Proteus FX	Bank 0	125 sfx:Insects	
+E-MU Systems	Proteus FX	Bank 0	126 sfx:Control	
+E-MU Systems	Proteus FX	Bank 0	127 sfx:Fluterby	
+E-MU Systems	Proteus FX	Bank 1	000 kbd:BritePno	
+E-MU Systems	Proteus FX	Bank 1	001 kbd:Dark Pno	
+E-MU Systems	Proteus FX	Bank 1	002 kbd:PnoSyn *	
+E-MU Systems	Proteus FX	Bank 1	003 kbd:ElGrand2	
+E-MU Systems	Proteus FX	Bank 1	004 kbd:Dramatic	
+E-MU Systems	Proteus FX	Bank 1	005 kbd:MedElPno	
+E-MU Systems	Proteus FX	Bank 1	006 kbd:Harpsicd	
+E-MU Systems	Proteus FX	Bank 1	007 kbd:Pizziano	
+E-MU Systems	Proteus FX	Bank 1	008 prc:Islander	
+E-MU Systems	Proteus FX	Bank 1	009 prc:OddVibes	
+E-MU Systems	Proteus FX	Bank 1	010 prc:Tamblock	
+E-MU Systems	Proteus FX	Bank 1	011 prc:Airimba	
+E-MU Systems	Proteus FX	Bank 1	012 prc:Xylofony	
+E-MU Systems	Proteus FX	Bank 1	013 prc:Submerge	
+E-MU Systems	Proteus FX	Bank 1	014 prc:Maletoid	
+E-MU Systems	Proteus FX	Bank 1	015 prc:CosmoBel	
+E-MU Systems	Proteus FX	Bank 1	016 org:DrawBarz	
+E-MU Systems	Proteus FX	Bank 1	017 org:Mod>Lesl	
+E-MU Systems	Proteus FX	Bank 1	018 org:Clickety	
+E-MU Systems	Proteus FX	Bank 1	019 org:Chorus	
+E-MU Systems	Proteus FX	Bank 1	020 org:TheOther	
+E-MU Systems	Proteus FX	Bank 1	021 org:Smoothy*	
+E-MU Systems	Proteus FX	Bank 1	022 org:Reedy5th	
+E-MU Systems	Proteus FX	Bank 1	023 org:Church	
+E-MU Systems	Proteus FX	Bank 1	024 gtr:El 12Str	
+E-MU Systems	Proteus FX	Bank 1	025 gtr:& Winds	
+E-MU Systems	Proteus FX	Bank 1	026 gtr:El Jazz	
+E-MU Systems	Proteus FX	Bank 1	027 gtr:Baroque	
+E-MU Systems	Proteus FX	Bank 1	028 gtr:Baritone	
+E-MU Systems	Proteus FX	Bank 1	029 gtr:Pianotar	
+E-MU Systems	Proteus FX	Bank 1	030 gtr:Harmonic	
+E-MU Systems	Proteus FX	Bank 1	031 gtr:Feedback	
+E-MU Systems	Proteus FX	Bank 1	032 bas:Thunder	
+E-MU Systems	Proteus FX	Bank 1	033 bas:El Viva	
+E-MU Systems	Proteus FX	Bank 1	034 bas:Fretles1	
+E-MU Systems	Proteus FX	Bank 1	035 bas:Slap #1	
+E-MU Systems	Proteus FX	Bank 1	036 bas:BigBotm*	
+E-MU Systems	Proteus FX	Bank 1	037 bas:DarkRock	
+E-MU Systems	Proteus FX	Bank 1	038 bas:Mystery	
+E-MU Systems	Proteus FX	Bank 1	039 bas:Bad Boy	
+E-MU Systems	Proteus FX	Bank 1	040 str:Conductr	
+E-MU Systems	Proteus FX	Bank 1	041 str:Diverti	
+E-MU Systems	Proteus FX	Bank 1	042 str:Octaves	
+E-MU Systems	Proteus FX	Bank 1	043 str:XpresPiz	
+E-MU Systems	Proteus FX	Bank 1	044 str:PizzBass	
+E-MU Systems	Proteus FX	Bank 1	045 str:PizVioln	
+E-MU Systems	Proteus FX	Bank 1	046 str:Fr Cello	
+E-MU Systems	Proteus FX	Bank 1	047 str:Vienna	
+E-MU Systems	Proteus FX	Bank 1	048 ens:Melotron	
+E-MU Systems	Proteus FX	Bank 1	049 ens:The Hall	
+E-MU Systems	Proteus FX	Bank 1	050 ens:Montovan	
+E-MU Systems	Proteus FX	Bank 1	051 ens:Concerto	
+E-MU Systems	Proteus FX	Bank 1	052 ens:Envious	
+E-MU Systems	Proteus FX	Bank 1	053 ens:Crystal*	
+E-MU Systems	Proteus FX	Bank 1	054 ens:SloStrng	
+E-MU Systems	Proteus FX	Bank 1	055 ens:Vostring	
+E-MU Systems	Proteus FX	Bank 1	056 brs:Sax/Tpt	
+E-MU Systems	Proteus FX	Bank 1	057 brs:Big City	
+E-MU Systems	Proteus FX	Bank 1	058 brs:Fox Hunt	
+E-MU Systems	Proteus FX	Bank 1	059 brs:T.O.P. *	
+E-MU Systems	Proteus FX	Bank 1	060 brs:FullFall	
+E-MU Systems	Proteus FX	Bank 1	061 brs:ThePops*	
+E-MU Systems	Proteus FX	Bank 1	062 brs:Crispy	
+E-MU Systems	Proteus FX	Bank 1	063 brs:Syntho	
+E-MU Systems	Proteus FX	Bank 1	064 red:Alto Sax	
+E-MU Systems	Proteus FX	Bank 1	065 red:5th Ave	
+E-MU Systems	Proteus FX	Bank 1	066 red:NoVibObo	
+E-MU Systems	Proteus FX	Bank 1	067 red:BariAlto	
+E-MU Systems	Proteus FX	Bank 1	068 red:BasnEHrn	
+E-MU Systems	Proteus FX	Bank 1	069 red:SecWinds	
+E-MU Systems	Proteus FX	Bank 1	070 red:CombViol	
+E-MU Systems	Proteus FX	Bank 1	071 red:ClarOboe	
+E-MU Systems	Proteus FX	Bank 1	072 pip:Piccolo	
+E-MU Systems	Proteus FX	Bank 1	073 pip:Chiffer	
+E-MU Systems	Proteus FX	Bank 1	074 pip:BrethFlt	
+E-MU Systems	Proteus FX	Bank 1	075 pip:Ocarina	
+E-MU Systems	Proteus FX	Bank 1	076 pip:Insprate	
+E-MU Systems	Proteus FX	Bank 1	077 pip:PanFlut*	
+E-MU Systems	Proteus FX	Bank 1	078 pip:EcoFlut*	
+E-MU Systems	Proteus FX	Bank 1	079 pip:Duces Hi	
+E-MU Systems	Proteus FX	Bank 1	080 led:WynWoods	
+E-MU Systems	Proteus FX	Bank 1	081 led:SoftSolo	
+E-MU Systems	Proteus FX	Bank 1	082 led:Big Muff	
+E-MU Systems	Proteus FX	Bank 1	083 led:Chiff	
+E-MU Systems	Proteus FX	Bank 1	084 led:Mjr Solo	
+E-MU Systems	Proteus FX	Bank 1	085 led:Buzzard	
+E-MU Systems	Proteus FX	Bank 1	086 led:FrogFret	
+E-MU Systems	Proteus FX	Bank 1	087 led:Reedy	
+E-MU Systems	Proteus FX	Bank 1	088 pad:Voices	
+E-MU Systems	Proteus FX	Bank 1	089 pad:NewerAge	
+E-MU Systems	Proteus FX	Bank 1	090 pad:Sweeper	
+E-MU Systems	Proteus FX	Bank 1	091 pad:Warm Up	
+E-MU Systems	Proteus FX	Bank 1	092 pad:Empyrean	
+E-MU Systems	Proteus FX	Bank 1	093 pad:PolySyn	
+E-MU Systems	Proteus FX	Bank 1	094 pad:Britenes	
+E-MU Systems	Proteus FX	Bank 1	095 pad:Essence	
+E-MU Systems	Proteus FX	Bank 1	096 syn:echoist*	
+E-MU Systems	Proteus FX	Bank 1	097 syn:Mem Moog	
+E-MU Systems	Proteus FX	Bank 1	098 syn:Blue Ice	
+E-MU Systems	Proteus FX	Bank 1	099 syn:Atmos	
+E-MU Systems	Proteus FX	Bank 1	100 syn:Mod Harp	
+E-MU Systems	Proteus FX	Bank 1	101 syn:CyberGuy	
+E-MU Systems	Proteus FX	Bank 1	102 syn:Intervl5	
+E-MU Systems	Proteus FX	Bank 1	103 syn:Spheric	
+E-MU Systems	Proteus FX	Bank 1	104 eth:Kalimba	
+E-MU Systems	Proteus FX	Bank 1	105 eth:Amnesia	
+E-MU Systems	Proteus FX	Bank 1	106 eth:Shanai	
+E-MU Systems	Proteus FX	Bank 1	107 eth:TikiRoom	
+E-MU Systems	Proteus FX	Bank 1	108 eth:Lute	
+E-MU Systems	Proteus FX	Bank 1	109 eth:AsiaReed	
+E-MU Systems	Proteus FX	Bank 1	110 eth:JunglDrm	
+E-MU Systems	Proteus FX	Bank 1	111 eth:Noh Way*	
+E-MU Systems	Proteus FX	Bank 1	112 drm:EchoBeat	
+E-MU Systems	Proteus FX	Bank 1	113 drm:Hip Kit*	
+E-MU Systems	Proteus FX	Bank 1	114 drm:Zip kit	
+E-MU Systems	Proteus FX	Bank 1	115 drm:Da Beat*	
+E-MU Systems	Proteus FX	Bank 1	116 drm:909 Kit	
+E-MU Systems	Proteus FX	Bank 1	117 drm:Syn Kit*	
+E-MU Systems	Proteus FX	Bank 1	118 drm:Latino	
+E-MU Systems	Proteus FX	Bank 1	119 drm:WinChime	
+E-MU Systems	Proteus FX	Bank 1	120 sfx:Sub Rosa	
+E-MU Systems	Proteus FX	Bank 1	121 sfx:Too Wyrd	
+E-MU Systems	Proteus FX	Bank 1	122 sfx:Rockets	
+E-MU Systems	Proteus FX	Bank 1	123 sfx:ByTheSea	
+E-MU Systems	Proteus FX	Bank 1	124 sfx:Spacely	
+E-MU Systems	Proteus FX	Bank 1	125 sfx:Forestry	
+E-MU Systems	Proteus FX	Bank 1	126 sfx:Sputnik	
+E-MU Systems	Proteus FX	Bank 1	127 sfx:Whales	
+E-MU Systems	Proteus FX	Bank 2	000 kbd:VryGrand	
+E-MU Systems	Proteus FX	Bank 2	001 kbd:RoadHaus	
+E-MU Systems	Proteus FX	Bank 2	002 kbd:DigiPno*	
+E-MU Systems	Proteus FX	Bank 2	003 kbd:Grandios	
+E-MU Systems	Proteus FX	Bank 2	004 kbd:RoadzStr	
+E-MU Systems	Proteus FX	Bank 2	005 kbd:Roadz 2	
+E-MU Systems	Proteus FX	Bank 2	006 kbd:NoseClav	
+E-MU Systems	Proteus FX	Bank 2	007 kbd:Clavinet	
+E-MU Systems	Proteus FX	Bank 2	008 prc:Mod Vibe	
+E-MU Systems	Proteus FX	Bank 2	009 prc:Marimba2	
+E-MU Systems	Proteus FX	Bank 2	010 prc:MusicBox	
+E-MU Systems	Proteus FX	Bank 2	011 prc:Vibrafon	
+E-MU Systems	Proteus FX	Bank 2	012 prc:Bellafon	
+E-MU Systems	Proteus FX	Bank 2	013 prc:Blok Hed	
+E-MU Systems	Proteus FX	Bank 2	014 prc:TubeBels	
+E-MU Systems	Proteus FX	Bank 2	015 prc:Cylybels	
+E-MU Systems	Proteus FX	Bank 2	016 org:Cathedra	
+E-MU Systems	Proteus FX	Bank 2	017 org:AnotherB	
+E-MU Systems	Proteus FX	Bank 2	018 org:B Again	
+E-MU Systems	Proteus FX	Bank 2	019 org:WarmTone	
+E-MU Systems	Proteus FX	Bank 2	020 org:Notre	
+E-MU Systems	Proteus FX	Bank 2	021 org:Accordia	
+E-MU Systems	Proteus FX	Bank 2	022 org:MouthHrp	
+E-MU Systems	Proteus FX	Bank 2	023 org:Obordian	
+E-MU Systems	Proteus FX	Bank 2	024 gtr:Guitaras	
+E-MU Systems	Proteus FX	Bank 2	025 gtr:The Hero	
+E-MU Systems	Proteus FX	Bank 2	026 gtr:AcStereo	
+E-MU Systems	Proteus FX	Bank 2	027 gtr:Buckeroo	
+E-MU Systems	Proteus FX	Bank 2	028 gtr:PalmMute	
+E-MU Systems	Proteus FX	Bank 2	029 gtr:Swirly	
+E-MU Systems	Proteus FX	Bank 2	030 gtr:Syn Mute	
+E-MU Systems	Proteus FX	Bank 2	031 gtr:8va Pick	
+E-MU Systems	Proteus FX	Bank 2	032 bas:StonSlap	
+E-MU Systems	Proteus FX	Bank 2	033 bas:Fretles2	
+E-MU Systems	Proteus FX	Bank 2	034 bas:Syntheti	
+E-MU Systems	Proteus FX	Bank 2	035 bas:Fretles3	
+E-MU Systems	Proteus FX	Bank 2	036 bas:Super JX	
+E-MU Systems	Proteus FX	Bank 2	037 bas:Slapper	
+E-MU Systems	Proteus FX	Bank 2	038 bas:LosAngel	
+E-MU Systems	Proteus FX	Bank 2	039 bas:Jupiter*	
+E-MU Systems	Proteus FX	Bank 2	040 str:SoloViln	
+E-MU Systems	Proteus FX	Bank 2	041 str:SoloViol	
+E-MU Systems	Proteus FX	Bank 2	042 str:SoloCelo	
+E-MU Systems	Proteus FX	Bank 2	043 str:CntraBas	
+E-MU Systems	Proteus FX	Bank 2	044 str:Tremolo	
+E-MU Systems	Proteus FX	Bank 2	045 str:PizzCmbo	
+E-MU Systems	Proteus FX	Bank 2	046 str:OrchHarp	
+E-MU Systems	Proteus FX	Bank 2	047 str:TimpCelo	
+E-MU Systems	Proteus FX	Bank 2	048 ens:Strings	
+E-MU Systems	Proteus FX	Bank 2	049 ens:Quartet2	
+E-MU Systems	Proteus FX	Bank 2	050 ens:SynStrng	
+E-MU Systems	Proteus FX	Bank 2	051 ens:XtraSlow	
+E-MU Systems	Proteus FX	Bank 2	052 ens:VoxSpred	
+E-MU Systems	Proteus FX	Bank 2	053 ens:StrayVox	
+E-MU Systems	Proteus FX	Bank 2	054 ens:Ominous	
+E-MU Systems	Proteus FX	Bank 2	055 ens:OrchHit*	
+E-MU Systems	Proteus FX	Bank 2	056 brs:Trumpet	
+E-MU Systems	Proteus FX	Bank 2	057 brs:Big Band	
+E-MU Systems	Proteus FX	Bank 2	058 brs:Tuba	
+E-MU Systems	Proteus FX	Bank 2	059 brs:And Wind	
+E-MU Systems	Proteus FX	Bank 2	060 brs:FrHorns2	
+E-MU Systems	Proteus FX	Bank 2	061 brs:Tijuana	
+E-MU Systems	Proteus FX	Bank 2	062 brs:Gilespie	
+E-MU Systems	Proteus FX	Bank 2	063 brs:Layered*	
+E-MU Systems	Proteus FX	Bank 2	064 red:Sax&Mute	
+E-MU Systems	Proteus FX	Bank 2	065 red:DblReedz	
+E-MU Systems	Proteus FX	Bank 2	066 red:TenorSax	
+E-MU Systems	Proteus FX	Bank 2	067 red:PowerSax	
+E-MU Systems	Proteus FX	Bank 2	068 red:SynthSax	
+E-MU Systems	Proteus FX	Bank 2	069 red:Layered*	
+E-MU Systems	Proteus FX	Bank 2	070 red:Bassoon	
+E-MU Systems	Proteus FX	Bank 2	071 red:BasClrnt	
+E-MU Systems	Proteus FX	Bank 2	072 pip:SynFlute	
+E-MU Systems	Proteus FX	Bank 2	073 pip:Flauta	
+E-MU Systems	Proteus FX	Bank 2	074 pip:8vaFlute	
+E-MU Systems	Proteus FX	Bank 2	075 pip:BrethEco	
+E-MU Systems	Proteus FX	Bank 2	076 pip:Bottle	
+E-MU Systems	Proteus FX	Bank 2	077 pip:Flut/Vox	
+E-MU Systems	Proteus FX	Bank 2	078 pip:Xpresivo	
+E-MU Systems	Proteus FX	Bank 2	079 pip:Picolode	
+E-MU Systems	Proteus FX	Bank 2	080 led:Wissler	
+E-MU Systems	Proteus FX	Bank 2	081 led:MoogSol1	
+E-MU Systems	Proteus FX	Bank 2	082 led:New Ager	
+E-MU Systems	Proteus FX	Bank 2	083 led:Medium	
+E-MU Systems	Proteus FX	Bank 2	084 led:& Bass *	
+E-MU Systems	Proteus FX	Bank 2	085 led:Hornz	
+E-MU Systems	Proteus FX	Bank 2	086 led:Xpresso	
+E-MU Systems	Proteus FX	Bank 2	087 led:MoogSol2	
+E-MU Systems	Proteus FX	Bank 2	088 pad:AirStrng	
+E-MU Systems	Proteus FX	Bank 2	089 pad:UpRite	
+E-MU Systems	Proteus FX	Bank 2	090 pad:Vektor 4	
+E-MU Systems	Proteus FX	Bank 2	091 pad:Cortext	
+E-MU Systems	Proteus FX	Bank 2	092 pad:0 Gravty	
+E-MU Systems	Proteus FX	Bank 2	093 pad:Coolness	
+E-MU Systems	Proteus FX	Bank 2	094 pad:Grunge	
+E-MU Systems	Proteus FX	Bank 2	095 pad:Mythical	
+E-MU Systems	Proteus FX	Bank 2	096 syn:Rain	
+E-MU Systems	Proteus FX	Bank 2	097 syn:Cubic Z	
+E-MU Systems	Proteus FX	Bank 2	098 syn:Phairest	
+E-MU Systems	Proteus FX	Bank 2	099 syn:PiPaBend	
+E-MU Systems	Proteus FX	Bank 2	100 syn:Nova	
+E-MU Systems	Proteus FX	Bank 2	101 syn:Burma	
+E-MU Systems	Proteus FX	Bank 2	102 syn:Wrinkles	
+E-MU Systems	Proteus FX	Bank 2	103 syn:MoonWalk	
+E-MU Systems	Proteus FX	Bank 2	104 eth:Fiddle	
+E-MU Systems	Proteus FX	Bank 2	105 eth:Kotoid	
+E-MU Systems	Proteus FX	Bank 2	106 eth:EastPluk	
+E-MU Systems	Proteus FX	Bank 2	107 eth:Sitarica	
+E-MU Systems	Proteus FX	Bank 2	108 eth:Shamisen	
+E-MU Systems	Proteus FX	Bank 2	109 eth:Koto	
+E-MU Systems	Proteus FX	Bank 2	110 eth:SteelDrm	
+E-MU Systems	Proteus FX	Bank 2	111 eth:Latimba*	
+E-MU Systems	Proteus FX	Bank 2	112 drm:GM Drum*	
+E-MU Systems	Proteus FX	Bank 2	113 drm:LatinDrm	
+E-MU Systems	Proteus FX	Bank 2	114 drm:RokKit2	
+E-MU Systems	Proteus FX	Bank 2	115 drm:Rap Kit	
+E-MU Systems	Proteus FX	Bank 2	116 drm:Taiko	
+E-MU Systems	Proteus FX	Bank 2	117 drm:Tam Tam	
+E-MU Systems	Proteus FX	Bank 2	118 drm:AstroTmp	
+E-MU Systems	Proteus FX	Bank 2	119 drm:RevCymbl	
+E-MU Systems	Proteus FX	Bank 2	120 sfx:MetlVapr	
+E-MU Systems	Proteus FX	Bank 2	121 sfx:WaleTale	
+E-MU Systems	Proteus FX	Bank 2	122 sfx:RubrSlap	
+E-MU Systems	Proteus FX	Bank 2	123 sfx:YourHead	
+E-MU Systems	Proteus FX	Bank 2	124 sfx:Telefone	
+E-MU Systems	Proteus FX	Bank 2	125 sfx:Spiritz	
+E-MU Systems	Proteus FX	Bank 2	126 sfx:En Furno	
+E-MU Systems	Proteus FX	Bank 2	127 sfx:Oh Heli	
+E-MU Systems	Proteus FX	Bank 3	000 kbd:IceHeven	
+E-MU Systems	Proteus FX	Bank 3	001 kbd:PnoWinds	
+E-MU Systems	Proteus FX	Bank 3	002 kbd:PnoForte	
+E-MU Systems	Proteus FX	Bank 3	003 kbd:Pad/Pno*	
+E-MU Systems	Proteus FX	Bank 3	004 kbd:BigComp*	
+E-MU Systems	Proteus FX	Bank 3	005 kbd:Pianorg	
+E-MU Systems	Proteus FX	Bank 3	006 kbd:Wurli EP	
+E-MU Systems	Proteus FX	Bank 3	007 kbd:Mute Pno	
+E-MU Systems	Proteus FX	Bank 3	008 prc:Equinox	
+E-MU Systems	Proteus FX	Bank 3	009 prc:Waterway	
+E-MU Systems	Proteus FX	Bank 3	010 prc:Disonant	
+E-MU Systems	Proteus FX	Bank 3	011 prc:Of China	
+E-MU Systems	Proteus FX	Bank 3	012 prc:Omens	
+E-MU Systems	Proteus FX	Bank 3	013 prc:VibroPad	
+E-MU Systems	Proteus FX	Bank 3	014 prc:Shining	
+E-MU Systems	Proteus FX	Bank 3	015 prc:BelleAir	
+E-MU Systems	Proteus FX	Bank 3	016 org:ToTheBar	
+E-MU Systems	Proteus FX	Bank 3	017 org:Tocatta7	
+E-MU Systems	Proteus FX	Bank 3	018 org:5ths Bar	
+E-MU Systems	Proteus FX	Bank 3	019 org:Kaligan*	
+E-MU Systems	Proteus FX	Bank 3	020 org:Reedz	
+E-MU Systems	Proteus FX	Bank 3	021 org:Doner	
+E-MU Systems	Proteus FX	Bank 3	022 org:Fisamon	
+E-MU Systems	Proteus FX	Bank 3	023 org:& Bass *	
+E-MU Systems	Proteus FX	Bank 3	024 gtr:PlukFair	
+E-MU Systems	Proteus FX	Bank 3	025 gtr:Warped	
+E-MU Systems	Proteus FX	Bank 3	026 gtr:LapSteel	
+E-MU Systems	Proteus FX	Bank 3	027 gtr:Combo12	
+E-MU Systems	Proteus FX	Bank 3	028 gtr:Fingerz	
+E-MU Systems	Proteus FX	Bank 3	029 gtr:Calm B4	
+E-MU Systems	Proteus FX	Bank 3	030 gtr:AgntCoop	
+E-MU Systems	Proteus FX	Bank 3	031 gtr:Xtopia	
+E-MU Systems	Proteus FX	Bank 3	032 bas:FatSynth	
+E-MU Systems	Proteus FX	Bank 3	033 bas:Rouge	
+E-MU Systems	Proteus FX	Bank 3	034 bas:Sick One	
+E-MU Systems	Proteus FX	Bank 3	035 bas:RoundSyn	
+E-MU Systems	Proteus FX	Bank 3	036 bas:Slapper2	
+E-MU Systems	Proteus FX	Bank 3	037 bas:Mondoid*	
+E-MU Systems	Proteus FX	Bank 3	038 bas:Kisser	
+E-MU Systems	Proteus FX	Bank 3	039 bas:Pulsar	
+E-MU Systems	Proteus FX	Bank 3	040 str:PizzSter	
+E-MU Systems	Proteus FX	Bank 3	041 str:PizCntrl	
+E-MU Systems	Proteus FX	Bank 3	042 str:Swell	
+E-MU Systems	Proteus FX	Bank 3	043 str:DevDance	
+E-MU Systems	Proteus FX	Bank 3	044 str:PwrCello	
+E-MU Systems	Proteus FX	Bank 3	045 str:AhVienna	
+E-MU Systems	Proteus FX	Bank 3	046 str:Fairlite	
+E-MU Systems	Proteus FX	Bank 3	047 str:Thematic	
+E-MU Systems	Proteus FX	Bank 3	048 ens:Mix 1	
+E-MU Systems	Proteus FX	Bank 3	049 ens:Legatto	
+E-MU Systems	Proteus FX	Bank 3	050 ens:Mix 2 *	
+E-MU Systems	Proteus FX	Bank 3	051 ens:PeaceOrc	
+E-MU Systems	Proteus FX	Bank 3	052 ens:Chromax	
+E-MU Systems	Proteus FX	Bank 3	053 ens:VoxWarpr	
+E-MU Systems	Proteus FX	Bank 3	054 ens:StrGlide	
+E-MU Systems	Proteus FX	Bank 3	055 ens:StrFalls	
+E-MU Systems	Proteus FX	Bank 3	056 brs:Sesh Tpt	
+E-MU Systems	Proteus FX	Bank 3	057 brs:X-hibit	
+E-MU Systems	Proteus FX	Bank 3	058 brs:Chi-Town	
+E-MU Systems	Proteus FX	Bank 3	059 brs:Waterboy	
+E-MU Systems	Proteus FX	Bank 3	060 brs:Bones	
+E-MU Systems	Proteus FX	Bank 3	061 brs:Popster	
+E-MU Systems	Proteus FX	Bank 3	062 brs:DXster	
+E-MU Systems	Proteus FX	Bank 3	063 brs:& Voices	
+E-MU Systems	Proteus FX	Bank 3	064 red:Fusion	
+E-MU Systems	Proteus FX	Bank 3	065 red:MythMakr	
+E-MU Systems	Proteus FX	Bank 3	066 red:SaxonSun	
+E-MU Systems	Proteus FX	Bank 3	067 red:Dead Sea	
+E-MU Systems	Proteus FX	Bank 3	068 red:Spring	
+E-MU Systems	Proteus FX	Bank 3	069 red:OBX Clar	
+E-MU Systems	Proteus FX	Bank 3	070 red:Claraboe	
+E-MU Systems	Proteus FX	Bank 3	071 red:Chamber	
+E-MU Systems	Proteus FX	Bank 3	072 pip:MuteFlut	
+E-MU Systems	Proteus FX	Bank 3	073 pip:Magical	
+E-MU Systems	Proteus FX	Bank 3	074 pip:CryOnMe	
+E-MU Systems	Proteus FX	Bank 3	075 pip:VerblAtk	
+E-MU Systems	Proteus FX	Bank 3	076 pip:Flutachi	
+E-MU Systems	Proteus FX	Bank 3	077 pip:The Flew	
+E-MU Systems	Proteus FX	Bank 3	078 pip:Bellwiss	
+E-MU Systems	Proteus FX	Bank 3	079 pip:FluteVox	
+E-MU Systems	Proteus FX	Bank 3	080 led:Echo Tpt	
+E-MU Systems	Proteus FX	Bank 3	081 led:Miles D	
+E-MU Systems	Proteus FX	Bank 3	082 led:IsleyRok	
+E-MU Systems	Proteus FX	Bank 3	083 led:5thsLead	
+E-MU Systems	Proteus FX	Bank 3	084 led:Synister	
+E-MU Systems	Proteus FX	Bank 3	085 led:SynSushi	
+E-MU Systems	Proteus FX	Bank 3	086 led:O Drive*	
+E-MU Systems	Proteus FX	Bank 3	087 led:PipeSolo	
+E-MU Systems	Proteus FX	Bank 3	088 syn:LunaWind	
+E-MU Systems	Proteus FX	Bank 3	089 syn:BrassVox	
+E-MU Systems	Proteus FX	Bank 3	090 syn:DarkAges	
+E-MU Systems	Proteus FX	Bank 3	091 syn:Mtalovox	
+E-MU Systems	Proteus FX	Bank 3	092 syn:IceForst	
+E-MU Systems	Proteus FX	Bank 3	093 syn:Mortale	
+E-MU Systems	Proteus FX	Bank 3	094 syn:Terminus	
+E-MU Systems	Proteus FX	Bank 3	095 lnk:#002&258	
+E-MU Systems	Proteus FX	Bank 3	096 lnk:#028	
+E-MU Systems	Proteus FX	Bank 3	097 lnk:#060	
+E-MU Systems	Proteus FX	Bank 3	098 lnk:#061	
+E-MU Systems	Proteus FX	Bank 3	099 lnk:#111	
+E-MU Systems	Proteus FX	Bank 3	100 lnk:#121&243	
+E-MU Systems	Proteus FX	Bank 3	101 lnk:#130&387	
+E-MU Systems	Proteus FX	Bank 3	102 lnk:#149	
+E-MU Systems	Proteus FX	Bank 3	103 lnk:#164	
+E-MU Systems	Proteus FX	Bank 3	104 lnk:#181	
+E-MU Systems	Proteus FX	Bank 3	105 lnk:#187	
+E-MU Systems	Proteus FX	Bank 3	106 lnk:#189	
+E-MU Systems	Proteus FX	Bank 3	107 lnk:#205	
+E-MU Systems	Proteus FX	Bank 3	108 lnk:#206	
+E-MU Systems	Proteus FX	Bank 3	109 lnk:#224	
+E-MU Systems	Proteus FX	Bank 3	110 lnk:#239	
+E-MU Systems	Proteus FX	Bank 3	111 lnk:#241	
+E-MU Systems	Proteus FX	Bank 3	112 lnk:#245	
+E-MU Systems	Proteus FX	Bank 3	113 lnk:#295	
+E-MU Systems	Proteus FX	Bank 3	114 lnk:#311	
+E-MU Systems	Proteus FX	Bank 3	115 lnk:#319	
+E-MU Systems	Proteus FX	Bank 3	116 lnk:#340	
+E-MU Systems	Proteus FX	Bank 3	117 lnk:#367	
+E-MU Systems	Proteus FX	Bank 3	118 lnk:#368	
+E-MU Systems	Proteus FX	Bank 3	119 lnk:#368	
+E-MU Systems	Proteus FX	Bank 3	120 lnk:#368	
+E-MU Systems	Proteus FX	Bank 3	121 lnk:#388	
+E-MU Systems	Proteus FX	Bank 3	122 lnk:#403	
+E-MU Systems	Proteus FX	Bank 3	123 lnk:#407	
+E-MU Systems	Proteus FX	Bank 3	124 lnk:#421	
+E-MU Systems	Proteus FX	Bank 3	125 lnk:#434&325	
+E-MU Systems	Proteus FX	Bank 3	126 lnk:#470	
+E-MU Systems	Proteus FX	Bank 3	127 lnk:#471	
+E-MU Systems	Proteus FX	Instruments	000 None	
+E-MU Systems	Proteus FX	Instruments	001 Piano	
+E-MU Systems	Proteus FX	Instruments	002 Piano Pad	
+E-MU Systems	Proteus FX	Instruments	003 Loose Piano	
+E-MU Systems	Proteus FX	Instruments	004 Tight Piano	
+E-MU Systems	Proteus FX	Instruments	005 Strings	
+E-MU Systems	Proteus FX	Instruments	006 Long String	
+E-MU Systems	Proteus FX	Instruments	007 Slow String	
+E-MU Systems	Proteus FX	Instruments	008 Dark String	
+E-MU Systems	Proteus FX	Instruments	009 Voices	
+E-MU Systems	Proteus FX	Instruments	010 Slow Voices	
+E-MU Systems	Proteus FX	Instruments	011 Dark Choir	
+E-MU Systems	Proteus FX	Instruments	012 Synth Flute	
+E-MU Systems	Proteus FX	Instruments	013 Soft Flute	
+E-MU Systems	Proteus FX	Instruments	014 Alto Sax	
+E-MU Systems	Proteus FX	Instruments	015 Tenor Sax	
+E-MU Systems	Proteus FX	Instruments	016 BaritoneSax	
+E-MU Systems	Proteus FX	Instruments	017 Dark Sax	
+E-MU Systems	Proteus FX	Instruments	018 Trumpet Sft	
+E-MU Systems	Proteus FX	Instruments	019 Dark TrumpS	
+E-MU Systems	Proteus FX	Instruments	020 Trumpet Hrd	
+E-MU Systems	Proteus FX	Instruments	021 Dark TrumpH	
+E-MU Systems	Proteus FX	Instruments	022 Horn Falls	
+E-MU Systems	Proteus FX	Instruments	023 Trombone 1	
+E-MU Systems	Proteus FX	Instruments	024 Trombone 2	
+E-MU Systems	Proteus FX	Instruments	025 French Horn	
+E-MU Systems	Proteus FX	Instruments	026 Brass 1	
+E-MU Systems	Proteus FX	Instruments	027 Brass 2	
+E-MU Systems	Proteus FX	Instruments	028 Brass 3	
+E-MU Systems	Proteus FX	Instruments	029 Trom / Sax	
+E-MU Systems	Proteus FX	Instruments	030 Guitar Mute	
+E-MU Systems	Proteus FX	Instruments	031 El. Guitar	
+E-MU Systems	Proteus FX	Instruments	032 Ac. Guitar	
+E-MU Systems	Proteus FX	Instruments	033 Rock Bass	
+E-MU Systems	Proteus FX	Instruments	034 Stone Bass	
+E-MU Systems	Proteus FX	Instruments	035 Flint Bass	
+E-MU Systems	Proteus FX	Instruments	036 Funk Slap	
+E-MU Systems	Proteus FX	Instruments	037 Funk Pop	
+E-MU Systems	Proteus FX	Instruments	038 Harmonics	
+E-MU Systems	Proteus FX	Instruments	039 Rock/Harms	
+E-MU Systems	Proteus FX	Instruments	040 Stone/Harms	
+E-MU Systems	Proteus FX	Instruments	041 Nose Bass	
+E-MU Systems	Proteus FX	Instruments	042 Bass Syn 1	
+E-MU Systems	Proteus FX	Instruments	043 Bass Syn 2	
+E-MU Systems	Proteus FX	Instruments	044 Synth Pad	
+E-MU Systems	Proteus FX	Instruments	045 Med Env Pad	
+E-MU Systems	Proteus FX	Instruments	046 Lng Env Pad	
+E-MU Systems	Proteus FX	Instruments	047 Dark Synth	
+E-MU Systems	Proteus FX	Instruments	048 Perc. Organ	
+E-MU Systems	Proteus FX	Instruments	049 Marimba	
+E-MU Systems	Proteus FX	Instruments	050 Vibraphone	
+E-MU Systems	Proteus FX	Instruments	051 All Perc. B	
+E-MU Systems	Proteus FX	Instruments	052 All Perc.UB	
+E-MU Systems	Proteus FX	Instruments	053 Standard 1	
+E-MU Systems	Proteus FX	Instruments	054 Standard 2	
+E-MU Systems	Proteus FX	Instruments	055 Standard 3	
+E-MU Systems	Proteus FX	Instruments	056 Kicks	
+E-MU Systems	Proteus FX	Instruments	057 Snares	
+E-MU Systems	Proteus FX	Instruments	058 Toms	
+E-MU Systems	Proteus FX	Instruments	059 Cymbals	
+E-MU Systems	Proteus FX	Instruments	060 Latin Drums	
+E-MU Systems	Proteus FX	Instruments	061 Latin Perc.	
+E-MU Systems	Proteus FX	Instruments	062 AGoGo	
+E-MU Systems	Proteus FX	Instruments	063 Woodblock	
+E-MU Systems	Proteus FX	Instruments	064 Conga	
+E-MU Systems	Proteus FX	Instruments	065 Timbal	
+E-MU Systems	Proteus FX	Instruments	066 Ride	
+E-MU Systems	Proteus FX	Instruments	067 Perc. FX 1	
+E-MU Systems	Proteus FX	Instruments	068 Perc. FX 2	
+E-MU Systems	Proteus FX	Instruments	069 Metal	
+E-MU Systems	Proteus FX	Instruments	070 Oct 1 Sine	
+E-MU Systems	Proteus FX	Instruments	071 Oct 2 All	
+E-MU Systems	Proteus FX	Instruments	072 Oct 3 All	
+E-MU Systems	Proteus FX	Instruments	073 Oct 4 All	
+E-MU Systems	Proteus FX	Instruments	074 Oct 5 All	
+E-MU Systems	Proteus FX	Instruments	075 Oct 6 All	
+E-MU Systems	Proteus FX	Instruments	076 Oct 7 All	
+E-MU Systems	Proteus FX	Instruments	077 Oct 2 Odd	
+E-MU Systems	Proteus FX	Instruments	078 Oct 3 Odd	
+E-MU Systems	Proteus FX	Instruments	079 Oct 4 Odd	
+E-MU Systems	Proteus FX	Instruments	080 Oct 5 Odd	
+E-MU Systems	Proteus FX	Instruments	081 Oct 6 Odd	
+E-MU Systems	Proteus FX	Instruments	082 Oct 7 Odd	
+E-MU Systems	Proteus FX	Instruments	083 Oct 2 Even	
+E-MU Systems	Proteus FX	Instruments	084 Oct 3 Even	
+E-MU Systems	Proteus FX	Instruments	085 Oct 4 Even	
+E-MU Systems	Proteus FX	Instruments	086 Oct 5 Even	
+E-MU Systems	Proteus FX	Instruments	087 Oct 6 Even	
+E-MU Systems	Proteus FX	Instruments	088 Oct 7 Even	
+E-MU Systems	Proteus FX	Instruments	089 Low Odds	
+E-MU Systems	Proteus FX	Instruments	090 Low Evens	
+E-MU Systems	Proteus FX	Instruments	091 FourOctaves	
+E-MU Systems	Proteus FX	Instruments	092 Synth Cyc 1	
+E-MU Systems	Proteus FX	Instruments	093 Synth Cyc 2	
+E-MU Systems	Proteus FX	Instruments	094 Synth Cyc 3	
+E-MU Systems	Proteus FX	Instruments	095 Synth Cyc 4	
+E-MU Systems	Proteus FX	Instruments	096 Fund Gone 1	
+E-MU Systems	Proteus FX	Instruments	097 Fund Gone 2	
+E-MU Systems	Proteus FX	Instruments	098 Bite Cyc	
+E-MU Systems	Proteus FX	Instruments	099 Buzzy Cyc 1	
+E-MU Systems	Proteus FX	Instruments	100 Metlphone 1	
+E-MU Systems	Proteus FX	Instruments	101 Metlphone 2	
+E-MU Systems	Proteus FX	Instruments	102 Metlphone 3	
+E-MU Systems	Proteus FX	Instruments	103 Metlphone 4	
+E-MU Systems	Proteus FX	Instruments	104 Duck Cyc 1	
+E-MU Systems	Proteus FX	Instruments	105 Duck Cyc 2	
+E-MU Systems	Proteus FX	Instruments	106 Duck Cyc 3	
+E-MU Systems	Proteus FX	Instruments	107 Wind Cyc 1	
+E-MU Systems	Proteus FX	Instruments	108 Wind Cyc 2	
+E-MU Systems	Proteus FX	Instruments	109 Wind Cyc 3	
+E-MU Systems	Proteus FX	Instruments	110 Wind Cyc 4	
+E-MU Systems	Proteus FX	Instruments	111 Organ Cyc 1	
+E-MU Systems	Proteus FX	Instruments	112 Organ Cyc 2	
+E-MU Systems	Proteus FX	Instruments	113 Noise	
+E-MU Systems	Proteus FX	Instruments	114 StrayVoice1	
+E-MU Systems	Proteus FX	Instruments	115 StrayVoice2	
+E-MU Systems	Proteus FX	Instruments	116 StrayVoice3	
+E-MU Systems	Proteus FX	Instruments	117 StrayVoice4	
+E-MU Systems	Proteus FX	Instruments	118 SynthStrng1	
+E-MU Systems	Proteus FX	Instruments	119 SynthStrng2	
+E-MU Systems	Proteus FX	Instruments	120 Animals	
+E-MU Systems	Proteus FX	Instruments	121 Reed	
+E-MU Systems	Proteus FX	Instruments	122 Pluck 1	
+E-MU Systems	Proteus FX	Instruments	123 Pluck 2	
+E-MU Systems	Proteus FX	Instruments	124 Mallet 1	
+E-MU Systems	Proteus FX	Instruments	125 Mallet 2	
+E-MU Systems	Proteus FX	Instruments	126 Solo Cello	
+E-MU Systems	Proteus FX	Instruments	127 Solo Viola	
+E-MU Systems	Proteus FX	Instruments	128 Solo Violin	
+E-MU Systems	Proteus FX	Instruments	129 Gambambo	
+E-MU Systems	Proteus FX	Instruments	130 Quartet 1	
+E-MU Systems	Proteus FX	Instruments	131 Quartet 2	
+E-MU Systems	Proteus FX	Instruments	132 Quartet 3	
+E-MU Systems	Proteus FX	Instruments	133 Quartet 4	
+E-MU Systems	Proteus FX	Instruments	134 Pizz Basses	
+E-MU Systems	Proteus FX	Instruments	135 Pizz Celli	
+E-MU Systems	Proteus FX	Instruments	136 Pizz Violas	
+E-MU Systems	Proteus FX	Instruments	137 PizzViolins	
+E-MU Systems	Proteus FX	Instruments	138 Pizzicombo	
+E-MU Systems	Proteus FX	Instruments	139 Bass Clar.	
+E-MU Systems	Proteus FX	Instruments	140 Clarinet	
+E-MU Systems	Proteus FX	Instruments	141 B.Clar/Clar	
+E-MU Systems	Proteus FX	Instruments	142 Cntrbassoon	
+E-MU Systems	Proteus FX	Instruments	143 Bassoon	
+E-MU Systems	Proteus FX	Instruments	144 EnglishHorn	
+E-MU Systems	Proteus FX	Instruments	145 Oboe w/Vib	
+E-MU Systems	Proteus FX	Instruments	146 Woodwinds	
+E-MU Systems	Proteus FX	Instruments	147 Harmon Mute	
+E-MU Systems	Proteus FX	Instruments	148 TubularBell	
+E-MU Systems	Proteus FX	Instruments	149 Timpani	
+E-MU Systems	Proteus FX	Instruments	150 Timp/T.Bell	
+E-MU Systems	Proteus FX	Instruments	151 Tamborine	
+E-MU Systems	Proteus FX	Instruments	152 Tam Tam	
+E-MU Systems	Proteus FX	Instruments	153 Percussion3	
+E-MU Systems	Proteus FX	Instruments	154 Special FX	
+E-MU Systems	Proteus FX	Instruments	155 Oboe noVib	
+E-MU Systems	Proteus FX	Instruments	156 UprightPizz	
+E-MU Systems	Proteus FX	Instruments	157 Sine Wave	
+E-MU Systems	Proteus FX	Instruments	158 Tri Wave	
+E-MU Systems	Proteus FX	Instruments	159 Square Wave	
+E-MU Systems	Proteus FX	Instruments	160 Buzz Wave 1	
+E-MU Systems	Proteus FX	Instruments	161 Buzz Wave 2	
+E-MU Systems	Proteus FX	Instruments	162 Buzz Wave 3	
+E-MU Systems	Proteus FX	Instruments	163 Sawtooth	
+E-MU Systems	Proteus FX	Instruments	164 SawOddGone	
+E-MU Systems	Proteus FX	Instruments	165 Ramp	
+E-MU Systems	Proteus FX	Instruments	166 RampEveOnly	
+E-MU Systems	Proteus FX	Instruments	167 Vio Essence	
+E-MU Systems	Proteus FX	Instruments	168 Buzzoon	
+E-MU Systems	Proteus FX	Instruments	169 Brassy Wave	
+E-MU Systems	Proteus FX	Instruments	170 Reedy Buzz	
+E-MU Systems	Proteus FX	Instruments	171 Growl Wave	
+E-MU Systems	Proteus FX	Instruments	172 HarpsiWave	
+E-MU Systems	Proteus FX	Instruments	173 Fuzzy Gruzz	
+E-MU Systems	Proteus FX	Instruments	174 Power 5ths	
+E-MU Systems	Proteus FX	Instruments	175 Filt Saw	
+E-MU Systems	Proteus FX	Instruments	176 Ice Bell	
+E-MU Systems	Proteus FX	Instruments	177 Bronze Age	
+E-MU Systems	Proteus FX	Instruments	178 Iron Plate	
+E-MU Systems	Proteus FX	Instruments	179 Aluminum	
+E-MU Systems	Proteus FX	Instruments	180 Lead Beam	
+E-MU Systems	Proteus FX	Instruments	181 SteelXtract	
+E-MU Systems	Proteus FX	Instruments	182 WinterGlass	
+E-MU Systems	Proteus FX	Instruments	183 TwnBellWash	
+E-MU Systems	Proteus FX	Instruments	184 Orch Bells	
+E-MU Systems	Proteus FX	Instruments	185 Tubular SE	
+E-MU Systems	Proteus FX	Instruments	186 SoftBellWav	
+E-MU Systems	Proteus FX	Instruments	187 Swirly	
+E-MU Systems	Proteus FX	Instruments	188 Tack Attack	
+E-MU Systems	Proteus FX	Instruments	189 ShimmerWave	
+E-MU Systems	Proteus FX	Instruments	190 Moog Lead	
+E-MU Systems	Proteus FX	Instruments	191 B3 SE	
+E-MU Systems	Proteus FX	Instruments	192 Mild Tone	
+E-MU Systems	Proteus FX	Instruments	193 Piper	
+E-MU Systems	Proteus FX	Instruments	194 Ah Wave	
+E-MU Systems	Proteus FX	Instruments	195 Vocal Wave	
+E-MU Systems	Proteus FX	Instruments	196 Fuzzy Clav	
+E-MU Systems	Proteus FX	Instruments	197 Electrhode	
+E-MU Systems	Proteus FX	Instruments	198 Whine 1	
+E-MU Systems	Proteus FX	Instruments	199 Whine 2	
+E-MU Systems	Proteus FX	Instruments	200 Metal Drone	
+E-MU Systems	Proteus FX	Instruments	201 Silver Race	
+E-MU Systems	Proteus FX	Instruments	202 MetalAttack	
+E-MU Systems	Proteus FX	Instruments	203 Filter Bass	
+E-MU Systems	Proteus FX	Instruments	204 Alt. Oboe	

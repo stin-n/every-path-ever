@@ -1,0 +1,762 @@
+E-MU Systems	Classic Keys	Bank 0	000 org:Panner1%	
+E-MU Systems	Classic Keys	Bank 0	001 org:Rocky B3	
+E-MU Systems	Classic Keys	Bank 0	002 org:PercGrt%	
+E-MU Systems	Classic Keys	Bank 0	003 org:LoMidPr%	
+E-MU Systems	Classic Keys	Bank 0	004 org:LoHiPrc%	
+E-MU Systems	Classic Keys	Bank 0	005 org:HiPerc %	
+E-MU Systems	Classic Keys	Bank 0	006 org:StopsOut	
+E-MU Systems	Classic Keys	Bank 0	007 org:Lo Dark	
+E-MU Systems	Classic Keys	Bank 0	008 org:Airgan %	
+E-MU Systems	Classic Keys	Bank 0	009 org:Sticky %	
+E-MU Systems	Classic Keys	Bank 0	010 org:Bell Atk	
+E-MU Systems	Classic Keys	Bank 0	011 org:Rococo	
+E-MU Systems	Classic Keys	Bank 0	012 org:GrandM12	
+E-MU Systems	Classic Keys	Bank 0	013 org:Funeral	
+E-MU Systems	Classic Keys	Bank 0	014 org:Dynorg1	
+E-MU Systems	Classic Keys	Bank 0	015 org:w/Vibes	
+E-MU Systems	Classic Keys	Bank 0	016 epo:DXThang%	
+E-MU Systems	Classic Keys	Bank 0	017 epo:Dyno'd %	
+E-MU Systems	Classic Keys	Bank 0	018 epo:3 Dogs %	
+E-MU Systems	Classic Keys	Bank 0	019 epo:BasicEl.	
+E-MU Systems	Classic Keys	Bank 0	020 epo:Wurltzr%	
+E-MU Systems	Classic Keys	Bank 0	021 epo:WurlBel%	
+E-MU Systems	Classic Keys	Bank 0	022 epo:Clav Whl	
+E-MU Systems	Classic Keys	Bank 0	023 epo:DblHonr%	
+E-MU Systems	Classic Keys	Bank 0	024 epo:DoubleCP	
+E-MU Systems	Classic Keys	Bank 0	025 epo:Bright70	
+E-MU Systems	Classic Keys	Bank 0	026 epo:TakPiano	
+E-MU Systems	Classic Keys	Bank 0	027 epo:WideCP70	
+E-MU Systems	Classic Keys	Bank 0	028 epo:TronFade	
+E-MU Systems	Classic Keys	Bank 0	029 epo:Vox Fade	
+E-MU Systems	Classic Keys	Bank 0	030 epo:DX-70 %	
+E-MU Systems	Classic Keys	Bank 0	031 epo:CP-B3-70	
+E-MU Systems	Classic Keys	Bank 0	032 str:P5ala'99	
+E-MU Systems	Classic Keys	Bank 0	033 str:Solina	
+E-MU Systems	Classic Keys	Bank 0	034 str:SuperMel	
+E-MU Systems	Classic Keys	Bank 0	035 str:ThikMoog	
+E-MU Systems	Classic Keys	Bank 0	036 str:Moog Too	
+E-MU Systems	Classic Keys	Bank 0	037 str:OBXStrng	
+E-MU Systems	Classic Keys	Bank 0	038 str:ARPcomb1	
+E-MU Systems	Classic Keys	Bank 0	039 str:ARPcomb2	
+E-MU Systems	Classic Keys	Bank 0	040 air:WindKeys	
+E-MU Systems	Classic Keys	Bank 0	041 air:GasDyno	
+E-MU Systems	Classic Keys	Bank 0	042 air:PanninOz	
+E-MU Systems	Classic Keys	Bank 0	043 air:PanPiper	
+E-MU Systems	Classic Keys	Bank 0	044 air:Siku	
+E-MU Systems	Classic Keys	Bank 0	045 air:ARPreedz	
+E-MU Systems	Classic Keys	Bank 0	046 air:M12Quack	
+E-MU Systems	Classic Keys	Bank 0	047 air:DeepHeat	
+E-MU Systems	Classic Keys	Bank 0	048 buz:M12 Pad	
+E-MU Systems	Classic Keys	Bank 0	049 buz:BigBob55	
+E-MU Systems	Classic Keys	Bank 0	050 buz:ARP Pad	
+E-MU Systems	Classic Keys	Bank 0	051 buz:MoogPad3	
+E-MU Systems	Classic Keys	Bank 0	052 buz:MoogPad5	
+E-MU Systems	Classic Keys	Bank 0	053 buz:Rezo SEM	
+E-MU Systems	Classic Keys	Bank 0	054 buz:EMU/Moog	
+E-MU Systems	Classic Keys	Bank 0	055 buz:Wheel Op	
+E-MU Systems	Classic Keys	Bank 0	056 rez:MoogPad1	
+E-MU Systems	Classic Keys	Bank 0	057 rez:MoogPad4	
+E-MU Systems	Classic Keys	Bank 0	058 rez:MoogPad6	
+E-MU Systems	Classic Keys	Bank 0	059 rez:OB Pad	
+E-MU Systems	Classic Keys	Bank 0	060 rez:P5Syncer	
+E-MU Systems	Classic Keys	Bank 0	061 rez:MoogPad2	
+E-MU Systems	Classic Keys	Bank 0	062 rez:ManyMoog	
+E-MU Systems	Classic Keys	Bank 0	063 rez:Cartoon	
+E-MU Systems	Classic Keys	Bank 0	064 bel:StikBell	
+E-MU Systems	Classic Keys	Bank 0	065 bel:4OctBell	
+E-MU Systems	Classic Keys	Bank 0	066 bel:Gamalan	
+E-MU Systems	Classic Keys	Bank 0	067 bel:Metlimba	
+E-MU Systems	Classic Keys	Bank 0	068 bel:PanBells	
+E-MU Systems	Classic Keys	Bank 0	069 bel:Tubular	
+E-MU Systems	Classic Keys	Bank 0	070 bel:Led Xtal	
+E-MU Systems	Classic Keys	Bank 0	071 bel:WndChime	
+E-MU Systems	Classic Keys	Bank 0	072 wrm:Harmonia	
+E-MU Systems	Classic Keys	Bank 0	073 wrm:SineWave	
+E-MU Systems	Classic Keys	Bank 0	074 wrm:FlutWave	
+E-MU Systems	Classic Keys	Bank 0	075 wrm:Bendolin	
+E-MU Systems	Classic Keys	Bank 0	076 wrm:Beautifl	
+E-MU Systems	Classic Keys	Bank 0	077 wrm:Bend 4>5	
+E-MU Systems	Classic Keys	Bank 0	078 wrm:StrngGld	
+E-MU Systems	Classic Keys	Bank 0	079 wrm:WineGlas	
+E-MU Systems	Classic Keys	Bank 0	080 bas:Punchy	
+E-MU Systems	Classic Keys	Bank 0	081 bas:Hunted %	
+E-MU Systems	Classic Keys	Bank 0	082 bas:Moog5th%	
+E-MU Systems	Classic Keys	Bank 0	083 bas:SyncBtm%	
+E-MU Systems	Classic Keys	Bank 0	084 bas:TwoMoogs	
+E-MU Systems	Classic Keys	Bank 0	085 bas:B3 Pedal	
+E-MU Systems	Classic Keys	Bank 0	086 bas:PerkPedl	
+E-MU Systems	Classic Keys	Bank 0	087 bas:UduSynth	
+E-MU Systems	Classic Keys	Bank 0	088 led:MoogSqrs	
+E-MU Systems	Classic Keys	Bank 0	089 led:MoogSaws	
+E-MU Systems	Classic Keys	Bank 0	090 led:MoogRect	
+E-MU Systems	Classic Keys	Bank 0	091 led:OB Saws	
+E-MU Systems	Classic Keys	Bank 0	092 led:ARPpulse	
+E-MU Systems	Classic Keys	Bank 0	093 led:M12 Sync	
+E-MU Systems	Classic Keys	Bank 0	094 led:Pro5Sync	
+E-MU Systems	Classic Keys	Bank 0	095 led:Sweepy	
+E-MU Systems	Classic Keys	Bank 0	096 trn:M&F Vox	
+E-MU Systems	Classic Keys	Bank 0	097 trn:Vln&FVox	
+E-MU Systems	Classic Keys	Bank 0	098 trn:Vln&MVox	
+E-MU Systems	Classic Keys	Bank 0	099 trn:Vln&Flut	
+E-MU Systems	Classic Keys	Bank 0	100 trn:FVx&Flut	
+E-MU Systems	Classic Keys	Bank 0	101 trn:Vx/Flut&	
+E-MU Systems	Classic Keys	Bank 0	102 trn:SwoopVox	
+E-MU Systems	Classic Keys	Bank 0	103 trn:HuluGurl	
+E-MU Systems	Classic Keys	Bank 0	104 brs:Orson55%	
+E-MU Systems	Classic Keys	Bank 0	105 brs:Memories	
+E-MU Systems	Classic Keys	Bank 0	106 brs:MemMg5th	
+E-MU Systems	Classic Keys	Bank 0	107 brs:BigSect%	
+E-MU Systems	Classic Keys	Bank 0	108 brs:Section%	
+E-MU Systems	Classic Keys	Bank 0	109 brs:MiniWarm	
+E-MU Systems	Classic Keys	Bank 0	110 brs:BrassyMg	
+E-MU Systems	Classic Keys	Bank 0	111 brs:Taurs5th	
+E-MU Systems	Classic Keys	Bank 0	112 sfx:Psycotic	
+E-MU Systems	Classic Keys	Bank 0	113 sfx:Who Me ?	
+E-MU Systems	Classic Keys	Bank 0	114 sfx:Ahh-Ahh	
+E-MU Systems	Classic Keys	Bank 0	115 sfx:Crazy	
+E-MU Systems	Classic Keys	Bank 0	116 sfx:Triffids	
+E-MU Systems	Classic Keys	Bank 0	117 sfx:Outer %	
+E-MU Systems	Classic Keys	Bank 0	118 sfx:Limits	
+E-MU Systems	Classic Keys	Bank 0	119 sfx:Huuuuge%	
+E-MU Systems	Classic Keys	Bank 0	120 plk:Kotolith	
+E-MU Systems	Classic Keys	Bank 0	121 plk:Hawaiian	
+E-MU Systems	Classic Keys	Bank 0	122 plk:SurfBird	
+E-MU Systems	Classic Keys	Bank 0	123 plk:Twangly%	
+E-MU Systems	Classic Keys	Bank 0	124 plk:Bass&Gtr	
+E-MU Systems	Classic Keys	Bank 0	125 plk:JazzBass	
+E-MU Systems	Classic Keys	Bank 0	126 plk:FunkBass	
+E-MU Systems	Classic Keys	Bank 0	127 plk:Bright %	
+E-MU Systems	Classic Keys	Bank 1	000 org:Panner2%	
+E-MU Systems	Classic Keys	Bank 1	001 org:Solo 1 &	
+E-MU Systems	Classic Keys	Bank 1	002 org:Solo 2 &	
+E-MU Systems	Classic Keys	Bank 1	003 org:Solo 3 &	
+E-MU Systems	Classic Keys	Bank 1	004 org:Solo 4 &	
+E-MU Systems	Classic Keys	Bank 1	005 org:Solo 5 %	
+E-MU Systems	Classic Keys	Bank 1	006 org:Solo 6 &	
+E-MU Systems	Classic Keys	Bank 1	007 org:Solo 7 &	
+E-MU Systems	Classic Keys	Bank 1	008 org:AirPower	
+E-MU Systems	Classic Keys	Bank 1	009 org:GameShow	
+E-MU Systems	Classic Keys	Bank 1	010 org:Cathedrl	
+E-MU Systems	Classic Keys	Bank 1	011 org:Liteness	
+E-MU Systems	Classic Keys	Bank 1	012 org:Morgan %	
+E-MU Systems	Classic Keys	Bank 1	013 org:RockPls&	
+E-MU Systems	Classic Keys	Bank 1	014 org:Dynorg2	
+E-MU Systems	Classic Keys	Bank 1	015 org:Clav Atk	
+E-MU Systems	Classic Keys	Bank 1	016 epo:Suitcs &	
+E-MU Systems	Classic Keys	Bank 1	017 epo:DynoRhd&	
+E-MU Systems	Classic Keys	Bank 1	018 epo:Hyper D&	
+E-MU Systems	Classic Keys	Bank 1	019 epo:Mark I &	
+E-MU Systems	Classic Keys	Bank 1	020 epo:HevyDyno	
+E-MU Systems	Classic Keys	Bank 1	021 epo:DynoDlay	
+E-MU Systems	Classic Keys	Bank 1	022 epo:TufWurli	
+E-MU Systems	Classic Keys	Bank 1	023 epo:WurlBs1&	
+E-MU Systems	Classic Keys	Bank 1	024 epo:WurlBs2&	
+E-MU Systems	Classic Keys	Bank 1	025 epo:WurliPan	
+E-MU Systems	Classic Keys	Bank 1	026 epo:ClavPanr	
+E-MU Systems	Classic Keys	Bank 1	027 epo:BuzzClav	
+E-MU Systems	Classic Keys	Bank 1	028 epo:SyncClav	
+E-MU Systems	Classic Keys	Bank 1	029 epo:CP/M12	
+E-MU Systems	Classic Keys	Bank 1	030 epo:CP/MemMg	
+E-MU Systems	Classic Keys	Bank 1	031 epo:Eko CP70	
+E-MU Systems	Classic Keys	Bank 1	032 str:LikeNife	
+E-MU Systems	Classic Keys	Bank 1	033 str:Bob&Toms	
+E-MU Systems	Classic Keys	Bank 1	034 str:M12 5ths	
+E-MU Systems	Classic Keys	Bank 1	035 str:OBcanyon	
+E-MU Systems	Classic Keys	Bank 1	036 str:GreatBig	
+E-MU Systems	Classic Keys	Bank 1	037 str:RotorTrn	
+E-MU Systems	Classic Keys	Bank 1	038 str:RotorARP	
+E-MU Systems	Classic Keys	Bank 1	039 str:RotorM12	
+E-MU Systems	Classic Keys	Bank 1	040 air:Omatic	
+E-MU Systems	Classic Keys	Bank 1	041 air:PanProV	
+E-MU Systems	Classic Keys	Bank 1	042 air:PanGtrz	
+E-MU Systems	Classic Keys	Bank 1	043 air:Subteran	
+E-MU Systems	Classic Keys	Bank 1	044 air:Escaping	
+E-MU Systems	Classic Keys	Bank 1	045 air:Flutgong	
+E-MU Systems	Classic Keys	Bank 1	046 air:Creepy	
+E-MU Systems	Classic Keys	Bank 1	047 air:Hu-Hu-Hu	
+E-MU Systems	Classic Keys	Bank 1	048 buz:ARPinet	
+E-MU Systems	Classic Keys	Bank 1	049 buz:Brazzzzz	
+E-MU Systems	Classic Keys	Bank 1	050 buz:DuckRock	
+E-MU Systems	Classic Keys	Bank 1	051 buz:ClavLike	
+E-MU Systems	Classic Keys	Bank 1	052 buz:Britely	
+E-MU Systems	Classic Keys	Bank 1	053 buz:Zophone	
+E-MU Systems	Classic Keys	Bank 1	054 buz:Buzync	
+E-MU Systems	Classic Keys	Bank 1	055 buz:Qwaack	
+E-MU Systems	Classic Keys	Bank 1	056 rez:HotPile	
+E-MU Systems	Classic Keys	Bank 1	057 rez:Scary	
+E-MU Systems	Classic Keys	Bank 1	058 rez:ARPbssn	
+E-MU Systems	Classic Keys	Bank 1	059 rez:Harpspad	
+E-MU Systems	Classic Keys	Bank 1	060 rez:Fuzzywuz	
+E-MU Systems	Classic Keys	Bank 1	061 rez:FuzGrowl	
+E-MU Systems	Classic Keys	Bank 1	062 rez:GrowlWav	
+E-MU Systems	Classic Keys	Bank 1	063 rez:Rev Moog	
+E-MU Systems	Classic Keys	Bank 1	064 bel:Vibalong	
+E-MU Systems	Classic Keys	Bank 1	065 bel:Malltbel	
+E-MU Systems	Classic Keys	Bank 1	066 bel:OohBells	
+E-MU Systems	Classic Keys	Bank 1	067 bel:Magic	
+E-MU Systems	Classic Keys	Bank 1	068 bel:Popsikl%	
+E-MU Systems	Classic Keys	Bank 1	069 bel:Disobel%	
+E-MU Systems	Classic Keys	Bank 1	070 bel:DigiMoog	
+E-MU Systems	Classic Keys	Bank 1	071 bel:Ironbel%	
+E-MU Systems	Classic Keys	Bank 1	072 wrm:Accordia	
+E-MU Systems	Classic Keys	Bank 1	073 wrm:RoadTone	
+E-MU Systems	Classic Keys	Bank 1	074 wrm:Clavsine	
+E-MU Systems	Classic Keys	Bank 1	075 wrm:DarkPipe	
+E-MU Systems	Classic Keys	Bank 1	076 wrm:PercPad	
+E-MU Systems	Classic Keys	Bank 1	077 wrm:Generatr	
+E-MU Systems	Classic Keys	Bank 1	078 wrm:Swirly	
+E-MU Systems	Classic Keys	Bank 1	079 wrm:PipeBndr	
+E-MU Systems	Classic Keys	Bank 1	080 bas:ARP Rez2	
+E-MU Systems	Classic Keys	Bank 1	081 bas:2 Micros	
+E-MU Systems	Classic Keys	Bank 1	082 bas:EkoMini%	
+E-MU Systems	Classic Keys	Bank 1	083 bas:Solidar%	
+E-MU Systems	Classic Keys	Bank 1	084 bas:ClavSyn	
+E-MU Systems	Classic Keys	Bank 1	085 bas:Watery %	
+E-MU Systems	Classic Keys	Bank 1	086 bas:B3 Bass	
+E-MU Systems	Classic Keys	Bank 1	087 bas:M12 Bass	
+E-MU Systems	Classic Keys	Bank 1	088 led:Interval	
+E-MU Systems	Classic Keys	Bank 1	089 led:Jumper	
+E-MU Systems	Classic Keys	Bank 1	090 led:55 Moogs	
+E-MU Systems	Classic Keys	Bank 1	091 led:2 OBies	
+E-MU Systems	Classic Keys	Bank 1	092 led:2 Moogz	
+E-MU Systems	Classic Keys	Bank 1	093 led:ISawMoog	
+E-MU Systems	Classic Keys	Bank 1	094 led:RezoMoog	
+E-MU Systems	Classic Keys	Bank 1	095 led:Moonman	
+E-MU Systems	Classic Keys	Bank 1	096 trn:FemSwell	
+E-MU Systems	Classic Keys	Bank 1	097 trn:SwellGyz	
+E-MU Systems	Classic Keys	Bank 1	098 trn:SwlStrng	
+E-MU Systems	Classic Keys	Bank 1	099 trn:5thStrng	
+E-MU Systems	Classic Keys	Bank 1	100 trn:Strg&Vio	
+E-MU Systems	Classic Keys	Bank 1	101 trn:Vox &Vio	
+E-MU Systems	Classic Keys	Bank 1	102 trn:DualBend	
+E-MU Systems	Classic Keys	Bank 1	103 trn:Hulalins	
+E-MU Systems	Classic Keys	Bank 1	104 brs:SoloAlto	
+E-MU Systems	Classic Keys	Bank 1	105 brs:SoloTenr	
+E-MU Systems	Classic Keys	Bank 1	106 brs:SoloBari	
+E-MU Systems	Classic Keys	Bank 1	107 brs:TwoSaxes	
+E-MU Systems	Classic Keys	Bank 1	108 brs:&Reeds %	
+E-MU Systems	Classic Keys	Bank 1	109 brs:Moog&Tpt	
+E-MU Systems	Classic Keys	Bank 1	110 brs:BrassPan	
+E-MU Systems	Classic Keys	Bank 1	111 brs:Sforzan%	
+E-MU Systems	Classic Keys	Bank 1	112 sfx:TheOcean	
+E-MU Systems	Classic Keys	Bank 1	113 sfx:Nostromo	
+E-MU Systems	Classic Keys	Bank 1	114 sfx:Desent	
+E-MU Systems	Classic Keys	Bank 1	115 sfx:BronzAge	
+E-MU Systems	Classic Keys	Bank 1	116 sfx:Lifetime	
+E-MU Systems	Classic Keys	Bank 1	117 sfx:DripDrum	
+E-MU Systems	Classic Keys	Bank 1	118 sfx:VanDgraf	
+E-MU Systems	Classic Keys	Bank 1	119 sfx:Scanline	
+E-MU Systems	Classic Keys	Bank 1	120 plk:AsiaEns%	
+E-MU Systems	Classic Keys	Bank 1	121 plk:SlideHrm	
+E-MU Systems	Classic Keys	Bank 1	122 plk:LesliGtr	
+E-MU Systems	Classic Keys	Bank 1	123 plk:Spageti%	
+E-MU Systems	Classic Keys	Bank 1	124 plk:BassChr1	
+E-MU Systems	Classic Keys	Bank 1	125 plk:BassChr2	
+E-MU Systems	Classic Keys	Bank 1	126 plk:Bas/Harm	
+E-MU Systems	Classic Keys	Bank 1	127 plk:BasicBas	
+E-MU Systems	Classic Keys	Bank 2	000 org:B3 Fast	
+E-MU Systems	Classic Keys	Bank 2	001 org:Lo&Mid %	
+E-MU Systems	Classic Keys	Bank 2	002 org:Lo&Hi %	
+E-MU Systems	Classic Keys	Bank 2	003 org:MostHi %	
+E-MU Systems	Classic Keys	Bank 2	004 org:Mid&Hi %	
+E-MU Systems	Classic Keys	Bank 2	005 org:LoPerc %	
+E-MU Systems	Classic Keys	Bank 2	006 org:FulPerc%	
+E-MU Systems	Classic Keys	Bank 2	007 org:DrkPerc%	
+E-MU Systems	Classic Keys	Bank 2	008 org:Airy B3	
+E-MU Systems	Classic Keys	Bank 2	009 org:FulBars%	
+E-MU Systems	Classic Keys	Bank 2	010 org:Topper %	
+E-MU Systems	Classic Keys	Bank 2	011 org:Bostone%	
+E-MU Systems	Classic Keys	Bank 2	012 org:Chappel%	
+E-MU Systems	Classic Keys	Bank 2	013 org:SimpleLo	
+E-MU Systems	Classic Keys	Bank 2	014 org:SimpleHi	
+E-MU Systems	Classic Keys	Bank 2	015 org:SmplFull	
+E-MU Systems	Classic Keys	Bank 2	016 epo:MkI Chrs	
+E-MU Systems	Classic Keys	Bank 2	017 epo:LA Dyno%	
+E-MU Systems	Classic Keys	Bank 2	018 epo:DynoWhl%	
+E-MU Systems	Classic Keys	Bank 2	019 epo:SpltRoad	
+E-MU Systems	Classic Keys	Bank 2	020 epo:RuffDyno	
+E-MU Systems	Classic Keys	Bank 2	021 epo:Suitcase	
+E-MU Systems	Classic Keys	Bank 2	022 epo:HypDyno%	
+E-MU Systems	Classic Keys	Bank 2	023 epo:DoorBas%	
+E-MU Systems	Classic Keys	Bank 2	024 epo:Stereo	
+E-MU Systems	Classic Keys	Bank 2	025 epo:Xpresive	
+E-MU Systems	Classic Keys	Bank 2	026 epo:GrandOrg	
+E-MU Systems	Classic Keys	Bank 2	027 epo:Pianofla	
+E-MU Systems	Classic Keys	Bank 2	028 epo:CP/M12	
+E-MU Systems	Classic Keys	Bank 2	029 epo:CP/ARP	
+E-MU Systems	Classic Keys	Bank 2	030 epo:Out West	
+E-MU Systems	Classic Keys	Bank 2	031 epo:Gospel	
+E-MU Systems	Classic Keys	Bank 2	032 str:For Film	
+E-MU Systems	Classic Keys	Bank 2	033 str:Early80s	
+E-MU Systems	Classic Keys	Bank 2	034 str:Matrix12	
+E-MU Systems	Classic Keys	Bank 2	035 str:MeloMoog	
+E-MU Systems	Classic Keys	Bank 2	036 str:ARPtron	
+E-MU Systems	Classic Keys	Bank 2	037 str:NoyzTron	
+E-MU Systems	Classic Keys	Bank 2	038 str:Tron #1	
+E-MU Systems	Classic Keys	Bank 2	039 str:Tron #2	
+E-MU Systems	Classic Keys	Bank 2	040 air:Enchantd	
+E-MU Systems	Classic Keys	Bank 2	041 air:Asiatic	
+E-MU Systems	Classic Keys	Bank 2	042 air:Delicate	
+E-MU Systems	Classic Keys	Bank 2	043 air:D50ish 1	
+E-MU Systems	Classic Keys	Bank 2	044 air:WindPowr	
+E-MU Systems	Classic Keys	Bank 2	045 air:Digital	
+E-MU Systems	Classic Keys	Bank 2	046 air:Kaliopad	
+E-MU Systems	Classic Keys	Bank 2	047 air:Jacinto	
+E-MU Systems	Classic Keys	Bank 2	048 buz:ARPwave1	
+E-MU Systems	Classic Keys	Bank 2	049 buz:OBXwave1	
+E-MU Systems	Classic Keys	Bank 2	050 buz:EMUwave1	
+E-MU Systems	Classic Keys	Bank 2	051 buz:MoogPuls	
+E-MU Systems	Classic Keys	Bank 2	052 buz:OBXwave2	
+E-MU Systems	Classic Keys	Bank 2	053 buz:P5Gitarz	
+E-MU Systems	Classic Keys	Bank 2	054 buz:EMUHarps	
+E-MU Systems	Classic Keys	Bank 2	055 buz:P5 Harps	
+E-MU Systems	Classic Keys	Bank 2	056 rez:ARP Poly	
+E-MU Systems	Classic Keys	Bank 2	057 rez:MoogFilt	
+E-MU Systems	Classic Keys	Bank 2	058 rez:KtchSynk	
+E-MU Systems	Classic Keys	Bank 2	059 rez:ARPenatr	
+E-MU Systems	Classic Keys	Bank 2	060 rez:Moogles	
+E-MU Systems	Classic Keys	Bank 2	061 rez:Al & Bob	
+E-MU Systems	Classic Keys	Bank 2	062 rez:OBXJump	
+E-MU Systems	Classic Keys	Bank 2	063 rez:Growl %	
+E-MU Systems	Classic Keys	Bank 2	064 bel:Patina	
+E-MU Systems	Classic Keys	Bank 2	065 bel:Mystery	
+E-MU Systems	Classic Keys	Bank 2	066 bel:Ringer	
+E-MU Systems	Classic Keys	Bank 2	067 bel:Vibrafon	
+E-MU Systems	Classic Keys	Bank 2	068 bel:Carillon	
+E-MU Systems	Classic Keys	Bank 2	069 bel:Xtal 1 %	
+E-MU Systems	Classic Keys	Bank 2	070 bel:MusicBox	
+E-MU Systems	Classic Keys	Bank 2	071 bel:ToyPiano	
+E-MU Systems	Classic Keys	Bank 2	072 wrm:Sub Dude	
+E-MU Systems	Classic Keys	Bank 2	073 wrm:Flautish	
+E-MU Systems	Classic Keys	Bank 2	074 wrm:BrassPad	
+E-MU Systems	Classic Keys	Bank 2	075 wrm:Pluto	
+E-MU Systems	Classic Keys	Bank 2	076 wrm:Carousel	
+E-MU Systems	Classic Keys	Bank 2	077 wrm:Matrix	
+E-MU Systems	Classic Keys	Bank 2	078 wrm:AirMen	
+E-MU Systems	Classic Keys	Bank 2	079 wrm:Infinity	
+E-MU Systems	Classic Keys	Bank 2	080 bas:MinMog1%	
+E-MU Systems	Classic Keys	Bank 2	081 bas:MinMog2%	
+E-MU Systems	Classic Keys	Bank 2	082 bas:ARPrezo%	
+E-MU Systems	Classic Keys	Bank 2	083 bas:MicroMg%	
+E-MU Systems	Classic Keys	Bank 2	084 bas:MinMog3	
+E-MU Systems	Classic Keys	Bank 2	085 bas:MinMog4%	
+E-MU Systems	Classic Keys	Bank 2	086 bas:MinMog5%	
+E-MU Systems	Classic Keys	Bank 2	087 bas:Rez Body	
+E-MU Systems	Classic Keys	Bank 2	088 led:Emu Saws	
+E-MU Systems	Classic Keys	Bank 2	089 led:Emu Sqrs	
+E-MU Systems	Classic Keys	Bank 2	090 led:Emu Tri	
+E-MU Systems	Classic Keys	Bank 2	091 led:EchoMoog	
+E-MU Systems	Classic Keys	Bank 2	092 led:MicroMem	
+E-MU Systems	Classic Keys	Bank 2	093 led:P5 Sync	
+E-MU Systems	Classic Keys	Bank 2	094 led:Dual SEM	
+E-MU Systems	Classic Keys	Bank 2	095 led:Winter	
+E-MU Systems	Classic Keys	Bank 2	096 trn:Flute	
+E-MU Systems	Classic Keys	Bank 2	097 trn:FlutMoog	
+E-MU Systems	Classic Keys	Bank 2	098 trn:VerbFlut	
+E-MU Systems	Classic Keys	Bank 2	099 trn:FlutePan	
+E-MU Systems	Classic Keys	Bank 2	100 trn:FemChoir	
+E-MU Systems	Classic Keys	Bank 2	101 trn:MenChoir	
+E-MU Systems	Classic Keys	Bank 2	102 trn:MixChoir	
+E-MU Systems	Classic Keys	Bank 2	103 trn:Noys2Men	
+E-MU Systems	Classic Keys	Bank 2	104 brs:MemMoog	
+E-MU Systems	Classic Keys	Bank 2	105 brs:FatBrass	
+E-MU Systems	Classic Keys	Bank 2	106 brs:Regality	
+E-MU Systems	Classic Keys	Bank 2	107 brs:3 Piece	
+E-MU Systems	Classic Keys	Bank 2	108 brs:With Sax	
+E-MU Systems	Classic Keys	Bank 2	109 brs:SoloMood	
+E-MU Systems	Classic Keys	Bank 2	110 brs:Scoop	
+E-MU Systems	Classic Keys	Bank 2	111 brs:TronBrs%	
+E-MU Systems	Classic Keys	Bank 2	112 sfx:Peckerz	
+E-MU Systems	Classic Keys	Bank 2	113 sfx:Vynlator	
+E-MU Systems	Classic Keys	Bank 2	114 sfx:Dicer	
+E-MU Systems	Classic Keys	Bank 2	115 sfx:Landing	
+E-MU Systems	Classic Keys	Bank 2	116 sfx:Yes Sir	
+E-MU Systems	Classic Keys	Bank 2	117 sfx:Microbs	
+E-MU Systems	Classic Keys	Bank 2	118 sfx:DigiSlic	
+E-MU Systems	Classic Keys	Bank 2	119 sfx:MagiFlut	
+E-MU Systems	Classic Keys	Bank 2	120 plk:TheGitar	
+E-MU Systems	Classic Keys	Bank 2	121 plk:Ricki 12	
+E-MU Systems	Classic Keys	Bank 2	122 plk:Hrmonics	
+E-MU Systems	Classic Keys	Bank 2	123 plk:AcGuitar	
+E-MU Systems	Classic Keys	Bank 2	124 plk:PickBass	
+E-MU Systems	Classic Keys	Bank 2	125 plk:Fretless	
+E-MU Systems	Classic Keys	Bank 2	126 plk:WithTop%	
+E-MU Systems	Classic Keys	Bank 2	127 plk:Fingerz	
+E-MU Systems	Classic Keys	Bank 3	000 org:HmndGrit	
+E-MU Systems	Classic Keys	Bank 3	001 org:ChrchLdy	
+E-MU Systems	Classic Keys	Bank 3	002 org:KeyClick	
+E-MU Systems	Classic Keys	Bank 3	003 org:AirSatz%	
+E-MU Systems	Classic Keys	Bank 3	004 org:Cussive%	
+E-MU Systems	Classic Keys	Bank 3	005 org:Chopper	
+E-MU Systems	Classic Keys	Bank 3	006 org:EchoHall	
+E-MU Systems	Classic Keys	Bank 3	007 org:Meddle	
+E-MU Systems	Classic Keys	Bank 3	008 org:Vox Cont	
+E-MU Systems	Classic Keys	Bank 3	009 org:Farfisa	
+E-MU Systems	Classic Keys	Bank 3	010 org:Voxfisa	
+E-MU Systems	Classic Keys	Bank 3	011 org:Jaguar 1	
+E-MU Systems	Classic Keys	Bank 3	012 org:Jag Sub5	
+E-MU Systems	Classic Keys	Bank 3	013 org:Jag Sub8	
+E-MU Systems	Classic Keys	Bank 3	014 org:FarfClik	
+E-MU Systems	Classic Keys	Bank 3	015 org:FarfPerc	
+E-MU Systems	Classic Keys	Bank 3	016 epo:DryWurli	
+E-MU Systems	Classic Keys	Bank 3	017 epo:Back Jak	
+E-MU Systems	Classic Keys	Bank 3	018 epo:WurliChr	
+E-MU Systems	Classic Keys	Bank 3	019 epo:Clavinet	
+E-MU Systems	Classic Keys	Bank 3	020 epo:DblClav%	
+E-MU Systems	Classic Keys	Bank 3	021 epo:Sweetbel	
+E-MU Systems	Classic Keys	Bank 3	022 epo:Faux DX%	
+E-MU Systems	Classic Keys	Bank 3	023 epo:Zircon %	
+E-MU Systems	Classic Keys	Bank 3	024 epo:Pianet	
+E-MU Systems	Classic Keys	Bank 3	025 epo:CP Wheel	
+E-MU Systems	Classic Keys	Bank 3	026 epo:&MoogStr	
+E-MU Systems	Classic Keys	Bank 3	027 epo:CPChorus	
+E-MU Systems	Classic Keys	Bank 3	028 epo:CP/Tron	
+E-MU Systems	Classic Keys	Bank 3	029 epo:PlusDXep	
+E-MU Systems	Classic Keys	Bank 3	030 epo:SlapEcho	
+E-MU Systems	Classic Keys	Bank 3	031 epo:Mono Pan	
+E-MU Systems	Classic Keys	Bank 3	032 str:SmalHall	
+E-MU Systems	Classic Keys	Bank 3	033 str:ThickSyn	
+E-MU Systems	Classic Keys	Bank 3	034 str:ARPStrng	
+E-MU Systems	Classic Keys	Bank 3	035 str:M12Strng	
+E-MU Systems	Classic Keys	Bank 3	036 str:LargHall	
+E-MU Systems	Classic Keys	Bank 3	037 str:Tron/M12	
+E-MU Systems	Classic Keys	Bank 3	038 str:StopTron	
+E-MU Systems	Classic Keys	Bank 3	039 str:Trn+Brs%	
+E-MU Systems	Classic Keys	Bank 3	040 air:AngelVox	
+E-MU Systems	Classic Keys	Bank 3	041 air:Fairlite	
+E-MU Systems	Classic Keys	Bank 3	042 air:BeloVox	
+E-MU Systems	Classic Keys	Bank 3	043 air:MoogPipe	
+E-MU Systems	Classic Keys	Bank 3	044 air:Breath	
+E-MU Systems	Classic Keys	Bank 3	045 air:OzonLayr	
+E-MU Systems	Classic Keys	Bank 3	046 air:P5 Echo	
+E-MU Systems	Classic Keys	Bank 3	047 air:D50ish 2	
+E-MU Systems	Classic Keys	Bank 3	048 buz:BizzARP	
+E-MU Systems	Classic Keys	Bank 3	049 buz:Tamboras	
+E-MU Systems	Classic Keys	Bank 3	050 buz:Air Gtrs	
+E-MU Systems	Classic Keys	Bank 3	051 buz:ARP 2600	
+E-MU Systems	Classic Keys	Bank 3	052 buz:ARPreedz	
+E-MU Systems	Classic Keys	Bank 3	053 buz:OB SEM3	
+E-MU Systems	Classic Keys	Bank 3	054 buz:Elecroad	
+E-MU Systems	Classic Keys	Bank 3	055 buz:ARPwave2	
+E-MU Systems	Classic Keys	Bank 3	056 rez:DualSync	
+E-MU Systems	Classic Keys	Bank 3	057 rez:Moog 55	
+E-MU Systems	Classic Keys	Bank 3	058 rez:EchoSync	
+E-MU Systems	Classic Keys	Bank 3	059 rez:Sitarz %	
+E-MU Systems	Classic Keys	Bank 3	060 rez:Reztyne%	
+E-MU Systems	Classic Keys	Bank 3	061 rez:AbleCmp%	
+E-MU Systems	Classic Keys	Bank 3	062 rez:Rippoff	
+E-MU Systems	Classic Keys	Bank 3	063 rez:DublM12%	
+E-MU Systems	Classic Keys	Bank 3	064 bel:BelPiper	
+E-MU Systems	Classic Keys	Bank 3	065 bel:ToyPno 2	
+E-MU Systems	Classic Keys	Bank 3	066 bel:DxAngels	
+E-MU Systems	Classic Keys	Bank 3	067 bel:ViboMoog	
+E-MU Systems	Classic Keys	Bank 3	068 bel:Xtal 2 %	
+E-MU Systems	Classic Keys	Bank 3	069 bel:PerKlavr	
+E-MU Systems	Classic Keys	Bank 3	070 bel:Xylosyn	
+E-MU Systems	Classic Keys	Bank 3	071 bel:Dreamy %	
+E-MU Systems	Classic Keys	Bank 3	072 wrm:Monk Vox	
+E-MU Systems	Classic Keys	Bank 3	073 wrm:Moogoid	
+E-MU Systems	Classic Keys	Bank 3	074 wrm:Ancients	
+E-MU Systems	Classic Keys	Bank 3	075 wrm:Pan Comp	
+E-MU Systems	Classic Keys	Bank 3	076 wrm:Submerge	
+E-MU Systems	Classic Keys	Bank 3	077 wrm:Tangerin	
+E-MU Systems	Classic Keys	Bank 3	078 wrm:Alaska	
+E-MU Systems	Classic Keys	Bank 3	079 wrm:Steam	
+E-MU Systems	Classic Keys	Bank 3	080 bas:LowMoog%	
+E-MU Systems	Classic Keys	Bank 3	081 bas:Garggle%	
+E-MU Systems	Classic Keys	Bank 3	082 bas:MoogRip%	
+E-MU Systems	Classic Keys	Bank 3	083 bas:WetMoog%	
+E-MU Systems	Classic Keys	Bank 3	084 bas:MoogPerc	
+E-MU Systems	Classic Keys	Bank 3	085 bas:MoogRez%	
+E-MU Systems	Classic Keys	Bank 3	086 bas:DeepBas9	
+E-MU Systems	Classic Keys	Bank 3	087 bas:Taurus I	
+E-MU Systems	Classic Keys	Bank 3	088 drm:JimerWhl	
+E-MU Systems	Classic Keys	Bank 3	089 drm:BoomKick	
+E-MU Systems	Classic Keys	Bank 3	090 drm:Lo Toms	
+E-MU Systems	Classic Keys	Bank 3	091 drm:SnareTom	
+E-MU Systems	Classic Keys	Bank 3	092 drm:ElCowBel	
+E-MU Systems	Classic Keys	Bank 3	093 drm:El Snare	
+E-MU Systems	Classic Keys	Bank 3	094 drm:El Stick	
+E-MU Systems	Classic Keys	Bank 3	095 drm:BasicKit	
+E-MU Systems	Classic Keys	Bank 3	096 lnk:1 4Split	
+E-MU Systems	Classic Keys	Bank 3	097 lnk:2 4Split	
+E-MU Systems	Classic Keys	Bank 3	098 lnk:3 4Split	
+E-MU Systems	Classic Keys	Bank 3	099 lnk:4 4split	
+E-MU Systems	Classic Keys	Bank 3	100 lnk:5 4Split	
+E-MU Systems	Classic Keys	Bank 3	101 lnk:FullPan%	
+E-MU Systems	Classic Keys	Bank 3	102 lnk:EpoBoost	
+E-MU Systems	Classic Keys	Bank 3	103 lnk:Organ 1	
+E-MU Systems	Classic Keys	Bank 3	104 lnk:Organ 2	
+E-MU Systems	Classic Keys	Bank 3	105 lnk:Organ 3	
+E-MU Systems	Classic Keys	Bank 3	106 lnk:Organ 4	
+E-MU Systems	Classic Keys	Bank 3	107 lnk:Organ 5	
+E-MU Systems	Classic Keys	Bank 3	108 lnk:Organ 6	
+E-MU Systems	Classic Keys	Bank 3	109 lnk:Organ 7	
+E-MU Systems	Classic Keys	Bank 3	110 lnk:Organ 8	
+E-MU Systems	Classic Keys	Bank 3	111 lnk:Organ 9	
+E-MU Systems	Classic Keys	Bank 3	112 lnk:Organ10%	
+E-MU Systems	Classic Keys	Bank 3	113 lnk:Organ 11	
+E-MU Systems	Classic Keys	Bank 3	114 lnk:Organ 12	
+E-MU Systems	Classic Keys	Bank 3	115 lnk:Booster1	
+E-MU Systems	Classic Keys	Bank 3	116 lnk:Booster2	
+E-MU Systems	Classic Keys	Bank 3	117 lnk:Booster3	
+E-MU Systems	Classic Keys	Bank 3	118 lnk:DXBoost1	
+E-MU Systems	Classic Keys	Bank 3	119 lnk:DXBoost2	
+E-MU Systems	Classic Keys	Bank 3	120 lnk:Organ 13	
+E-MU Systems	Classic Keys	Bank 3	121 lnk:Organ 14	
+E-MU Systems	Classic Keys	Bank 3	122 lnk:Organ 15	
+E-MU Systems	Classic Keys	Bank 3	123 lnk:Sfrz 2	
+E-MU Systems	Classic Keys	Bank 3	124 lnk:0>11	
+E-MU Systems	Classic Keys	Bank 3	125 lnk:Clavlink	
+E-MU Systems	Classic Keys	Bank 3	126 lnk:MeatBotm	
+E-MU Systems	Classic Keys	Bank 3	127 -- default -	
+E-MU Systems	Classic Keys	Instruments	000 None	
+E-MU Systems	Classic Keys	Instruments	001 B3DistLwSlw	
+E-MU Systems	Classic Keys	Instruments	002 B3DistFast	
+E-MU Systems	Classic Keys	Instruments	003 B3 Hi Slow	
+E-MU Systems	Classic Keys	Instruments	004 B3 Hi Fast	
+E-MU Systems	Classic Keys	Instruments	005 B3FullSlow	
+E-MU Systems	Classic Keys	Instruments	006 B3FullFast	
+E-MU Systems	Classic Keys	Instruments	007 B3 Perc 3rd	
+E-MU Systems	Classic Keys	Instruments	008 Male Choir	
+E-MU Systems	Classic Keys	Instruments	009 Femme Choir	
+E-MU Systems	Classic Keys	Instruments	010 MalestoMix	
+E-MU Systems	Classic Keys	Instruments	011 FemmestoMix	
+E-MU Systems	Classic Keys	Instruments	012 Violin Trio	
+E-MU Systems	Classic Keys	Instruments	013 Flute	
+E-MU Systems	Classic Keys	Instruments	014 Bari Sax	
+E-MU Systems	Classic Keys	Instruments	015 Tenor Sax	
+E-MU Systems	Classic Keys	Instruments	016 Alto Sax	
+E-MU Systems	Classic Keys	Instruments	017 Trumpet Sft	
+E-MU Systems	Classic Keys	Instruments	018 Trumpet Hrd	
+E-MU Systems	Classic Keys	Instruments	019 Trombone	
+E-MU Systems	Classic Keys	Instruments	020 Trom / STpt	
+E-MU Systems	Classic Keys	Instruments	021 Trom / HTpt	
+E-MU Systems	Classic Keys	Instruments	022 Trom / Sax	
+E-MU Systems	Classic Keys	Instruments	023 Farfisa	
+E-MU Systems	Classic Keys	Instruments	024 CP-70	
+E-MU Systems	Classic Keys	Instruments	025 CP-70Mello	
+E-MU Systems	Classic Keys	Instruments	026 CP-70 Brite	
+E-MU Systems	Classic Keys	Instruments	027 Piano Bass	
+E-MU Systems	Classic Keys	Instruments	028 Wurlitzer1	
+E-MU Systems	Classic Keys	Instruments	029 Wurlitzer2	
+E-MU Systems	Classic Keys	Instruments	030 DynoRhodes1	
+E-MU Systems	Classic Keys	Instruments	031 DynoRhodes2	
+E-MU Systems	Classic Keys	Instruments	032 FendrRhodes	
+E-MU Systems	Classic Keys	Instruments	033 Clavinet	
+E-MU Systems	Classic Keys	Instruments	034 Brite Clav	
+E-MU Systems	Classic Keys	Instruments	035 Mini Moog 1	
+E-MU Systems	Classic Keys	Instruments	036 Mini Moog 2	
+E-MU Systems	Classic Keys	Instruments	037 Mini Moog 3	
+E-MU Systems	Classic Keys	Instruments	038 Mini Moog 4	
+E-MU Systems	Classic Keys	Instruments	039 Mini Moog 5	
+E-MU Systems	Classic Keys	Instruments	040 Mini Moog 6	
+E-MU Systems	Classic Keys	Instruments	041 Micro Moog	
+E-MU Systems	Classic Keys	Instruments	042 TaurusPedal	
+E-MU Systems	Classic Keys	Instruments	043 Jaco Bass	
+E-MU Systems	Classic Keys	Instruments	044 M12 Lead 1	
+E-MU Systems	Classic Keys	Instruments	045 M12 Lead 2	
+E-MU Systems	Classic Keys	Instruments	046 ARP 2600	
+E-MU Systems	Classic Keys	Instruments	047 RockDXman	
+E-MU Systems	Classic Keys	Instruments	048 P5 SyncLead	
+E-MU Systems	Classic Keys	Instruments	049 Moog 55 Rez	
+E-MU Systems	Classic Keys	Instruments	050 Memory Moog	
+E-MU Systems	Classic Keys	Instruments	051 OBX Saws	
+E-MU Systems	Classic Keys	Instruments	052 P5GuitarPad	
+E-MU Systems	Classic Keys	Instruments	053 Matrix Pad	
+E-MU Systems	Classic Keys	Instruments	054 P5 Piper	
+E-MU Systems	Classic Keys	Instruments	055 P5 Strings	
+E-MU Systems	Classic Keys	Instruments	056 M12 Strings	
+E-MU Systems	Classic Keys	Instruments	057 ARP Strings	
+E-MU Systems	Classic Keys	Instruments	058 AAAHs	
+E-MU Systems	Classic Keys	Instruments	059 Picked Bass	
+E-MU Systems	Classic Keys	Instruments	060 Finger Bass	
+E-MU Systems	Classic Keys	Instruments	061 Finger Tre	
+E-MU Systems	Classic Keys	Instruments	062 Pickd 8 Top	
+E-MU Systems	Classic Keys	Instruments	063 Fingr 8 Top	
+E-MU Systems	Classic Keys	Instruments	064 Fingr 8 Tre	
+E-MU Systems	Classic Keys	Instruments	065 The Guitar	
+E-MU Systems	Classic Keys	Instruments	066 Twelv Top 1	
+E-MU Systems	Classic Keys	Instruments	067 Twelv Top 2	
+E-MU Systems	Classic Keys	Instruments	068 Twelv Top 3	
+E-MU Systems	Classic Keys	Instruments	069 Drum Kit 1	
+E-MU Systems	Classic Keys	Instruments	070 Drum Kit 2	
+E-MU Systems	Classic Keys	Instruments	071 Drum Kit 3	
+E-MU Systems	Classic Keys	Instruments	072 Drum Kit 4	
+E-MU Systems	Classic Keys	Instruments	073 Drum Kit 5	
+E-MU Systems	Classic Keys	Instruments	074 Drum Kit 6	
+E-MU Systems	Classic Keys	Instruments	075 Drum Kit 7	
+E-MU Systems	Classic Keys	Instruments	076 Large Hall	
+E-MU Systems	Classic Keys	Instruments	077 Medium Room	
+E-MU Systems	Classic Keys	Instruments	078 Tiled Room	
+E-MU Systems	Classic Keys	Instruments	079 Gated Short	
+E-MU Systems	Classic Keys	Instruments	080 Gated Long1	
+E-MU Systems	Classic Keys	Instruments	081 Gated Long2	
+E-MU Systems	Classic Keys	Instruments	082 Lush Reverb	
+E-MU Systems	Classic Keys	Instruments	083 BlushReverb	
+E-MU Systems	Classic Keys	Instruments	084 FullOn Verb	
+E-MU Systems	Classic Keys	Instruments	085 Dry Kick	
+E-MU Systems	Classic Keys	Instruments	086 Kick Verb	
+E-MU Systems	Classic Keys	Instruments	087 Dry Snare	
+E-MU Systems	Classic Keys	Instruments	088 Snare Verb	
+E-MU Systems	Classic Keys	Instruments	089 Dry Tom	
+E-MU Systems	Classic Keys	Instruments	090 Wet Tom	
+E-MU Systems	Classic Keys	Instruments	091 High Hat 1	
+E-MU Systems	Classic Keys	Instruments	092 High Hat 2	
+E-MU Systems	Classic Keys	Instruments	093 High Hat 3	
+E-MU Systems	Classic Keys	Instruments	094 Ride Ping	
+E-MU Systems	Classic Keys	Instruments	095 Ride Bell	
+E-MU Systems	Classic Keys	Instruments	096 Crash	
+E-MU Systems	Classic Keys	Instruments	097 Cowbell	
+E-MU Systems	Classic Keys	Instruments	098 Tambourine	
+E-MU Systems	Classic Keys	Instruments	099 Side Stick	
+E-MU Systems	Classic Keys	Instruments	100 Clave	
+E-MU Systems	Classic Keys	Instruments	101 Square	
+E-MU Systems	Classic Keys	Instruments	102 Sawtooth	
+E-MU Systems	Classic Keys	Instruments	103 Triangle	
+E-MU Systems	Classic Keys	Instruments	104 Moog Saw 1	
+E-MU Systems	Classic Keys	Instruments	105 Moog Saw 2	
+E-MU Systems	Classic Keys	Instruments	106 Moog Saw 3	
+E-MU Systems	Classic Keys	Instruments	107 Moog Saw 4	
+E-MU Systems	Classic Keys	Instruments	108 Moog Sqr 1	
+E-MU Systems	Classic Keys	Instruments	109 Moog Sqr 2	
+E-MU Systems	Classic Keys	Instruments	110 Moog Sqr 3	
+E-MU Systems	Classic Keys	Instruments	111 Moog Sqr 4	
+E-MU Systems	Classic Keys	Instruments	112 Moog Sqr 5	
+E-MU Systems	Classic Keys	Instruments	113 Moog Sqr 6	
+E-MU Systems	Classic Keys	Instruments	114 Moog Rect 1	
+E-MU Systems	Classic Keys	Instruments	115 Moog Rect 2	
+E-MU Systems	Classic Keys	Instruments	116 Moog Rect 3	
+E-MU Systems	Classic Keys	Instruments	117 Moog Rect 4	
+E-MU Systems	Classic Keys	Instruments	118 Moog Rect 5	
+E-MU Systems	Classic Keys	Instruments	119 Moog Pulse1	
+E-MU Systems	Classic Keys	Instruments	120 Moog Pulse2	
+E-MU Systems	Classic Keys	Instruments	121 Moog Pulse3	
+E-MU Systems	Classic Keys	Instruments	122 Moog Pulse4	
+E-MU Systems	Classic Keys	Instruments	123 Moog Pulse5	
+E-MU Systems	Classic Keys	Instruments	124 OB Wave 1	
+E-MU Systems	Classic Keys	Instruments	125 OB Wave 2	
+E-MU Systems	Classic Keys	Instruments	126 OB Wave 3	
+E-MU Systems	Classic Keys	Instruments	127 OB Wave 4	
+E-MU Systems	Classic Keys	Instruments	128 OB Wave 5	
+E-MU Systems	Classic Keys	Instruments	129 ARP 2600 1	
+E-MU Systems	Classic Keys	Instruments	130 ARP 2600 2	
+E-MU Systems	Classic Keys	Instruments	131 ARP 2600 3	
+E-MU Systems	Classic Keys	Instruments	132 B3 Wave 1	
+E-MU Systems	Classic Keys	Instruments	133 B3 Wave 2	
+E-MU Systems	Classic Keys	Instruments	134 B3 Wave 3	
+E-MU Systems	Classic Keys	Instruments	135 B3 Wave 4	
+E-MU Systems	Classic Keys	Instruments	136 B3 Wave 5	
+E-MU Systems	Classic Keys	Instruments	137 B3 Wave 6	
+E-MU Systems	Classic Keys	Instruments	138 B3 Wave 7	
+E-MU Systems	Classic Keys	Instruments	139 B3 Wave 8	
+E-MU Systems	Classic Keys	Instruments	140 B3 Wave 9	
+E-MU Systems	Classic Keys	Instruments	141 B3 Wave 10	
+E-MU Systems	Classic Keys	Instruments	142 B3 Wave 11	
+E-MU Systems	Classic Keys	Instruments	143 B3 Wave 12	
+E-MU Systems	Classic Keys	Instruments	144 B3 Wave 13	
+E-MU Systems	Classic Keys	Instruments	145 B3 Wave 14	
+E-MU Systems	Classic Keys	Instruments	146 B3 Wave 15	
+E-MU Systems	Classic Keys	Instruments	147 B3 Wave 16	
+E-MU Systems	Classic Keys	Instruments	148 B3 Wave 17	
+E-MU Systems	Classic Keys	Instruments	149 B3 Wave 18	
+E-MU Systems	Classic Keys	Instruments	150 ARPClarinet	
+E-MU Systems	Classic Keys	Instruments	151 ARP Bassoon	
+E-MU Systems	Classic Keys	Instruments	152 P5 No-Tone	
+E-MU Systems	Classic Keys	Instruments	153 Noise Non-X	
+E-MU Systems	Classic Keys	Instruments	154 Oct 1 Sine	
+E-MU Systems	Classic Keys	Instruments	155 Oct 2 All	
+E-MU Systems	Classic Keys	Instruments	156 Oct 3 All	
+E-MU Systems	Classic Keys	Instruments	157 Oct 4 All	
+E-MU Systems	Classic Keys	Instruments	158 Oct 5 All	
+E-MU Systems	Classic Keys	Instruments	159 Oct 6 All	
+E-MU Systems	Classic Keys	Instruments	160 Oct 7 All	
+E-MU Systems	Classic Keys	Instruments	161 Oct 2 Odd	
+E-MU Systems	Classic Keys	Instruments	162 Oct 3 Odd	
+E-MU Systems	Classic Keys	Instruments	163 Oct 4 Odd	
+E-MU Systems	Classic Keys	Instruments	164 Oct 5 Odd	
+E-MU Systems	Classic Keys	Instruments	165 Oct 6 Odd	
+E-MU Systems	Classic Keys	Instruments	166 Oct 7 Odd	
+E-MU Systems	Classic Keys	Instruments	167 Oct 2 Even	
+E-MU Systems	Classic Keys	Instruments	168 Oct 3 Even	
+E-MU Systems	Classic Keys	Instruments	169 Oct 4 Even	
+E-MU Systems	Classic Keys	Instruments	170 Oct 5 Even	
+E-MU Systems	Classic Keys	Instruments	171 Oct 6 Even	
+E-MU Systems	Classic Keys	Instruments	172 Oct 7 Even	
+E-MU Systems	Classic Keys	Instruments	173 Low Odds	
+E-MU Systems	Classic Keys	Instruments	174 Low Evens	
+E-MU Systems	Classic Keys	Instruments	175 FourOctaves	
+E-MU Systems	Classic Keys	Instruments	176 Synth Cyc 1	
+E-MU Systems	Classic Keys	Instruments	177 Synth Cyc 2	
+E-MU Systems	Classic Keys	Instruments	178 Synth Cyc 3	
+E-MU Systems	Classic Keys	Instruments	179 Synth Cyc 4	
+E-MU Systems	Classic Keys	Instruments	180 Fund Gone 1	
+E-MU Systems	Classic Keys	Instruments	181 Fund Gone 2	
+E-MU Systems	Classic Keys	Instruments	182 Bite Cyc	
+E-MU Systems	Classic Keys	Instruments	183 Buzzy Cyc	
+E-MU Systems	Classic Keys	Instruments	184 Metlphone 1	
+E-MU Systems	Classic Keys	Instruments	185 Metlphone 2	
+E-MU Systems	Classic Keys	Instruments	186 Metlphone 3	
+E-MU Systems	Classic Keys	Instruments	187 Metlphone 4	
+E-MU Systems	Classic Keys	Instruments	188 Duck Cyc 1	
+E-MU Systems	Classic Keys	Instruments	189 Duck Cyc 2	
+E-MU Systems	Classic Keys	Instruments	190 Duck Cyc 3	
+E-MU Systems	Classic Keys	Instruments	191 Wind Cyc 1	
+E-MU Systems	Classic Keys	Instruments	192 Wind Cyc 2	
+E-MU Systems	Classic Keys	Instruments	193 Wind Cyc 3	
+E-MU Systems	Classic Keys	Instruments	194 Wind Cyc 4	
+E-MU Systems	Classic Keys	Instruments	195 Organ Cyc 1	
+E-MU Systems	Classic Keys	Instruments	196 Organ Cyc 2	
+E-MU Systems	Classic Keys	Instruments	197 Vio Essence	
+E-MU Systems	Classic Keys	Instruments	198 Buzzoon	
+E-MU Systems	Classic Keys	Instruments	199 Brassy Wave	
+E-MU Systems	Classic Keys	Instruments	200 Reedy Buzz	
+E-MU Systems	Classic Keys	Instruments	201 Growl Wave	
+E-MU Systems	Classic Keys	Instruments	202 HarpsiWave	
+E-MU Systems	Classic Keys	Instruments	203 Fuzzy Gruzz	
+E-MU Systems	Classic Keys	Instruments	204 Power 5ths	
+E-MU Systems	Classic Keys	Instruments	205 Filter Saw	
+E-MU Systems	Classic Keys	Instruments	206 Ramp	
+E-MU Systems	Classic Keys	Instruments	207 Evens Only	
+E-MU Systems	Classic Keys	Instruments	208 Odds Gone	
+E-MU Systems	Classic Keys	Instruments	209 Ice Bell	
+E-MU Systems	Classic Keys	Instruments	210 Bronze Age	
+E-MU Systems	Classic Keys	Instruments	211 Iron Plate	
+E-MU Systems	Classic Keys	Instruments	212 Aluminum	
+E-MU Systems	Classic Keys	Instruments	213 Lead Beam	
+E-MU Systems	Classic Keys	Instruments	214 SteelXtract	
+E-MU Systems	Classic Keys	Instruments	215 WinterGlass	
+E-MU Systems	Classic Keys	Instruments	216 Town Bell	
+E-MU Systems	Classic Keys	Instruments	217 Orch Bells	
+E-MU Systems	Classic Keys	Instruments	218 Tubular SE	
+E-MU Systems	Classic Keys	Instruments	219 Soft Bell	
+E-MU Systems	Classic Keys	Instruments	220 Swirly	
+E-MU Systems	Classic Keys	Instruments	221 Tack Attack	
+E-MU Systems	Classic Keys	Instruments	222 ShimmerWave	
+E-MU Systems	Classic Keys	Instruments	223 Mild Tone	
+E-MU Systems	Classic Keys	Instruments	224 Ah Wave	
+E-MU Systems	Classic Keys	Instruments	225 Vocal Wave	
+E-MU Systems	Classic Keys	Instruments	226 Fuzzy Clav	
+E-MU Systems	Classic Keys	Instruments	227 Electrhode	
+E-MU Systems	Classic Keys	Instruments	228 Whine 1	
+E-MU Systems	Classic Keys	Instruments	229 Filter Bass	
+E-MU Systems	Classic Keys	Instruments	230 Harmonics	
+E-MU Systems	Classic Keys	Instruments	231 ElecPiano	
+E-MU Systems	Classic Keys	Instruments	232 Marimba Atk	
+E-MU Systems	Classic Keys	Instruments	233 Vibe Attack	
+E-MU Systems	Classic Keys	Instruments	234 XposedNoise	
+E-MU Systems	Classic Keys	Instruments	235 MarimbaLoop	
+E-MU Systems	Classic Keys	Instruments	236 Vibes Loop	
+E-MU Systems	Classic Keys	Instruments	237 Stick Loop	
+E-MU Systems	Classic Keys	Instruments	238 CowbellLoop	
+E-MU Systems	Classic Keys	Instruments	239 Clave Loop	
+E-MU Systems	Classic Keys	Instruments	240 Hi Hat Loop	
+E-MU Systems	Classic Keys	Instruments	241 Drum Pile	
+E-MU Systems	Classic Keys	Instruments	242 CP-70 Pile	
+E-MU Systems	Classic Keys	Instruments	243 PickBassPil	
+E-MU Systems	Classic Keys	Instruments	244 Guitar Pile	
+E-MU Systems	Classic Keys	Instruments	245 FingBassPile	
+E-MU Systems	Classic Keys	Instruments	246 Moog Loop	
+E-MU Systems	Classic Keys	Instruments	247 OB Loop	
+E-MU Systems	Classic Keys	Instruments	248 Frost Loop	
+E-MU Systems	Classic Keys	Instruments	249 Memory Loop	

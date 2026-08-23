@@ -1,0 +1,916 @@
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> PROGRAM	H PHRS 01AMI	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> PROGRAM	H PHRS 01AMJ	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> PROGRAM	H PHRS 01BMI	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> PROGRAM	H PHRS 01BMJ	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMI A	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMI C	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMI#D	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMI#F	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMJ A	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMJ C	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMJ#D	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01AMJ#F	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMI A	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMI C	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMI#D	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMI#F	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMJ A	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMJ C	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMJ#D	
+Best Service	Voice Spectral II	Partition A -> 01 H PHRS 01 -> SAMPLE	HPS01BMJ#F	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> PROGRAM	H PHRS 02AMI	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> PROGRAM	H PHRS 02AMJ	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> PROGRAM	H PHRS 02BMI	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> PROGRAM	H PHRS 02BMJ	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMI A	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMI C	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMI#D	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMI#F	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMJ A	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMJ C	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMJ#D	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02AMJ#F	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMI A	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMI C	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMI#D	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMI#F	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMJ A	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMJ C	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMJ#D	
+Best Service	Voice Spectral II	Partition A -> 02 H PHRS 02 -> SAMPLE	HPS02BMJ#F	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> PROGRAM	H PHRS 03 MI	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> PROGRAM	H PHRS 03 MJ	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MI A	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MI C	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MI#D	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MI#F	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MJ A	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MJ C	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MJ#D	
+Best Service	Voice Spectral II	Partition A -> 03 H PHRS 03 -> SAMPLE	HPS03 MJ#F	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> PROGRAM	H PHRS 04AMI	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> PROGRAM	H PHRS 04AMJ	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> PROGRAM	H PHRS 04BMI	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> PROGRAM	H PHRS 04BMJ	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMI A	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMI C	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMI#D	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMI#F	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMJ A	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMJ C-R	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMJ#D	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04AMJ#F	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMI A	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMI C	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMI#D	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMI#F-L	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMJ A	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMJ C	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMJ#D	
+Best Service	Voice Spectral II	Partition A -> 04 H PHRS 04 -> SAMPLE	HPS04BMJ#F	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> PROGRAM	H PHRS 05AMI	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> PROGRAM	H PHRS 05AMJ	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> PROGRAM	H PHRS 05BMI	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> PROGRAM	H PHRS 05BMJ	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMI A	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMI C	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMI#D	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMI#F	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMJ A	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMJ C	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMJ#D	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05AMJ#F	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMI A	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMI C	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMI#D	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMI#F	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMJ A	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMJ C	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMJ#D	
+Best Service	Voice Spectral II	Partition A -> 05 H PHRS 05 -> SAMPLE	HPS05BMJ#F	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> PROGRAM	H PHRS 06AMI	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> PROGRAM	H PHRS 06AMJ	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> PROGRAM	H PHRS 06BMI	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> PROGRAM	H PHRS 06BMJ	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMI A	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMI C	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMI#D	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMI#F	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMJ A	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMJ C	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMJ#D-R	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06AMJ#F	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMI A	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMI C	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMI#D	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMI#F	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMJ A	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMJ C	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMJ#D	
+Best Service	Voice Spectral II	Partition A -> 06 H PHRS 06 -> SAMPLE	HPS06BMJ#F	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> PROGRAM	H PHRS 07AMI	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> PROGRAM	H PHRS 07AMJ	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> PROGRAM	H PHRS 07BMI	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> PROGRAM	H PHRS 07BMJ	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMI A	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMI C	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMI#D	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMI#F	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMJ A	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMJ C	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMJ#D	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07AMJ#F	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMI A	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMI C	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMI#D	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMI#F	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMJ A	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMJ C	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMJ#D	
+Best Service	Voice Spectral II	Partition A -> 07 H PHRS 07 -> SAMPLE	HPS07BMJ#F	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> PROGRAM	H PHRS 08AMI	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> PROGRAM	H PHRS 08AMJ	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> PROGRAM	H PHRS 08BMI	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> PROGRAM	H PHRS 08BMJ	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMI A	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMI C	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMI#D	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMI#F	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMJ A	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMJ C	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMJ#D	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08AMJ#F	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMI A	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMI C	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMI#D	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMI#F	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMJ A	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMJ C-L	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMJ#D	
+Best Service	Voice Spectral II	Partition A -> 08 H PHRS 08 -> SAMPLE	HPS08BMJ#F	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> PROGRAM	H PHRS 09 MI	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> PROGRAM	H PHRS 09 MJ	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MI A	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MI C	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MI#D	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MI#F	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MJ A	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MJ C	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MJ#D	
+Best Service	Voice Spectral II	Partition A -> 09 H PHRS 09 -> SAMPLE	HPS09 MJ#F	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> PROGRAM	H PHRS 10 MI	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> PROGRAM	H PHRS 10 MJ	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MI A	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MI C	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MI#D	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MI#F	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MJ A	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MJ C	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MJ#D	
+Best Service	Voice Spectral II	Partition A -> 10 H PHRS 10 -> SAMPLE	HPS10 MJ#F	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> PROGRAM	CLAS SCALE 1	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1  A5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1  B5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1  D5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1  E5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1  F5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1  G5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1 #C6	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1 #D5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1 #F5	
+Best Service	Voice Spectral II	Partition A -> 11 CLAS SCL1 -> SAMPLE	SCL1 #G5	
+Best Service	Voice Spectral II	Partition A -> 12 CLAS SCL2 -> PROGRAM	CLAS SCALE 2	
+Best Service	Voice Spectral II	Partition A -> 12 CLAS SCL2 -> SAMPLE	SCL2  C5	
+Best Service	Voice Spectral II	Partition A -> 12 CLAS SCL2 -> SAMPLE	SCL2  F4	
+Best Service	Voice Spectral II	Partition A -> 12 CLAS SCL2 -> SAMPLE	SCL2 #A4	
+Best Service	Voice Spectral II	Partition A -> 12 CLAS SCL2 -> SAMPLE	SCL2 #D5	
+Best Service	Voice Spectral II	Partition A -> 12 CLAS SCL2 -> SAMPLE	SCL2 #F5	
+Best Service	Voice Spectral II	Partition A -> 12 CLAS SCL2 -> SAMPLE	SCL2 #G5	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> PROGRAM	CLAS SCALE 3	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3  B4	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3  F4	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3  F5	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3 #A4	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3 #C5	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3 #D5	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3 #F4	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3 #F5	
+Best Service	Voice Spectral II	Partition A -> 13 CLAS SCL3 -> SAMPLE	SCL3 #G4	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> PROGRAM	CLAS SCALE 4	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> SAMPLE	SCL4  A5	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> SAMPLE	SCL4  B4	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> SAMPLE	SCL4  E4	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> SAMPLE	SCL4  E5	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> SAMPLE	SCL4  G5	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> SAMPLE	SCL4 #D5	
+Best Service	Voice Spectral II	Partition A -> 14 CLAS SCL4 -> SAMPLE	SCL4 #G4	
+Best Service	Voice Spectral II	Partition B -> 01 SCAT   01 -> PROGRAM	SCAT 01	
+Best Service	Voice Spectral II	Partition B -> 01 SCAT   01 -> SAMPLE	SCAT01   A	
+Best Service	Voice Spectral II	Partition B -> 01 SCAT   01 -> SAMPLE	SCAT01   C	
+Best Service	Voice Spectral II	Partition B -> 01 SCAT   01 -> SAMPLE	SCAT01  #D	
+Best Service	Voice Spectral II	Partition B -> 01 SCAT   01 -> SAMPLE	SCAT01  #F	
+Best Service	Voice Spectral II	Partition B -> 02 SCAT   02 -> PROGRAM	SCAT 02	
+Best Service	Voice Spectral II	Partition B -> 02 SCAT   02 -> SAMPLE	SCAT02   A	
+Best Service	Voice Spectral II	Partition B -> 02 SCAT   02 -> SAMPLE	SCAT02   C	
+Best Service	Voice Spectral II	Partition B -> 02 SCAT   02 -> SAMPLE	SCAT02  #D	
+Best Service	Voice Spectral II	Partition B -> 02 SCAT   02 -> SAMPLE	SCAT02  #F	
+Best Service	Voice Spectral II	Partition B -> 03 SCAT   03 -> PROGRAM	SCAT 03	
+Best Service	Voice Spectral II	Partition B -> 03 SCAT   03 -> SAMPLE	SCAT03   A	
+Best Service	Voice Spectral II	Partition B -> 03 SCAT   03 -> SAMPLE	SCAT03   C	
+Best Service	Voice Spectral II	Partition B -> 03 SCAT   03 -> SAMPLE	SCAT03  #D	
+Best Service	Voice Spectral II	Partition B -> 03 SCAT   03 -> SAMPLE	SCAT03  #F	
+Best Service	Voice Spectral II	Partition B -> 04 SCAT   04 -> PROGRAM	SCAT 04	
+Best Service	Voice Spectral II	Partition B -> 04 SCAT   04 -> SAMPLE	SCAT04   A	
+Best Service	Voice Spectral II	Partition B -> 04 SCAT   04 -> SAMPLE	SCAT04   C	
+Best Service	Voice Spectral II	Partition B -> 04 SCAT   04 -> SAMPLE	SCAT04  #D	
+Best Service	Voice Spectral II	Partition B -> 04 SCAT   04 -> SAMPLE	SCAT04  #F	
+Best Service	Voice Spectral II	Partition B -> 05 SCAT   05 -> PROGRAM	SCAT 05	
+Best Service	Voice Spectral II	Partition B -> 05 SCAT   05 -> SAMPLE	SCAT05   A	
+Best Service	Voice Spectral II	Partition B -> 05 SCAT   05 -> SAMPLE	SCAT05   C	
+Best Service	Voice Spectral II	Partition B -> 05 SCAT   05 -> SAMPLE	SCAT05  #D	
+Best Service	Voice Spectral II	Partition B -> 05 SCAT   05 -> SAMPLE	SCAT05  #F	
+Best Service	Voice Spectral II	Partition B -> 06 SCAT   06 -> PROGRAM	SCAT 06	
+Best Service	Voice Spectral II	Partition B -> 06 SCAT   06 -> SAMPLE	SCAT06   A	
+Best Service	Voice Spectral II	Partition B -> 06 SCAT   06 -> SAMPLE	SCAT06   C	
+Best Service	Voice Spectral II	Partition B -> 06 SCAT   06 -> SAMPLE	SCAT06  #D	
+Best Service	Voice Spectral II	Partition B -> 06 SCAT   06 -> SAMPLE	SCAT06  #F	
+Best Service	Voice Spectral II	Partition B -> 07 SCAT   07 -> PROGRAM	SCAT 07	
+Best Service	Voice Spectral II	Partition B -> 07 SCAT   07 -> SAMPLE	SCAT07   A	
+Best Service	Voice Spectral II	Partition B -> 07 SCAT   07 -> SAMPLE	SCAT07   C	
+Best Service	Voice Spectral II	Partition B -> 07 SCAT   07 -> SAMPLE	SCAT07  #D	
+Best Service	Voice Spectral II	Partition B -> 07 SCAT   07 -> SAMPLE	SCAT07  #F	
+Best Service	Voice Spectral II	Partition B -> 08 SCAT   08 -> PROGRAM	SCAT 08	
+Best Service	Voice Spectral II	Partition B -> 08 SCAT   08 -> SAMPLE	SCAT08   A	
+Best Service	Voice Spectral II	Partition B -> 08 SCAT   08 -> SAMPLE	SCAT08   C	
+Best Service	Voice Spectral II	Partition B -> 08 SCAT   08 -> SAMPLE	SCAT08  #D	
+Best Service	Voice Spectral II	Partition B -> 08 SCAT   08 -> SAMPLE	SCAT08  #F	
+Best Service	Voice Spectral II	Partition B -> 09 SCAT   09 -> PROGRAM	SCAT 09	
+Best Service	Voice Spectral II	Partition B -> 09 SCAT   09 -> SAMPLE	SCAT09   A	
+Best Service	Voice Spectral II	Partition B -> 09 SCAT   09 -> SAMPLE	SCAT09   C	
+Best Service	Voice Spectral II	Partition B -> 09 SCAT   09 -> SAMPLE	SCAT09  #D	
+Best Service	Voice Spectral II	Partition B -> 09 SCAT   09 -> SAMPLE	SCAT09  #F	
+Best Service	Voice Spectral II	Partition B -> 10 SCAT   10 -> PROGRAM	SCAT 10	
+Best Service	Voice Spectral II	Partition B -> 10 SCAT   10 -> SAMPLE	SCAT10   A	
+Best Service	Voice Spectral II	Partition B -> 10 SCAT   10 -> SAMPLE	SCAT10   C	
+Best Service	Voice Spectral II	Partition B -> 10 SCAT   10 -> SAMPLE	SCAT10  #D	
+Best Service	Voice Spectral II	Partition B -> 10 SCAT   10 -> SAMPLE	SCAT10  #F	
+Best Service	Voice Spectral II	Partition B -> 11 WEIRDOS 1 -> PROGRAM	WEIRDOS 01	
+Best Service	Voice Spectral II	Partition B -> 11 WEIRDOS 1 -> SAMPLE	WEIRDOS1 A	
+Best Service	Voice Spectral II	Partition B -> 11 WEIRDOS 1 -> SAMPLE	WEIRDOS1 C-R	
+Best Service	Voice Spectral II	Partition B -> 11 WEIRDOS 1 -> SAMPLE	WEIRDOS1#D	
+Best Service	Voice Spectral II	Partition B -> 11 WEIRDOS 1 -> SAMPLE	WEIRDOS1#F	
+Best Service	Voice Spectral II	Partition B -> 12 WEIRDOS 2 -> PROGRAM	WEIRDOS 02	
+Best Service	Voice Spectral II	Partition B -> 12 WEIRDOS 2 -> SAMPLE	WEIRDOS2 A	
+Best Service	Voice Spectral II	Partition B -> 12 WEIRDOS 2 -> SAMPLE	WEIRDOS2 C	
+Best Service	Voice Spectral II	Partition B -> 12 WEIRDOS 2 -> SAMPLE	WEIRDOS2#D	
+Best Service	Voice Spectral II	Partition B -> 12 WEIRDOS 2 -> SAMPLE	WEIRDOS2#F	
+Best Service	Voice Spectral II	Partition B -> 13 WEIRDOS 3 -> PROGRAM	WEIRDOS 03	
+Best Service	Voice Spectral II	Partition B -> 13 WEIRDOS 3 -> SAMPLE	WEIRDOS3 A	
+Best Service	Voice Spectral II	Partition B -> 13 WEIRDOS 3 -> SAMPLE	WEIRDOS3 C	
+Best Service	Voice Spectral II	Partition B -> 13 WEIRDOS 3 -> SAMPLE	WEIRDOS3#D	
+Best Service	Voice Spectral II	Partition B -> 13 WEIRDOS 3 -> SAMPLE	WEIRDOS3#F	
+Best Service	Voice Spectral II	Partition B -> 14 WEIRDOS 4 -> PROGRAM	WEIRDOS 04	
+Best Service	Voice Spectral II	Partition B -> 14 WEIRDOS 4 -> SAMPLE	WEIRDOS4 A	
+Best Service	Voice Spectral II	Partition B -> 14 WEIRDOS 4 -> SAMPLE	WEIRDOS4 C	
+Best Service	Voice Spectral II	Partition B -> 14 WEIRDOS 4 -> SAMPLE	WEIRDOS4#D	
+Best Service	Voice Spectral II	Partition B -> 14 WEIRDOS 4 -> SAMPLE	WEIRDOS4#F	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> PROGRAM	WEIRDOS 05A	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> PROGRAM	WEIRDOS 05B	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5A A	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5A C	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5A#D	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5A#F	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5B A	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5B C	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5B#D	
+Best Service	Voice Spectral II	Partition B -> 15 WEIRDOS 5 -> SAMPLE	WERDOS5B#F	
+Best Service	Voice Spectral II	Partition B -> 16 A YOU OK -> PROGRAM	ARE YOU O.K	
+Best Service	Voice Spectral II	Partition B -> 16 A YOU OK -> SAMPLE	A YOU O.K.-1	
+Best Service	Voice Spectral II	Partition B -> 16 A YOU OK -> SAMPLE	A YOU O.K.-2	
+Best Service	Voice Spectral II	Partition B -> 16 A YOU OK -> SAMPLE	A YOU O.K.-3	
+Best Service	Voice Spectral II	Partition B -> 16 A YOU OK -> SAMPLE	A YOU O.K.-4	
+Best Service	Voice Spectral II	Partition B -> 16 A YOU OK -> SAMPLE	A YOU O.K.-5	
+Best Service	Voice Spectral II	Partition B -> 16 A YOU OK -> SAMPLE	A YOU O.K.-6	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> PROGRAM	HERE IS	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -1	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -2	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -3	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -4	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -5	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -6	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -7	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -8	
+Best Service	Voice Spectral II	Partition B -> 17 HERE IS -> SAMPLE	HERE IS   -9	
+Best Service	Voice Spectral II	Partition B -> 18 N N NEVER -> PROGRAM	N N NEVER	
+Best Service	Voice Spectral II	Partition B -> 18 N N NEVER -> SAMPLE	N N NEVER -1	
+Best Service	Voice Spectral II	Partition B -> 18 N N NEVER -> SAMPLE	N N NEVER -2	
+Best Service	Voice Spectral II	Partition B -> 18 N N NEVER -> SAMPLE	N N NEVER -3	
+Best Service	Voice Spectral II	Partition B -> 18 N N NEVER -> SAMPLE	N N NEVER -4	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> PROGRAM	NO GAME	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -0	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -1	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -2	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -3	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -4	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -5	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -6	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -7	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -8	
+Best Service	Voice Spectral II	Partition B -> 19 NO GAME -> SAMPLE	NO GAME   -9	
+Best Service	Voice Spectral II	Partition B -> 20 ROCK ME -> PROGRAM	ROCK ME	
+Best Service	Voice Spectral II	Partition B -> 20 ROCK ME -> SAMPLE	ROCK ME   -1	
+Best Service	Voice Spectral II	Partition B -> 20 ROCK ME -> SAMPLE	ROCK ME   -2	
+Best Service	Voice Spectral II	Partition B -> 20 ROCK ME -> SAMPLE	ROCK ME   -3	
+Best Service	Voice Spectral II	Partition B -> 20 ROCK ME -> SAMPLE	ROCK ME   -4	
+Best Service	Voice Spectral II	Partition B -> 20 ROCK ME -> SAMPLE	ROCK ME   -5	
+Best Service	Voice Spectral II	Partition B -> 21 SILENCE -> PROGRAM	SILENCE	
+Best Service	Voice Spectral II	Partition B -> 21 SILENCE -> SAMPLE	SILENCE   -1	
+Best Service	Voice Spectral II	Partition B -> 21 SILENCE -> SAMPLE	SILENCE   -2	
+Best Service	Voice Spectral II	Partition B -> 21 SILENCE -> SAMPLE	SILENCE   -3	
+Best Service	Voice Spectral II	Partition B -> 21 SILENCE -> SAMPLE	SILENCE   -4	
+Best Service	Voice Spectral II	Partition B -> 22 DILDO -> PROGRAM	DILDO	
+Best Service	Voice Spectral II	Partition B -> 22 DILDO -> SAMPLE	DILDO     -1	
+Best Service	Voice Spectral II	Partition B -> 22 DILDO -> SAMPLE	DILDO     -2	
+Best Service	Voice Spectral II	Partition B -> 22 DILDO -> SAMPLE	DILDO     -3	
+Best Service	Voice Spectral II	Partition B -> 23 LSD -> PROGRAM	LSD	
+Best Service	Voice Spectral II	Partition B -> 23 LSD -> SAMPLE	LSD       -1	
+Best Service	Voice Spectral II	Partition B -> 23 LSD -> SAMPLE	LSD       -2	
+Best Service	Voice Spectral II	Partition B -> 23 LSD -> SAMPLE	LSD       -3	
+Best Service	Voice Spectral II	Partition B -> 23 LSD -> SAMPLE	LSD       -4	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> PROGRAM	VCEBOX SHT 1	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> PROGRAM	VCEBOX SHT 2	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 01	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 02	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 03	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 04	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 05	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 06	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 07	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 08	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 09	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 10	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 11	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 12	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 13	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 14	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 15	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 16	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 17	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 18	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 19	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 20	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 21	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 22	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 23	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 24	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 25	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 26	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 27	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 28	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 29	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 30	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 31	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 32	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 33	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 34	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 35	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 36	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 37	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 38	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 39	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 40	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 41	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 42	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 43	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 44	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 45	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 46	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 47	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 48	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 49	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 50	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 51	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 52	
+Best Service	Voice Spectral II	Partition B -> 24 VB SHORTS -> SAMPLE	VB SHORTS 53	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> PROGRAM	VCEBOX SHT 1	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    01	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    02	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    03	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    04	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    05	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    06	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    07	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    08	
+Best Service	Voice Spectral II	Partition B -> 25 VB MEL -> SAMPLE	VB MEL    09	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> PROGRAM	WHISPERS	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 01	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 02	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 03	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 04	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 05	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 06	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 07	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 08	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 09	
+Best Service	Voice Spectral II	Partition C -> 01 WHISPERS -> SAMPLE	WHISPER 10	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> PROGRAM	LYRICS SHT 1	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> PROGRAM	LYRICS SHT 2	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH01	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH02	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH03	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH04	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH05	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH06	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH07	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH08	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH09	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH10	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH11	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH12	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH13	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH14	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH15	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH16	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH17	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH18	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH19	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH20	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH21	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH22	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH23	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH24	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH25	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH26	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH27	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH28	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH29	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH30	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH31	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH32	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH33	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH34	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH35	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH36	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH37	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH38	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH39	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH40	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH41	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH42	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH43	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH44	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH45	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH46	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH47	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH48	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH49	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH50	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH51	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH52	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH53	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH54	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH55	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH56	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH57	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH58	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH59	
+Best Service	Voice Spectral II	Partition C -> 02 LY SHORT -> SAMPLE	LY LN SH60	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> PROGRAM	LYRICS MED	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD01	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD02	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD03	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD04	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD05	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD06	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD07	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD08	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD09	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD10	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD11	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD12	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD13	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD14	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD15	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD16	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD17	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD18	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD19	
+Best Service	Voice Spectral II	Partition C -> 03 LY MED -> SAMPLE	LY LN MD20	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> PROGRAM	LYRICS SOFT	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 01	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 02	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 03	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 04	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 05	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 06	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 07	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 08	
+Best Service	Voice Spectral II	Partition C -> 04 LY SOFT -> SAMPLE	LY SOFT 09	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> PROGRAM	RHYTM LINES	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 01	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 02	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 03	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 04	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 05	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 06	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 07	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 08	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 09	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 10	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 11	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 12	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 13	
+Best Service	Voice Spectral II	Partition C -> 05 RHYTM -> SAMPLE	RHY LINE 14	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> PROGRAM	MEL LINE SHT	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 01	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 02	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 03	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 04	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 05	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 06	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 07	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 08	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 09	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 10	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 11	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 12	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 13	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 14	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 15	
+Best Service	Voice Spectral II	Partition C -> 06 MEL SHT -> SAMPLE	MEL LN SH 16	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> PROGRAM	M LINE MED 1	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> PROGRAM	M LINE MED 2	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 01	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 02	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 03	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 04	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 05	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 06	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 07	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 08	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 09	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 10	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 11	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 12	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 13	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 14	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 15	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 16	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 17	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 18	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 19	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 20	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 21	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 22	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 23	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 24	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 25	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 26	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 27	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 28	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 29	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 30	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 31	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 32	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 33	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 34	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 35	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 36	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 37	
+Best Service	Voice Spectral II	Partition C -> 07 MEL MED -> SAMPLE	MEL LN MD 38	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> PROGRAM	PHRASES	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 01	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 02	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 03	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 04	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 05	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 06	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 07	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 08	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 09	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 10	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 11	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 12	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 13	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 14	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 15	
+Best Service	Voice Spectral II	Partition C -> 08 PHRASES -> SAMPLE	PHRASE 16	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> PROGRAM	PROC PHRASE1	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> PROGRAM	PROC PHRASE2	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 01	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 02	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 03	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 04	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 05	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 06	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 07	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 08	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 09	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 10	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 11	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 12	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 13	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 14	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 15	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 16	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 17	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 18	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 19	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 20	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 21	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 22	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 23	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 24	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 25	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 26	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 27	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 28	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 29	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 30	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 31	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 32	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 33	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 34	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 35	
+Best Service	Voice Spectral II	Partition C -> 09 PROC PHRS -> SAMPLE	PROC PHRS 36	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> PROGRAM	PROC SPEECH	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 01	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 02	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 03	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 04	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 05	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 06	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 07	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 08	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 09	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 10	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 11	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 12	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 13	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 14	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 15	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 16	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 17	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 18	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 19	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 20	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 21	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 22	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 23	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 24	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 25	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 26	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 27	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 28	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 29	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 30	
+Best Service	Voice Spectral II	Partition C -> 10 PROC SPCH -> SAMPLE	PROC SPCH 31	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> PROGRAM	PROC DEEP	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 01	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 02	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 03	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 04	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 05	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 06	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 07	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 08	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 09	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 10	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 11	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 12	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 13	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 14	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 15	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 16	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 17	
+Best Service	Voice Spectral II	Partition C -> 11 PROC DEEP -> SAMPLE	PROC DEEP 18	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> PROGRAM	SPEECH GEN	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 01	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 02	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 03	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 04	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 05	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 06	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 07	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 08	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 09	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 10	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 11	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 12	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 13	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 14	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 15	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 16	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 17	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 18	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 19	
+Best Service	Voice Spectral II	Partition C -> 12 SPEECH GN -> SAMPLE	SPEECH GN 20	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> PROGRAM	CRAZY COMP	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 01	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 02	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 03	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 04	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 05	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 06	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 07	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 08	
+Best Service	Voice Spectral II	Partition C -> 13 CRAZY CMP -> SAMPLE	CRAZY CMP 09	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> PROGRAM	CODED	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     01	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     02	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     03	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     04	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     05	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     06	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     07	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     08	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     09	
+Best Service	Voice Spectral II	Partition C -> 14 CODED -> SAMPLE	CODED     10	
+Best Service	Voice Spectral II	Partition D -> 01 MELODIC01 -> PROGRAM	MELODICS  01	
+Best Service	Voice Spectral II	Partition D -> 01 MELODIC01 -> SAMPLE	MEL 01  A	
+Best Service	Voice Spectral II	Partition D -> 01 MELODIC01 -> SAMPLE	MEL 01  C	
+Best Service	Voice Spectral II	Partition D -> 01 MELODIC01 -> SAMPLE	MEL 01  C2	
+Best Service	Voice Spectral II	Partition D -> 01 MELODIC01 -> SAMPLE	MEL 01 #D	
+Best Service	Voice Spectral II	Partition D -> 01 MELODIC01 -> SAMPLE	MEL 01 #F	
+Best Service	Voice Spectral II	Partition D -> 02 MELODIC02 -> PROGRAM	MELODICS  02	
+Best Service	Voice Spectral II	Partition D -> 02 MELODIC02 -> SAMPLE	MEL 02  A	
+Best Service	Voice Spectral II	Partition D -> 02 MELODIC02 -> SAMPLE	MEL 02  C	
+Best Service	Voice Spectral II	Partition D -> 02 MELODIC02 -> SAMPLE	MEL 02  C2	
+Best Service	Voice Spectral II	Partition D -> 02 MELODIC02 -> SAMPLE	MEL 02 #D	
+Best Service	Voice Spectral II	Partition D -> 02 MELODIC02 -> SAMPLE	MEL 02 #F	
+Best Service	Voice Spectral II	Partition D -> 03 MELODIC03 -> PROGRAM	MELODICS  03	
+Best Service	Voice Spectral II	Partition D -> 03 MELODIC03 -> SAMPLE	MEL 03  A	
+Best Service	Voice Spectral II	Partition D -> 03 MELODIC03 -> SAMPLE	MEL 03  C	
+Best Service	Voice Spectral II	Partition D -> 03 MELODIC03 -> SAMPLE	MEL 03  C2	
+Best Service	Voice Spectral II	Partition D -> 03 MELODIC03 -> SAMPLE	MEL 03 #D	
+Best Service	Voice Spectral II	Partition D -> 03 MELODIC03 -> SAMPLE	MEL 03 #F	
+Best Service	Voice Spectral II	Partition D -> 04 MELODIC04 -> PROGRAM	MELODICS  04	
+Best Service	Voice Spectral II	Partition D -> 04 MELODIC04 -> SAMPLE	MEL 04  A	
+Best Service	Voice Spectral II	Partition D -> 04 MELODIC04 -> SAMPLE	MEL 04  C	
+Best Service	Voice Spectral II	Partition D -> 04 MELODIC04 -> SAMPLE	MEL 04  C2	
+Best Service	Voice Spectral II	Partition D -> 04 MELODIC04 -> SAMPLE	MEL 04 #D	
+Best Service	Voice Spectral II	Partition D -> 04 MELODIC04 -> SAMPLE	MEL 04 #F	
+Best Service	Voice Spectral II	Partition D -> 05 MELODIC05 -> PROGRAM	MELODICS  05	
+Best Service	Voice Spectral II	Partition D -> 05 MELODIC05 -> SAMPLE	MEL 05  A	
+Best Service	Voice Spectral II	Partition D -> 05 MELODIC05 -> SAMPLE	MEL 05  C	
+Best Service	Voice Spectral II	Partition D -> 05 MELODIC05 -> SAMPLE	MEL 05  C2	
+Best Service	Voice Spectral II	Partition D -> 05 MELODIC05 -> SAMPLE	MEL 05 #D	
+Best Service	Voice Spectral II	Partition D -> 05 MELODIC05 -> SAMPLE	MEL 05 #F	
+Best Service	Voice Spectral II	Partition D -> 06 MELODIC06 -> PROGRAM	MELODICS  06	
+Best Service	Voice Spectral II	Partition D -> 06 MELODIC06 -> SAMPLE	MEL 06  A	
+Best Service	Voice Spectral II	Partition D -> 06 MELODIC06 -> SAMPLE	MEL 06  C	
+Best Service	Voice Spectral II	Partition D -> 06 MELODIC06 -> SAMPLE	MEL 06  C2	
+Best Service	Voice Spectral II	Partition D -> 06 MELODIC06 -> SAMPLE	MEL 06 #D	
+Best Service	Voice Spectral II	Partition D -> 06 MELODIC06 -> SAMPLE	MEL 06 #F	
+Best Service	Voice Spectral II	Partition D -> 07 MELODIC07 -> PROGRAM	MELODICS  07	
+Best Service	Voice Spectral II	Partition D -> 07 MELODIC07 -> SAMPLE	MEL 07  A	
+Best Service	Voice Spectral II	Partition D -> 07 MELODIC07 -> SAMPLE	MEL 07  C	
+Best Service	Voice Spectral II	Partition D -> 07 MELODIC07 -> SAMPLE	MEL 07  C2	
+Best Service	Voice Spectral II	Partition D -> 07 MELODIC07 -> SAMPLE	MEL 07 #D	
+Best Service	Voice Spectral II	Partition D -> 07 MELODIC07 -> SAMPLE	MEL 07 #F	
+Best Service	Voice Spectral II	Partition D -> 08 MELODIC08 -> PROGRAM	MELODICS  08	
+Best Service	Voice Spectral II	Partition D -> 08 MELODIC08 -> SAMPLE	MEL 08  A	
+Best Service	Voice Spectral II	Partition D -> 08 MELODIC08 -> SAMPLE	MEL 08  C	
+Best Service	Voice Spectral II	Partition D -> 08 MELODIC08 -> SAMPLE	MEL 08  C2	
+Best Service	Voice Spectral II	Partition D -> 08 MELODIC08 -> SAMPLE	MEL 08 #D	
+Best Service	Voice Spectral II	Partition D -> 08 MELODIC08 -> SAMPLE	MEL 08 #F	
+Best Service	Voice Spectral II	Partition D -> 09 MELODIC09 -> PROGRAM	MELODICS  09	
+Best Service	Voice Spectral II	Partition D -> 09 MELODIC09 -> SAMPLE	MEL 09  A	
+Best Service	Voice Spectral II	Partition D -> 09 MELODIC09 -> SAMPLE	MEL 09  C	
+Best Service	Voice Spectral II	Partition D -> 09 MELODIC09 -> SAMPLE	MEL 09  C2	
+Best Service	Voice Spectral II	Partition D -> 09 MELODIC09 -> SAMPLE	MEL 09 #D	
+Best Service	Voice Spectral II	Partition D -> 09 MELODIC09 -> SAMPLE	MEL 09 #F	
+Best Service	Voice Spectral II	Partition D -> 10 MELODIC10 -> PROGRAM	MELODICS  10	
+Best Service	Voice Spectral II	Partition D -> 10 MELODIC10 -> SAMPLE	MEL 10  A	
+Best Service	Voice Spectral II	Partition D -> 10 MELODIC10 -> SAMPLE	MEL 10  C	
+Best Service	Voice Spectral II	Partition D -> 10 MELODIC10 -> SAMPLE	MEL 10  C2	
+Best Service	Voice Spectral II	Partition D -> 10 MELODIC10 -> SAMPLE	MEL 10 #D	
+Best Service	Voice Spectral II	Partition D -> 10 MELODIC10 -> SAMPLE	MEL 10 #F	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> PROGRAM	CLASSIC MIX1	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 40	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 42	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 43	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 46	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 48	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 52	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 53	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 56	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 57	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 58	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 59	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 63	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 64	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 66	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 67	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 80	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 81	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 82	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 83	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 84	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 85	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 86	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 88	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 89	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 90	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 92	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 93	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 94	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 96	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 97	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 98	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 99	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 100	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 101	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 102	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 104	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 105	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 106	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 107	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 563	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 633	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE 653	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE70	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE71	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE73	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE75	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE76	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE77	
+Best Service	Voice Spectral II	Partition D -> 11 CLASSMIX1 -> SAMPLE	GERLINDE79	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> PROGRAM	CLASSIC MIX2	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 3	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 16	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 17	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 18	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 20	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 22	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 23	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 24	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 27	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 30	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 31	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 32	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 34	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 35	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 42	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 47	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 52	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 53	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 56	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 57	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 58	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 66	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 67	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 83	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 91	
+Best Service	Voice Spectral II	Partition D -> 12 CLASSMIX2 -> SAMPLE	GERLINDE 563	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> PROGRAM	CLASSIC MIX3	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 2	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 5	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 7	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 9	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 10	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 11	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 13	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 14	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 15	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 19	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 21	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 23	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 25	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 26	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 29	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 32	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 33	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 37	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 41	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 44	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 45	
+Best Service	Voice Spectral II	Partition D -> 13 CLASSMIX3 -> SAMPLE	GERLINDE 51	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> PROGRAM	CLASSIC MIX4	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	EVELYN	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	EVELYN 2	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	EVELYN 3	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	EVELYN 4	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	EVELYN 5	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	EVELYN 6	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 4	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 6	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 8	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 12	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 28	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 39	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 42	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 47	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 64	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 67	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 68-	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 80	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 81	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 82	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 84	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE 97	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE74	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE75	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE78	
+Best Service	Voice Spectral II	Partition D -> 14 CLASSMIX4 -> SAMPLE	GERLINDE79	

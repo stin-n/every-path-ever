@@ -1,0 +1,2198 @@
+E-MU Systems	Proteus 2000	CMPSR Bank 0	000 brs:SforzadoSect	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	001 brs:Soft Trumpet	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	002 brs:Solo 'Bone	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	003 brs:Synth Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	004 brs:The Ensemble	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	005 brs:Too Bahhd	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	006 brs:Trmpt+Sect	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	007 brs:Tromboned	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	008 brs:Trombrass	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	009 brs:Trump FX etc	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	010 brs:Trumpet FX 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	011 brs:Trumpet FX 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	012 brs:Trumpet FX 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	013 brs:Trumpet FX 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	014 brs:Trumpet FX 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	015 brs:Trumpet FX 6	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	016 brs:Trumpet FX 7	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	017 brs:Trumpet Hard	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	018 brs:TrumpetMute1	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	019 brs:TrumpetMute2	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	020 wnd:A-SAX	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	021 wnd:AiryClarinet	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	022 wnd:Akkordione	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	023 wnd:Alto Saxo	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	024 wnd:B-Sax	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	025 wnd:B2-Sax	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	026 wnd:Bari	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	027 wnd:Big Top	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	028 wnd:Bottle Blow	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	029 wnd:Breathy Flt1	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	030 wnd:Breathy Flt2	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	031 wnd:Chamber Orch	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	032 wnd:Chi-Town	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	033 wnd:Clar/Oboe	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	034 wnd:Clarinet	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	035 wnd:Clarinette	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	036 wnd:English Horn	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	037 wnd:Fieldberries	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	038 wnd:Flt/Obe/Bone	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	039 wnd:Flute	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	040 wnd:Full Bari	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	041 wnd:G's Soprano	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	042 wnd:Grouch	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	043 wnd:Harmonica	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	044 wnd:Harmonika	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	045 wnd:Harmony	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	046 wnd:Monica Blow	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	047 wnd:Nuages	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	048 wnd:Oboe 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	049 wnd:Oboe 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	050 wnd:Ocarina 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	051 wnd:Ocarina 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	052 wnd:Pan Flute 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	053 wnd:Pan Flute 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	054 wnd:Pastoral	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	055 wnd:Polka Cheat	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	056 wnd:S-Sax	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	057 wnd:Sax FX 1 2 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	058 wnd:Sax Session	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	059 wnd:Shenai	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	060 wnd:Synth Flute	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	061 wnd:T-Sax	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	062 wnd:Tenor Phone	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	063 wnd:Virtuaccord	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	064 wnd:WindTrio	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	065 vox:Ahhs	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	066 vox:Arco Breath	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	067 vox:Common Vox	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	068 vox:Dark Angels	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	069 vox:Gossamer	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	070 vox:Gothic Dream	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	071 vox:Lo FakeChoir	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	072 vox:Lo-Fi Ether	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	073 vox:Majestic	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	074 vox:MauzeWowz	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	075 vox:Mist	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	076 vox:Odd Boys	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	077 vox:Odd Vox	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	078 vox:Oohs Souls	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	079 vox:PhasePhlips	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	080 vox:Pop Aahs	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	081 vox:Pop Oohs	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	082 vox:Slo Lunarvox	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	083 vox:Soul Oohs	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	084 vox:SpiritWorld	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	085 vox:SynthSing	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	086 vox:Tarzanalien	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	087 vox:ThroatRattle	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	088 vox:Tokenring	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	089 vox:Trapped	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	090 led:Apple Eater	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	091 led:Blue Danube	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	092 led:Cat's Nip	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	093 led:Dancerama	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	094 led:Dwiddle	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	095 led:Ethereosity	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	096 led:Flutter	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	097 led:Freakus	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	098 led:Intervalis	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	099 led:JabbaStabba	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	100 led:Laser Larry	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	101 led:Nice Lead	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	102 led:Post 90's DM	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	103 led:Q Snapper	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	104 led:Quacker	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	105 led:RememberWhen	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	106 led:Sci-Fi B	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	107 led:Shimmy	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	108 led:Shiner	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	109 led:SineSurprise	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	110 led:Smack Bender	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	111 led:Speedronic	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	112 led:Syrian Nod	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	113 led:Wandering	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	114 led:Weezy Lead	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	115 led:Worm 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	116 led:Worm 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	117 led:Wormwood	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	118 led:Wormy Janis	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	119 led:Zaw Za Zah	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	120 wav:Arp	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	121 wav:Bass Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	122 wav:Bell Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	123 wav:Blipper	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	124 wav:Buzz Saw Syn	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	125 wav:Chime	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	126 wav:CZ Echo	
+E-MU Systems	Proteus 2000	CMPSR Bank 0	127 wav:CZ Lead	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	000 wav:CZ101 Digi	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	001 wav:Dig Buzz Syn	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	002 wav:Eraser	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	003 wav:ES Rag	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	004 wav:Fat Attack	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	005 wav:Glass Perc	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	006 wav:Hollow Deep	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	007 wav:Juno Pulse	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	008 wav:Juno Square	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	009 wav:Log Hit	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	010 wav:M12 Lead	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	011 wav:M12 Sync	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	012 wav:Magic	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	013 wav:Metal 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	014 wav:Metal 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	015 wav:MetalAttack	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	016 wav:Mini Lead	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	017 wav:Moog Lead	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	018 wav:Narrow Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	019 wav:Overtone Syn	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	020 wav:Perc Axe Syn	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	021 wav:Pluck Tone	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	022 wav:Pop Square	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	023 wav:PPG	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	024 wav:Pure H	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	025 wav:PWM	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	026 wav:Rast Keys	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	027 wav:Rezzy	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	028 wav:Spacey Keys	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	029 wav:Square Lead	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	030 wav:SquareAttack	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	031 wav:SquareChorus	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	032 wav:Syn Tone	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	033 wav:Sync 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	034 wav:Sync 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	035 wav:Sync 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	036 wav:Sync 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	037 wav:Sync 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	038 wav:Sync 6	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	039 wav:Synth Wave	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	040 wav:Synthetic	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	041 wav:VS Voxwav	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	042 wav:VS37	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	043 wav:VS48	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	044 wav:Whine	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	045 wav:Wild Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	046 syn:5th Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	047 syn:8O8 Synthax	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	048 syn:Arpitty	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	049 syn:BenderPlanet	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	050 syn:Big Planet	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	051 syn:Blippoid	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	052 syn:Brazz	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	053 syn:Buzz Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	054 syn:Conglomo	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	055 syn:CZ Synstring	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	056 syn:DigiBuzphaze	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	057 syn:Digiglass	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	058 syn:DinkedSquare	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	059 syn:Ensemblist	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	060 syn:Ethnosplint	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	061 syn:Euro Wave	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	062 syn:Fat Slide	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	063 syn:Festival	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	064 syn:Gritstrings	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	065 syn:Heavy	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	066 syn:Hi Oct Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	067 syn:Hi String	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	068 syn:Hydraine	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	069 syn:Little Tins	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	070 syn:LOCoCution	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	071 syn:Messy	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	072 syn:Mood Strings	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	073 syn:Moog	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	074 syn:NarrowEscape	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	075 syn:Nervous	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	076 syn:No NerveNet	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	077 syn:OBX Saws	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	078 syn:OohAhh Vox	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	079 syn:P5 Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	080 syn:ProfitMargin	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	081 syn:Promoseus	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	082 syn:Pulse Pulse	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	083 syn:Pulsey!	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	084 syn:Pweet Square	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	085 syn:Razor	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	086 syn:Razor Edge	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	087 syn:Rez Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	088 syn:Rezzy Wave	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	089 syn:Saw Blip	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	090 syn:Saw Stack	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	091 syn:Saw Sweep	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	092 syn:SawsweepComp	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	093 syn:Skreach Arp	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	094 syn:Soft Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	095 syn:Synbrasso	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	096 syn:Syncsyn Clav	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	097 syn:Syncty	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	098 syn:SynEnsemble	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	099 syn:Syntax On2	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	100 syn:Synthall AT	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	101 syn:Synth Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	102 syn:ThinHi Worm	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	103 syn:ThinTecPulse	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	104 syn:Transpander	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	105 syn:VoxNonsense	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	106 syn:Wheezy Worm	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	107 syn:Wildsync	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	108 syn:Z&C Leeder	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	109 pad:AirBorn	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	110 pad:Classic	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	111 pad:Cloud 9	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	112 pad:Crystal Beam	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	113 pad:Dance Chord	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	114 pad:Dances Well	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	115 pad:Deep Spacy	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	116 pad:Dream Pad	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	117 pad:Dreamer	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	118 pad:Dreamy	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	119 pad:Floatatious	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	120 pad:GreaT	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	121 pad:Highway	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	122 pad:Infants	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	123 pad:JP6 Pad	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	124 pad:Keyngdom	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	125 pad:Kingdom High	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	126 pad:LOCoMotion	
+E-MU Systems	Proteus 2000	CMPSR Bank 1	127 pad:Meloden	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	000 pad:MetalBeats	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	001 pad:MovingBells	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	002 pad:Pad Life	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	003 pad:Paddy	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	004 pad:Paddy Flange	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	005 pad:Phat Pad	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	006 pad:Phat Pan	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	007 pad:Pulsation	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	008 pad:PWM Melopadd	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	009 pad:PWM Rezslide	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	010 pad:RiffTrippin'	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	011 pad:Spinwip Octa	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	012 pad:SweptAway	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	013 pad:Synth Pad	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	014 pad:Tunguska	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	015 pad:Under Pad FM	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	016 pad:Urban Pipe	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	017 pad:Whisp	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	018 pad:Xylo Pad	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	019 pad:Zoom	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	020 pad:Zoom 2000!	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	021 pad:Zyzzle	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	022 bpm:Build Up	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	023 bpm:Choice 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	024 bpm:Deep Blue	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	025 bpm:DXBeat	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	026 bpm:Electronica	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	027 bpm:Free Love	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	028 bpm:Freeze	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	029 bpm:Industry Vox	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	030 bpm:Move Clock !	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	031 bpm:Something	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	032 bpm:The Man	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	033 bpm:Waver	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	034 hit:Alta Trumpt	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	035 hit:Bass Slips	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	036 hit:Basses	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	037 hit:Big Band	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	038 hit:Biggy Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	039 hit:Brass Batz	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	040 hit:Brass Bite	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	041 hit:Brass Hits 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	042 hit:Brass Hits 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	043 hit:Brass Hits 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	044 hit:Brass Hits 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	045 hit:Brass Hittas	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	046 hit:Brass Hitz	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	047 hit:Da Danzits	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	048 hit:Dance Hits 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	049 hit:Dance Hits 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	050 hit:Deep Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	051 hit:Dirt Strings	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	052 hit:Fashion	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	053 hit:Garagiste	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	054 hit:Guitars	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	055 hit:Guitarzits	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	056 hit:Orch Fatlow	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	057 hit:Organ Hits 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	058 hit:Organ Hits 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	059 hit:Poker	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	060 hit:Punch Prak	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	061 hit:Sax Scandals	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	062 hit:Skweeler	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	063 hit:String Hits	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	064 hit:Synth Basses	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	065 hit:Vox Grunts	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	066 hit:Vox Hits 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	067 hit:Vox Hits 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	068 hit:Vox Hitties	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	069 orc:Brasso	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	070 orc:Combo	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	071 orc:Fanfare	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	072 orc:Orch w/Perc	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	073 orc:Orchestra	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	074 orc:PnoBrsStrg	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	075 orc:Str/Brs/Wd1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	076 orc:Str/Brs/Wd2	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	077 orc:Str/Brs/Wd3	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	078 sfx:30	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	079 sfx:7O's Phazzy	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	080 sfx:AKS Vinyl	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	081 sfx:Bad Bells	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	082 sfx:Bass Scrape	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	083 sfx:Bass Thud	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	084 sfx:Crickets	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	085 sfx:Crowd	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	086 sfx:DawnFollows	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	087 sfx:Full Circle	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	088 sfx:Gtr Scrape 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	089 sfx:Gtr Scrape 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	090 sfx:GtrBodyKnock	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	091 sfx:Guitar Pick	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	092 sfx:Hello!!!	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	093 sfx:Hill	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	094 sfx:It's Coming	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	095 sfx:Loop 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	096 sfx:NightCrawler	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	097 sfx:Oh No its...	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	098 sfx:Ohh	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	099 sfx:PnoSndBoard	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	100 sfx:PoppysOnMars	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	101 sfx:Ritual	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	102 sfx:StringScrape	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	103 sfx:TarzansDance	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	104 sfx:We Ha	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	105 sfx:WhoaWhoa	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	106 sfx:Woooo!	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	107 sfx:Ya Who	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	108 nse:Carrion	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	109 nse:Dust Bunny	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	110 nse:Jungle Pump	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	111 nse:Lift Off	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	112 nse:Pink	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	113 nse:StopThat!	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	114 nse:Vinyl	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	115 nse:White	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	116 scr:Cuts & Hats	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	117 scr:DissedSkrach	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	118 scr:Dogs'nHeat	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	119 scr:From Vinyl	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	120 scr:Monsta Slips	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	121 scr:Outa Sqaced	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	122 scr:Play It	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	123 scr:PuppyAlarm	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	124 scr:Scratches 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	125 scr:Scratches 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	126 scr:Skrach Dis	
+E-MU Systems	Proteus 2000	CMPSR Bank 2	127 scr:Vinyl Set	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	000 prc:Acidphone	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	001 prc:Agogos	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	002 prc:Bell Tree 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	003 prc:Bell Tree 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	004 prc:Bells1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	005 prc:Bells2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	006 prc:Blocks1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	007 prc:Blocks2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	008 prc:Borneo	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	009 prc:C Bells	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	010 prc:Cargo	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	011 prc:Claps 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	012 prc:Claps 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	013 prc:Claves	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	014 prc:Congas1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	015 prc:Congas2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	016 prc:Cyms 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	017 prc:Cyms 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	018 prc:Electro	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	019 prc:Flexi	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	020 prc:Guiros	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	021 prc:Hard Vibes	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	022 prc:Hats 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	023 prc:Hats 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	024 prc:Hi Bell	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	025 prc:Kalimba	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	026 prc:Kix 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	027 prc:Kix 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	028 prc:Log On	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	029 prc:Maracca	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	030 prc:Marimba	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	031 prc:Miscellany	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	032 prc:Orchestral	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	033 prc:Perky Dance	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	034 prc:PerkyThings1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	035 prc:PerkyThings2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	036 prc:Plexitone	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	037 prc:Progress	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	038 prc:Shakers	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	039 prc:SiameseCats	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	040 prc:Snaps	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	041 prc:Snares 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	042 prc:Snares 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	043 prc:Soft Vibes	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	044 prc:Stuff 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	045 prc:Stuff 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	046 prc:Tams 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	047 prc:Tams 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	048 prc:Timbs 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	049 prc:Timbs 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	050 prc:Timpani	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	051 prc:Toms 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	052 prc:Toms 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	053 prc:TV Spy Vibes	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	054 prc:Velo Vibes	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	055 prc:Vibraslap	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	056 prc:Village	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	057 prc:WoodHitsBell	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	058 prc:Xylophone	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	059 kit:424	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	060 kit:Kit 02	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	061 kit:Kit 03	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	062 kit:Kit 04	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	063 kit:Kit 05	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	064 kit:Kit 06	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	065 kit:Kit 07	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	066 kit:Kit 08	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	067 kit:Kit 09	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	068 kit:Kit 10	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	069 kit:Kit 11	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	070 kit:Kit 12	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	071 kit:Kit 13	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	072 kit:Kit 14	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	073 kit:Kit 15	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	074 kit:Kit 16	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	075 kit:Kit 17	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	076 kit:Kit 18	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	077 kit:Kit 19	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	078 kit:Kit 20	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	079 kit:Acoustic 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	080 kit:All Niter	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	081 kit:Berzerker	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	082 kit:BMF	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	083 kit:Booster	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	084 kit:ClassicHouse	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	085 kit:Clean R&B	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	086 kit:ClubVinyl	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	087 kit:CookUsAHit	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	088 kit:Dance 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	089 kit:Dance 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	090 kit:DearLyBeEmuD	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	091 kit:Dee and Be 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	092 kit:Dee and Be 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	093 kit:DeepBooty	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	094 kit:Disenegrate	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	095 kit:Drum 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	096 kit:Drum/Bass 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	097 kit:Drum/Bass 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	098 kit:Drum/Bass 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	099 kit:Drum/Bass 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	100 kit:Drum/Bass 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	101 kit:Drum/Bass 6	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	102 kit:DrumBuzza	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	103 kit:For Real	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	104 kit:Gate Dances	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	105 kit:Gett..OutPt2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	106 kit:GritKitt	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	107 kit:HatAttack	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	108 kit:Hot Swing	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	109 kit:Jams	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	110 kit:Jazz Quartet	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	111 kit:Jazz Trio	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	112 kit:OnTheTip	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	113 kit:Phased DrumR	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	114 kit:Phattasassin	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	115 kit:R&B Flava	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	116 kit:Shag	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	117 kit:Skin Drums	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	118 kit:Smackers	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	119 kit:SounDfacTory	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	120 kit:Speed Garage	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	121 kit:Subversive	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	122 kit:Swing Hop 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	123 kit:Swing Hop 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	124 kit:Swing Hop 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	125 kit:This & That	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	126 kit:Tribal House	
+E-MU Systems	Proteus 2000	CMPSR Bank 3	127 kit:Werzerker	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	000 kb1:DynamicGrand	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	001 kb4:Yo My Dynos	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	002 orc:Orchestral	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	003 gtr:Grusty	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	004 bs1:A Ku Stq	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	005 kb3:Rock'in B	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	006 kb2:WideSuitcase	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	007 led:Zimppler	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	008 bs4:AnalogPlanet	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	009 kit:Kit 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	010 kb1:And Voice	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	011 sfx:MetalScience	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	012 syn:Silk OBXsaws	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	013 gtr:Stolen7Away	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	014 brs:Movie Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	015 str:Dyna-heim	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	016 bpm:Jumping	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	017 vox:New Age Oohs	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	018 bs4:Sugar Freak	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	019 kb4:Clavinetti	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	020 kit:Acoustic 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	021 brs:BreathyTBone	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	022 wnd:Real Flute	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	023 str:Allin a Pizz	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	024 bs4:Walky Talk	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	025 str:Filmscore	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	026 led:L.V.'s Worm	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	027 kit:Bag O Tricks	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	028 kb2:Melosoul EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	029 wnd:Breather	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	030 vox:Frozen Time	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	031 hit:MasterBlast	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	032 gtr:NyloSteel	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	033 kb3:JimmyJazzy B	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	034 kit:Kit	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	035 bs2:Fing&Harms 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	036 kb2:Lovers Fm EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	037 syn:JunoPlseComp	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	038 gtr:WaaKeeGa	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	039 led:inBottles	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	040 kb1:Ballad Grand	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	041 kb1:Chime Grand	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	042 kb1:Concert Pno	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	043 kb1:Dance Pno	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	044 kb1:Elecro7CP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	045 kb1:Grande	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	046 kb1:HonkTonkeyz	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	047 kb1:Klassical	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	048 kb1:Layer Piano	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	049 kb1:Miami Grand	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	050 kb1:Piano Mio	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	051 kb1:Piano&Strng1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	052 kb1:Piano&Strng2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	053 kb1:StereoGrand1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	054 kb1:StereoGrand2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	055 kb1:StereoGrand3	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	056 kb1:StereoGrand4	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	057 kb1:Sung Piano	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	058 kb1:Techno Piano	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	059 kb2:Ballad Tine	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	060 kb2:Classic EP 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	061 kb2:Classic EP 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	062 kb2:Classic EP 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	063 kb2:Classic EP 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	064 kb2:DooGie	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	065 kb2:Dynofunk EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	066 kb2:FM El Piano	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	067 kb2:FM EP 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	068 kb2:FM EP 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	069 kb2:FM2Classic	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	070 kb2:Hard Dyno	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	071 kb2:Hard EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	072 kb2:Hard Tine	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	073 kb2:Med Dyno	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	074 kb2:Med EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	075 kb2:Pretty EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	076 kb2:PrettyLushEP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	077 kb2:Rezzroadz	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	078 kb2:Suitcase EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	079 kb2:Supatramp EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	080 kb2:Wurlitzer Hd	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	081 kb2:WurlitzerSft	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	082 kb2:WurlyD'Layer	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	083 kb3:B3 X-Wheel 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	084 kb3:B3OrganWave1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	085 kb3:B3OrganWave2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	086 kb3:Bally Yard	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	087 kb3:Clean X-Whl	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	088 kb3:Clicky B	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	089 kb3:Day	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	090 kb3:DirT baG	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	091 kb3:DirtyHertz	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	092 kb3:Disco	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	093 kb3:Drawbar	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	094 kb3:Drawbars	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	095 kb3:DX	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	096 kb3:DX Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	097 kb3:Full Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	098 kb3:Gospel Soul	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	099 kb3:GreenEyed	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	100 kb3:Gritty B Wav	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	101 kb3:Grundge XXX	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	102 kb3:JX Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	103 kb3:Kool N Mello	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	104 kb3:Mellow Man	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	105 kb3:Nod	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	106 kb3:Oddd Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	107 kb3:Org Lite	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	108 kb3:Organomics X	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	109 kb3:Perc Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	110 kb3:Pipe Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	111 kb3:Simple Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	112 kb3:Testify	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	113 kb3:Tone Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	114 kb3:Upper B	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	115 kb3:Vox 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	116 kb3:Vox 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	117 kb3:WheelSpeed B	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	118 kb4:Breathy	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	119 kb4:Clavinet 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	120 kb4:Clavinet 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	121 kb4:Clavinet 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	122 kb4:Clavin' It	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	123 kb4:Clavity	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	124 kb4:Comp Keyz 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	125 kb4:Comp Keyz 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	126 kb4:Comp Keyz 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 4	127 kb4:Crystal	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	000 kb4:Dance	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	001 kb4:Dyno Piano	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	002 kb4:DynoWahClav	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	003 kb4:E Grand	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	004 kb4:Elecre 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	005 kb4:Elecre 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	006 kb4:Elecre 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	007 kb4:Electrified	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	008 kb4:EP Fog	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	009 kb4:EP Roll 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	010 kb4:EP Roll 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	011 kb4:EP Roll 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	012 kb4:Farfisa 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	013 kb4:Farfisa 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	014 kb4:Farfisa 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	015 kb4:Grand FM	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	016 kb4:Hard Comp 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	017 kb4:Hard Comp 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	018 kb4:Hard Comp 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	019 kb4:Hard Comp 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	020 kb4:Hard Comp 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	021 kb4:Hard Tined	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	022 kb4:Knockkerz	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	023 kb4:M12Tines	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	024 kb4:Mystery Roll	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	025 kb4:Nu Tynez 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	026 kb4:Nu Tynez 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	027 kb4:PerkyRhodes	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	028 kb4:Pharpheeza	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	029 kb4:PnoWndStrg 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	030 kb4:PnoWndStrg 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	031 kb4:Roll	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	032 kb4:RollinDreams	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	033 kb4:Syn Ballad	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	034 kb4:Synth Cheese	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	035 kb4:Synth Organ	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	036 kb4:Tine EP	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	037 kb4:Vox-A-Phaze	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	038 kb4:Whistle Keys	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	039 bs1:Acoustic	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	040 bs1:DynoStandUp	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	041 bs1:Up →	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	042 bs1:Upright 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	043 bs1:Upright 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	044 bs1:Upright Days	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	045 bs1:WalkinUprite	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	046 bs2:BADtube	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	047 bs2:Big Basic	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	048 bs2:EP 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	049 bs2:EP 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	050 bs2:EP 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	051 bs2:EP Bass	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	052 bs2:Fing&Harms 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	053 bs2:Finger Out	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	054 bs2:Finger&Harmz	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	055 bs2:Finger1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	056 bs2:Finger2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	057 bs2:Fingered In	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	058 bs2:Fretless 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	059 bs2:Fretless 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	060 bs2:Fretless 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	061 bs2:Fretless 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	062 bs2:Fretless 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	063 bs2:Fretless'd	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	064 bs2:FretterNot	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	065 bs2:Full Finger	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	066 bs2:Gruzzy Pop	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	067 bs2:Harmonics	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	068 bs2:MelloRounder	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	069 bs2:Picked	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	070 bs2:Picked Off	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	071 bs2:Pop	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	072 bs2:Pop Slide 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	073 bs2:Pop Slide 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	074 bs2:Pop Slide 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	075 bs2:Pop Slide 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	076 bs2:Signfeld Pop	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	077 bs2:Slap 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	078 bs2:Slap 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	079 bs2:Slap 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	080 bs2:Slap 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	081 bs2:Slap 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	082 bs2:Slap Me!	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	083 bs2:SlapBack	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	084 bs2:Slappity	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	085 bs2:Slop Bass	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	086 bs2:Sloppiest	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	087 bs2:Spankin	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	088 bs2:ThickFretles	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	089 bs2:VeloFretless	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	090 bs3:26	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	091 bs3:Analow	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	092 bs3:ATC 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	093 bs3:ATC 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	094 bs3:ATC 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	095 bs3:ATC 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	096 bs3:Beauty	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	097 bs3:Below Sub	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	098 bs3:Big Basic	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	099 bs3:DB Sub	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	100 bs3:Easy	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	101 bs3:Face Bass	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	102 bs3:Fat Sunbass	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	103 bs3:Four U	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	104 bs3:HipPocket	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	105 bs3:Homeboy E	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	106 bs3:Ice	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	107 bs3:JP-Moog 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	108 bs3:Line	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	109 bs3:Lowness	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	110 bs3:MassiveMini	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	111 bs3:MooG DropS	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	112 bs3:Moogy Mudd	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	113 bs3:Planet Bass	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	114 bs3:Plex	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	115 bs3:Poly Style	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	116 bs3:Real Low	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	117 bs3:RoundabouT	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	118 bs3:SE Micro	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	119 bs3:SE Sub 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	120 bs3:SE Sub 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	121 bs3:Spanker	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	122 bs3:Spkr Damage	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	123 bs3:Sub Core	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	124 bs3:Sub Drop	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	125 bs3:Sub Plunk	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	126 bs3:Sub Poke	
+E-MU Systems	Proteus 2000	CMPSR Bank 5	127 bs3:Sub Pummeled	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	000 bs3:Sub-Basement	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	001 bs3:Subtle Bass	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	002 bs3:Super Sub	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	003 bs3:The Tunnel	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	004 bs3:Thickley Dub	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	005 bs3:Thip Kong	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	006 bs3:Way Low Down	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	007 bs3:Wide Chorus	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	008 bs3:ZuB CoMpLeX	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	009 bs4:3 O WorM	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	010 bs4:Acid	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	011 bs4:Acid 4 Ever	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	012 bs4:Analogic	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	013 bs4:Asidic Bass	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	014 bs4:Bass Hit	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	015 bs4:Bass ic	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	016 bs4:Bernie Funk	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	017 bs4:Big Sync	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	018 bs4:Bondomatic	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	019 bs4:Brite Beauty	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	020 bs4:Brolin's 1st	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	021 bs4:Buzza	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	022 bs4:Crystal Meth	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	023 bs4:CZ1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	024 bs4:DB	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	025 bs4:DB9 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	026 bs4:DB9 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	027 bs4:Deep Pocket	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	028 bs4:Digi-Punch	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	029 bs4:Distorto-TB	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	030 bs4:Examination	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	031 bs4:FM	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	032 bs4:FM Sonic	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	033 bs4:FP Powerbass	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	034 bs4:HaLLoW !	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	035 bs4:In the Money	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	036 bs4:JP4 Bass	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	037 bs4:Juno	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	038 bs4:Luke's Best	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	039 bs4:Memory Moog	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	040 bs4:Micro	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	041 bs4:Mini 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	042 bs4:Mini 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	043 bs4:Mini 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	044 bs4:Mini 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	045 bs4:Mini More	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	046 bs4:Mod da Wheel	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	047 bs4:Moog 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	048 bs4:Moog 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	049 bs4:Moog Tri	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	050 bs4:Mr. Clean	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	051 bs4:Not So Mini	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	052 bs4:Occitan Root	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	053 bs4:Octave	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	054 bs4:Org Gruz	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	055 bs4:Osc-Kars	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	056 bs4:PercoOrgana	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	057 bs4:Plexy	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	058 bs4:Power Q	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	059 bs4:PuLs A'ting	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	060 bs4:Q Attack	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	061 bs4:Q Bass 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	062 bs4:Q Bass 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	063 bs4:Q Bass 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	064 bs4:Q Bass 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	065 bs4:Q Snap	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	066 bs4:Reverend JB	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	067 bs4:Ripped3	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	068 bs4:Saw Sync	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	069 bs4:Sawz	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	070 bs4:SE 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	071 bs4:SE 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	072 bs4:SE One	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	073 bs4:Shift	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	074 bs4:Simple 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	075 bs4:Sobered Up	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	076 bs4:StraytUPjunO	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	077 bs4:Sync Echo	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	078 bs4:Synth 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	079 bs4:Synth 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	080 bs4:Synth 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	081 bs4:Synth 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	082 bs4:Synth 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	083 bs4:Synth 6	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	084 bs4:Synth 7	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	085 bs4:Synth 8	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	086 bs4:Synth 9	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	087 bs4:Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	088 bs4:TB 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	089 bs4:TB 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	090 bs4:TB 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	091 bs4:TB 4	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	092 bs4:Thunk	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	093 bs4:Tight Mo MW	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	094 bs4:Tres o Tres	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	095 bs4:Walky Talk2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	096 bs5:All Purpose	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	097 bs5:Buzzed	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	098 bs5:DX 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	099 bs5:DX 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	100 bs5:DX 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	101 bs5:Feeder	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	102 bs5:Funkalicous	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	103 bs5:Home 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	104 bs5:Home 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	105 bs5:Hybrid	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	106 bs5:Knocker	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	107 bs5:Mozambique	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	108 bs5:Mozamdrip	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	109 bs5:Oh Yea	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	110 bs5:Organ Bass 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	111 bs5:Organ Bass 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	112 bs5:Perco	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	113 bs5:Phlappy	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	114 bs5:Pocket	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	115 bs5:Pure	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	116 bs5:Say What	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	117 bs5:Slider	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	118 bs5:Smoothy	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	119 bs5:Soft & Hard	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	120 bs5:Sonics	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	121 bs5:Spitt	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	122 bs5:Spread	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	123 bs5:Standard	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	124 bs5:Street	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	125 bs5:Tapp	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	126 bs5:Thickener	
+E-MU Systems	Proteus 2000	CMPSR Bank 6	127 bs5:Ultimate 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	000 bs5:Ultimate 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	001 bs5:Ultimate 3	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	002 bs5:VP1 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	003 bs5:VP1 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	004 bs5:WetMonica	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	005 gtr:Carlos	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	006 gtr:Cast Teller	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	007 gtr:Chuckin	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	008 gtr:Cry Babies	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	009 gtr:Dark Gut	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	010 gtr:Distorter-X	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	011 gtr:Dolobroso	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	012 gtr:El Mute 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	013 gtr:El Mute 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	014 gtr:Electric 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	015 gtr:Electric 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	016 gtr:ElectricDis	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	017 gtr:EmmTV Crunch	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	018 gtr:FlangnVioWah	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	019 gtr:FullNylon	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	020 gtr:FunkChunk	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	021 gtr:Heavy Mon	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	022 gtr:JangleWah	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	023 gtr:Jazz	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	024 gtr:Jazzed	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	025 gtr:LA Strata	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	026 gtr:Looz 12s	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	027 gtr:MellowElect	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	028 gtr:Metal Head	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	029 gtr:MutableJazz	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	030 gtr:Mutant Pick	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	031 gtr:Mute Gtr vsw	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	032 gtr:Mute-Ted	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	033 gtr:Mutes	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	034 gtr:Nrysty	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	035 gtr:Nrysty	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	036 gtr:Nye Lonny	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	037 gtr:Nylon	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	038 gtr:Nylon Silk	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	039 gtr:Nylon Vox	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	040 gtr:Nylonistic	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	041 gtr:Pantastic	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	042 gtr:Power 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	043 gtr:Power 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	044 gtr:Rezatronics	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	045 gtr:Slippery Joe	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	046 gtr:SlipSly	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	047 gtr:Spy	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	048 gtr:Steel	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	049 gtr:Steel Real	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	050 gtr:Strat Wow	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	051 gtr:The 12String	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	052 gtr:ThickPick	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	053 gtr:TwangyNylon	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	054 gtr:Waaaa Waaaa	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	055 gtr:Wah Minor	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	056 gtr:WahWah Spice	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	057 str:Abbey'Strngs	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	058 str:Analog	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	059 str:Analogic	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	060 str:ArcotremPizz	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	061 str:Big Strings	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	062 str:ChamberGrp	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	063 str:DarkMoods	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	064 str:Digital 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	065 str:Digital 2	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	066 str:Drews Harp	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	067 str:ExtremeStrng	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	068 str:Fortuna	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	069 str:GlissiPizzi	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	070 str:Helium	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	071 str:Hindookurdoo	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	072 str:Japanman	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	073 str:Koto	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	074 str:Kult E Vatn'	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	075 str:Many Quarts	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	076 str:Matrix Synth	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	077 str:MeltroniKnbD	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	078 str:Morocco Feel	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	079 str:Obie'anna	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	080 str:Pizzicati	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	081 str:Pizzicato	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	082 str:Real Matrix	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	083 str:Rich Analogs	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	084 str:Section	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	085 str:Sectioned	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	086 str:Sham Wave	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	087 str:SitarTalk	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	088 str:Sneajy	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	089 str:Solo Quartet	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	090 str:So Long	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	091 str:SoloOutFront	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	092 str:Swoon	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	093 str:Texture	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	094 str:The Lonely 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	095 str:Tron	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	096 str:TronStrings	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	097 str:Velo Marcato	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	098 str:Victrola	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	099 brs:5th Wave	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	100 brs:Airy Trumpet	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	101 brs:B4PCM Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	102 brs:Barry Bones	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	103 brs:Bigga	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	104 brs:Bone	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	105 brs:Brass&Bari	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	106 brs:BrassControl	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	107 brs:Brassy	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	108 brs:Breathy Mute	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	109 brs:ClassicBrass	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	110 brs:Da Brasses	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	111 brs:Dizzy	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	112 brs:Don'sTrumpet	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	113 brs:Ensemble	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	114 brs:Han's E4s	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	115 brs:Horny	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	116 brs:Huge Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	117 brs:Louis	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	118 brs:MellowD'Trmp	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	119 brs:Miles	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	120 brs:Profit 5	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	121 brs:RadioHorns	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	122 brs:Reed & Brass	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	123 brs:S'miles	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	124 brs:Schwyn 1	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	125 brs:Section	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	126 brs:SforzadoEnsb	
+E-MU Systems	Proteus 2000	CMPSR Bank 7	127 :default	
+E-MU Systems	Proteus 2000	Instruments	0000 None	
+E-MU Systems	Proteus 2000	Instruments	0001 pno:Stereo Grand	
+E-MU Systems	Proteus 2000	Instruments	0002 pno:Grand Piano2	
+E-MU Systems	Proteus 2000	Instruments	0003 pno:Techno Piano	
+E-MU Systems	Proteus 2000	Instruments	0004 epo:Med Rhodes	
+E-MU Systems	Proteus 2000	Instruments	0005 epo:Hard Rhodes	
+E-MU Systems	Proteus 2000	Instruments	0006 epo:DynoRhodesMd	
+E-MU Systems	Proteus 2000	Instruments	0007 epo:DynoRhodesHd	
+E-MU Systems	Proteus 2000	Instruments	0008 epo:Hard Tine	
+E-MU Systems	Proteus 2000	Instruments	0009 epo:WurlitzerSft	
+E-MU Systems	Proteus 2000	Instruments	0010 epo:Wurlitzer Hd	
+E-MU Systems	Proteus 2000	Instruments	0011 epo:FM El Piano	
+E-MU Systems	Proteus 2000	Instruments	0012 epo:Tine EP	
+E-MU Systems	Proteus 2000	Instruments	0013 epo:Pretty EP	
+E-MU Systems	Proteus 2000	Instruments	0014 epo:Classic EP	
+E-MU Systems	Proteus 2000	Instruments	0015 epo:FM EP 1	
+E-MU Systems	Proteus 2000	Instruments	0016 epo:FM EP 2	
+E-MU Systems	Proteus 2000	Instruments	0017 epo:Clavinet 1	
+E-MU Systems	Proteus 2000	Instruments	0018 epo:Clavinet 2	
+E-MU Systems	Proteus 2000	Instruments	0019 epo:EP Roll 1	
+E-MU Systems	Proteus 2000	Instruments	0020 epo:EP Roll 2	
+E-MU Systems	Proteus 2000	Instruments	0021 epo:EP Roll 3	
+E-MU Systems	Proteus 2000	Instruments	0022 epo:EP Fog	
+E-MU Systems	Proteus 2000	Instruments	0023 org:B3DistLowSlo	
+E-MU Systems	Proteus 2000	Instruments	0024 org:B3 Dist Fast	
+E-MU Systems	Proteus 2000	Instruments	0025 org:B3 Hi Slow	
+E-MU Systems	Proteus 2000	Instruments	0026 org:B3 Hi Fast	
+E-MU Systems	Proteus 2000	Instruments	0027 org:B3 Perc 3rd	
+E-MU Systems	Proteus 2000	Instruments	0028 org:B3OrganWave1	
+E-MU Systems	Proteus 2000	Instruments	0029 org:B3OrganWave2	
+E-MU Systems	Proteus 2000	Instruments	0030 org:Gritty B Wav	
+E-MU Systems	Proteus 2000	Instruments	0031 org:Farfisa 1	
+E-MU Systems	Proteus 2000	Instruments	0032 org:Farfisa 2	
+E-MU Systems	Proteus 2000	Instruments	0033 org:Farfisa 3	
+E-MU Systems	Proteus 2000	Instruments	0034 org:Vox 1	
+E-MU Systems	Proteus 2000	Instruments	0035 org:Vox 2	
+E-MU Systems	Proteus 2000	Instruments	0036 org:Pipe Organ	
+E-MU Systems	Proteus 2000	Instruments	0037 org:Drawbar	
+E-MU Systems	Proteus 2000	Instruments	0038 org:Perc Organ	
+E-MU Systems	Proteus 2000	Instruments	0039 org:Day	
+E-MU Systems	Proteus 2000	Instruments	0040 org:Disco	
+E-MU Systems	Proteus 2000	Instruments	0041 org:DX Organ	
+E-MU Systems	Proteus 2000	Instruments	0042 org:JX Organ	
+E-MU Systems	Proteus 2000	Instruments	0043 org:Tone Organ	
+E-MU Systems	Proteus 2000	Instruments	0044 org:Simple Organ	
+E-MU Systems	Proteus 2000	Instruments	0045 org:Org Lite	
+E-MU Systems	Proteus 2000	Instruments	0046 org:Nod	
+E-MU Systems	Proteus 2000	Instruments	0047 org:Full Organ	
+E-MU Systems	Proteus 2000	Instruments	0048 org:Synth Organ	
+E-MU Systems	Proteus 2000	Instruments	0049 org:Breathy	
+E-MU Systems	Proteus 2000	Instruments	0050 org:Dance	
+E-MU Systems	Proteus 2000	Instruments	0051 org:Synth Cheeze	
+E-MU Systems	Proteus 2000	Instruments	0052 org:Oddd Organ	
+E-MU Systems	Proteus 2000	Instruments	0053 sub:Bass Hum	
+E-MU Systems	Proteus 2000	Instruments	0054 sub:Below Sub	
+E-MU Systems	Proteus 2000	Instruments	0055 sub:Super Sub	
+E-MU Systems	Proteus 2000	Instruments	0056 sub:SE Sub 1	
+E-MU Systems	Proteus 2000	Instruments	0057 sub:SE Sub 2	
+E-MU Systems	Proteus 2000	Instruments	0058 sub:SE Sub 3	
+E-MU Systems	Proteus 2000	Instruments	0059 sub:SE Sub 4	
+E-MU Systems	Proteus 2000	Instruments	0060 sub:SE Sub 5	
+E-MU Systems	Proteus 2000	Instruments	0061 sub:SE Sub 6	
+E-MU Systems	Proteus 2000	Instruments	0062 sub:SE Sub 7	
+E-MU Systems	Proteus 2000	Instruments	0063 sub:Subtle Bass	
+E-MU Systems	Proteus 2000	Instruments	0064 sub:Moog 1	
+E-MU Systems	Proteus 2000	Instruments	0065 sub:Moog 2	
+E-MU Systems	Proteus 2000	Instruments	0066 sub:Q Attack	
+E-MU Systems	Proteus 2000	Instruments	0067 sub:Juno	
+E-MU Systems	Proteus 2000	Instruments	0068 sub:Complex	
+E-MU Systems	Proteus 2000	Instruments	0069 sub:Full Octave	
+E-MU Systems	Proteus 2000	Instruments	0070 sub:Deep Pocket	
+E-MU Systems	Proteus 2000	Instruments	0071 sub:JP4 Bass	
+E-MU Systems	Proteus 2000	Instruments	0072 sub:Bass Hit	
+E-MU Systems	Proteus 2000	Instruments	0073 bas:Acid	
+E-MU Systems	Proteus 2000	Instruments	0074 bas:TB 1	
+E-MU Systems	Proteus 2000	Instruments	0075 bas:TB 2	
+E-MU Systems	Proteus 2000	Instruments	0076 bas:TB 3	
+E-MU Systems	Proteus 2000	Instruments	0077 bas:TB 4	
+E-MU Systems	Proteus 2000	Instruments	0078 bas:Saw Sync	
+E-MU Systems	Proteus 2000	Instruments	0079 bas:Big Sync	
+E-MU Systems	Proteus 2000	Instruments	0080 bas:Power Q	
+E-MU Systems	Proteus 2000	Instruments	0081 bas:Buzzed	
+E-MU Systems	Proteus 2000	Instruments	0082 bas:SE 1	
+E-MU Systems	Proteus 2000	Instruments	0083 bas:SE 2	
+E-MU Systems	Proteus 2000	Instruments	0084 bas:Basss ic	
+E-MU Systems	Proteus 2000	Instruments	0085 bas:Stereo VP1 1	
+E-MU Systems	Proteus 2000	Instruments	0086 bas:VP1 2	
+E-MU Systems	Proteus 2000	Instruments	0087 bas:FM	
+E-MU Systems	Proteus 2000	Instruments	0088 bas:DB	
+E-MU Systems	Proteus 2000	Instruments	0089 bas:Memory Moog	
+E-MU Systems	Proteus 2000	Instruments	0090 bas:Moog Tri	
+E-MU Systems	Proteus 2000	Instruments	0091 bas:Moog Basic	
+E-MU Systems	Proteus 2000	Instruments	0092 bas:Mini 1	
+E-MU Systems	Proteus 2000	Instruments	0093 bas:Mini 2	
+E-MU Systems	Proteus 2000	Instruments	0094 bas:Mini 3	
+E-MU Systems	Proteus 2000	Instruments	0095 bas:Mini 4	
+E-MU Systems	Proteus 2000	Instruments	0096 bas:Micro Moog	
+E-MU Systems	Proteus 2000	Instruments	0097 bas:Not So Mini	
+E-MU Systems	Proteus 2000	Instruments	0098 bas:Sawz	
+E-MU Systems	Proteus 2000	Instruments	0099 bas:Lowness	
+E-MU Systems	Proteus 2000	Instruments	0100 bas:Ice	
+E-MU Systems	Proteus 2000	Instruments	0101 bas:Analow	
+E-MU Systems	Proteus 2000	Instruments	0102 bas:Fat Sunbass	
+E-MU Systems	Proteus 2000	Instruments	0103 bas:Analogic	
+E-MU Systems	Proteus 2000	Instruments	0104 bas:Q Bass 1	
+E-MU Systems	Proteus 2000	Instruments	0105 bas:Q Bass 2	
+E-MU Systems	Proteus 2000	Instruments	0106 bas:Q Bass 3	
+E-MU Systems	Proteus 2000	Instruments	0107 bas:Planet Bass	
+E-MU Systems	Proteus 2000	Instruments	0108 bas:2600	
+E-MU Systems	Proteus 2000	Instruments	0109 bas:Synth 1	
+E-MU Systems	Proteus 2000	Instruments	0110 bas:Synth 2	
+E-MU Systems	Proteus 2000	Instruments	0111 bas:Synth 3	
+E-MU Systems	Proteus 2000	Instruments	0112 bas:Synth 4	
+E-MU Systems	Proteus 2000	Instruments	0113 bas:Synth 5	
+E-MU Systems	Proteus 2000	Instruments	0114 bas:Synth 6	
+E-MU Systems	Proteus 2000	Instruments	0115 bas:Synth 7	
+E-MU Systems	Proteus 2000	Instruments	0116 bas:Synth 8	
+E-MU Systems	Proteus 2000	Instruments	0117 bas:Synth 9	
+E-MU Systems	Proteus 2000	Instruments	0118 bas:Synth 10	
+E-MU Systems	Proteus 2000	Instruments	0119 bas:CZ101	
+E-MU Systems	Proteus 2000	Instruments	0120 bas:PPG Hybrid	
+E-MU Systems	Proteus 2000	Instruments	0121 bas:Ultimate 1	
+E-MU Systems	Proteus 2000	Instruments	0122 bas:Ultimate 2	
+E-MU Systems	Proteus 2000	Instruments	0123 bas:DB9 1	
+E-MU Systems	Proteus 2000	Instruments	0124 bas:DB9 2	
+E-MU Systems	Proteus 2000	Instruments	0125 bas:Phlappy	
+E-MU Systems	Proteus 2000	Instruments	0126 bas:Pocket	
+E-MU Systems	Proteus 2000	Instruments	0127 bas:Sonics	
+E-MU Systems	Proteus 2000	Instruments	0128 bas:Perco	
+E-MU Systems	Proteus 2000	Instruments	0129 bas:Spitt	
+E-MU Systems	Proteus 2000	Instruments	0130 bas:Tapp	
+E-MU Systems	Proteus 2000	Instruments	0131 bas:DX 1	
+E-MU Systems	Proteus 2000	Instruments	0132 bas:DX 2	
+E-MU Systems	Proteus 2000	Instruments	0133 bas:DX 3	
+E-MU Systems	Proteus 2000	Instruments	0134 bas:Finger 1	
+E-MU Systems	Proteus 2000	Instruments	0135 bas:Finger 2	
+E-MU Systems	Proteus 2000	Instruments	0136 bas:Picked	
+E-MU Systems	Proteus 2000	Instruments	0137 bas:Slap 1	
+E-MU Systems	Proteus 2000	Instruments	0138 bas:Slap 2	
+E-MU Systems	Proteus 2000	Instruments	0139 bas:Slap 3	
+E-MU Systems	Proteus 2000	Instruments	0140 bas:Slap 4	
+E-MU Systems	Proteus 2000	Instruments	0141 bas:Slap 5	
+E-MU Systems	Proteus 2000	Instruments	0142 bas:Pop	
+E-MU Systems	Proteus 2000	Instruments	0143 bas:Fretless 1	
+E-MU Systems	Proteus 2000	Instruments	0144 bas:Fretless 2	
+E-MU Systems	Proteus 2000	Instruments	0145 bas:Fretless 3	
+E-MU Systems	Proteus 2000	Instruments	0146 bas:Fretless 4	
+E-MU Systems	Proteus 2000	Instruments	0147 bas:Fretless 5	
+E-MU Systems	Proteus 2000	Instruments	0148 bas:Fretless 6	
+E-MU Systems	Proteus 2000	Instruments	0149 bas:EP 1	
+E-MU Systems	Proteus 2000	Instruments	0150 bas:EP 2	
+E-MU Systems	Proteus 2000	Instruments	0151 bas:EP 3	
+E-MU Systems	Proteus 2000	Instruments	0152 bas:Home 1	
+E-MU Systems	Proteus 2000	Instruments	0153 bas:Home 2	
+E-MU Systems	Proteus 2000	Instruments	0154 bas:Street	
+E-MU Systems	Proteus 2000	Instruments	0155 bas:Pure	
+E-MU Systems	Proteus 2000	Instruments	0156 bas:Fing&Harms 1	
+E-MU Systems	Proteus 2000	Instruments	0157 bas:Fing&Harms 2	
+E-MU Systems	Proteus 2000	Instruments	0158 bas:All Purpose	
+E-MU Systems	Proteus 2000	Instruments	0159 bas:Standard	
+E-MU Systems	Proteus 2000	Instruments	0160 bas:Gruzzy Pop	
+E-MU Systems	Proteus 2000	Instruments	0161 bas:Pop Slide 1	
+E-MU Systems	Proteus 2000	Instruments	0162 bas:Pop Slide 2	
+E-MU Systems	Proteus 2000	Instruments	0163 bas:Pop Slide 3	
+E-MU Systems	Proteus 2000	Instruments	0164 bas:Pop Slide 4	
+E-MU Systems	Proteus 2000	Instruments	0165 bas:Organ Bass 1	
+E-MU Systems	Proteus 2000	Instruments	0166 bas:Organ Bass 2	
+E-MU Systems	Proteus 2000	Instruments	0167 bas:Acoustic	
+E-MU Systems	Proteus 2000	Instruments	0168 bas:Harmonics	
+E-MU Systems	Proteus 2000	Instruments	0169 bas:Upright 1	
+E-MU Systems	Proteus 2000	Instruments	0170 bas:Upright 2	
+E-MU Systems	Proteus 2000	Instruments	0171 gtr:Nylon	
+E-MU Systems	Proteus 2000	Instruments	0172 gtr:Steel	
+E-MU Systems	Proteus 2000	Instruments	0173 gtr:Jazz	
+E-MU Systems	Proteus 2000	Instruments	0174 gtr:Electric 1	
+E-MU Systems	Proteus 2000	Instruments	0175 gtr:Electric 2	
+E-MU Systems	Proteus 2000	Instruments	0176 gtr:El Mute 1	
+E-MU Systems	Proteus 2000	Instruments	0177 gtr:El Mute 2	
+E-MU Systems	Proteus 2000	Instruments	0178 gtr:Mutes	
+E-MU Systems	Proteus 2000	Instruments	0179 gtr:ElectricDis	
+E-MU Systems	Proteus 2000	Instruments	0180 gtr:Power 1	
+E-MU Systems	Proteus 2000	Instruments	0181 gtr:Power 2	
+E-MU Systems	Proteus 2000	Instruments	0182 gtr:Power Hit	
+E-MU Systems	Proteus 2000	Instruments	0183 gtr:Synth Axe	
+E-MU Systems	Proteus 2000	Instruments	0184 gtr:Gtr Hi Chuck	
+E-MU Systems	Proteus 2000	Instruments	0185 gtr:Gtr Up Strk	
+E-MU Systems	Proteus 2000	Instruments	0186 gtr:Gtr Scratch	
+E-MU Systems	Proteus 2000	Instruments	0187 gtr:Muted String	
+E-MU Systems	Proteus 2000	Instruments	0188 gtr:Klean Chuck	
+E-MU Systems	Proteus 2000	Instruments	0189 gtr:Jangle	
+E-MU Systems	Proteus 2000	Instruments	0190 gtr:Riff 1	
+E-MU Systems	Proteus 2000	Instruments	0191 gtr:Riff 2	
+E-MU Systems	Proteus 2000	Instruments	0192 gtr:Riff 3	
+E-MU Systems	Proteus 2000	Instruments	0193 gtr:Funky Hit	
+E-MU Systems	Proteus 2000	Instruments	0194 gtr:Another Hit	
+E-MU Systems	Proteus 2000	Instruments	0195 gtr:Jazz Riff 1	
+E-MU Systems	Proteus 2000	Instruments	0196 gtr:Jazz Riff 2	
+E-MU Systems	Proteus 2000	Instruments	0197 gtr:Jazz Riff 3	
+E-MU Systems	Proteus 2000	Instruments	0198 gtr:Slide Riff	
+E-MU Systems	Proteus 2000	Instruments	0199 gtr:Pop Slide	
+E-MU Systems	Proteus 2000	Instruments	0200 gtr:Pop	
+E-MU Systems	Proteus 2000	Instruments	0201 gtr:Chord Chuck	
+E-MU Systems	Proteus 2000	Instruments	0202 gtr:Slide	
+E-MU Systems	Proteus 2000	Instruments	0203 gtr:Sad Guitar	
+E-MU Systems	Proteus 2000	Instruments	0204 gtr:Wawa 1	
+E-MU Systems	Proteus 2000	Instruments	0205 gtr:Wawa 2	
+E-MU Systems	Proteus 2000	Instruments	0206 gtr:Wawa 3	
+E-MU Systems	Proteus 2000	Instruments	0207 gtr:Wawa 4	
+E-MU Systems	Proteus 2000	Instruments	0208 gtr:Wawa 5	
+E-MU Systems	Proteus 2000	Instruments	0209 gtr:Wawa 6	
+E-MU Systems	Proteus 2000	Instruments	0210 gtr:Heavy Hit	
+E-MU Systems	Proteus 2000	Instruments	0211 gtr:Heavy Dive	
+E-MU Systems	Proteus 2000	Instruments	0212 str:Solo Quartet	
+E-MU Systems	Proteus 2000	Instruments	0213 str:Section	
+E-MU Systems	Proteus 2000	Instruments	0214 str:Pizzicato	
+E-MU Systems	Proteus 2000	Instruments	0215 str:Tron	
+E-MU Systems	Proteus 2000	Instruments	0216 str:Analog	
+E-MU Systems	Proteus 2000	Instruments	0217 str:Matrix Synth	
+E-MU Systems	Proteus 2000	Instruments	0218 str:Digital	
+E-MU Systems	Proteus 2000	Instruments	0219 str:Sham Wave	
+E-MU Systems	Proteus 2000	Instruments	0220 str:Koto	
+E-MU Systems	Proteus 2000	Instruments	0221 str:Sitar	
+E-MU Systems	Proteus 2000	Instruments	0222 brs:Soft Trumpet	
+E-MU Systems	Proteus 2000	Instruments	0223 brs:Hard Trumpet	
+E-MU Systems	Proteus 2000	Instruments	0224 brs:MuteTrumpet1	
+E-MU Systems	Proteus 2000	Instruments	0225 brs:MuteTrumpet2	
+E-MU Systems	Proteus 2000	Instruments	0226 brs:Trombone	
+E-MU Systems	Proteus 2000	Instruments	0227 brs:Tuba	
+E-MU Systems	Proteus 2000	Instruments	0228 brs:Trumpet FX 1	
+E-MU Systems	Proteus 2000	Instruments	0229 brs:Trumpet FX 2	
+E-MU Systems	Proteus 2000	Instruments	0230 brs:Trumpet FX 3	
+E-MU Systems	Proteus 2000	Instruments	0231 brs:Trumpet FX 4	
+E-MU Systems	Proteus 2000	Instruments	0232 brs:Trumpet FX 5	
+E-MU Systems	Proteus 2000	Instruments	0233 brs:Trumpet FX 6	
+E-MU Systems	Proteus 2000	Instruments	0234 brs:Trumpet FX 7	
+E-MU Systems	Proteus 2000	Instruments	0235 brs:Alt TptLoops	
+E-MU Systems	Proteus 2000	Instruments	0236 brs:Ensemble	
+E-MU Systems	Proteus 2000	Instruments	0237 brs:Section	
+E-MU Systems	Proteus 2000	Instruments	0238 brs:Brass Hits 1	
+E-MU Systems	Proteus 2000	Instruments	0239 brs:Brass Hits 2	
+E-MU Systems	Proteus 2000	Instruments	0240 brs:ClassicBrass	
+E-MU Systems	Proteus 2000	Instruments	0241 brs:Moog	
+E-MU Systems	Proteus 2000	Instruments	0242 brs:Prophet 5	
+E-MU Systems	Proteus 2000	Instruments	0243 brs:5th Wave	
+E-MU Systems	Proteus 2000	Instruments	0244 wnd:Ocarina	
+E-MU Systems	Proteus 2000	Instruments	0245 wnd:Pan Flute	
+E-MU Systems	Proteus 2000	Instruments	0246 wnd:Flute	
+E-MU Systems	Proteus 2000	Instruments	0247 wnd:Synth Flute	
+E-MU Systems	Proteus 2000	Instruments	0248 wnd:Clarinet	
+E-MU Systems	Proteus 2000	Instruments	0249 wnd:Oboe	
+E-MU Systems	Proteus 2000	Instruments	0250 wnd:English Horn	
+E-MU Systems	Proteus 2000	Instruments	0251 wnd:Soprano Sax	
+E-MU Systems	Proteus 2000	Instruments	0252 wnd:Alto Sax	
+E-MU Systems	Proteus 2000	Instruments	0253 wnd:Tenor Sax	
+E-MU Systems	Proteus 2000	Instruments	0254 wnd:Sax Wave	
+E-MU Systems	Proteus 2000	Instruments	0255 wnd:Bari Sax 1	
+E-MU Systems	Proteus 2000	Instruments	0256 wnd:Bari Sax 2	
+E-MU Systems	Proteus 2000	Instruments	0257 wnd:Sax Riff	
+E-MU Systems	Proteus 2000	Instruments	0258 wnd:Sax FX 1	
+E-MU Systems	Proteus 2000	Instruments	0259 wnd:Sax FX 2	
+E-MU Systems	Proteus 2000	Instruments	0260 wnd:Sax FX 3	
+E-MU Systems	Proteus 2000	Instruments	0261 wnd:Bottle Blow	
+E-MU Systems	Proteus 2000	Instruments	0262 wnd:Shenai	
+E-MU Systems	Proteus 2000	Instruments	0263 wnd:Harmonica	
+E-MU Systems	Proteus 2000	Instruments	0264 vox:Pop Oohs	
+E-MU Systems	Proteus 2000	Instruments	0265 vox:Pop Aahs	
+E-MU Systems	Proteus 2000	Instruments	0266 vox:Soul Oohs	
+E-MU Systems	Proteus 2000	Instruments	0267 vox:Breathy 1	
+E-MU Systems	Proteus 2000	Instruments	0268 vox:Breathy 2	
+E-MU Systems	Proteus 2000	Instruments	0269 vox:Very Breathy	
+E-MU Systems	Proteus 2000	Instruments	0270 vox:VS Wave	
+E-MU Systems	Proteus 2000	Instruments	0271 vox:Choir Wave	
+E-MU Systems	Proteus 2000	Instruments	0272 vox:Jax Breath	
+E-MU Systems	Proteus 2000	Instruments	0273 vox:Vox Synth	
+E-MU Systems	Proteus 2000	Instruments	0274 vox:Orch Vox	
+E-MU Systems	Proteus 2000	Instruments	0275 vox:CMI Breath	
+E-MU Systems	Proteus 2000	Instruments	0276 vox:Tarzana	
+E-MU Systems	Proteus 2000	Instruments	0277 vox:Gothic	
+E-MU Systems	Proteus 2000	Instruments	0278 vox:Oow	
+E-MU Systems	Proteus 2000	Instruments	0279 vox:Comon Vox	
+E-MU Systems	Proteus 2000	Instruments	0280 vox:Odd Vox	
+E-MU Systems	Proteus 2000	Instruments	0281 vox:Mmm Hmm	
+E-MU Systems	Proteus 2000	Instruments	0282 vox:Ah Hah	
+E-MU Systems	Proteus 2000	Instruments	0283 wav:PWM	
+E-MU Systems	Proteus 2000	Instruments	0284 wav:Eraser	
+E-MU Systems	Proteus 2000	Instruments	0285 wav:M12 Sync	
+E-MU Systems	Proteus 2000	Instruments	0286 wav:Stereo Synth	
+E-MU Systems	Proteus 2000	Instruments	0287 wav:FeedbackWave	
+E-MU Systems	Proteus 2000	Instruments	0288 wav:MetalAttack	
+E-MU Systems	Proteus 2000	Instruments	0289 wav:Arp 1	
+E-MU Systems	Proteus 2000	Instruments	0290 wav:Arp 2	
+E-MU Systems	Proteus 2000	Instruments	0291 wav:Arp 3	
+E-MU Systems	Proteus 2000	Instruments	0292 wav:ARP Lead	
+E-MU Systems	Proteus 2000	Instruments	0293 wav:Metal 1	
+E-MU Systems	Proteus 2000	Instruments	0294 wav:Metal 2	
+E-MU Systems	Proteus 2000	Instruments	0295 wav:Metal 3	
+E-MU Systems	Proteus 2000	Instruments	0296 wav:PPG	
+E-MU Systems	Proteus 2000	Instruments	0297 wav:VS Vox	
+E-MU Systems	Proteus 2000	Instruments	0298 wav:VS37	
+E-MU Systems	Proteus 2000	Instruments	0299 wav:VS48	
+E-MU Systems	Proteus 2000	Instruments	0300 wav:Rezzy	
+E-MU Systems	Proteus 2000	Instruments	0301 wav:Glass Perc	
+E-MU Systems	Proteus 2000	Instruments	0302 wav:Moog Lead	
+E-MU Systems	Proteus 2000	Instruments	0303 wav:Fretless	
+E-MU Systems	Proteus 2000	Instruments	0304 wav:Magic	
+E-MU Systems	Proteus 2000	Instruments	0305 wav:ES Rag	
+E-MU Systems	Proteus 2000	Instruments	0306 wav:Chime	
+E-MU Systems	Proteus 2000	Instruments	0307 wav:Pure H20	
+E-MU Systems	Proteus 2000	Instruments	0308 wav:Log Hit	
+E-MU Systems	Proteus 2000	Instruments	0309 wav:Pluck Tone	
+E-MU Systems	Proteus 2000	Instruments	0310 wav:Hollow Deep	
+E-MU Systems	Proteus 2000	Instruments	0311 wav:Bell Synth	
+E-MU Systems	Proteus 2000	Instruments	0312 wav:Syn Tone	
+E-MU Systems	Proteus 2000	Instruments	0313 wav:Perc Axe Syn	
+E-MU Systems	Proteus 2000	Instruments	0314 wav:Whine	
+E-MU Systems	Proteus 2000	Instruments	0315 wav:CZ101 Digi	
+E-MU Systems	Proteus 2000	Instruments	0316 wav:CZ Lead	
+E-MU Systems	Proteus 2000	Instruments	0317 wav:CZ Echo Lead	
+E-MU Systems	Proteus 2000	Instruments	0318 wav:Wild Synth	
+E-MU Systems	Proteus 2000	Instruments	0319 wav:Spacey Keys	
+E-MU Systems	Proteus 2000	Instruments	0320 wav:Dig Buzz Syn	
+E-MU Systems	Proteus 2000	Instruments	0321 wav:Rast Keys	
+E-MU Systems	Proteus 2000	Instruments	0322 wav:Narrow Synth	
+E-MU Systems	Proteus 2000	Instruments	0323 wav:Fat Attack	
+E-MU Systems	Proteus 2000	Instruments	0324 wav:Synthetic	
+E-MU Systems	Proteus 2000	Instruments	0325 wav:Overtone Syn	
+E-MU Systems	Proteus 2000	Instruments	0326 wav:Buzz Saw Syn	
+E-MU Systems	Proteus 2000	Instruments	0327 wav:Blipper	
+E-MU Systems	Proteus 2000	Instruments	0328 wav:Full Synth	
+E-MU Systems	Proteus 2000	Instruments	0329 wav:Bass Synth	
+E-MU Systems	Proteus 2000	Instruments	0330 wav:Mini Lead	
+E-MU Systems	Proteus 2000	Instruments	0331 wav:M12 Lead	
+E-MU Systems	Proteus 2000	Instruments	0332 wav:Sync 1	
+E-MU Systems	Proteus 2000	Instruments	0333 wav:Sync 2	
+E-MU Systems	Proteus 2000	Instruments	0334 wav:Sync 3	
+E-MU Systems	Proteus 2000	Instruments	0335 wav:Sync 4	
+E-MU Systems	Proteus 2000	Instruments	0336 wav:Sync 5	
+E-MU Systems	Proteus 2000	Instruments	0337 wav:Sync 6	
+E-MU Systems	Proteus 2000	Instruments	0338 wav:Pop Square	
+E-MU Systems	Proteus 2000	Instruments	0339 wav:Juno Square	
+E-MU Systems	Proteus 2000	Instruments	0340 wav:SquareAttack	
+E-MU Systems	Proteus 2000	Instruments	0341 wav:Square Lead	
+E-MU Systems	Proteus 2000	Instruments	0342 wav:SquareChorus	
+E-MU Systems	Proteus 2000	Instruments	0343 wav:Juno Pulse	
+E-MU Systems	Proteus 2000	Instruments	0344 wav:Worm Lead 1	
+E-MU Systems	Proteus 2000	Instruments	0345 wav:Worm Lead 2	
+E-MU Systems	Proteus 2000	Instruments	0346 wav:Worm Lead 3	
+E-MU Systems	Proteus 2000	Instruments	0347 wav:Worm Lead 4	
+E-MU Systems	Proteus 2000	Instruments	0348 wav:Worm Lead 5	
+E-MU Systems	Proteus 2000	Instruments	0349 wav:Worm Lead 6	
+E-MU Systems	Proteus 2000	Instruments	0350 wav:Sinusoid	
+E-MU Systems	Proteus 2000	Instruments	0351 wav:Sine Wave 2	
+E-MU Systems	Proteus 2000	Instruments	0352 wav:Sine Squared	
+E-MU Systems	Proteus 2000	Instruments	0353 wav:Sine Inv Sqr	
+E-MU Systems	Proteus 2000	Instruments	0354 wav:Sine Cubed	
+E-MU Systems	Proteus 2000	Instruments	0355 wav:SineInvCubed	
+E-MU Systems	Proteus 2000	Instruments	0356 wav:Triangle	
+E-MU Systems	Proteus 2000	Instruments	0357 wav:Square	
+E-MU Systems	Proteus 2000	Instruments	0358 wav:Sawtooth 1	
+E-MU Systems	Proteus 2000	Instruments	0359 wav:Sawtooth 2	
+E-MU Systems	Proteus 2000	Instruments	0360 wav:Pulse Plus	
+E-MU Systems	Proteus 2000	Instruments	0361 wav:Pulse 75%	
+E-MU Systems	Proteus 2000	Instruments	0362 wav:Pulse 90%	
+E-MU Systems	Proteus 2000	Instruments	0363 wav:Pulse 94%	
+E-MU Systems	Proteus 2000	Instruments	0364 wav:Pulse 96%	
+E-MU Systems	Proteus 2000	Instruments	0365 wav:Pulse 98%	
+E-MU Systems	Proteus 2000	Instruments	0366 wav:FourOctaves	
+E-MU Systems	Proteus 2000	Instruments	0367 wav:Low Odds	
+E-MU Systems	Proteus 2000	Instruments	0368 wav:Low Evens	
+E-MU Systems	Proteus 2000	Instruments	0369 syn:Saw Stack	
+E-MU Systems	Proteus 2000	Instruments	0370 syn:Moog 55	
+E-MU Systems	Proteus 2000	Instruments	0371 syn:Buzz Synth	
+E-MU Systems	Proteus 2000	Instruments	0372 syn:Bender	
+E-MU Systems	Proteus 2000	Instruments	0373 syn:Soft Synth	
+E-MU Systems	Proteus 2000	Instruments	0374 syn:Hi String	
+E-MU Systems	Proteus 2000	Instruments	0375 syn:OBX Saws	
+E-MU Systems	Proteus 2000	Instruments	0376 syn:Big Planet	
+E-MU Systems	Proteus 2000	Instruments	0377 syn:Saw Sweep	
+E-MU Systems	Proteus 2000	Instruments	0378 wav:Juno Pulse	
+E-MU Systems	Proteus 2000	Instruments	0379 syn:CZ Synstring	
+E-MU Systems	Proteus 2000	Instruments	0380 syn:SynEnsemble	
+E-MU Systems	Proteus 2000	Instruments	0381 syn:Rezzy Wave	
+E-MU Systems	Proteus 2000	Instruments	0382 syn:Heavy	
+E-MU Systems	Proteus 2000	Instruments	0383 syn:Rez Synth	
+E-MU Systems	Proteus 2000	Instruments	0384 syn:Hi Oct Synth	
+E-MU Systems	Proteus 2000	Instruments	0385 syn:Mood Strings	
+E-MU Systems	Proteus 2000	Instruments	0386 syn:Brazz	
+E-MU Systems	Proteus 2000	Instruments	0387 syn:Synth Brass	
+E-MU Systems	Proteus 2000	Instruments	0388 syn:P5 Brass	
+E-MU Systems	Proteus 2000	Instruments	0389 pad:JP6 Pad	
+E-MU Systems	Proteus 2000	Instruments	0390 pad:Dreamy	
+E-MU Systems	Proteus 2000	Instruments	0391 pad:Phat Pad	
+E-MU Systems	Proteus 2000	Instruments	0392 pad:Synth Pad	
+E-MU Systems	Proteus 2000	Instruments	0393 pad:Pad Life	
+E-MU Systems	Proteus 2000	Instruments	0394 pad:Classic	
+E-MU Systems	Proteus 2000	Instruments	0395 pad:Dream Pad	
+E-MU Systems	Proteus 2000	Instruments	0396 pad:Paddy	
+E-MU Systems	Proteus 2000	Instruments	0397 pad:Dance Chord	
+E-MU Systems	Proteus 2000	Instruments	0398 pad:Zoom	
+E-MU Systems	Proteus 2000	Instruments	0399 pad:Keyngdom	
+E-MU Systems	Proteus 2000	Instruments	0400 pad:Under Pad FM	
+E-MU Systems	Proteus 2000	Instruments	0401 pad:Xylo Pad	
+E-MU Systems	Proteus 2000	Instruments	0402 hit:Organ Hits 1	
+E-MU Systems	Proteus 2000	Instruments	0403 hit:Organ Hits 2	
+E-MU Systems	Proteus 2000	Instruments	0404 hit:Basses	
+E-MU Systems	Proteus 2000	Instruments	0405 hit:Synth Basses	
+E-MU Systems	Proteus 2000	Instruments	0406 hit:Guitars	
+E-MU Systems	Proteus 2000	Instruments	0407 hit:String Hits	
+E-MU Systems	Proteus 2000	Instruments	0408 hit:Brass Hits 1	
+E-MU Systems	Proteus 2000	Instruments	0409 hit:Brass Hits 2	
+E-MU Systems	Proteus 2000	Instruments	0410 hit:Vox Hits 1	
+E-MU Systems	Proteus 2000	Instruments	0411 hit:Vox Hits 2	
+E-MU Systems	Proteus 2000	Instruments	0412 hit:Dance Hits 1	
+E-MU Systems	Proteus 2000	Instruments	0413 hit:Dance Hits 2	
+E-MU Systems	Proteus 2000	Instruments	0414 hit:Organ Hit 1	
+E-MU Systems	Proteus 2000	Instruments	0415 hit:Organ Hit 2	
+E-MU Systems	Proteus 2000	Instruments	0416 hit:Organ Hit 3	
+E-MU Systems	Proteus 2000	Instruments	0417 hit:Organ Hit 4	
+E-MU Systems	Proteus 2000	Instruments	0418 hit:Organ Hit 5	
+E-MU Systems	Proteus 2000	Instruments	0419 hit:Organ Hit 6	
+E-MU Systems	Proteus 2000	Instruments	0420 hit:Bass Stab 1	
+E-MU Systems	Proteus 2000	Instruments	0421 hit:Bass Stab 2	
+E-MU Systems	Proteus 2000	Instruments	0422 hit:Bass Slide	
+E-MU Systems	Proteus 2000	Instruments	0423 hit:Orch C3	
+E-MU Systems	Proteus 2000	Instruments	0424 hit:UnisonString	
+E-MU Systems	Proteus 2000	Instruments	0425 hit:Unison Brass	
+E-MU Systems	Proteus 2000	Instruments	0426 hit:Brass Hit 1	
+E-MU Systems	Proteus 2000	Instruments	0427 hit:Brass Hit 2	
+E-MU Systems	Proteus 2000	Instruments	0428 hit:Brass Hit 3	
+E-MU Systems	Proteus 2000	Instruments	0429 hit:Brass Hit 4	
+E-MU Systems	Proteus 2000	Instruments	0430 hit:Brass Hit 5	
+E-MU Systems	Proteus 2000	Instruments	0431 hit:Brass Hit 6	
+E-MU Systems	Proteus 2000	Instruments	0432 hit:Brass Hit 7	
+E-MU Systems	Proteus 2000	Instruments	0433 hit:Brass Hit 8	
+E-MU Systems	Proteus 2000	Instruments	0434 hit:Brass Hit 9	
+E-MU Systems	Proteus 2000	Instruments	0435 hit:Brass Hit 10	
+E-MU Systems	Proteus 2000	Instruments	0436 hit:Brass Hit 11	
+E-MU Systems	Proteus 2000	Instruments	0437 hit:Brass Hit 12	
+E-MU Systems	Proteus 2000	Instruments	0438 hit:Brass Hit 13	
+E-MU Systems	Proteus 2000	Instruments	0439 hit:Brass Hit 14	
+E-MU Systems	Proteus 2000	Instruments	0440 hit:Brass Hit 15	
+E-MU Systems	Proteus 2000	Instruments	0441 hit:Brass Hit 16	
+E-MU Systems	Proteus 2000	Instruments	0442 hit:Brass Hit 17	
+E-MU Systems	Proteus 2000	Instruments	0443 hit:Brass Hit 18	
+E-MU Systems	Proteus 2000	Instruments	0444 hit:Brass Hit 19	
+E-MU Systems	Proteus 2000	Instruments	0445 hit:Brass Hit 20	
+E-MU Systems	Proteus 2000	Instruments	0446 hit:Boink	
+E-MU Systems	Proteus 2000	Instruments	0447 hit:Fat Low Syn	
+E-MU Systems	Proteus 2000	Instruments	0448 hit:Hit On It	
+E-MU Systems	Proteus 2000	Instruments	0449 hit:Jazz Short	
+E-MU Systems	Proteus 2000	Instruments	0450 hit:Blamp Hit	
+E-MU Systems	Proteus 2000	Instruments	0451 hit:Blipp	
+E-MU Systems	Proteus 2000	Instruments	0452 hit:Buzz Blip	
+E-MU Systems	Proteus 2000	Instruments	0453 hit:Game Hit	
+E-MU Systems	Proteus 2000	Instruments	0454 hit:Diss Hit	
+E-MU Systems	Proteus 2000	Instruments	0455 hit:Bell Hit	
+E-MU Systems	Proteus 2000	Instruments	0456 hit:Klang Hit	
+E-MU Systems	Proteus 2000	Instruments	0457 hit:Metal Hit	
+E-MU Systems	Proteus 2000	Instruments	0458 hit:Slinky Q Hit	
+E-MU Systems	Proteus 2000	Instruments	0459 hit:Space Whip	
+E-MU Systems	Proteus 2000	Instruments	0460 hit:Short Quack	
+E-MU Systems	Proteus 2000	Instruments	0461 hit:Quack Ahhh	
+E-MU Systems	Proteus 2000	Instruments	0462 hit:Bowser Bark	
+E-MU Systems	Proteus 2000	Instruments	0463 hit:Chiffin	
+E-MU Systems	Proteus 2000	Instruments	0464 hit:Ripped	
+E-MU Systems	Proteus 2000	Instruments	0465 hit:Drum Stab	
+E-MU Systems	Proteus 2000	Instruments	0466 hit:Hip Hop Hit	
+E-MU Systems	Proteus 2000	Instruments	0467 hit:Drum Stall	
+E-MU Systems	Proteus 2000	Instruments	0468 hit:Dance Hit 1	
+E-MU Systems	Proteus 2000	Instruments	0469 hit:Dance Hit 2	
+E-MU Systems	Proteus 2000	Instruments	0470 hit:Dance Hit 3	
+E-MU Systems	Proteus 2000	Instruments	0471 hit:Dance Hit 4	
+E-MU Systems	Proteus 2000	Instruments	0472 hit:Dance Hit 5	
+E-MU Systems	Proteus 2000	Instruments	0473 hit:Dance Hit 6	
+E-MU Systems	Proteus 2000	Instruments	0474 hit:Dance Hit 7	
+E-MU Systems	Proteus 2000	Instruments	0475 hit:Dance Hit 8	
+E-MU Systems	Proteus 2000	Instruments	0476 hit:Dance Hit 9	
+E-MU Systems	Proteus 2000	Instruments	0477 hit:Dance Hit 10	
+E-MU Systems	Proteus 2000	Instruments	0478 hit:Dance Hit 11	
+E-MU Systems	Proteus 2000	Instruments	0479 hit:Dance Hit 12	
+E-MU Systems	Proteus 2000	Instruments	0480 hit:Dance Hit 13	
+E-MU Systems	Proteus 2000	Instruments	0481 hit:Dance Hit 14	
+E-MU Systems	Proteus 2000	Instruments	0482 hit:Dance Hit 15	
+E-MU Systems	Proteus 2000	Instruments	0483 hit:Dance Hit 16	
+E-MU Systems	Proteus 2000	Instruments	0484 hit:Dance Hit 17	
+E-MU Systems	Proteus 2000	Instruments	0485 hit:Dance Hit 18	
+E-MU Systems	Proteus 2000	Instruments	0486 hit:Dance Hit 19	
+E-MU Systems	Proteus 2000	Instruments	0487 hit:Dance Hit 20	
+E-MU Systems	Proteus 2000	Instruments	0488 hit:Dance Hit 21	
+E-MU Systems	Proteus 2000	Instruments	0489 hit:Dance Hit 22	
+E-MU Systems	Proteus 2000	Instruments	0490 hit:Dance Hit 23	
+E-MU Systems	Proteus 2000	Instruments	0491 hit:Dance Hit 24	
+E-MU Systems	Proteus 2000	Instruments	0492 hit:Dance Hit 25	
+E-MU Systems	Proteus 2000	Instruments	0493 hit:Dance Hit 26	
+E-MU Systems	Proteus 2000	Instruments	0494 hit:Dance Hit 27	
+E-MU Systems	Proteus 2000	Instruments	0495 sfx:Q Snap	
+E-MU Systems	Proteus 2000	Instruments	0496 sfx:Bass Scrape	
+E-MU Systems	Proteus 2000	Instruments	0497 sfx:Bass Thud	
+E-MU Systems	Proteus 2000	Instruments	0498 sfx:Gtr Scrape 1	
+E-MU Systems	Proteus 2000	Instruments	0499 sfx:Gtr Scrape 2	
+E-MU Systems	Proteus 2000	Instruments	0500 sfx:Guitar Pick	
+E-MU Systems	Proteus 2000	Instruments	0501 sfx:GtrBodyKnock	
+E-MU Systems	Proteus 2000	Instruments	0502 sfx:StringScrape	
+E-MU Systems	Proteus 2000	Instruments	0503 sfx:Tpt Breath	
+E-MU Systems	Proteus 2000	Instruments	0504 sfx:Alto Breath	
+E-MU Systems	Proteus 2000	Instruments	0505 sfx:PnoSndBoard	
+E-MU Systems	Proteus 2000	Instruments	0506 sfx:Loop 1	
+E-MU Systems	Proteus 2000	Instruments	0507 sfx:Loop 2	
+E-MU Systems	Proteus 2000	Instruments	0508 sfx:Loop 3	
+E-MU Systems	Proteus 2000	Instruments	0509 sfx:Loop 4	
+E-MU Systems	Proteus 2000	Instruments	0510 sfx:Loop 5	
+E-MU Systems	Proteus 2000	Instruments	0511 sfx:Loop 6	
+E-MU Systems	Proteus 2000	Instruments	0512 sfx:Loop 7	
+E-MU Systems	Proteus 2000	Instruments	0513 sfx:Loop 8	
+E-MU Systems	Proteus 2000	Instruments	0514 sfx:Crickets	
+E-MU Systems	Proteus 2000	Instruments	0515 sfx:Crowd	
+E-MU Systems	Proteus 2000	Instruments	0516 sfx:Music Crowd	
+E-MU Systems	Proteus 2000	Instruments	0517 sfx:Lawn Mower	
+E-MU Systems	Proteus 2000	Instruments	0518 sfx:Riff Trip	
+E-MU Systems	Proteus 2000	Instruments	0519 sfx:Cyber Pan	
+E-MU Systems	Proteus 2000	Instruments	0520 sfx:Groove Thing	
+E-MU Systems	Proteus 2000	Instruments	0521 sfx:Science	
+E-MU Systems	Proteus 2000	Instruments	0522 sfx:Sci Fi	
+E-MU Systems	Proteus 2000	Instruments	0523 sfx:Synth Siren	
+E-MU Systems	Proteus 2000	Instruments	0524 sfx:Space Wiggle	
+E-MU Systems	Proteus 2000	Instruments	0525 sfx:Sqweal Rev	
+E-MU Systems	Proteus 2000	Instruments	0526 nse:White 1	
+E-MU Systems	Proteus 2000	Instruments	0527 nse:No Pitch	
+E-MU Systems	Proteus 2000	Instruments	0528 nse:Pink 1	
+E-MU Systems	Proteus 2000	Instruments	0529 nse:Pink 2	
+E-MU Systems	Proteus 2000	Instruments	0530 nse:Spectrum 1	
+E-MU Systems	Proteus 2000	Instruments	0531 nse:Spectrum 2	
+E-MU Systems	Proteus 2000	Instruments	0532 nse:Spectrum 3	
+E-MU Systems	Proteus 2000	Instruments	0533 nse:Spectrum 4	
+E-MU Systems	Proteus 2000	Instruments	0534 nse:Air	
+E-MU Systems	Proteus 2000	Instruments	0535 nse:High Pass	
+E-MU Systems	Proteus 2000	Instruments	0536 nse:Excited HP	
+E-MU Systems	Proteus 2000	Instruments	0537 nse:IP Wave	
+E-MU Systems	Proteus 2000	Instruments	0538 nse:Metal Noise	
+E-MU Systems	Proteus 2000	Instruments	0539 nse:Vinyl 1	
+E-MU Systems	Proteus 2000	Instruments	0540 nse:Vinyl 2	
+E-MU Systems	Proteus 2000	Instruments	0541 nse:Vinyl 3	
+E-MU Systems	Proteus 2000	Instruments	0542 nse:Vinyl 4	
+E-MU Systems	Proteus 2000	Instruments	0543 nse:Vinyl 1 NTF	
+E-MU Systems	Proteus 2000	Instruments	0544 nse:Vinyl 2 NTF	
+E-MU Systems	Proteus 2000	Instruments	0545 nse:Vinyl 3 NTF	
+E-MU Systems	Proteus 2000	Instruments	0546 nse:Vinyl 4 NTF	
+E-MU Systems	Proteus 2000	Instruments	0547 nse:CMI Hot Air	
+E-MU Systems	Proteus 2000	Instruments	0548 nse:L9000 Noise	
+E-MU Systems	Proteus 2000	Instruments	0549 scr:Scratches 1	
+E-MU Systems	Proteus 2000	Instruments	0550 scr:Scratches 2	
+E-MU Systems	Proteus 2000	Instruments	0551 scr:Vinyl Set	
+E-MU Systems	Proteus 2000	Instruments	0552 scr:Stalled	
+E-MU Systems	Proteus 2000	Instruments	0553 scr:Wind Down 1	
+E-MU Systems	Proteus 2000	Instruments	0554 scr:Wind Down 2	
+E-MU Systems	Proteus 2000	Instruments	0555 scr:Draggit	
+E-MU Systems	Proteus 2000	Instruments	0556 scr:MC Scratch	
+E-MU Systems	Proteus 2000	Instruments	0557 scr:Fun Scratch	
+E-MU Systems	Proteus 2000	Instruments	0558 scr:SSSSystem 1	
+E-MU Systems	Proteus 2000	Instruments	0559 scr:SSSSystem 2	
+E-MU Systems	Proteus 2000	Instruments	0560 scr:Scratch Here	
+E-MU Systems	Proteus 2000	Instruments	0561 scr:Scratch On I	
+E-MU Systems	Proteus 2000	Instruments	0562 scr:Scratch Diss	
+E-MU Systems	Proteus 2000	Instruments	0563 scr:Bow Wow	
+E-MU Systems	Proteus 2000	Instruments	0564 scr:Diva Scratch	
+E-MU Systems	Proteus 2000	Instruments	0565 scr:OrganBlipper	
+E-MU Systems	Proteus 2000	Instruments	0566 scr:Classic Tape	
+E-MU Systems	Proteus 2000	Instruments	0567 scr:Scratch Out!	
+E-MU Systems	Proteus 2000	Instruments	0568 scr:Punch It	
+E-MU Systems	Proteus 2000	Instruments	0569 scr:Ork Scratch	
+E-MU Systems	Proteus 2000	Instruments	0570 scr:Tape Stop	
+E-MU Systems	Proteus 2000	Instruments	0571 scr:Zip Scratch	
+E-MU Systems	Proteus 2000	Instruments	0572 scr:Tape Pull	
+E-MU Systems	Proteus 2000	Instruments	0573 scr:Wild Scratch	
+E-MU Systems	Proteus 2000	Instruments	0574 scr:Up Scratch	
+E-MU Systems	Proteus 2000	Instruments	0575 scr:Scratch Away	
+E-MU Systems	Proteus 2000	Instruments	0576 scr:Frenzy	
+E-MU Systems	Proteus 2000	Instruments	0577 scr:KickScratch1	
+E-MU Systems	Proteus 2000	Instruments	0578 scr:KickScratch2	
+E-MU Systems	Proteus 2000	Instruments	0579 scr:SnareScratch	
+E-MU Systems	Proteus 2000	Instruments	0580 scr:Tite Scratch	
+E-MU Systems	Proteus 2000	Instruments	0581 scr:Scratch Up	
+E-MU Systems	Proteus 2000	Instruments	0582 scr:Barker	
+E-MU Systems	Proteus 2000	Instruments	0583 scr:Plunger	
+E-MU Systems	Proteus 2000	Instruments	0584 scr:Skipper	
+E-MU Systems	Proteus 2000	Instruments	0585 scr:Fast Scratch	
+E-MU Systems	Proteus 2000	Instruments	0586 prc:Soft Vibes	
+E-MU Systems	Proteus 2000	Instruments	0587 prc:Hard Vibes	
+E-MU Systems	Proteus 2000	Instruments	0588 prc:Xylophone	
+E-MU Systems	Proteus 2000	Instruments	0589 prc:Marimba	
+E-MU Systems	Proteus 2000	Instruments	0590 prc:Kalimba	
+E-MU Systems	Proteus 2000	Instruments	0591 prc:Plexitone	
+E-MU Systems	Proteus 2000	Instruments	0592 prc:Orchestral	
+E-MU Systems	Proteus 2000	Instruments	0593 prc:Miscellany	
+E-MU Systems	Proteus 2000	Instruments	0594 prc:FM Log Drum	
+E-MU Systems	Proteus 2000	Instruments	0595 prc:SynDrum Wave	
+E-MU Systems	Proteus 2000	Instruments	0596 prc:X-ite Tick	
+E-MU Systems	Proteus 2000	Instruments	0597 prc:Kicks 1	
+E-MU Systems	Proteus 2000	Instruments	0598 prc:Kicks 2	
+E-MU Systems	Proteus 2000	Instruments	0599 prc:Snares 1	
+E-MU Systems	Proteus 2000	Instruments	0600 prc:Snares 2	
+E-MU Systems	Proteus 2000	Instruments	0601 prc:Toms 1	
+E-MU Systems	Proteus 2000	Instruments	0602 prc:Toms 2	
+E-MU Systems	Proteus 2000	Instruments	0603 prc:Timbales 1	
+E-MU Systems	Proteus 2000	Instruments	0604 prc:Timbales 2	
+E-MU Systems	Proteus 2000	Instruments	0605 prc:Congas etc 1	
+E-MU Systems	Proteus 2000	Instruments	0606 prc:Congas etc 2	
+E-MU Systems	Proteus 2000	Instruments	0607 prc:Hats 1	
+E-MU Systems	Proteus 2000	Instruments	0608 prc:Hats 2	
+E-MU Systems	Proteus 2000	Instruments	0609 prc:Cymbals 1	
+E-MU Systems	Proteus 2000	Instruments	0610 prc:Cymbals 2	
+E-MU Systems	Proteus 2000	Instruments	0611 prc:Shakers	
+E-MU Systems	Proteus 2000	Instruments	0612 prc:Maracas	
+E-MU Systems	Proteus 2000	Instruments	0613 prc:Bells 1	
+E-MU Systems	Proteus 2000	Instruments	0614 prc:Bells 2	
+E-MU Systems	Proteus 2000	Instruments	0615 prc:Blocks 1	
+E-MU Systems	Proteus 2000	Instruments	0616 prc:Blocks 2	
+E-MU Systems	Proteus 2000	Instruments	0617 prc:Tams 1	
+E-MU Systems	Proteus 2000	Instruments	0618 prc:Tams 2	
+E-MU Systems	Proteus 2000	Instruments	0619 prc:Claps 1	
+E-MU Systems	Proteus 2000	Instruments	0620 prc:Claps 2	
+E-MU Systems	Proteus 2000	Instruments	0621 prc:Snaps	
+E-MU Systems	Proteus 2000	Instruments	0622 prc:Claves	
+E-MU Systems	Proteus 2000	Instruments	0623 prc:Vibraslap	
+E-MU Systems	Proteus 2000	Instruments	0624 prc:Guiro Roll	
+E-MU Systems	Proteus 2000	Instruments	0625 prc:Cowbells	
+E-MU Systems	Proteus 2000	Instruments	0626 prc:Agogos	
+E-MU Systems	Proteus 2000	Instruments	0627 prc:Carillon	
+E-MU Systems	Proteus 2000	Instruments	0628 prc:Misc Perc 1	
+E-MU Systems	Proteus 2000	Instruments	0629 prc:Misc Perc 2	
+E-MU Systems	Proteus 2000	Instruments	0630 kit:Acoustic 1&2	
+E-MU Systems	Proteus 2000	Instruments	0631 kit:Acoustic 3&4	
+E-MU Systems	Proteus 2000	Instruments	0632 kit:Dance Set	
+E-MU Systems	Proteus 2000	Instruments	0633 kit:Dance Perc	
+E-MU Systems	Proteus 2000	Instruments	0634 kit:Kit 1	
+E-MU Systems	Proteus 2000	Instruments	0635 kit:Kit 2	
+E-MU Systems	Proteus 2000	Instruments	0636 kit:Kit 3	
+E-MU Systems	Proteus 2000	Instruments	0637 kit:Kit 4	
+E-MU Systems	Proteus 2000	Instruments	0638 kit:Kit 5	
+E-MU Systems	Proteus 2000	Instruments	0639 kit:Kit 6	
+E-MU Systems	Proteus 2000	Instruments	0640 kit:Kit 7	
+E-MU Systems	Proteus 2000	Instruments	0641 kit:Kit 8	
+E-MU Systems	Proteus 2000	Instruments	0642 kit:Kit 9	
+E-MU Systems	Proteus 2000	Instruments	0643 kit:Kit 10	
+E-MU Systems	Proteus 2000	Instruments	0644 kit:Kit 11	
+E-MU Systems	Proteus 2000	Instruments	0645 kit:Kit 12	
+E-MU Systems	Proteus 2000	Instruments	0646 kit:Kit 13	
+E-MU Systems	Proteus 2000	Instruments	0647 kit:Kit 14	
+E-MU Systems	Proteus 2000	Instruments	0648 kit:Kit 15	
+E-MU Systems	Proteus 2000	Instruments	0649 kit:Kit 16	
+E-MU Systems	Proteus 2000	Instruments	0650 kit:GM Dance	
+E-MU Systems	Proteus 2000	Instruments	0651 kit:Swing Hop	
+E-MU Systems	Proteus 2000	Instruments	0652 kit:Swing Hop 2	
+E-MU Systems	Proteus 2000	Instruments	0653 kit:Swing Hop 3	
+E-MU Systems	Proteus 2000	Instruments	0654 prc:Kick 1	
+E-MU Systems	Proteus 2000	Instruments	0655 prc:Kick 2	
+E-MU Systems	Proteus 2000	Instruments	0656 prc:Kick 3	
+E-MU Systems	Proteus 2000	Instruments	0657 prc:Kick 4	
+E-MU Systems	Proteus 2000	Instruments	0658 prc:Kick 5	
+E-MU Systems	Proteus 2000	Instruments	0659 prc:Kick 6	
+E-MU Systems	Proteus 2000	Instruments	0660 prc:Kick 7	
+E-MU Systems	Proteus 2000	Instruments	0661 prc:Kick 8	
+E-MU Systems	Proteus 2000	Instruments	0662 prc:Kick 9	
+E-MU Systems	Proteus 2000	Instruments	0663 prc:Kick 10	
+E-MU Systems	Proteus 2000	Instruments	0664 prc:Kick 11	
+E-MU Systems	Proteus 2000	Instruments	0665 prc:Kick 12	
+E-MU Systems	Proteus 2000	Instruments	0666 prc:Kick 13	
+E-MU Systems	Proteus 2000	Instruments	0667 prc:Kick 14	
+E-MU Systems	Proteus 2000	Instruments	0668 prc:Kick 15	
+E-MU Systems	Proteus 2000	Instruments	0669 prc:Kick 16	
+E-MU Systems	Proteus 2000	Instruments	0670 prc:Kick 17	
+E-MU Systems	Proteus 2000	Instruments	0671 prc:Kick 18	
+E-MU Systems	Proteus 2000	Instruments	0672 prc:Kick 19	
+E-MU Systems	Proteus 2000	Instruments	0673 prc:Kick 20	
+E-MU Systems	Proteus 2000	Instruments	0674 prc:Kick 21	
+E-MU Systems	Proteus 2000	Instruments	0675 prc:Kick 22	
+E-MU Systems	Proteus 2000	Instruments	0676 prc:Kick 23	
+E-MU Systems	Proteus 2000	Instruments	0677 prc:Kick 24	
+E-MU Systems	Proteus 2000	Instruments	0678 prc:Kick 25	
+E-MU Systems	Proteus 2000	Instruments	0679 prc:Kick 26	
+E-MU Systems	Proteus 2000	Instruments	0680 prc:Kick 27	
+E-MU Systems	Proteus 2000	Instruments	0681 prc:Kick 28	
+E-MU Systems	Proteus 2000	Instruments	0682 prc:Kick 29	
+E-MU Systems	Proteus 2000	Instruments	0683 prc:Kick 30	
+E-MU Systems	Proteus 2000	Instruments	0684 prc:Kick 31	
+E-MU Systems	Proteus 2000	Instruments	0685 prc:Kick 32	
+E-MU Systems	Proteus 2000	Instruments	0686 prc:Kick 33	
+E-MU Systems	Proteus 2000	Instruments	0687 prc:Kick 34	
+E-MU Systems	Proteus 2000	Instruments	0688 prc:Kick 35	
+E-MU Systems	Proteus 2000	Instruments	0689 prc:Kick 36	
+E-MU Systems	Proteus 2000	Instruments	0690 prc:Kick 37	
+E-MU Systems	Proteus 2000	Instruments	0691 prc:Kick 38	
+E-MU Systems	Proteus 2000	Instruments	0692 prc:Kick 39	
+E-MU Systems	Proteus 2000	Instruments	0693 prc:Kick 40	
+E-MU Systems	Proteus 2000	Instruments	0694 prc:Kick 41	
+E-MU Systems	Proteus 2000	Instruments	0695 prc:Kick 42	
+E-MU Systems	Proteus 2000	Instruments	0696 prc:Kick 43	
+E-MU Systems	Proteus 2000	Instruments	0697 prc:Kick 44	
+E-MU Systems	Proteus 2000	Instruments	0698 prc:Kick 45	
+E-MU Systems	Proteus 2000	Instruments	0699 prc:Kick 46	
+E-MU Systems	Proteus 2000	Instruments	0700 prc:Kick 47	
+E-MU Systems	Proteus 2000	Instruments	0701 prc:Kick 48	
+E-MU Systems	Proteus 2000	Instruments	0702 prc:Kick 49	
+E-MU Systems	Proteus 2000	Instruments	0703 prc:Kick 50	
+E-MU Systems	Proteus 2000	Instruments	0704 prc:Kick 51	
+E-MU Systems	Proteus 2000	Instruments	0705 prc:Kick 52	
+E-MU Systems	Proteus 2000	Instruments	0706 prc:Kick 53	
+E-MU Systems	Proteus 2000	Instruments	0707 prc:Kick 54	
+E-MU Systems	Proteus 2000	Instruments	0708 prc:Kick 55	
+E-MU Systems	Proteus 2000	Instruments	0709 prc:Kick 56	
+E-MU Systems	Proteus 2000	Instruments	0710 prc:Kick 57	
+E-MU Systems	Proteus 2000	Instruments	0711 prc:Kick 58	
+E-MU Systems	Proteus 2000	Instruments	0712 prc:Kick 59	
+E-MU Systems	Proteus 2000	Instruments	0713 prc:Kick 60	
+E-MU Systems	Proteus 2000	Instruments	0714 prc:Kick 61	
+E-MU Systems	Proteus 2000	Instruments	0715 prc:Kick 62	
+E-MU Systems	Proteus 2000	Instruments	0716 prc:Kick 63	
+E-MU Systems	Proteus 2000	Instruments	0717 prc:Kick 64	
+E-MU Systems	Proteus 2000	Instruments	0718 prc:Kick 65	
+E-MU Systems	Proteus 2000	Instruments	0719 prc:Kick 66	
+E-MU Systems	Proteus 2000	Instruments	0720 prc:Kick 67	
+E-MU Systems	Proteus 2000	Instruments	0721 prc:Kick 68	
+E-MU Systems	Proteus 2000	Instruments	0722 prc:Kick 69	
+E-MU Systems	Proteus 2000	Instruments	0723 prc:Kick 70	
+E-MU Systems	Proteus 2000	Instruments	0724 prc:Kick 71	
+E-MU Systems	Proteus 2000	Instruments	0725 prc:Snare 1	
+E-MU Systems	Proteus 2000	Instruments	0726 prc:Snare 2	
+E-MU Systems	Proteus 2000	Instruments	0727 prc:Snare 3	
+E-MU Systems	Proteus 2000	Instruments	0728 prc:Snare 4	
+E-MU Systems	Proteus 2000	Instruments	0729 prc:Snare 5	
+E-MU Systems	Proteus 2000	Instruments	0730 prc:Snare 6	
+E-MU Systems	Proteus 2000	Instruments	0731 prc:Snare 7	
+E-MU Systems	Proteus 2000	Instruments	0732 prc:Snare 8	
+E-MU Systems	Proteus 2000	Instruments	0733 prc:Snare 9	
+E-MU Systems	Proteus 2000	Instruments	0734 prc:Snare 10	
+E-MU Systems	Proteus 2000	Instruments	0735 prc:Snare 11	
+E-MU Systems	Proteus 2000	Instruments	0736 prc:Snare 12	
+E-MU Systems	Proteus 2000	Instruments	0737 prc:Snare 13	
+E-MU Systems	Proteus 2000	Instruments	0738 prc:Snare 14	
+E-MU Systems	Proteus 2000	Instruments	0739 prc:Snare 15	
+E-MU Systems	Proteus 2000	Instruments	0740 prc:Snare 16	
+E-MU Systems	Proteus 2000	Instruments	0741 prc:Snare 17	
+E-MU Systems	Proteus 2000	Instruments	0742 prc:Snare 18	
+E-MU Systems	Proteus 2000	Instruments	0743 prc:Snare 19	
+E-MU Systems	Proteus 2000	Instruments	0744 prc:Snare 20	
+E-MU Systems	Proteus 2000	Instruments	0745 prc:Snare 21	
+E-MU Systems	Proteus 2000	Instruments	0746 prc:Snare 22	
+E-MU Systems	Proteus 2000	Instruments	0747 prc:Snare 23	
+E-MU Systems	Proteus 2000	Instruments	0748 prc:Snare 24	
+E-MU Systems	Proteus 2000	Instruments	0749 prc:Snare 25	
+E-MU Systems	Proteus 2000	Instruments	0750 prc:Snare 26	
+E-MU Systems	Proteus 2000	Instruments	0751 prc:Snare 27	
+E-MU Systems	Proteus 2000	Instruments	0752 prc:Snare 28	
+E-MU Systems	Proteus 2000	Instruments	0753 prc:Snare 29	
+E-MU Systems	Proteus 2000	Instruments	0754 prc:Snare 30	
+E-MU Systems	Proteus 2000	Instruments	0755 prc:Snare 31	
+E-MU Systems	Proteus 2000	Instruments	0756 prc:Snare 32	
+E-MU Systems	Proteus 2000	Instruments	0757 prc:Snare 33	
+E-MU Systems	Proteus 2000	Instruments	0758 prc:Snare 34	
+E-MU Systems	Proteus 2000	Instruments	0759 prc:Snare 35	
+E-MU Systems	Proteus 2000	Instruments	0760 prc:Snare 36	
+E-MU Systems	Proteus 2000	Instruments	0761 prc:Snare 37	
+E-MU Systems	Proteus 2000	Instruments	0762 prc:Snare 38	
+E-MU Systems	Proteus 2000	Instruments	0763 prc:Snare 39	
+E-MU Systems	Proteus 2000	Instruments	0764 prc:Snare 40	
+E-MU Systems	Proteus 2000	Instruments	0765 prc:Snare 41	
+E-MU Systems	Proteus 2000	Instruments	0766 prc:Snare 42	
+E-MU Systems	Proteus 2000	Instruments	0767 prc:Snare 43	
+E-MU Systems	Proteus 2000	Instruments	0768 prc:Snare 44	
+E-MU Systems	Proteus 2000	Instruments	0769 prc:Snare 45	
+E-MU Systems	Proteus 2000	Instruments	0770 prc:Snare 46	
+E-MU Systems	Proteus 2000	Instruments	0771 prc:Snare 47	
+E-MU Systems	Proteus 2000	Instruments	0772 prc:Snare 48	
+E-MU Systems	Proteus 2000	Instruments	0773 prc:Snare 49	
+E-MU Systems	Proteus 2000	Instruments	0774 prc:Snare 50	
+E-MU Systems	Proteus 2000	Instruments	0775 prc:Snare 51	
+E-MU Systems	Proteus 2000	Instruments	0776 prc:Snare 52	
+E-MU Systems	Proteus 2000	Instruments	0777 prc:Snare 53	
+E-MU Systems	Proteus 2000	Instruments	0778 prc:Snare 54	
+E-MU Systems	Proteus 2000	Instruments	0779 prc:Snare 55	
+E-MU Systems	Proteus 2000	Instruments	0780 prc:Snare 56	
+E-MU Systems	Proteus 2000	Instruments	0781 prc:Snare 57	
+E-MU Systems	Proteus 2000	Instruments	0782 prc:Snare 58	
+E-MU Systems	Proteus 2000	Instruments	0783 prc:Snare 59	
+E-MU Systems	Proteus 2000	Instruments	0784 prc:Snare 60	
+E-MU Systems	Proteus 2000	Instruments	0785 prc:Snare 61	
+E-MU Systems	Proteus 2000	Instruments	0786 prc:Snare 62	
+E-MU Systems	Proteus 2000	Instruments	0787 prc:Snare 63	
+E-MU Systems	Proteus 2000	Instruments	0788 prc:Snare 64	
+E-MU Systems	Proteus 2000	Instruments	0789 prc:Snare 65	
+E-MU Systems	Proteus 2000	Instruments	0790 prc:Snare 66	
+E-MU Systems	Proteus 2000	Instruments	0791 prc:Snare 67	
+E-MU Systems	Proteus 2000	Instruments	0792 prc:Snare 68	
+E-MU Systems	Proteus 2000	Instruments	0793 prc:Snare 69	
+E-MU Systems	Proteus 2000	Instruments	0794 prc:Snare 70	
+E-MU Systems	Proteus 2000	Instruments	0795 prc:Snare 71	
+E-MU Systems	Proteus 2000	Instruments	0796 prc:Snare 72	
+E-MU Systems	Proteus 2000	Instruments	0797 prc:Snare 73	
+E-MU Systems	Proteus 2000	Instruments	0798 prc:Snare 74	
+E-MU Systems	Proteus 2000	Instruments	0799 prc:Snare 75	
+E-MU Systems	Proteus 2000	Instruments	0800 prc:Snare 76	
+E-MU Systems	Proteus 2000	Instruments	0801 prc:Snare 77	
+E-MU Systems	Proteus 2000	Instruments	0802 prc:Snare 78	
+E-MU Systems	Proteus 2000	Instruments	0803 prc:Snare 79	
+E-MU Systems	Proteus 2000	Instruments	0804 prc:Snare 80	
+E-MU Systems	Proteus 2000	Instruments	0805 prc:Snare 81	
+E-MU Systems	Proteus 2000	Instruments	0806 prc:Snare 82	
+E-MU Systems	Proteus 2000	Instruments	0807 prc:Snare 83	
+E-MU Systems	Proteus 2000	Instruments	0808 prc:Snare 84	
+E-MU Systems	Proteus 2000	Instruments	0809 prc:Snare 85	
+E-MU Systems	Proteus 2000	Instruments	0810 prc:Snare 86	
+E-MU Systems	Proteus 2000	Instruments	0811 prc:Snare 87	
+E-MU Systems	Proteus 2000	Instruments	0812 prc:Snare 88	
+E-MU Systems	Proteus 2000	Instruments	0813 prc:Snare 89	
+E-MU Systems	Proteus 2000	Instruments	0814 prc:Snare 90	
+E-MU Systems	Proteus 2000	Instruments	0815 prc:Snare 91	
+E-MU Systems	Proteus 2000	Instruments	0816 prc:Snare 92	
+E-MU Systems	Proteus 2000	Instruments	0817 prc:Snare 93	
+E-MU Systems	Proteus 2000	Instruments	0818 prc:Snare 94	
+E-MU Systems	Proteus 2000	Instruments	0819 prc:Snare 95	
+E-MU Systems	Proteus 2000	Instruments	0820 prc:Snare 96	
+E-MU Systems	Proteus 2000	Instruments	0821 prc:Snare 97	
+E-MU Systems	Proteus 2000	Instruments	0822 prc:Snare 98	
+E-MU Systems	Proteus 2000	Instruments	0823 prc:Snare 99	
+E-MU Systems	Proteus 2000	Instruments	0824 prc:Snare 100	
+E-MU Systems	Proteus 2000	Instruments	0825 prc:Snare 101	
+E-MU Systems	Proteus 2000	Instruments	0826 prc:Snare 102	
+E-MU Systems	Proteus 2000	Instruments	0827 prc:Snare 103	
+E-MU Systems	Proteus 2000	Instruments	0828 prc:Snare 104	
+E-MU Systems	Proteus 2000	Instruments	0829 prc:Snare 105	
+E-MU Systems	Proteus 2000	Instruments	0830 prc:Snare 106	
+E-MU Systems	Proteus 2000	Instruments	0831 prc:Snare 107	
+E-MU Systems	Proteus 2000	Instruments	0832 prc:Snare 108	
+E-MU Systems	Proteus 2000	Instruments	0833 prc:Snare 109	
+E-MU Systems	Proteus 2000	Instruments	0834 prc:Snare 110	
+E-MU Systems	Proteus 2000	Instruments	0835 prc:Snare 111	
+E-MU Systems	Proteus 2000	Instruments	0836 prc:Snare 112	
+E-MU Systems	Proteus 2000	Instruments	0837 prc:Snare 113	
+E-MU Systems	Proteus 2000	Instruments	0838 prc:Snare 114	
+E-MU Systems	Proteus 2000	Instruments	0839 prc:Snare 115	
+E-MU Systems	Proteus 2000	Instruments	0840 prc:Snare 116	
+E-MU Systems	Proteus 2000	Instruments	0841 prc:Snare 117	
+E-MU Systems	Proteus 2000	Instruments	0842 prc:Snare 118	
+E-MU Systems	Proteus 2000	Instruments	0843 prc:Snare 119	
+E-MU Systems	Proteus 2000	Instruments	0844 prc:Snare 120	
+E-MU Systems	Proteus 2000	Instruments	0845 prc:Snare 121	
+E-MU Systems	Proteus 2000	Instruments	0846 prc:Snare 122	
+E-MU Systems	Proteus 2000	Instruments	0847 prc:Snare 123	
+E-MU Systems	Proteus 2000	Instruments	0848 prc:Snare 124	
+E-MU Systems	Proteus 2000	Instruments	0849 prc:Snare 125	
+E-MU Systems	Proteus 2000	Instruments	0850 prc:Snare 126	
+E-MU Systems	Proteus 2000	Instruments	0851 prc:Snare 127	
+E-MU Systems	Proteus 2000	Instruments	0852 prc:Snare 128	
+E-MU Systems	Proteus 2000	Instruments	0853 prc:Snare 129	
+E-MU Systems	Proteus 2000	Instruments	0854 prc:Snare 130	
+E-MU Systems	Proteus 2000	Instruments	0855 prc:Snare 131	
+E-MU Systems	Proteus 2000	Instruments	0856 prc:Timbale 1	
+E-MU Systems	Proteus 2000	Instruments	0857 prc:Timbale 2	
+E-MU Systems	Proteus 2000	Instruments	0858 prc:Timbale 3	
+E-MU Systems	Proteus 2000	Instruments	0859 prc:Timbale 4	
+E-MU Systems	Proteus 2000	Instruments	0860 prc:Timbale 5	
+E-MU Systems	Proteus 2000	Instruments	0861 prc:Timbale 6	
+E-MU Systems	Proteus 2000	Instruments	0862 prc:Tom 1	
+E-MU Systems	Proteus 2000	Instruments	0863 prc:Tom 2	
+E-MU Systems	Proteus 2000	Instruments	0864 prc:Tom 3	
+E-MU Systems	Proteus 2000	Instruments	0865 prc:Tom 4	
+E-MU Systems	Proteus 2000	Instruments	0866 prc:Tom 5	
+E-MU Systems	Proteus 2000	Instruments	0867 prc:Tom 6	
+E-MU Systems	Proteus 2000	Instruments	0868 prc:Tom 7	
+E-MU Systems	Proteus 2000	Instruments	0869 prc:Tom 8	
+E-MU Systems	Proteus 2000	Instruments	0870 prc:Tom 9	
+E-MU Systems	Proteus 2000	Instruments	0871 prc:Tom 10	
+E-MU Systems	Proteus 2000	Instruments	0872 prc:Tom 11	
+E-MU Systems	Proteus 2000	Instruments	0873 prc:Tom 12	
+E-MU Systems	Proteus 2000	Instruments	0874 prc:Tom 13	
+E-MU Systems	Proteus 2000	Instruments	0875 prc:Tom 14	
+E-MU Systems	Proteus 2000	Instruments	0876 prc:Tom 15	
+E-MU Systems	Proteus 2000	Instruments	0877 prc:Tom 16	
+E-MU Systems	Proteus 2000	Instruments	0878 prc:Tom 17	
+E-MU Systems	Proteus 2000	Instruments	0879 prc:Tom 18	
+E-MU Systems	Proteus 2000	Instruments	0880 prc:Tom 19	
+E-MU Systems	Proteus 2000	Instruments	0881 prc:Tom 20	
+E-MU Systems	Proteus 2000	Instruments	0882 prc:Tom 21	
+E-MU Systems	Proteus 2000	Instruments	0883 prc:Tom 22	
+E-MU Systems	Proteus 2000	Instruments	0884 prc:Tom 23	
+E-MU Systems	Proteus 2000	Instruments	0885 prc:Tom 24	
+E-MU Systems	Proteus 2000	Instruments	0886 prc:Tom 25	
+E-MU Systems	Proteus 2000	Instruments	0887 prc:Tom 26	
+E-MU Systems	Proteus 2000	Instruments	0888 prc:Tom 27	
+E-MU Systems	Proteus 2000	Instruments	0889 prc:Tom 28	
+E-MU Systems	Proteus 2000	Instruments	0890 prc:Tom 29	
+E-MU Systems	Proteus 2000	Instruments	0891 prc:Tom 30	
+E-MU Systems	Proteus 2000	Instruments	0892 prc:Tom 31	
+E-MU Systems	Proteus 2000	Instruments	0893 prc:Conga 1	
+E-MU Systems	Proteus 2000	Instruments	0894 prc:Conga 2	
+E-MU Systems	Proteus 2000	Instruments	0895 prc:Conga 3	
+E-MU Systems	Proteus 2000	Instruments	0896 prc:Conga 4	
+E-MU Systems	Proteus 2000	Instruments	0897 prc:Conga 5	
+E-MU Systems	Proteus 2000	Instruments	0898 prc:Conga 6	
+E-MU Systems	Proteus 2000	Instruments	0899 prc:Conga 7	
+E-MU Systems	Proteus 2000	Instruments	0900 prc:Conga 8	
+E-MU Systems	Proteus 2000	Instruments	0901 prc:Conga 9	
+E-MU Systems	Proteus 2000	Instruments	0902 prc:Conga 10	
+E-MU Systems	Proteus 2000	Instruments	0903 prc:Conga 11	
+E-MU Systems	Proteus 2000	Instruments	0904 prc:Conga 12	
+E-MU Systems	Proteus 2000	Instruments	0905 prc:Conga 13	
+E-MU Systems	Proteus 2000	Instruments	0906 prc:Conga 14	
+E-MU Systems	Proteus 2000	Instruments	0907 prc:Conga 15	
+E-MU Systems	Proteus 2000	Instruments	0908 prc:Conga 16	
+E-MU Systems	Proteus 2000	Instruments	0909 prc:Conga 17	
+E-MU Systems	Proteus 2000	Instruments	0910 prc:Conga 18	
+E-MU Systems	Proteus 2000	Instruments	0911 prc:Conga 19	
+E-MU Systems	Proteus 2000	Instruments	0912 prc:Conga 20	
+E-MU Systems	Proteus 2000	Instruments	0913 prc:Conga 21	
+E-MU Systems	Proteus 2000	Instruments	0914 prc:Hat 1	
+E-MU Systems	Proteus 2000	Instruments	0915 prc:Hat 2	
+E-MU Systems	Proteus 2000	Instruments	0916 prc:Hat 3	
+E-MU Systems	Proteus 2000	Instruments	0917 prc:Hat 4	
+E-MU Systems	Proteus 2000	Instruments	0918 prc:Hat 5	
+E-MU Systems	Proteus 2000	Instruments	0919 prc:Hat 6	
+E-MU Systems	Proteus 2000	Instruments	0920 prc:Hat 7	
+E-MU Systems	Proteus 2000	Instruments	0921 prc:Hat 8	
+E-MU Systems	Proteus 2000	Instruments	0922 prc:Hat 9	
+E-MU Systems	Proteus 2000	Instruments	0923 prc:Hat 10	
+E-MU Systems	Proteus 2000	Instruments	0924 prc:Hat 11	
+E-MU Systems	Proteus 2000	Instruments	0925 prc:Hat 12	
+E-MU Systems	Proteus 2000	Instruments	0926 prc:Hat 13	
+E-MU Systems	Proteus 2000	Instruments	0927 prc:Hat 14	
+E-MU Systems	Proteus 2000	Instruments	0928 prc:Hat 15	
+E-MU Systems	Proteus 2000	Instruments	0929 prc:Hat 16	
+E-MU Systems	Proteus 2000	Instruments	0930 prc:Hat 17	
+E-MU Systems	Proteus 2000	Instruments	0931 prc:Hat 18	
+E-MU Systems	Proteus 2000	Instruments	0932 prc:Hat 19	
+E-MU Systems	Proteus 2000	Instruments	0933 prc:Hat 20	
+E-MU Systems	Proteus 2000	Instruments	0934 prc:Hat 21	
+E-MU Systems	Proteus 2000	Instruments	0935 prc:Hat 22	
+E-MU Systems	Proteus 2000	Instruments	0936 prc:Hat 23	
+E-MU Systems	Proteus 2000	Instruments	0937 prc:Hat 24	
+E-MU Systems	Proteus 2000	Instruments	0938 prc:Hat 25	
+E-MU Systems	Proteus 2000	Instruments	0939 prc:Hat 26	
+E-MU Systems	Proteus 2000	Instruments	0940 prc:Hat 27	
+E-MU Systems	Proteus 2000	Instruments	0941 prc:Hat 28	
+E-MU Systems	Proteus 2000	Instruments	0942 prc:Hat 29	
+E-MU Systems	Proteus 2000	Instruments	0943 prc:Hat 30	
+E-MU Systems	Proteus 2000	Instruments	0944 prc:Hat 31	
+E-MU Systems	Proteus 2000	Instruments	0945 prc:Hat 32	
+E-MU Systems	Proteus 2000	Instruments	0946 prc:Hat 33	
+E-MU Systems	Proteus 2000	Instruments	0947 prc:Hat 34	
+E-MU Systems	Proteus 2000	Instruments	0948 prc:Hat 35	
+E-MU Systems	Proteus 2000	Instruments	0949 prc:Hat 36	
+E-MU Systems	Proteus 2000	Instruments	0950 prc:Hat 37	
+E-MU Systems	Proteus 2000	Instruments	0951 prc:Hat 38	
+E-MU Systems	Proteus 2000	Instruments	0952 prc:Hat 39	
+E-MU Systems	Proteus 2000	Instruments	0953 prc:Hat 40	
+E-MU Systems	Proteus 2000	Instruments	0954 prc:Hat 41	
+E-MU Systems	Proteus 2000	Instruments	0955 prc:Hat 42	
+E-MU Systems	Proteus 2000	Instruments	0956 prc:Hat 43	
+E-MU Systems	Proteus 2000	Instruments	0957 prc:Hat 44	
+E-MU Systems	Proteus 2000	Instruments	0958 prc:Hat 45	
+E-MU Systems	Proteus 2000	Instruments	0959 prc:Hat 46	
+E-MU Systems	Proteus 2000	Instruments	0960 prc:Hat 47	
+E-MU Systems	Proteus 2000	Instruments	0961 prc:Hat 48	
+E-MU Systems	Proteus 2000	Instruments	0962 prc:Hat 49	
+E-MU Systems	Proteus 2000	Instruments	0963 prc:Hat 50	
+E-MU Systems	Proteus 2000	Instruments	0964 prc:Hat 51	
+E-MU Systems	Proteus 2000	Instruments	0965 prc:Hat 52	
+E-MU Systems	Proteus 2000	Instruments	0966 prc:Hat 53	
+E-MU Systems	Proteus 2000	Instruments	0967 prc:Hat 54	
+E-MU Systems	Proteus 2000	Instruments	0968 prc:Hat 55	
+E-MU Systems	Proteus 2000	Instruments	0969 prc:Hat 56	
+E-MU Systems	Proteus 2000	Instruments	0970 prc:Hat 57	
+E-MU Systems	Proteus 2000	Instruments	0971 prc:Hat 58	
+E-MU Systems	Proteus 2000	Instruments	0972 prc:Hat 59	
+E-MU Systems	Proteus 2000	Instruments	0973 prc:Hat 60	
+E-MU Systems	Proteus 2000	Instruments	0974 prc:Hat 61	
+E-MU Systems	Proteus 2000	Instruments	0975 prc:Hat 62	
+E-MU Systems	Proteus 2000	Instruments	0976 prc:Hat 63	
+E-MU Systems	Proteus 2000	Instruments	0977 prc:Hat 64	
+E-MU Systems	Proteus 2000	Instruments	0978 prc:Hat 65	
+E-MU Systems	Proteus 2000	Instruments	0979 prc:Hat 66	
+E-MU Systems	Proteus 2000	Instruments	0980 prc:Hat 67	
+E-MU Systems	Proteus 2000	Instruments	0981 prc:Hat 68	
+E-MU Systems	Proteus 2000	Instruments	0982 prc:Hat 69	
+E-MU Systems	Proteus 2000	Instruments	0983 prc:Hat 70	
+E-MU Systems	Proteus 2000	Instruments	0984 prc:Hat 71	
+E-MU Systems	Proteus 2000	Instruments	0985 prc:Hat 72	
+E-MU Systems	Proteus 2000	Instruments	0986 prc:Hat 73	
+E-MU Systems	Proteus 2000	Instruments	0987 prc:Hat 74	
+E-MU Systems	Proteus 2000	Instruments	0988 prc:Hat 75	
+E-MU Systems	Proteus 2000	Instruments	0989 prc:Hat 76	
+E-MU Systems	Proteus 2000	Instruments	0990 prc:Hat 77	
+E-MU Systems	Proteus 2000	Instruments	0991 prc:Hat 78	
+E-MU Systems	Proteus 2000	Instruments	0992 prc:Hat 79	
+E-MU Systems	Proteus 2000	Instruments	0993 prc:Hat 80	
+E-MU Systems	Proteus 2000	Instruments	0994 prc:Hat 81	
+E-MU Systems	Proteus 2000	Instruments	0995 prc:Hat 82	
+E-MU Systems	Proteus 2000	Instruments	0996 prc:Hat 83	
+E-MU Systems	Proteus 2000	Instruments	0997 prc:Hat 84	
+E-MU Systems	Proteus 2000	Instruments	0998 prc:Hat 85	
+E-MU Systems	Proteus 2000	Instruments	0999 prc:Hat 86	
+E-MU Systems	Proteus 2000	Instruments	1000 prc:Hat 87	
+E-MU Systems	Proteus 2000	Instruments	1001 prc:Hat 88	
+E-MU Systems	Proteus 2000	Instruments	1002 prc:Hat 89	
+E-MU Systems	Proteus 2000	Instruments	1003 prc:Hat 90	
+E-MU Systems	Proteus 2000	Instruments	1004 prc:Hat 91	
+E-MU Systems	Proteus 2000	Instruments	1005 prc:Hat 92	
+E-MU Systems	Proteus 2000	Instruments	1006 prc:Hat 93	
+E-MU Systems	Proteus 2000	Instruments	1007 prc:Hat 94	
+E-MU Systems	Proteus 2000	Instruments	1008 prc:Hat 95	
+E-MU Systems	Proteus 2000	Instruments	1009 prc:Cymbal 1	
+E-MU Systems	Proteus 2000	Instruments	1010 prc:Cymbal 2	
+E-MU Systems	Proteus 2000	Instruments	1011 prc:Cymbal 3	
+E-MU Systems	Proteus 2000	Instruments	1012 prc:Cymbal 4	
+E-MU Systems	Proteus 2000	Instruments	1013 prc:Cymbal 5	
+E-MU Systems	Proteus 2000	Instruments	1014 prc:Cymbal 6	
+E-MU Systems	Proteus 2000	Instruments	1015 prc:Cymbal 7	
+E-MU Systems	Proteus 2000	Instruments	1016 prc:Cymbal 8	
+E-MU Systems	Proteus 2000	Instruments	1017 prc:Cymbal 9	
+E-MU Systems	Proteus 2000	Instruments	1018 prc:Cymbal 10	
+E-MU Systems	Proteus 2000	Instruments	1019 prc:Cymbal 11	
+E-MU Systems	Proteus 2000	Instruments	1020 prc:Cymbal 12	
+E-MU Systems	Proteus 2000	Instruments	1021 prc:Cymbal 13	
+E-MU Systems	Proteus 2000	Instruments	1022 prc:Cymbal 14	
+E-MU Systems	Proteus 2000	Instruments	1023 prc:Cymbal 15	
+E-MU Systems	Proteus 2000	Instruments	1024 prc:Cymbal 16	
+E-MU Systems	Proteus 2000	Instruments	1025 prc:Cymbal 17	
+E-MU Systems	Proteus 2000	Instruments	1026 prc:Cymbal 19	
+E-MU Systems	Proteus 2000	Instruments	1027 prc:Cymbal 20	
+E-MU Systems	Proteus 2000	Instruments	1028 prc:Cymbal 21	
+E-MU Systems	Proteus 2000	Instruments	1029 prc:Cymbal 22	
+E-MU Systems	Proteus 2000	Instruments	1030 prc:Cymbal 23	
+E-MU Systems	Proteus 2000	Instruments	1031 prc:Cymbal 24	
+E-MU Systems	Proteus 2000	Instruments	1032 prc:Cymbal 25	
+E-MU Systems	Proteus 2000	Instruments	1033 prc:Cymbal 26	
+E-MU Systems	Proteus 2000	Instruments	1034 prc:Cymbal 27	
+E-MU Systems	Proteus 2000	Instruments	1035 prc:Cymbal 28	
+E-MU Systems	Proteus 2000	Instruments	1036 prc:Cymbal 29	
+E-MU Systems	Proteus 2000	Instruments	1037 prc:Shaker 1	
+E-MU Systems	Proteus 2000	Instruments	1038 prc:Shaker 2	
+E-MU Systems	Proteus 2000	Instruments	1039 prc:Shaker 3	
+E-MU Systems	Proteus 2000	Instruments	1040 prc:Shaker 4	
+E-MU Systems	Proteus 2000	Instruments	1041 prc:Shaker 5	
+E-MU Systems	Proteus 2000	Instruments	1042 prc:Shaker 6	
+E-MU Systems	Proteus 2000	Instruments	1043 prc:Shaker 7	
+E-MU Systems	Proteus 2000	Instruments	1044 prc:Shaker 8	
+E-MU Systems	Proteus 2000	Instruments	1045 prc:Shaker 9	
+E-MU Systems	Proteus 2000	Instruments	1046 prc:Shaker 10	
+E-MU Systems	Proteus 2000	Instruments	1047 prc:Shaker 11	
+E-MU Systems	Proteus 2000	Instruments	1048 prc:Shaker 12	
+E-MU Systems	Proteus 2000	Instruments	1049 prc:Shaker 13	
+E-MU Systems	Proteus 2000	Instruments	1050 prc:Shaker 14	
+E-MU Systems	Proteus 2000	Instruments	1051 prc:Shaker 15	
+E-MU Systems	Proteus 2000	Instruments	1052 prc:Shaker 16	
+E-MU Systems	Proteus 2000	Instruments	1053 prc:Shaker 17	
+E-MU Systems	Proteus 2000	Instruments	1054 prc:Shaker 18	
+E-MU Systems	Proteus 2000	Instruments	1055 prc:Shaker 19	
+E-MU Systems	Proteus 2000	Instruments	1056 prc:Shaker 20	
+E-MU Systems	Proteus 2000	Instruments	1057 prc:Shaker 21	
+E-MU Systems	Proteus 2000	Instruments	1058 prc:Shaker 22	
+E-MU Systems	Proteus 2000	Instruments	1059 prc:Shaker 23	
+E-MU Systems	Proteus 2000	Instruments	1060 prc:Shaker 24	
+E-MU Systems	Proteus 2000	Instruments	1061 prc:Shaker 25	
+E-MU Systems	Proteus 2000	Instruments	1062 prc:Shaker 26	
+E-MU Systems	Proteus 2000	Instruments	1063 prc:Shaker 27	
+E-MU Systems	Proteus 2000	Instruments	1064 prc:Shaker 28	
+E-MU Systems	Proteus 2000	Instruments	1065 prc:Flexitone	
+E-MU Systems	Proteus 2000	Instruments	1066 prc:Bell 1	
+E-MU Systems	Proteus 2000	Instruments	1067 prc:Bell 2	
+E-MU Systems	Proteus 2000	Instruments	1068 prc:Bell 3	
+E-MU Systems	Proteus 2000	Instruments	1069 prc:Bell 4	
+E-MU Systems	Proteus 2000	Instruments	1070 prc:Bell 5	
+E-MU Systems	Proteus 2000	Instruments	1071 prc:Bell 6	
+E-MU Systems	Proteus 2000	Instruments	1072 prc:Bell 7	
+E-MU Systems	Proteus 2000	Instruments	1073 prc:Bell 8	
+E-MU Systems	Proteus 2000	Instruments	1074 prc:Bell 9	
+E-MU Systems	Proteus 2000	Instruments	1075 prc:Bell 10	
+E-MU Systems	Proteus 2000	Instruments	1076 prc:Bell 11	
+E-MU Systems	Proteus 2000	Instruments	1077 prc:Bell Tree	
+E-MU Systems	Proteus 2000	Instruments	1078 prc:Bell 12	
+E-MU Systems	Proteus 2000	Instruments	1079 prc:Bell 13	
+E-MU Systems	Proteus 2000	Instruments	1080 prc:Bell 14	
+E-MU Systems	Proteus 2000	Instruments	1081 prc:Bell 15	
+E-MU Systems	Proteus 2000	Instruments	1082 prc:Bell 16	
+E-MU Systems	Proteus 2000	Instruments	1083 prc:Bell 17	
+E-MU Systems	Proteus 2000	Instruments	1084 prc:Bell 18	
+E-MU Systems	Proteus 2000	Instruments	1085 prc:Bell 19	
+E-MU Systems	Proteus 2000	Instruments	1086 prc:Bell 20	
+E-MU Systems	Proteus 2000	Instruments	1087 prc:Bell 21	
+E-MU Systems	Proteus 2000	Instruments	1088 prc:Bell 22	
+E-MU Systems	Proteus 2000	Instruments	1089 prc:Bell 23	
+E-MU Systems	Proteus 2000	Instruments	1090 prc:Bell 24	
+E-MU Systems	Proteus 2000	Instruments	1091 prc:Bell 25	
+E-MU Systems	Proteus 2000	Instruments	1092 prc:Bell 26	
+E-MU Systems	Proteus 2000	Instruments	1093 prc:Bell 27	
+E-MU Systems	Proteus 2000	Instruments	1094 prc:Bell 28	
+E-MU Systems	Proteus 2000	Instruments	1095 prc:Block 1	
+E-MU Systems	Proteus 2000	Instruments	1096 prc:Block 2	
+E-MU Systems	Proteus 2000	Instruments	1097 prc:Block 3	
+E-MU Systems	Proteus 2000	Instruments	1098 prc:Block 4	
+E-MU Systems	Proteus 2000	Instruments	1099 prc:Block 5	
+E-MU Systems	Proteus 2000	Instruments	1100 prc:Block 6	
+E-MU Systems	Proteus 2000	Instruments	1101 prc:Block 7	
+E-MU Systems	Proteus 2000	Instruments	1102 prc:Block 8	
+E-MU Systems	Proteus 2000	Instruments	1103 prc:Block 9	
+E-MU Systems	Proteus 2000	Instruments	1104 prc:Block 10	
+E-MU Systems	Proteus 2000	Instruments	1105 prc:Block 11	
+E-MU Systems	Proteus 2000	Instruments	1106 prc:Block 12	
+E-MU Systems	Proteus 2000	Instruments	1107 prc:Block 13	
+E-MU Systems	Proteus 2000	Instruments	1108 prc:Block 14	
+E-MU Systems	Proteus 2000	Instruments	1109 prc:Tam 1	
+E-MU Systems	Proteus 2000	Instruments	1110 prc:Tam 2	
+E-MU Systems	Proteus 2000	Instruments	1111 prc:Tam 3	
+E-MU Systems	Proteus 2000	Instruments	1112 prc:Tam 4	
+E-MU Systems	Proteus 2000	Instruments	1113 prc:Tam 5	
+E-MU Systems	Proteus 2000	Instruments	1114 prc:Tam 6	
+E-MU Systems	Proteus 2000	Instruments	1115 prc:Tam 7	
+E-MU Systems	Proteus 2000	Instruments	1116 prc:Tam 8	
+E-MU Systems	Proteus 2000	Instruments	1117 prc:Tam 9	
+E-MU Systems	Proteus 2000	Instruments	1118 prc:Clap 1	
+E-MU Systems	Proteus 2000	Instruments	1119 prc:Clap 2	
+E-MU Systems	Proteus 2000	Instruments	1120 prc:Clap 3	
+E-MU Systems	Proteus 2000	Instruments	1121 prc:Clap 4	
+E-MU Systems	Proteus 2000	Instruments	1122 prc:Clap 5	
+E-MU Systems	Proteus 2000	Instruments	1123 prc:Clap 6	
+E-MU Systems	Proteus 2000	Instruments	1124 prc:Clap 7	
+E-MU Systems	Proteus 2000	Instruments	1125 prc:Clap 8	
+E-MU Systems	Proteus 2000	Instruments	1126 prc:Clap 9	
+E-MU Systems	Proteus 2000	Instruments	1127 prc:Clap 10	
+E-MU Systems	Proteus 2000	Instruments	1128 prc:Clap 11	
+E-MU Systems	Proteus 2000	Instruments	1129 prc:Clap 12	
+E-MU Systems	Proteus 2000	Instruments	1130 prc:Clap 13	
+E-MU Systems	Proteus 2000	Instruments	1131 prc:Clap 14	
+E-MU Systems	Proteus 2000	Instruments	1132 prc:Clap 15	
+E-MU Systems	Proteus 2000	Instruments	1133 prc:Clap 16	
+E-MU Systems	Proteus 2000	Instruments	1134 prc:Clap 17	
+E-MU Systems	Proteus 2000	Instruments	1135 prc:Clap 18	
+E-MU Systems	Proteus 2000	Instruments	1136 prc:Snap 1	
+E-MU Systems	Proteus 2000	Instruments	1137 prc:Snap 2	
+E-MU Systems	Proteus 2000	Instruments	1138 prc:Snap 3	
+E-MU Systems	Proteus 2000	Instruments	1139 prc:Snap 4	
+E-MU Systems	Proteus 2000	Instruments	1140 prc:Snap 5	
+E-MU Systems	Proteus 2000	Instruments	1141 prc:Snap 6	
+E-MU Systems	Proteus 2000	Instruments	1142 prc:Misc 1	
+E-MU Systems	Proteus 2000	Instruments	1143 prc:Misc 2	
+E-MU Systems	Proteus 2000	Instruments	1144 prc:Misc 3	
+E-MU Systems	Proteus 2000	Instruments	1145 prc:Misc 4	
+E-MU Systems	Proteus 2000	Instruments	1146 prc:Misc 5	
+E-MU Systems	Proteus 2000	Instruments	1147 prc:Misc 6	
+E-MU Systems	Proteus 2000	Instruments	1148 prc:Misc 7	
+E-MU Systems	Proteus 2000	Instruments	1149 prc:Misc 8	
+E-MU Systems	Proteus 2000	Instruments	1150 prc:Misc 9	
+E-MU Systems	Proteus 2000	Instruments	1151 prc:Misc 10	
+E-MU Systems	Proteus 2000	Instruments	1152 prc:Misc 11	
+E-MU Systems	Proteus 2000	Instruments	1153 prc:Misc 12	
+E-MU Systems	Proteus 2000	Instruments	1154 prc:Misc 13	
+E-MU Systems	Proteus 2000	Instruments	1155 prc:Misc 14	
+E-MU Systems	Proteus 2000	Instruments	1156 prc:Misc 15	
+E-MU Systems	Proteus 2000	Instruments	1157 prc:Misc 16	
+E-MU Systems	Proteus 2000	Instruments	1158 prc:Misc 17	
+E-MU Systems	Proteus 2000	Instruments	1159 prc:Misc 18	
+E-MU Systems	Proteus 2000	Instruments	1160 prc:Misc 19	
+E-MU Systems	Proteus 2000	Instruments	1161 prc:Misc 20	
+E-MU Systems	Proteus 2000	Instruments	1162 prc:Misc 21	
+E-MU Systems	Proteus 2000	Instruments	1163 prc:Misc 22	
+E-MU Systems	Proteus 2000	Instruments	1164 prc:Misc 23	
+E-MU Systems	Proteus 2000	Instruments	1165 prc:Misc 24	
+E-MU Systems	Proteus 2000	Instruments	1166 prc:Misc 25	
+E-MU Systems	Proteus 2000	Instruments	1167 prc:Misc 26	
+E-MU Systems	Proteus 2000	Instruments	1168 prc:Misc 27	
+E-MU Systems	Proteus 2000	Instruments	1169 prc:Misc 28	
+E-MU Systems	Proteus 2000	Instruments	1170 prc:Misc 29	
+E-MU Systems	Proteus 2000	Instruments	1171 prc:Misc 30	
+E-MU Systems	Proteus 2000	Instruments	1172 prc:Misc 31	
+E-MU Systems	Proteus 2000	Instruments	1173 prc:Misc 32	

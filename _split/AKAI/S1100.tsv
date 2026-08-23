@@ -1,0 +1,2445 @@
+AKAI	S1100 Library	Partition A -> SH1101 -> PROGRAM	BRIGHT STR1	
+AKAI	S1100 Library	Partition A -> SH1101 -> PROGRAM	BRIGHT STR2	
+AKAI	S1100 Library	Partition A -> SH1101 -> PROGRAM	MELLOW STR1	
+AKAI	S1100 Library	Partition A -> SH1101 -> PROGRAM	MELLOW STR2	
+AKAI	S1100 Library	Partition A -> SH1101 -> PROGRAM	MIX STR	
+AKAI	S1100 Library	Partition A -> SH1101 -> PROGRAM	FILTER MIX	
+AKAI	S1100 Library	Partition A -> SH1101 -> PROGRAM	TEST PROGRAM	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	MKS G2	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	MKS G3	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	MKS G4	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	MKS STR C2	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	MKS STR C3	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	MKS STR C4	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	MKS STR C5	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	SINE	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	SQUARE	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	SAWTOOTH	
+AKAI	S1100 Library	Partition A -> SH1101 -> SAMPLE	PULSE	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 1	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 2	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 3	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 4	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 5	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 6	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 7	
+AKAI	S1100 Library	Partition A -> SH1102 -> PROGRAM	SYNTH PAD 8	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD1 C4	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD2 C4	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD3 C4	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD4 C4	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD5 C4	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD6 C4	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD7 C4	
+AKAI	S1100 Library	Partition A -> SH1102 -> SAMPLE	MKS PAD8 C4	
+AKAI	S1100 Library	Partition A -> SH1103 -> PROGRAM	SYNC SWEEP1	
+AKAI	S1100 Library	Partition A -> SH1103 -> PROGRAM	SYNC SWEEP2	
+AKAI	S1100 Library	Partition A -> SH1103 -> PROGRAM	THICK SYNTH1	
+AKAI	S1100 Library	Partition A -> SH1103 -> PROGRAM	THICK SYNTH2	
+AKAI	S1100 Library	Partition A -> SH1103 -> PROGRAM	THICK BASS 1	
+AKAI	S1100 Library	Partition A -> SH1103 -> PROGRAM	THICK BASS 2	
+AKAI	S1100 Library	Partition A -> SH1103 -> PROGRAM	THICK BASS 3	
+AKAI	S1100 Library	Partition A -> SH1103 -> SAMPLE	SYNC SWEEP1	
+AKAI	S1100 Library	Partition A -> SH1103 -> SAMPLE	SYNC SWEEP2	
+AKAI	S1100 Library	Partition A -> SH1103 -> SAMPLE	THICK SYN 1	
+AKAI	S1100 Library	Partition A -> SH1103 -> SAMPLE	THICK SYN 2	
+AKAI	S1100 Library	Partition A -> SH1103 -> SAMPLE	PIANO BASS	
+AKAI	S1100 Library	Partition A -> SH1103 -> SAMPLE	THICK SYN 3	
+AKAI	S1100 Library	Partition A -> SH1104 -> PROGRAM	SYNTH CLAV1	
+AKAI	S1100 Library	Partition A -> SH1104 -> PROGRAM	SYNTH CLAV2	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 1	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 2	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 3	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 4	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 5	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 6	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 7	
+AKAI	S1100 Library	Partition A -> SH1104 -> SAMPLE	SYN 8	
+AKAI	S1100 Library	Partition A -> SH1105 -> PROGRAM	LUSH STRING1	
+AKAI	S1100 Library	Partition A -> SH1105 -> PROGRAM	LUSH STRING2	
+AKAI	S1100 Library	Partition A -> SH1105 -> SAMPLE	MKS80 STR C2	
+AKAI	S1100 Library	Partition A -> SH1105 -> SAMPLE	MKS80 STR C3	
+AKAI	S1100 Library	Partition A -> SH1105 -> SAMPLE	MKS80 STR C4	
+AKAI	S1100 Library	Partition A -> SH1105 -> SAMPLE	MKS80 STR C5	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS1	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS2	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS3	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS4	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS5	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS6	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS7	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS8	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS9	
+AKAI	S1100 Library	Partition A -> SH1106 -> PROGRAM	MKS80 BASS10	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS1	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS2	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS3	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS4	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS5	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS6	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS7	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS8	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS9	
+AKAI	S1100 Library	Partition A -> SH1106 -> SAMPLE	MKS BASS10	
+AKAI	S1100 Library	Partition A -> SH1107 -> PROGRAM	MKS80 BASS11	
+AKAI	S1100 Library	Partition A -> SH1107 -> PROGRAM	MKS80 BASS12	
+AKAI	S1100 Library	Partition A -> SH1107 -> PROGRAM	MKS80 BASS13	
+AKAI	S1100 Library	Partition A -> SH1107 -> PROGRAM	MKS80 BASS14	
+AKAI	S1100 Library	Partition A -> SH1107 -> PROGRAM	MKS80 BASS15	
+AKAI	S1100 Library	Partition A -> SH1107 -> PROGRAM	MKS80 BASS16	
+AKAI	S1100 Library	Partition A -> SH1107 -> PROGRAM	MKS80 BASS17	
+AKAI	S1100 Library	Partition A -> SH1107 -> SAMPLE	MKS BASS11	
+AKAI	S1100 Library	Partition A -> SH1107 -> SAMPLE	MKS BASS12	
+AKAI	S1100 Library	Partition A -> SH1107 -> SAMPLE	MKS BASS13	
+AKAI	S1100 Library	Partition A -> SH1107 -> SAMPLE	MKS BASS14	
+AKAI	S1100 Library	Partition A -> SH1107 -> SAMPLE	MKS BASS15	
+AKAI	S1100 Library	Partition A -> SH1107 -> SAMPLE	MKS BASS16	
+AKAI	S1100 Library	Partition A -> SH1107 -> SAMPLE	MKS BASS17	
+AKAI	S1100 Library	Partition A -> SH1108 -> PROGRAM	TEST PROGRAM	
+AKAI	S1100 Library	Partition A -> SH1108 -> SAMPLE	MKS RAWSAW1	
+AKAI	S1100 Library	Partition A -> SH1108 -> SAMPLE	MKS RAWSQU1	
+AKAI	S1100 Library	Partition A -> SH1108 -> SAMPLE	MKS RAWPUL1	
+AKAI	S1100 Library	Partition A -> SH1108 -> SAMPLE	MKS RAWPUL2	
+AKAI	S1100 Library	Partition A -> SH1108 -> SAMPLE	MKS SAWSQU1	
+AKAI	S1100 Library	Partition A -> SH1108 -> SAMPLE	MKS SAWSQU2	
+AKAI	S1100 Library	Partition A -> SH1108 -> SAMPLE	MKS RAWSAW2	
+AKAI	S1100 Library	Partition A -> SH1109 -> PROGRAM	BELL 1	
+AKAI	S1100 Library	Partition A -> SH1109 -> PROGRAM	BELL 2	
+AKAI	S1100 Library	Partition A -> SH1109 -> PROGRAM	BELL 3	
+AKAI	S1100 Library	Partition A -> SH1109 -> PROGRAM	BELL 4	
+AKAI	S1100 Library	Partition A -> SH1109 -> PROGRAM	BELL 5	
+AKAI	S1100 Library	Partition A -> SH1109 -> PROGRAM	BELL 6	
+AKAI	S1100 Library	Partition A -> SH1109 -> SAMPLE	RM BELL1 C4	
+AKAI	S1100 Library	Partition A -> SH1109 -> SAMPLE	RM BELL2 C4	
+AKAI	S1100 Library	Partition A -> SH1109 -> SAMPLE	RM BELL3 C4	
+AKAI	S1100 Library	Partition A -> SH1109 -> SAMPLE	RM BELL4 C4	
+AKAI	S1100 Library	Partition A -> SH1109 -> SAMPLE	RM BELL5 C4	
+AKAI	S1100 Library	Partition A -> SH1109 -> SAMPLE	RM BELL6 C4	
+AKAI	S1100 Library	Partition A -> SH1110 -> PROGRAM	TOMITA VOX1	
+AKAI	S1100 Library	Partition A -> SH1110 -> SAMPLE	TOMVOX G1	
+AKAI	S1100 Library	Partition A -> SH1110 -> SAMPLE	TOMVOX C2	
+AKAI	S1100 Library	Partition A -> SH1110 -> SAMPLE	TOMVOX A2	
+AKAI	S1100 Library	Partition A -> SH1110 -> SAMPLE	TOMVOX E3	
+AKAI	S1100 Library	Partition A -> SH1110 -> SAMPLE	TOMVOX C4	
+AKAI	S1100 Library	Partition A -> SH1110 -> SAMPLE	TOMVOX A4	
+AKAI	S1100 Library	Partition A -> SH1110 -> SAMPLE	TOMVOX E5	
+AKAI	S1100 Library	Partition A -> SH1111 -> PROGRAM	SOFT FR HORN	
+AKAI	S1100 Library	Partition A -> SH1111 -> SAMPLE	TOM FR HRN1	
+AKAI	S1100 Library	Partition A -> SH1111 -> SAMPLE	TOM FR HRN2	
+AKAI	S1100 Library	Partition A -> SH1111 -> SAMPLE	TOM FR HRN3	
+AKAI	S1100 Library	Partition A -> SH1111 -> SAMPLE	TOM FR HRN4	
+AKAI	S1100 Library	Partition A -> SH1111 -> SAMPLE	TOM FR HRN5	
+AKAI	S1100 Library	Partition A -> SH1112 -> PROGRAM	SYN BOWSTR	
+AKAI	S1100 Library	Partition A -> SH1112 -> SAMPLE	SYN BOWSTR1	
+AKAI	S1100 Library	Partition A -> SH1112 -> SAMPLE	SYN BOWSTR2	
+AKAI	S1100 Library	Partition A -> SH1112 -> SAMPLE	SYN BOWSTR3	
+AKAI	S1100 Library	Partition A -> SH1112 -> SAMPLE	SYN BOWSTR4	
+AKAI	S1100 Library	Partition A -> SH1112 -> SAMPLE	SYN BOWSTR5	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD1	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD2	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD3	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD4	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD5	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD6	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD7	
+AKAI	S1100 Library	Partition A -> SH1113 -> PROGRAM	SPACE PAD8	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE G1	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE G2	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE G3	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE G4	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE G5	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE GLASS	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE 5THS	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE STRING	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	LUSH	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE WAVE1	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE VOICE	
+AKAI	S1100 Library	Partition A -> SH1113 -> SAMPLE	SPACE WAVE2	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS1	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS2	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS3	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS4	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS5	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS6	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS7	
+AKAI	S1100 Library	Partition A -> SH1114 -> PROGRAM	SYNTHBASS8	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	MOOG BASS 1	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	MOOG BASS 2	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	MOOG BASS 3	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	MOOG BASS 4	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	ARP BASS 1	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	ARP BASS 2	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	ARP BASS 3	
+AKAI	S1100 Library	Partition A -> SH1114 -> SAMPLE	ARP BASS 4	
+AKAI	S1100 Library	Partition A -> SH1115 -> PROGRAM	4M VIOLINS 1	
+AKAI	S1100 Library	Partition A -> SH1115 -> PROGRAM	4M VIOLINS 2	
+AKAI	S1100 Library	Partition A -> SH1115 -> PROGRAM	4M VIOLINS 3	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	G#2	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	B 2	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	D#3	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	F#3	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	G#3	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	B 3	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	D 4	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	F 4	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	G#4	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	B 4	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	D 5	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	E 5	
+AKAI	S1100 Library	Partition A -> SH1115 -> SAMPLE	F#5	
+AKAI	S1100 Library	Partition A -> SH1116 -> PROGRAM	VIOLINS 1	
+AKAI	S1100 Library	Partition A -> SH1116 -> PROGRAM	VIOLINS 2	
+AKAI	S1100 Library	Partition A -> SH1116 -> PROGRAM	VIOLINS 3	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	G#2	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	F#3	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	B 3	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	D 4	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	F 4	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	B 4	
+AKAI	S1100 Library	Partition A -> SH1116 -> SAMPLE	D 5	
+AKAI	S1100 Library	Partition A -> SH1117 -> PROGRAM	4M VIOLAS 1	
+AKAI	S1100 Library	Partition A -> SH1117 -> PROGRAM	4M VIOLAS 2	
+AKAI	S1100 Library	Partition A -> SH1117 -> PROGRAM	4M VIOLAS 3	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	C#2	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	E 2	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	F#2	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	G#2	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	A#2	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	E 3	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	G 3	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	C 4	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	D 4	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	E 4	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	G 4	
+AKAI	S1100 Library	Partition A -> SH1117 -> SAMPLE	A#4	
+AKAI	S1100 Library	Partition A -> SH1118 -> PROGRAM	VIOLAS 1	
+AKAI	S1100 Library	Partition A -> SH1118 -> PROGRAM	VIOLAS 2	
+AKAI	S1100 Library	Partition A -> SH1118 -> PROGRAM	VIOLAS 3	
+AKAI	S1100 Library	Partition A -> SH1118 -> SAMPLE	C#2	
+AKAI	S1100 Library	Partition A -> SH1118 -> SAMPLE	F#2	
+AKAI	S1100 Library	Partition A -> SH1118 -> SAMPLE	A#2	
+AKAI	S1100 Library	Partition A -> SH1118 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition A -> SH1118 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition A -> SH1118 -> SAMPLE	C 4	
+AKAI	S1100 Library	Partition A -> SH1118 -> SAMPLE	A#4	
+AKAI	S1100 Library	Partition A -> SH1119 -> PROGRAM	4M CELLOS 1	
+AKAI	S1100 Library	Partition A -> SH1119 -> PROGRAM	4M CELLOS 2	
+AKAI	S1100 Library	Partition A -> SH1119 -> PROGRAM	4M CELLOS 3	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	C#1	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	E 1	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	G 1	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	A#1	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	C 2	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	D#2	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	F#2	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	A 2	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	C 3	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	D#3	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	F#3	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition A -> SH1119 -> SAMPLE	B 3	
+AKAI	S1100 Library	Partition A -> SH1120 -> PROGRAM	CELLOS 1	
+AKAI	S1100 Library	Partition A -> SH1120 -> PROGRAM	CELLOS 2	
+AKAI	S1100 Library	Partition A -> SH1120 -> PROGRAM	CELLOS 3	
+AKAI	S1100 Library	Partition A -> SH1120 -> SAMPLE	C#1	
+AKAI	S1100 Library	Partition A -> SH1120 -> SAMPLE	A#1	
+AKAI	S1100 Library	Partition A -> SH1120 -> SAMPLE	C 2	
+AKAI	S1100 Library	Partition A -> SH1120 -> SAMPLE	A 2	
+AKAI	S1100 Library	Partition A -> SH1120 -> SAMPLE	C 3	
+AKAI	S1100 Library	Partition A -> SH1120 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition A -> SH1120 -> SAMPLE	B 3	
+AKAI	S1100 Library	Partition A -> SH1121 -> PROGRAM	PIZTWANG 1	
+AKAI	S1100 Library	Partition A -> SH1121 -> PROGRAM	PIZTWANG 2	
+AKAI	S1100 Library	Partition A -> SH1121 -> SAMPLE	PIZTWANG	
+AKAI	S1100 Library	Partition A -> SH1122 -> PROGRAM	8M VIOLINS	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	G#2	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	B 2	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	D#3	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	F#3	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	G#3	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	B 3	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	D 4	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	F 4	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	G#4	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	B 4	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	D 5	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	E 5	
+AKAI	S1100 Library	Partition A -> SH1122 -> SAMPLE	F#5	
+AKAI	S1100 Library	Partition A -> SH1123 -> PROGRAM	8M VIOLAS	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	C#2	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	E 2	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	F#2	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	G#2	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	A#2	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	E 3	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	G 3	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	C 4	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	D 4	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	E 4	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	G 4	
+AKAI	S1100 Library	Partition A -> SH1123 -> SAMPLE	A#4	
+AKAI	S1100 Library	Partition A -> SH1124 -> PROGRAM	8M CELLOS	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	C#1	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	E 1	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	G 1	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	A#1	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	C 2	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	D#2	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	F#2	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	A 2	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	C 3	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	D#3	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	F#3	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition A -> SH1124 -> SAMPLE	B 3	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	F TOMPROGRAM	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	CYM 2 PRGRM	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	HAT 2 PRGRM	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	F BD PROGRAM	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	F SD PROGRAM	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	F TOM LR EFF	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	CYM 2 LR EFF	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	HAT 2 LR EFF	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	F BD LR EFF	
+AKAI	S1100 Library	Partition A -> SL1120 -> PROGRAM	F SD LR EFF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FT1 MF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FT2 MF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FT4 MF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	RIDE 2	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	ROCKCRASH 1	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	CHINA	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	CHAT2 HEAVY	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	CHAT2 LIGHT	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	OHAT2	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	CHAT2 FOOT	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FBD FF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FBD MF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FSD FF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FSD MF	
+AKAI	S1100 Library	Partition A -> SL1120 -> SAMPLE	FSD MP	
+AKAI	S1100 Library	Partition B -> SH1125 -> PROGRAM	4M BASS	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	E 1	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	G 1	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	A#1	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	C#2	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	E 2	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	G 2	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	A#2	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	E 3	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	G 3	
+AKAI	S1100 Library	Partition B -> SH1125 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition B -> SH1126 -> PROGRAM	BASS 1	
+AKAI	S1100 Library	Partition B -> SH1126 -> PROGRAM	BASS 2	
+AKAI	S1100 Library	Partition B -> SH1126 -> PROGRAM	BASS 3	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	E 1	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	G 1	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	A#1	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	C#2	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	E 2	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	G 2	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	A#2	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	E 3	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	G 3	
+AKAI	S1100 Library	Partition B -> SH1126 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN CHOIR1	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN CHOIR2	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN CHOIR3	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN CHOIR4	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN STRNG1	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN STRNG2	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN STRNG3	
+AKAI	S1100 Library	Partition B -> SH1127 -> PROGRAM	MLTRN STRNG4	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR1	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR2	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR3	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR4	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR5	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR6	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR7	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR8	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MELLO CHOIR9	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR G2	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR A#2	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR C#3	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR E3	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR G3	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR A#3	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR C#4	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR E4	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR G4	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR A#4	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR C#5	
+AKAI	S1100 Library	Partition B -> SH1127 -> SAMPLE	MEL STR E5	
+AKAI	S1100 Library	Partition B -> SH1128 -> PROGRAM	MELOTRN BOYS	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS G2	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS A#2	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS C#3	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS E3	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS G3	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS A#3	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS C#4	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS D4	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS E4	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS G4	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS A#4	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS C#5	
+AKAI	S1100 Library	Partition B -> SH1128 -> SAMPLE	MEL BOYS E5	
+AKAI	S1100 Library	Partition B -> SH1129 -> PROGRAM	MELOTRN STR1	
+AKAI	S1100 Library	Partition B -> SH1129 -> PROGRAM	MELOTRN STR2	
+AKAI	S1100 Library	Partition B -> SH1129 -> PROGRAM	MELOTRN SLOW	
+AKAI	S1100 Library	Partition B -> SH1129 -> PROGRAM	MELOTRN OCTV	
+AKAI	S1100 Library	Partition B -> SH1129 -> PROGRAM	MELTRN FLUTE	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR G2	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR A#2	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR C#3	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR E3	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR G3	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR A#3	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR C#4	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR E4	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR G4	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR A#4	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR C#5	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	MEL STR E5	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	FLUTE  F	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	FLUTE  C	
+AKAI	S1100 Library	Partition B -> SH1129 -> SAMPLE	FLUTE  A#	
+AKAI	S1100 Library	Partition B -> SH1130 -> PROGRAM	MELLOTRORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> PROGRAM	SOFT ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	G1 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	A1 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	B1 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	C2 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	D2 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	E2 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	F2 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	G2 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	A2 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	B2 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	C3 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	D3 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	E3 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	G3 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	A3 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1130 -> SAMPLE	B3 ORGAN	
+AKAI	S1100 Library	Partition B -> SH1131 -> PROGRAM	MELOTRN GTR	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR0	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR1	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR2	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR3	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR5	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR6	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR7	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR8	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR10	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR11	
+AKAI	S1100 Library	Partition B -> SH1131 -> SAMPLE	GTR12	
+AKAI	S1100 Library	Partition B -> SH1132 -> PROGRAM	BRASS SECT 1	
+AKAI	S1100 Library	Partition B -> SH1132 -> PROGRAM	BRASS SECT 2	
+AKAI	S1100 Library	Partition B -> SH1132 -> PROGRAM	BRASS SECT 3	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 F2	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 G2	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 A2	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 A#2	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 C 3	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 D 3	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 E 3	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 F 3	
+AKAI	S1100 Library	Partition B -> SH1132 -> SAMPLE	BRASS1 FAL	
+AKAI	S1100 Library	Partition B -> SH1133 -> PROGRAM	4M B.VOCAL 1	
+AKAI	S1100 Library	Partition B -> SH1133 -> PROGRAM	4M B.VOCAL 2	
+AKAI	S1100 Library	Partition B -> SH1133 -> PROGRAM	4M B.VOCAL 3	
+AKAI	S1100 Library	Partition B -> SH1133 -> SAMPLE	AAH A2	
+AKAI	S1100 Library	Partition B -> SH1133 -> SAMPLE	AAH C3	
+AKAI	S1100 Library	Partition B -> SH1133 -> SAMPLE	AAH D#3	
+AKAI	S1100 Library	Partition B -> SH1133 -> SAMPLE	AAH F#3	
+AKAI	S1100 Library	Partition B -> SH1133 -> SAMPLE	AAH A3	
+AKAI	S1100 Library	Partition B -> SH1133 -> SAMPLE	AAH C4	
+AKAI	S1100 Library	Partition B -> SH1133 -> SAMPLE	AAH D#4	
+AKAI	S1100 Library	Partition B -> SH1134 -> PROGRAM	B.VOCALS 1	
+AKAI	S1100 Library	Partition B -> SH1134 -> PROGRAM	B.VOCALS 2	
+AKAI	S1100 Library	Partition B -> SH1134 -> PROGRAM	B.VOCALS 3	
+AKAI	S1100 Library	Partition B -> SH1134 -> SAMPLE	AAH A2	
+AKAI	S1100 Library	Partition B -> SH1134 -> SAMPLE	AAH C3	
+AKAI	S1100 Library	Partition B -> SH1134 -> SAMPLE	AAH D#3	
+AKAI	S1100 Library	Partition B -> SH1134 -> SAMPLE	AAH F#3	
+AKAI	S1100 Library	Partition B -> SH1134 -> SAMPLE	AAH A3	
+AKAI	S1100 Library	Partition B -> SH1134 -> SAMPLE	AAH C4	
+AKAI	S1100 Library	Partition B -> SH1134 -> SAMPLE	AAH D#4	
+AKAI	S1100 Library	Partition B -> SH1135 -> PROGRAM	UMM VOCALS 1	
+AKAI	S1100 Library	Partition B -> SH1135 -> PROGRAM	UMM VOCALS 2	
+AKAI	S1100 Library	Partition B -> SH1135 -> PROGRAM	UMM VOCALS 3	
+AKAI	S1100 Library	Partition B -> SH1135 -> SAMPLE	UMM-A2	
+AKAI	S1100 Library	Partition B -> SH1135 -> SAMPLE	UMM-C3	
+AKAI	S1100 Library	Partition B -> SH1135 -> SAMPLE	UMM-D#3	
+AKAI	S1100 Library	Partition B -> SH1135 -> SAMPLE	UMM-F#3	
+AKAI	S1100 Library	Partition B -> SH1135 -> SAMPLE	UMM-A3	
+AKAI	S1100 Library	Partition B -> SH1135 -> SAMPLE	UMM-C4	
+AKAI	S1100 Library	Partition B -> SH1135 -> SAMPLE	UMM-D#4	
+AKAI	S1100 Library	Partition B -> SH1136 -> PROGRAM	4M UMM VOX 1	
+AKAI	S1100 Library	Partition B -> SH1136 -> SAMPLE	UMM A2	
+AKAI	S1100 Library	Partition B -> SH1136 -> SAMPLE	UMM C3	
+AKAI	S1100 Library	Partition B -> SH1136 -> SAMPLE	UMM D#3	
+AKAI	S1100 Library	Partition B -> SH1136 -> SAMPLE	UMM F#3	
+AKAI	S1100 Library	Partition B -> SH1136 -> SAMPLE	UMM A3	
+AKAI	S1100 Library	Partition B -> SH1136 -> SAMPLE	UMM C4	
+AKAI	S1100 Library	Partition B -> SH1136 -> SAMPLE	UMM D#4	
+AKAI	S1100 Library	Partition B -> SH1137 -> PROGRAM	MMM VOCALS 1	
+AKAI	S1100 Library	Partition B -> SH1137 -> PROGRAM	MMM VOCALS 2	
+AKAI	S1100 Library	Partition B -> SH1137 -> PROGRAM	MMM VOCALS 3	
+AKAI	S1100 Library	Partition B -> SH1137 -> PROGRAM	MMM VOCALS 4	
+AKAI	S1100 Library	Partition B -> SH1137 -> SAMPLE	MMM-A2	
+AKAI	S1100 Library	Partition B -> SH1137 -> SAMPLE	MMM-C3	
+AKAI	S1100 Library	Partition B -> SH1137 -> SAMPLE	MMM-D#3	
+AKAI	S1100 Library	Partition B -> SH1137 -> SAMPLE	MMM-F#3	
+AKAI	S1100 Library	Partition B -> SH1137 -> SAMPLE	MMM-A3	
+AKAI	S1100 Library	Partition B -> SH1137 -> SAMPLE	MMM-C4	
+AKAI	S1100 Library	Partition B -> SH1137 -> SAMPLE	MMM-D#4	
+AKAI	S1100 Library	Partition B -> SH1138 -> PROGRAM	SHAKUHACHI	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	BREATH 1	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	BREATH 2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	BREATH 3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	BREATH 4	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	BREATH 5	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU A#1	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU C#2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU D#2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU F2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU G#2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU+G#2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU A#2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU+A#2	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU D#3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU+D#3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU E3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU+E3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU F3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU G#3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU+F3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU+G#3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU A#3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU B3	
+AKAI	S1100 Library	Partition B -> SH1138 -> SAMPLE	SHAKU+B3	
+AKAI	S1100 Library	Partition B -> SH1139 -> PROGRAM	JAPANESEPERC	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	KODO 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	KODO 2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	KODO 3	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	KODO 4	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	KODO 5	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	KODO 6	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	SMALL DRUM1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	SMALL DRUM2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	SMALL DRUM3	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	SMALL DRUM4	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	SMALL DRUM5	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	SMALL DRUM6	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	SMALL DRUM7	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	MED DRUM 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	MED DRUM 2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	MED DRUM 3	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	MED DRUM 4	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	MED DRUM 5	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	MED DRUM 6	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	MED DRUM 7	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	LARGE DRUM 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	LARGE DRUM 2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	LARGE DRUM 3	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	LARGE DRUM 4	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	LARGE DRUM 5	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	LARGE DRUM 6	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CLACK 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CLACK 2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CLACK 3	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CLACK 4	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CLACK 5	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CLACK 6	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	RATTLE 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	RATTLE 2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 3	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 4	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 5	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 6	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 7	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 8	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 9	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 10	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 11	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELL 12	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	BELLS	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	GONG 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	GRUNT 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CHIMES 1	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CHIMES 2	
+AKAI	S1100 Library	Partition B -> SH1139 -> SAMPLE	CHIMES 3	
+AKAI	S1100 Library	Partition B -> SH1140 -> PROGRAM	GONG DRONE 1	
+AKAI	S1100 Library	Partition B -> SH1140 -> PROGRAM	GONG DRONE 2	
+AKAI	S1100 Library	Partition B -> SH1140 -> PROGRAM	GONG DRONE 3	
+AKAI	S1100 Library	Partition B -> SH1140 -> PROGRAM	GONG DRONE 4	
+AKAI	S1100 Library	Partition B -> SH1140 -> SAMPLE	GONG+DRONE1	
+AKAI	S1100 Library	Partition B -> SH1140 -> SAMPLE	GONG+DRONE2	
+AKAI	S1100 Library	Partition B -> SH1140 -> SAMPLE	GONG+DRONE3	
+AKAI	S1100 Library	Partition B -> SH1140 -> SAMPLE	GONG+DRONE4	
+AKAI	S1100 Library	Partition B -> SH1141 -> PROGRAM	MAGIC BELLS	
+AKAI	S1100 Library	Partition B -> SH1141 -> PROGRAM	SINGING BOWL	
+AKAI	S1100 Library	Partition B -> SH1141 -> SAMPLE	BELL1	
+AKAI	S1100 Library	Partition B -> SH1141 -> SAMPLE	BELL2	
+AKAI	S1100 Library	Partition B -> SH1141 -> SAMPLE	BELL3	
+AKAI	S1100 Library	Partition B -> SH1141 -> SAMPLE	GONG	
+AKAI	S1100 Library	Partition B -> SH1141 -> SAMPLE	SINGINGBOWL1	
+AKAI	S1100 Library	Partition B -> SH1141 -> SAMPLE	SINGINGBOWL2	
+AKAI	S1100 Library	Partition B -> SH1141 -> SAMPLE	THILBU	
+AKAI	S1100 Library	Partition B -> SH1142 -> PROGRAM	KOTO	
+AKAI	S1100 Library	Partition B -> SH1142 -> PROGRAM	KOTO GLISS	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO G1	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO C2	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO C#2 BND	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO C#2	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO F2	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO F2 BEND	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO C#3	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTO F3	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS C1	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS F2	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISSG#2	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS C3	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS G3	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS 1	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS 2	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS 3	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS 4	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS 5	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS 6	
+AKAI	S1100 Library	Partition B -> SH1142 -> SAMPLE	KOTOGLISS 7	
+AKAI	S1100 Library	Partition B -> SH1143 -> PROGRAM	8M BASS	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	E 1	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	G 1	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	A#1	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	C#2	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	E 2	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	G 2	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	A#2	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	E 3	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	G 3	
+AKAI	S1100 Library	Partition B -> SH1143 -> SAMPLE	A#3	
+AKAI	S1100 Library	Partition B -> SH1144 -> PROGRAM	8M B.VOCALS1	
+AKAI	S1100 Library	Partition B -> SH1144 -> SAMPLE	AAH A2	
+AKAI	S1100 Library	Partition B -> SH1144 -> SAMPLE	AAH C3	
+AKAI	S1100 Library	Partition B -> SH1144 -> SAMPLE	AAH D#3	
+AKAI	S1100 Library	Partition B -> SH1144 -> SAMPLE	AAH F#3	
+AKAI	S1100 Library	Partition B -> SH1144 -> SAMPLE	AAH A3	
+AKAI	S1100 Library	Partition B -> SH1144 -> SAMPLE	AAH C4	
+AKAI	S1100 Library	Partition B -> SH1144 -> SAMPLE	AAH D#4	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	CYM 2 PRGRM	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	HAT 2 PRGRM	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	R TOMPROGRAM	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	R BD PROGRAM	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	R SD PROGRAM	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	CYM 2 LR EFF	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	HAT 2 LR EFF	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	R TOM LR EFF	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	R BD LR EFF	
+AKAI	S1100 Library	Partition B -> SL1121 -> PROGRAM	R SD LR EFF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	ROCKCRASH 1	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	CHINA	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RIDE 2	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	CHAT2 HEAVY	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	CHAT2 LIGHT	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	OHAT2	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	CHAT2 FOOT	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RT1 MF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RT2 MF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RT4 MF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RBD FF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RBD MF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RSD O RIM	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RSD FF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RSD MF	
+AKAI	S1100 Library	Partition B -> SL1121 -> SAMPLE	RSD MP	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	CYM 1 PRGRM	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	HAT 1 PRGRM	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	P TOMPROGRAM	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	P BD PROGRAM	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	P SD PROGRAM	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	CYM 1 LR EFF	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	HAT 1 LR EFF	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	P TOM LR EFF	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	P BD LR EFF	
+AKAI	S1100 Library	Partition B -> SL1122 -> PROGRAM	P SD LR EFF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PT1  MF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PT2  MF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PT4  MF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	J   CRASH 1	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	SPLASH	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	CHAT1 HEAVY	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	CHAT1 LIGHT	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	OHAT1	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	CHAT1 FOOT	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PBD FF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PBD MF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PSD  FF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PSD  MF	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	PSD  MP	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	P  C  RIM	
+AKAI	S1100 Library	Partition B -> SL1122 -> SAMPLE	RIDE 1	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	CYM 1 PRGRM	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	HAT 1 PRGRM	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	J TOMPROGRAM	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	J BD PROGRAM	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	J SD PROGRAM	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	CYM 1 LR EFF	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	HAT 1 LR EFF	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	J TOM LR EFF	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	J BD LR EFF	
+AKAI	S1100 Library	Partition B -> SL1123 -> PROGRAM	J SD LR EFF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J T 1 MF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J T 2 MF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J T 4 MF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J   CRASH 1	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	SPLASH	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	CHAT1 HEAVY	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	CHAT1 LIGHT	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	OHAT1	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	CHAT1 FOOT	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	JBD   FF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	JBD   MF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J  SD O RIM	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J  SD FF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J  SD MF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	J  SD MP	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	JC RIM  FF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	JC RIM  MF	
+AKAI	S1100 Library	Partition B -> SL1123 -> SAMPLE	RIDE 1	
+AKAI	S1100 Library	Partition B -> SL1124 -> PROGRAM	HALL STRINGS	
+AKAI	S1100 Library	Partition B -> SL1124 -> PROGRAM	DRY STRINGS	
+AKAI	S1100 Library	Partition B -> SL1124 -> PROGRAM	SYNTH PAD	
+AKAI	S1100 Library	Partition B -> SL1124 -> SAMPLE	CELLO B 1	
+AKAI	S1100 Library	Partition B -> SL1124 -> SAMPLE	VIOLIN D 3B	
+AKAI	S1100 Library	Partition B -> SL1124 -> SAMPLE	VIOLIN A 3B	
+AKAI	S1100 Library	Partition B -> SL1124 -> SAMPLE	VIOLIN E 4B	
+AKAI	S1100 Library	Partition B -> SL1124 -> SAMPLE	VIOLIN C 5	
+AKAI	S1100 Library	Partition B -> SL1124 -> SAMPLE	VIOLIN G 5	
+AKAI	S1100 Library	Partition B -> SL1124 -> SAMPLE	CELLO E 1	
+AKAI	S1100 Library	Partition B -> SL1125 -> PROGRAM	M.CHORUS AH	
+AKAI	S1100 Library	Partition B -> SL1125 -> SAMPLE	MALE A1	
+AKAI	S1100 Library	Partition B -> SL1125 -> SAMPLE	MALE C2	
+AKAI	S1100 Library	Partition B -> SL1125 -> SAMPLE	MALE G2	
+AKAI	S1100 Library	Partition B -> SL1125 -> SAMPLE	MALE E2	
+AKAI	S1100 Library	Partition B -> SL1125 -> SAMPLE	MALE B2	
+AKAI	S1100 Library	Partition B -> SL1125 -> SAMPLE	MALE E3	
+AKAI	S1100 Library	Partition C -> SH1145 -> PROGRAM	PERCUSSION	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	JEWS HARP 1	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	JEWS HARP 2	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	JEWS HARP 3	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	ANKLUNG 3	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	ANKLUNG 1	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	ANKLUNG 2	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	CHIME	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	CONGA 1	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOCONGA ROLL	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOCONGA HIT	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	HICONGA ROLL	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	HICONGA HIT	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TALK DRUM UP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TALK DRUM DN	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TALK DRUM	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	VIBSLAP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	FLEXITONE UP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	FLEXITONE DN	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	SWANEE UP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	SWANEE DN	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	BELLTREE	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	MARK TREE UP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	MARK TREE DN	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	BELL	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TRIANGLE	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	SLEIGHS	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	COW DAMP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	COW OPEN	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	WHIP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOG DRUM 6	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOG DRUM 5	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOG DRUM 4	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOG DRUM 3	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOG DRUM 2	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	LOG DRUM 1	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TAMB ROLL	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TAMB DAMP	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TAMB OPEN	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	CHINESE BLOK	
+AKAI	S1100 Library	Partition C -> SH1145 -> SAMPLE	TEMPLE BLOK1	
+AKAI	S1100 Library	Partition C -> SH1146 -> PROGRAM	ORCH PERC	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	TUBULAR BELL	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	SNARE ROLL	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	SNARE 1	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	SNARE ROLL1	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	SNARE ROLL2	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	SNARE ROLL3	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	SFT TIMPROLL	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	TIMP ROLL 1	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	TIMP ROLL 2	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	ORCH BASS 1	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	ORCH CYMB 1	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	ORCH CYMB 2	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	ORCH CYMB 3	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	TAM TAM 1	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	TRIANGLE 2	
+AKAI	S1100 Library	Partition C -> SH1146 -> SAMPLE	TRIANGLE 3	
+AKAI	S1100 Library	Partition C -> SH1147 -> PROGRAM	WATERPHONES	
+AKAI	S1100 Library	Partition C -> SH1147 -> SAMPLE	WATERPHONE 1	
+AKAI	S1100 Library	Partition C -> SH1147 -> SAMPLE	WATERPHONE 2	
+AKAI	S1100 Library	Partition C -> SH1147 -> SAMPLE	WATERPHONE 3	
+AKAI	S1100 Library	Partition C -> SH1147 -> SAMPLE	WATERPHONE 4	
+AKAI	S1100 Library	Partition C -> SH1147 -> SAMPLE	WATERPHONE 5	
+AKAI	S1100 Library	Partition C -> SH1148 -> PROGRAM	WATER FX	
+AKAI	S1100 Library	Partition C -> SH1148 -> PROGRAM	SPACE FX	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	BOILING	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	DRIP 1	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	DRIP 2	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	DRONE	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	SPACE DRONE	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	WHOOOSH 1	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	WHOOOSH 2	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	WHOOOSH 3	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	WHOOOSH 4	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	WHOOOSH 5	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	WHOOOSH 6	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	EXPLOSION 1	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	EXPLOSION 2	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	EXPLOSION 3	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	EXPLOSION 4	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	PULSE 1	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	PULSE 2	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	PULSE 3	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	PULSE 4	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	PULSE 5	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	RUMBLE 1	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	RUMBLE 2	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	RUMBLE 3	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	DOOR SLAM 1	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	ZAP 2	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	ZAP 3	
+AKAI	S1100 Library	Partition C -> SH1148 -> SAMPLE	SYNTH GRUNT	
+AKAI	S1100 Library	Partition C -> SH1149 -> PROGRAM	ARABIAN OBOE	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE F2	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE C3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE D3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOED#3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE F3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOEF#3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE G3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE+G3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOEA#3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE B3	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE C4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE+D4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE D4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOED#4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOED+4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE E4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE F4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOE G4	
+AKAI	S1100 Library	Partition C -> SH1149 -> SAMPLE	ARAB OBOEG#4	
+AKAI	S1100 Library	Partition C -> SH1150 -> PROGRAM	CHINESE PERC	
+AKAI	S1100 Library	Partition C -> SH1150 -> PROGRAM	CHINESE XYL	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 1	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 2	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 3	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 4	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 5	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 6	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 7	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 8	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC 9	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC10	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC11	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC12	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC13	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC14	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESEPRC15	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESE XYL1	
+AKAI	S1100 Library	Partition C -> SH1150 -> SAMPLE	CHINESE XYL2	
+AKAI	S1100 Library	Partition C -> SH1151 -> PROGRAM	CHINESE TI	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI FLUTE A2	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI FLUTE B2	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI FLUTE E3	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI FLUTE D3	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI FLUTE B3	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI FLUTE F#3	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI SLUR F#3	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI FLUTE B3S	
+AKAI	S1100 Library	Partition C -> SH1151 -> SAMPLE	TI TRILL B3	
+AKAI	S1100 Library	Partition C -> SH1152 -> PROGRAM	ARAB MIJWIZ	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ RUN 1	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ RUN 2	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ RUN 3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ RUN 4	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ RUN 5	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ E3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ TR E3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ F#3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ TR+F3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ G#3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ TR F3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ A3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ TR A3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ A#3	
+AKAI	S1100 Library	Partition C -> SH1152 -> SAMPLE	MIJWIZ TRA#3	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 1	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 2	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 3	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 4	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 5	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 6	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 7	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 8	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 9	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 10	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 11	
+AKAI	S1100 Library	Partition C -> SH1153 -> PROGRAM	MOOG BASS 12	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 1	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 2	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 3	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 4	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 5	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 6	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 7	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 8	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 9	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 10	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 11	
+AKAI	S1100 Library	Partition C -> SH1153 -> SAMPLE	MOOG BASS 12	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 13	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 14	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 15	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 16	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 17	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 18	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 19	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 20	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 21	
+AKAI	S1100 Library	Partition C -> SH1154 -> PROGRAM	MOOG BASS 22	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 13	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 14	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 15	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 16	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 17	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 18	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 19	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 20	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 21	
+AKAI	S1100 Library	Partition C -> SH1154 -> SAMPLE	MOOG BASS 22	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS1	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS2	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS3	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS4	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS5	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS6	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS7	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS8	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	MOOG TAURUS9	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	STAC TAURUS1	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	STAC TAURUS2	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	STAC TAURUS3	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	SLOW TAURUS1	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	SLOW TAURUS2	
+AKAI	S1100 Library	Partition C -> SH1155 -> PROGRAM	SLOW TAURUS3	
+AKAI	S1100 Library	Partition C -> SH1155 -> SAMPLE	TAURUS BASS1	
+AKAI	S1100 Library	Partition C -> SH1155 -> SAMPLE	TAURUS BASS2	
+AKAI	S1100 Library	Partition C -> SH1155 -> SAMPLE	TAURUS BASS3	
+AKAI	S1100 Library	Partition C -> SH1155 -> SAMPLE	TAURUS BASS4	
+AKAI	S1100 Library	Partition C -> SH1155 -> SAMPLE	TAURUS BASS5	
+AKAI	S1100 Library	Partition C -> SH1156 -> PROGRAM	PORTAMENTOS	
+AKAI	S1100 Library	Partition C -> SH1156 -> SAMPLE	PORTAMENTO 1	
+AKAI	S1100 Library	Partition C -> SH1156 -> SAMPLE	PORTAMENTO 2	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 1	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 2	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 3	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 4	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 5	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 6	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 7	
+AKAI	S1100 Library	Partition C -> SH1157 -> PROGRAM	DANCE BASS 8	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 1	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 2	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 3	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 4	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 5	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 6	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 7	
+AKAI	S1100 Library	Partition C -> SH1157 -> SAMPLE	DANCE BASS 8	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	PWM SYNTH 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	PWM SYNTH 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	SAW SYNTH 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	SAW SYNTH 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	TRI SYNTH 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	TRI SYNTH 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	SWM SYNTH 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	SWM SYNTH 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	MIX SYNTH 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	MIX SYNTH 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	MIX SYNTH 3	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	MIX SYNTH 4	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	STAC PWM 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	STAC SAW 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	STAC TRI 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> PROGRAM	STAC SWM 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 PWM 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 PWM 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 PWM 3	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 PWM 4	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 PWM 5	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAW 5	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAW 4	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAW 3	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAW 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAW 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 TRI 1	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 TRI 2	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 TRI 3	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 TRI 4	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 TRI 5	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAWPWM1	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAWPWM2	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAWPWM3	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAWPWM4	
+AKAI	S1100 Library	Partition C -> SH1158 -> SAMPLE	PRO1 SAWPWM5	
+AKAI	S1100 Library	Partition C -> SH1159 -> PROGRAM	4M FLUTE	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE C3	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE D3	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE E3	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE F3	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE G3	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE A3	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE B3	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE C4	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE D4	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE E4	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE F4	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE G4	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE A4	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE B4	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE C5	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE D5	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE E5	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE F5	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE G5	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE A5	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE B5	
+AKAI	S1100 Library	Partition C -> SH1159 -> SAMPLE	FLUTE C6	
+AKAI	S1100 Library	Partition C -> SH1160 -> PROGRAM	2M FLUTE	
+AKAI	S1100 Library	Partition C -> SH1160 -> SAMPLE	FLUTE C3	
+AKAI	S1100 Library	Partition C -> SH1160 -> SAMPLE	FLUTE G3	
+AKAI	S1100 Library	Partition C -> SH1160 -> SAMPLE	FLUTE C4	
+AKAI	S1100 Library	Partition C -> SH1160 -> SAMPLE	FLUTE G4	
+AKAI	S1100 Library	Partition C -> SH1160 -> SAMPLE	FLUTE C5	
+AKAI	S1100 Library	Partition C -> SH1160 -> SAMPLE	FLUTE G5	
+AKAI	S1100 Library	Partition C -> SH1160 -> SAMPLE	FLUTE C6	
+AKAI	S1100 Library	Partition C -> SH1161 -> PROGRAM	4M BASSFLUTE	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE C2	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE D2	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE E2	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE F2	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE G2	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE A2	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE B2	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE C3	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE D3	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE E3	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE F3	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE G3	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE A3	
+AKAI	S1100 Library	Partition C -> SH1161 -> SAMPLE	BASSFLUTE B3	
+AKAI	S1100 Library	Partition C -> SH1162 -> PROGRAM	2M BASSFLUTE	
+AKAI	S1100 Library	Partition C -> SH1162 -> SAMPLE	BASSFLUTE C2	
+AKAI	S1100 Library	Partition C -> SH1162 -> SAMPLE	BASSFLUTE G2	
+AKAI	S1100 Library	Partition C -> SH1162 -> SAMPLE	BASSFLUTE C3	
+AKAI	S1100 Library	Partition C -> SH1162 -> SAMPLE	BASSFLUTE G3	
+AKAI	S1100 Library	Partition C -> SH1162 -> SAMPLE	BASSFLUTE B3	
+AKAI	S1100 Library	Partition C -> SH1163 -> PROGRAM	CLARINET	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET D2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET D#2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET E2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET F2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET F#2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET G2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET G#2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET A2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET A#2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET B2	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET C3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET C#3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET D3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET D#3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET E3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET F3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET F#3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET G3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET G#3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET A3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET A#3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET B3	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET C4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET C#4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET D4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET D#4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET E4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET F4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET F#4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET G4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET G#4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET A4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET A#4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET B4	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET C5	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET C#5	
+AKAI	S1100 Library	Partition C -> SH1163 -> SAMPLE	CLARINET D5	
+AKAI	S1100 Library	Partition C -> SH1164 -> PROGRAM	BASSCLARINET	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR C#1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR D1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR D#1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR E1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR F1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR F#1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR G1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR G#1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR A1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR A#1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR B1	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR C2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR C#2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR D2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR D#2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR E2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR F2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR F#2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR G2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR G#2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR A2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR A#2	
+AKAI	S1100 Library	Partition C -> SH1164 -> SAMPLE	BASSCLAR B2	
+AKAI	S1100 Library	Partition C -> SH1165 -> PROGRAM	1M OBOE	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE A#2	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE B2	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE C3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE C#3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE D3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE D#3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE E3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE F3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE F#3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE G3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE G#3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE A3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE A#3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE B3	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE C4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE C#4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE D4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE D#4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE E4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE F4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE F#4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE G4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE G#4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE A4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE A#4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE B4	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE C5	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE C#5	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE D5	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE D#5	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE E5	
+AKAI	S1100 Library	Partition C -> SH1165 -> SAMPLE	OBOE F5	
+AKAI	S1100 Library	Partition C -> SH1166 -> PROGRAM	1M TRUMPET	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP F#2	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP G2	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP G#2	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP A2	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP A#2	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP B2	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP C3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP C#3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP D3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP D#3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP E3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP F3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP F#3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP G3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP G#3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP A3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP A#3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP B3	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP C4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP C#4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP D4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP D#4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP E4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP F4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP F#4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP G4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP G#4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP A4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP A#4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP B4	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP C5	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP C#5	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP D5	
+AKAI	S1100 Library	Partition C -> SH1166 -> SAMPLE	TRUMP D#5	
+AKAI	S1100 Library	Partition C -> SL1126 -> PROGRAM	F.CHORUS AH	
+AKAI	S1100 Library	Partition C -> SL1126 -> SAMPLE	FEMALE A2	
+AKAI	S1100 Library	Partition C -> SL1126 -> SAMPLE	FEMALE C#3	
+AKAI	S1100 Library	Partition C -> SL1126 -> SAMPLE	FEMALE E3	
+AKAI	S1100 Library	Partition C -> SL1126 -> SAMPLE	FEMALE G3	
+AKAI	S1100 Library	Partition C -> SL1126 -> SAMPLE	FEMALE B3	
+AKAI	S1100 Library	Partition C -> SL1126 -> SAMPLE	FEMALE E4	
+AKAI	S1100 Library	Partition C -> SL1127 -> PROGRAM	M.CHORUS HUM	
+AKAI	S1100 Library	Partition C -> SL1127 -> SAMPLE	MALEHUME3	
+AKAI	S1100 Library	Partition C -> SL1127 -> SAMPLE	MALEHUMA1	
+AKAI	S1100 Library	Partition C -> SL1127 -> SAMPLE	MALEHUMC2	
+AKAI	S1100 Library	Partition C -> SL1127 -> SAMPLE	MALEHUME2	
+AKAI	S1100 Library	Partition C -> SL1127 -> SAMPLE	MALEHUMG2	
+AKAI	S1100 Library	Partition C -> SL1127 -> SAMPLE	MALEHUMC3	
+AKAI	S1100 Library	Partition C -> SL1128 -> PROGRAM	F.CHORUS HUM	
+AKAI	S1100 Library	Partition C -> SL1128 -> SAMPLE	FEMALEHUMA2	
+AKAI	S1100 Library	Partition C -> SL1128 -> SAMPLE	FEMALEHUMC3	
+AKAI	S1100 Library	Partition C -> SL1128 -> SAMPLE	FEMALEHUME3	
+AKAI	S1100 Library	Partition C -> SL1128 -> SAMPLE	FEMALEHUMG3	
+AKAI	S1100 Library	Partition C -> SL1128 -> SAMPLE	FEMALEHUMC4	
+AKAI	S1100 Library	Partition C -> SL1128 -> SAMPLE	FEMALEHUME4	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTH PAD 1	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTH PAD 2	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTH PAD 3	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTH PAD 4	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTH PAD 5	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTH PAD 7	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTH PAD 8	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	SYNTHSTRING1	
+AKAI	S1100 Library	Partition C -> SL1129 -> PROGRAM	PROPHET 2	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS PAD1 C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS PAD2 C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS PAD3 C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS PAD4 C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS PAD5 C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS PAD7 C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS PAD8 C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	MKS80 STR C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	PRO 2     C3	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	PRO 2     C4	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	PRO 2     C5	
+AKAI	S1100 Library	Partition C -> SL1129 -> SAMPLE	PRO 2     C6	
+AKAI	S1100 Library	Partition C -> SL1130 -> PROGRAM	SYNTH CLAV1	
+AKAI	S1100 Library	Partition C -> SL1130 -> PROGRAM	SYNTH CLAV2	
+AKAI	S1100 Library	Partition C -> SL1130 -> PROGRAM	ORGAN SYN	
+AKAI	S1100 Library	Partition C -> SL1130 -> PROGRAM	SYNC SWEEP1	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 1	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 2	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 3	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 4	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 5	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 6	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 7	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYN 8	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	MKS PAD6 C4	
+AKAI	S1100 Library	Partition C -> SL1130 -> SAMPLE	SYNC SWEEP1	
+AKAI	S1100 Library	Partition D -> SH1167 -> PROGRAM	VIOLINS 1	
+AKAI	S1100 Library	Partition D -> SH1167 -> PROGRAM	SHAKUHACHI	
+AKAI	S1100 Library	Partition D -> SH1167 -> PROGRAM	CHOIR MALFEM	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	BREATH 1	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	BREATH 2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	BREATH 3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	BREATH 4	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	BREATH 5	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU A#1	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU C#2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU D#2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU F2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU G#2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU+G#2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	G#2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	C#3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	F#3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	B 3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	D 4	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	F 4	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	B 4	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	D 5	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU A#2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU+A#2	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU D#3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU+D#3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU E3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU+E3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU F3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU G#3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU+F3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU+G#3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU A#3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU B3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	SHAKU+B3	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	D#2 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	F#2 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	A 2 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	C 3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	D#3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	F#3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	A 3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	C 4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	D#4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	F#4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	A 4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	C 5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	D#5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	F#5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1167 -> SAMPLE	A 5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	BARI	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	TENOR	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	ALTO	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	SOPRANO	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	BARI 2	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	TENOR 2	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	ALTO 2	
+AKAI	S1100 Library	Partition D -> SH1168 -> PROGRAM	SOPRANO 2	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	01 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	02 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	03 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	04 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	05 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	06 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	07 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	08 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	09 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	10 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	11 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	12 BARI SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	01 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	02 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	03 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	04 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	05 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	06 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	07 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	08 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	09 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	10 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	11 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	12 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	13 TENOR SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	01 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	02 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	03 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	04 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	05 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	06 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	07 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	08 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	09 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	10 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	11 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	12 ALTO SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	01 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	02 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	03 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	04 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	05 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	06 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	07 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	08 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	09 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	10 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	11 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	12 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	13 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	14 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1168 -> SAMPLE	15 SOPRA SAX	
+AKAI	S1100 Library	Partition D -> SH1169 -> PROGRAM	CROTALES	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE C3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE C#3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE D3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE D#3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE E3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE F3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE F#3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE G3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE G#3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE A3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE A#3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE B3	
+AKAI	S1100 Library	Partition D -> SH1169 -> SAMPLE	CROTALE C4	
+AKAI	S1100 Library	Partition D -> SH1170 -> PROGRAM	4M SAXOPHONE	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C#1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D#1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX E1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F#1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G#1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A#1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX B1	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C#2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D#2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX E2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F#2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G#2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A#2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX B2	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C#3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D#3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX E3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F#3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G#3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A#3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX B3	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C#4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D#4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX E4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX F#4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX G#4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX A#4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX B4	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C5	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX C#5	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D5	
+AKAI	S1100 Library	Partition D -> SH1170 -> SAMPLE	SAX D#5	
+AKAI	S1100 Library	Partition D -> SH1171 -> PROGRAM	BASS GUITAR1	
+AKAI	S1100 Library	Partition D -> SH1171 -> PROGRAM	BASS GUITAR2	
+AKAI	S1100 Library	Partition D -> SH1171 -> PROGRAM	SLAP BASS 1	
+AKAI	S1100 Library	Partition D -> SH1171 -> PROGRAM	SLAP BASS 2	
+AKAI	S1100 Library	Partition D -> SH1171 -> PROGRAM	VEL-SW BASS1	
+AKAI	S1100 Library	Partition D -> SH1171 -> PROGRAM	VEL-SW BASS2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS E1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS F1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS G1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS A1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS B1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS C2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS D2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS E2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS F2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS G2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS A2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS C3	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS D3	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS E3	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS G3	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS C4	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB E1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMBF#1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB G1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB A1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB B1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB C2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB D2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB E2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB F2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB G2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASSTHUMB A2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS PULL G2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS PULL A2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS PULL B2	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS PULL C3	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS PULL D3	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS PULL E3	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS SLIDE 1	
+AKAI	S1100 Library	Partition D -> SH1171 -> SAMPLE	BASS SLIDE 2	
+AKAI	S1100 Library	Partition D -> SH1172 -> PROGRAM	4M MARIMBA	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F-1	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F#1	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G-1	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G#1	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A-1	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A#1	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA B-1	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C-2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C#2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D-2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D#2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA E-2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F-2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F#2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G-2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G#2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A-2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A#2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA B-2	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C-3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C#3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D-3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D#3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA E-3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F-3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F#3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G-3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G#3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A-3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A#3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA B-3	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C-4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C#4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D-4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D#4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA E-4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F-4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F#4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G-4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G#4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A-4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A#4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA B-4	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C-5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C#5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D-5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA D#5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA E-5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F-5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA F#5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G-5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA G#5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A-5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA A#5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA B-5	
+AKAI	S1100 Library	Partition D -> SH1172 -> SAMPLE	MARIMBA C-6	
+AKAI	S1100 Library	Partition D -> SH1173 -> PROGRAM	4M XYLOPHONE	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F-2	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F#2	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G-2	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G#2	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A-2	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A#2	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE B-2	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE C-3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE C#3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE D-3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE D#3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE E-3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F-3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F#3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G-3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G#3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A-3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A#3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE B-3	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE C-4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE C#4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE D-4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE D#4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE E-4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F-4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F#4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G-4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G#4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A-4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A#4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE B-4	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE C-5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE C#5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE D-5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE D#5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE E-5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F-5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE F#5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G-5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE G#5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A-5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE A#5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE B-5	
+AKAI	S1100 Library	Partition D -> SH1173 -> SAMPLE	XYLPHONE C-6	
+AKAI	S1100 Library	Partition D -> SH1174 -> PROGRAM	WIRED BASS 1	
+AKAI	S1100 Library	Partition D -> SH1174 -> PROGRAM	WIRED BASS 2	
+AKAI	S1100 Library	Partition D -> SH1174 -> PROGRAM	STACK BASS	
+AKAI	S1100 Library	Partition D -> SH1174 -> PROGRAM	BREATHBASS	
+AKAI	S1100 Library	Partition D -> SH1174 -> PROGRAM	PIANO BASS	
+AKAI	S1100 Library	Partition D -> SH1174 -> SAMPLE	WIRE BASS 1	
+AKAI	S1100 Library	Partition D -> SH1174 -> SAMPLE	WIRE BASS 2	
+AKAI	S1100 Library	Partition D -> SH1174 -> SAMPLE	STACK BASS 1	
+AKAI	S1100 Library	Partition D -> SH1174 -> SAMPLE	BREATHBASS 1	
+AKAI	S1100 Library	Partition D -> SH1174 -> SAMPLE	PIANO BASS 1	
+AKAI	S1100 Library	Partition D -> SH1175 -> PROGRAM	DEEP BASS 1	
+AKAI	S1100 Library	Partition D -> SH1175 -> PROGRAM	DEEP BASS 2	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS E1	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS G1	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS B1	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS D2	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS F2	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS A2	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS C3	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	DEEP BASS E3	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	BASSTRILL E4	
+AKAI	S1100 Library	Partition D -> SH1175 -> SAMPLE	BASSTRILL A4	
+AKAI	S1100 Library	Partition D -> SH1176 -> PROGRAM	E.PNO REVERB	
+AKAI	S1100 Library	Partition D -> SH1176 -> PROGRAM	E.PNO CHORUS	
+AKAI	S1100 Library	Partition D -> SH1176 -> PROGRAM	FANTASY PNO	
+AKAI	S1100 Library	Partition D -> SH1176 -> PROGRAM	FANTASY BELL	
+AKAI	S1100 Library	Partition D -> SH1176 -> PROGRAM	STRINGS PNO	
+AKAI	S1100 Library	Partition D -> SH1176 -> PROGRAM	STRING PAD	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	DIGIRHDS G1	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	DIGIRHDS G2	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	DIGIRHDS G3	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	DIGIRHDS G4	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	DIGIRHDS G5	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	FANTASY	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	STRINGPAD C4	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	STRINGPAD C3	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	STRINGPAD C2	
+AKAI	S1100 Library	Partition D -> SH1176 -> SAMPLE	STRINGPAD C5	
+AKAI	S1100 Library	Partition D -> SH1177 -> PROGRAM	HEAVENLY VOX	
+AKAI	S1100 Library	Partition D -> SH1177 -> SAMPLE	HEAVENVOX G2	
+AKAI	S1100 Library	Partition D -> SH1177 -> SAMPLE	HEAVENVOX G3	
+AKAI	S1100 Library	Partition D -> SH1177 -> SAMPLE	HEAVENVOX G4	
+AKAI	S1100 Library	Partition D -> SH1177 -> SAMPLE	HEAVENVOX G5	
+AKAI	S1100 Library	Partition D -> SH1178 -> PROGRAM	BREATHY PAD	
+AKAI	S1100 Library	Partition D -> SH1178 -> SAMPLE	BREATH G1	
+AKAI	S1100 Library	Partition D -> SH1178 -> SAMPLE	BREATH G2	
+AKAI	S1100 Library	Partition D -> SH1178 -> SAMPLE	BREATH G3	
+AKAI	S1100 Library	Partition D -> SH1178 -> SAMPLE	BREATH G4	
+AKAI	S1100 Library	Partition D -> SH1178 -> SAMPLE	BREATH G5	
+AKAI	S1100 Library	Partition D -> SH1179 -> PROGRAM	BREATHY PERC	
+AKAI	S1100 Library	Partition D -> SH1179 -> SAMPLE	BREATHPERCG2	
+AKAI	S1100 Library	Partition D -> SH1179 -> SAMPLE	BREATHPERCG3	
+AKAI	S1100 Library	Partition D -> SH1179 -> SAMPLE	BREATHPERCG4	
+AKAI	S1100 Library	Partition D -> SH1179 -> SAMPLE	BREATHPERCG5	
+AKAI	S1100 Library	Partition D -> SH1180 -> PROGRAM	BELL FLANGE	
+AKAI	S1100 Library	Partition D -> SH1180 -> PROGRAM	PIANO STACK	
+AKAI	S1100 Library	Partition D -> SH1180 -> PROGRAM	VOICE STACK	
+AKAI	S1100 Library	Partition D -> SH1180 -> PROGRAM	NASTY KNOCK	
+AKAI	S1100 Library	Partition D -> SH1180 -> PROGRAM	GLASS ORGAN	
+AKAI	S1100 Library	Partition D -> SH1180 -> SAMPLE	BELL SYNTH 1	
+AKAI	S1100 Library	Partition D -> SH1180 -> SAMPLE	DIGI ZITHER1	
+AKAI	S1100 Library	Partition D -> SH1180 -> SAMPLE	VOICEY SYNTH	
+AKAI	S1100 Library	Partition D -> SH1180 -> SAMPLE	GLASS ORGAN	
+AKAI	S1100 Library	Partition D -> SH1180 -> SAMPLE	NASTY WAVE	
+AKAI	S1100 Library	Partition D -> SH1181 -> PROGRAM	DBL BASS	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS E-1	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS F-1	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS G-1	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS A-1	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS B-1	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS C-2	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS D-2	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS E-2	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS G-2	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS A#2	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS D-3	
+AKAI	S1100 Library	Partition D -> SH1181 -> SAMPLE	DBL BASS F-3	
+AKAI	S1100 Library	Partition D -> SH1182 -> PROGRAM	BARRISAX	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI D 2	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI F 2	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI G#2	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI B 2	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI D 3	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI F 3	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI G#3	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI B 3	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI D 4	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI F 4	
+AKAI	S1100 Library	Partition D -> SH1182 -> SAMPLE	BARRI G#4	
+AKAI	S1100 Library	Partition D -> SH1183 -> PROGRAM	FLUGEL HORN	
+AKAI	S1100 Library	Partition D -> SH1183 -> SAMPLE	FLUG E 4	
+AKAI	S1100 Library	Partition D -> SH1183 -> SAMPLE	FLUG G 3	
+AKAI	S1100 Library	Partition D -> SH1183 -> SAMPLE	FLUG A#3	
+AKAI	S1100 Library	Partition D -> SH1183 -> SAMPLE	FLUG C#3	
+AKAI	S1100 Library	Partition D -> SH1183 -> SAMPLE	FLUG C#4	
+AKAI	S1100 Library	Partition D -> SH1183 -> SAMPLE	FLUG E 3	
+AKAI	S1100 Library	Partition D -> SH1184 -> PROGRAM	CHOIR MALFEM	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	D#2 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	F#2 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	A 2 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	C 3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	D#3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	F#3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	A 3 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	C 4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	D#4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	F#4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	A 4 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	C 5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	D#5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	F#5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1184 -> SAMPLE	A 5 CHOIRMX	
+AKAI	S1100 Library	Partition D -> SH1185 -> PROGRAM	TRUMP SOLO	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP F 3	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP G 3	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP A 3	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP A#3	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP C 4	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP D 4	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP E 4	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP F 4	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP G 4	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP A 4	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP A#4	
+AKAI	S1100 Library	Partition D -> SH1185 -> SAMPLE	TRUMP C 5	
+AKAI	S1100 Library	Partition D -> SH1186 -> PROGRAM	BRASS SWELL	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL A#2	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL C 3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL D 3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL E 3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL D#3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL F 3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL G 3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL A 3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL A#3	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL C 4	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL D 4	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL D#4	
+AKAI	S1100 Library	Partition D -> SH1186 -> SAMPLE	SWELL F 4	
+AKAI	S1100 Library	Partition D -> SH1187 -> PROGRAM	TRUMP GROWL	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL F 3	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL G 3	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL A 3	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL A#3	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL C 4	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL D 4	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL D#4	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL F 4	
+AKAI	S1100 Library	Partition D -> SH1187 -> SAMPLE	GROWL G 4	
+AKAI	S1100 Library	Partition D -> SH1188 -> PROGRAM	TRUMP ALTO	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A F 3	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A D#3	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A G 3	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A G#3	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A A#3	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A C 4	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A D 4	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A D#4	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A F 4	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A G 4	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A G#4	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A A#4	
+AKAI	S1100 Library	Partition D -> SH1188 -> SAMPLE	T A C 5	
+AKAI	S1100 Library	Partition D -> SH1189 -> PROGRAM	SHORT SECT	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS C 2	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS D 2	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS D#2	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS F 2	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS G 2	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS A 2	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS A#2	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS C 3	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS D 3	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS D#3	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS F 3	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS G 3	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS A 3	
+AKAI	S1100 Library	Partition D -> SH1189 -> SAMPLE	SS A#3	
+AKAI	S1100 Library	Partition D -> SL1154 -> PROGRAM	BONGO	
+AKAI	S1100 Library	Partition D -> SL1154 -> PROGRAM	MARACAS	
+AKAI	S1100 Library	Partition D -> SL1154 -> PROGRAM	GUIRO	
+AKAI	S1100 Library	Partition D -> SL1154 -> PROGRAM	CUBA B DEMO	
+AKAI	S1100 Library	Partition D -> SL1154 -> PROGRAM	CUBA F-SCLE	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONGO LO OP	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONG LO SLP	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONGO HEEL	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONGO HI OP	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONG HI SLP	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONGO CL	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONGO OP AC	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONGO ROLL#	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	BONGO ROLL	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	MARACAS SHOT	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	MARACAS LOOS	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	GUIRO SHOT	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	GUIRO LONG	
+AKAI	S1100 Library	Partition D -> SL1154 -> SAMPLE	CUBA B DEM	
+AKAI	S1100 Library	Partition D -> SL1155 -> PROGRAM	TIMBALES A	
+AKAI	S1100 Library	Partition D -> SL1155 -> PROGRAM	TIMBAL DEM A	
+AKAI	S1100 Library	Partition D -> SL1155 -> PROGRAM	TIMBL A FSCL	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	TIMBAL CLRIM	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	PAILA LO	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	TIMBAL LO CL	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	TIMBAL LO OP	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	TIMBAL OP	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	TIMBAL OPRIM	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	ABANICO	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	PAILA HI	
+AKAI	S1100 Library	Partition D -> SL1155 -> SAMPLE	TMBAL A DE	
+AKAI	S1100 Library	Partition D -> SL1156 -> PROGRAM	TIMBALES B	
+AKAI	S1100 Library	Partition D -> SL1156 -> PROGRAM	TIMBAL DEM B	
+AKAI	S1100 Library	Partition D -> SL1156 -> PROGRAM	TIMBL B FSCL	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	MAMBO BELL	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	MAMBO BELLAC	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	CHA BELL LO	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	CHA BELL HI	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	WOOD BLOCK	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	CYMBAL REGAT	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	CYMBAL CRASH	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	CYMBAL CRAS#	
+AKAI	S1100 Library	Partition D -> SL1156 -> SAMPLE	TMBAL B DE	
+AKAI	S1100 Library	Partition E -> SH1190 -> PROGRAM	VIOLINZ	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS E 3	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS G 3	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS A#3	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS C#4	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS E 4	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS G 4	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS A#4	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS C#5	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS E 5	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS G 5	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS A#5	
+AKAI	S1100 Library	Partition E -> SH1190 -> SAMPLE	VLNS C#6	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	FLUTE MTRON	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	TEST PROGRAM	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	TP GUITAR 1	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	SOTC ORGAN	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	MLT STRINGS	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	MLT BRASS	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	NYLONS MLTRN	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	VIBE OR NOT	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	MANDOS MLTRN	
+AKAI	S1100 Library	Partition E -> SH1191 -> PROGRAM	ACCORD MLTRN	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	STRINGS 88	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	STRINGS  75	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	STRINGS  81	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	STRINGS  71	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	FLUTE  F	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	FLUTE  C	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	FLUTE  A#	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	TP GUITAR 30	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	TP GUITAR 47	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	TP GUITAR 54	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ORGAN 85	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ORGAN   69	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ORGAN 72	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ORGAN  79	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ORGAN  67	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ORGAN  62	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	BRASS  65	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	BRASS  77	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	BRASS  58	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	BRASS  67	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	BRASS  53	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	BRASS  46	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	NYLON  78	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	NYLON  63	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	VIBES 88	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	MANDOLIN 83	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	MANDOLIN 67	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	MANDOLIN 74	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	MANDOLIN 70	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ACCORDIAN 64	
+AKAI	S1100 Library	Partition E -> SH1191 -> SAMPLE	ACCORDIAN 52	
+AKAI	S1100 Library	Partition E -> SH1192 -> PROGRAM	STACBASS 1	
+AKAI	S1100 Library	Partition E -> SH1192 -> PROGRAM	RES BASS 1	
+AKAI	S1100 Library	Partition E -> SH1192 -> PROGRAM	BIG BASS 1	
+AKAI	S1100 Library	Partition E -> SH1192 -> PROGRAM	MIX BASS 3	
+AKAI	S1100 Library	Partition E -> SH1192 -> PROGRAM	MIX BASS 2	
+AKAI	S1100 Library	Partition E -> SH1192 -> PROGRAM	MIX BASS 1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	STCSYN1 F-1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	STCSYN1 A#1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	STCSYN1 D#2	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	STCSYN1 G#2	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	STCSYN1 C#3	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	RESSYN1 C-1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	RESSYN1 F-1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	RESSYN1 A#1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	RESSYN1 D#2	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	RESSYN1 G#2	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	RESSYN1 C#3	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	BIGSYN1 C-1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	BIGSYN1 F-1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	BIGSYN1 A#1	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	BIGSYN1 D#2	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	BIGSYN1 G#2	
+AKAI	S1100 Library	Partition E -> SH1192 -> SAMPLE	BIGSYN1 C#3	
+AKAI	S1100 Library	Partition E -> SH1193 -> PROGRAM	VOCODER 1	
+AKAI	S1100 Library	Partition E -> SH1193 -> PROGRAM	VOCODER 2	
+AKAI	S1100 Library	Partition E -> SH1193 -> PROGRAM	VOCODER 3	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER1C-1	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER1C-2	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER1C-3	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER1C-4	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER1C-5	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER2C-1	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER2C-2	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER2C-3	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER2C-4	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER2C-5	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER3C-1	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER3C-2	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER3C-3	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER3C-4	
+AKAI	S1100 Library	Partition E -> SH1193 -> SAMPLE	VOCODER3C-5	
+AKAI	S1100 Library	Partition E -> SH1194 -> PROGRAM	DIST EL.PNO1	
+AKAI	S1100 Library	Partition E -> SH1194 -> PROGRAM	DIST EL.PNO2	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO C1	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO G1	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO C2	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO G2	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO C3	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO G3	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO C4	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO G4	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO C5	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO G5	
+AKAI	S1100 Library	Partition E -> SH1194 -> SAMPLE	DIRT PNO C6	
+AKAI	S1100 Library	Partition E -> SH1195 -> PROGRAM	FILTER SYNTH	
+AKAI	S1100 Library	Partition E -> SH1195 -> PROGRAM	STACATOSYNTH	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 C1	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 E1	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 G1	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 B1	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 D1	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 F2	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 A2	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 C3	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 E3	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 G3	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 B3	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 D4	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 F4	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 A4	
+AKAI	S1100 Library	Partition E -> SH1195 -> SAMPLE	FILTSYN1 C5	
+AKAI	S1100 Library	Partition E -> SH1196 -> PROGRAM	LAYER SYNTH1	
+AKAI	S1100 Library	Partition E -> SH1196 -> SAMPLE	LAYERSYN1	
+AKAI	S1100 Library	Partition E -> SH1196 -> SAMPLE	LAYERSYN2	
+AKAI	S1100 Library	Partition E -> SH1196 -> SAMPLE	LAYERSYN3	
+AKAI	S1100 Library	Partition E -> SH1196 -> SAMPLE	LAYERSYN4	
+AKAI	S1100 Library	Partition E -> SH1196 -> SAMPLE	LAYERSYN5	
+AKAI	S1100 Library	Partition E -> SH1197 -> PROGRAM	INVERT FILT	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT C1	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT E1	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT G1	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT B1	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT D2	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT F2	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT A2	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT C3	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT E3	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT G3	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT B3	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT D4	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT F4	
+AKAI	S1100 Library	Partition E -> SH1197 -> SAMPLE	INV FILT A4	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	FANTASY STR	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	FANTASY BELL	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	GLASS	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	BREATH	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	ICICLES	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	BELL STRING1	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	BELL STRING2	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	GLASS CARPET	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	GLASS BEND	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	BREATHY VOX	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	ICE CHORUS	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	VOICE CHIMES	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	BELL STR VOX	
+AKAI	S1100 Library	Partition E -> SH1198 -> PROGRAM	GLASS+VOICE	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	BELLSTR G1	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	BELLSTR G2	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	BELLSTR G3	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	BELLSTR G4	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	BELLSTR G5	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	TINKLE	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	GLASS G1	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	GLASS G2	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	GLASS G3	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	GLASS G4	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	GLASS G5	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	ICE BREATH	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	VOX1	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	VOX2	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	VOX3	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	VOX4	
+AKAI	S1100 Library	Partition E -> SH1198 -> SAMPLE	VOX5	
+AKAI	S1100 Library	Partition E -> SH1199 -> PROGRAM	BIG SYNTH	
+AKAI	S1100 Library	Partition E -> SH1199 -> PROGRAM	BIGGER SYNTH	
+AKAI	S1100 Library	Partition E -> SH1199 -> PROGRAM	MELLOW SYNTH	
+AKAI	S1100 Library	Partition E -> SH1199 -> PROGRAM	POLYSYNTH	
+AKAI	S1100 Library	Partition E -> SH1199 -> PROGRAM	BIG BASS	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD G1	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD C2	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD G2	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD C3	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD G3	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD C4	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD G4	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD C5	
+AKAI	S1100 Library	Partition E -> SH1199 -> SAMPLE	BIG PAD G5	
+AKAI	S1100 Library	Partition E -> SH1200 -> PROGRAM	FDBAK GTR 1	
+AKAI	S1100 Library	Partition E -> SH1200 -> PROGRAM	FDBAK GTR 2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR E2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR G2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR B2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR D2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR F3	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR A3	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR C4	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR E4	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR G4	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR B4	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+E2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+G2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+B2	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+D3	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+F3	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+A3	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+C4	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+E4	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+G4	
+AKAI	S1100 Library	Partition E -> SH1200 -> SAMPLE	FB GTR+B4	
+AKAI	S1100 Library	Partition E -> SL1131 -> PROGRAM	WATERPHONES	
+AKAI	S1100 Library	Partition E -> SL1131 -> PROGRAM	WATERPHONES2	
+AKAI	S1100 Library	Partition E -> SL1131 -> PROGRAM	NOIZ PHONES	
+AKAI	S1100 Library	Partition E -> SL1131 -> PROGRAM	EXPLOSION	
+AKAI	S1100 Library	Partition E -> SL1131 -> PROGRAM	METAL NOIZ	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	WATERPHONE 1	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	WATERPHONE 2	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	WATERPHONE 3	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	WATERPHONE 5	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	WATERPHONE 4	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	NOIZ   SYN	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	NOIZ RISE	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	RANDAM SYN	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	METAL SYNTH	
+AKAI	S1100 Library	Partition E -> SL1131 -> SAMPLE	EXPLOMIX01	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	DANCE BASS 1	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	DANCE BASS 2	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	DANCE BASS 3	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	DANCE BASS 4	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	DANCE BASS 5	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	DANCE BASS 6	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	DANCE BASS 7	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	PULSE BASS	
+AKAI	S1100 Library	Partition E -> SL1132 -> PROGRAM	THICK BASS 1	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 1	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 2	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 3	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 4	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 5	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 6	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 7	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	DANCE BASS 8	
+AKAI	S1100 Library	Partition E -> SL1132 -> SAMPLE	THICK SYN 2	
+AKAI	S1100 Library	Partition E -> SL1133 -> PROGRAM	BREATHY PERC	
+AKAI	S1100 Library	Partition E -> SL1133 -> PROGRAM	BREATHY PER2	
+AKAI	S1100 Library	Partition E -> SL1133 -> PROGRAM	BREATHY PAD	
+AKAI	S1100 Library	Partition E -> SL1133 -> PROGRAM	BREATHY PAD2	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATHPERCG2	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATHPERCG3	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATHPERCG4	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATHPERCG5	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATH G1	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATH G2	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATH G3	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATH G4	
+AKAI	S1100 Library	Partition E -> SL1133 -> SAMPLE	BREATH G5	
+AKAI	S1100 Library	Partition E -> SL1134 -> PROGRAM	VIOLINZ	
+AKAI	S1100 Library	Partition E -> SL1134 -> PROGRAM	SOFT VLNZ	
+AKAI	S1100 Library	Partition E -> SL1134 -> PROGRAM	SLOW VL-PAD	
+AKAI	S1100 Library	Partition E -> SL1134 -> PROGRAM	ORCH VLNZ	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS E 3	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS G 3	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS A#3	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS C#4	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS E 4	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS G 4	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS A#4	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS C#5	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS E 5	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS G 5	
+AKAI	S1100 Library	Partition E -> SL1134 -> SAMPLE	VLNS A#5	
+AKAI	S1100 Library	Partition E -> SL1135 -> PROGRAM	WIRED BASS	
+AKAI	S1100 Library	Partition E -> SL1135 -> PROGRAM	STACK BASS	
+AKAI	S1100 Library	Partition E -> SL1135 -> PROGRAM	BREATHBASS	
+AKAI	S1100 Library	Partition E -> SL1135 -> PROGRAM	DEEP BASS	
+AKAI	S1100 Library	Partition E -> SL1135 -> PROGRAM	DOUBLE BASS	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	WIRE BASS 2	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	STACK BASS 1	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	BREATHBASS 1	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DEEP BASS A2	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	BASSTRILL E4	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	BASSTRILL A4	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DEEP BASS C3	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS E-1	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS F-1	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS G-1	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS B-1	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS C-2	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS D-2	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS G-2	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS D-3	
+AKAI	S1100 Library	Partition E -> SL1135 -> SAMPLE	DBL BASS F-3	
+AKAI	S1100 Library	Partition E -> SL1136 -> PROGRAM	BELL SYNTH	
+AKAI	S1100 Library	Partition E -> SL1136 -> PROGRAM	PIANO STACK	
+AKAI	S1100 Library	Partition E -> SL1136 -> PROGRAM	VOICE STACK	
+AKAI	S1100 Library	Partition E -> SL1136 -> PROGRAM	NASTY KNOCK	
+AKAI	S1100 Library	Partition E -> SL1136 -> PROGRAM	GLASS ORGAN	
+AKAI	S1100 Library	Partition E -> SL1136 -> SAMPLE	GLASS ORGAN	
+AKAI	S1100 Library	Partition E -> SL1136 -> SAMPLE	VOICEY SYNTH	
+AKAI	S1100 Library	Partition E -> SL1136 -> SAMPLE	NASTY WAVE	
+AKAI	S1100 Library	Partition E -> SL1136 -> SAMPLE	BELL SYNTH 2	
+AKAI	S1100 Library	Partition E -> SL1136 -> SAMPLE	DIGI ZITHER1	
+AKAI	S1100 Library	Partition E -> SL1137 -> PROGRAM	CLARINET	
+AKAI	S1100 Library	Partition E -> SL1137 -> PROGRAM	BASSCLARINET	
+AKAI	S1100 Library	Partition E -> SL1137 -> PROGRAM	SAXOPHONE	
+AKAI	S1100 Library	Partition E -> SL1137 -> PROGRAM	BARRISAX	
+AKAI	S1100 Library	Partition E -> SL1137 -> PROGRAM	SYNTH  WIND	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET F2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET A2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET B2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET E3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET G#3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET A#3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET F#4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET A#4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET D5	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET D4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	CLARINET D#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR C#1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR F1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR E1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR D1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR F#1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR G1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR G#1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR B2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR A#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR A2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR F#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR D#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR D2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR A1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR G#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR G2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR F2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR E2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR C2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR C#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR B1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR A#1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BASSCLAR D#1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI D 2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI F 2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI G#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI B 2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI D 3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI F 3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI B 3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI D 4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI F 4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	BARRI G#4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX D#1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX G#1	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX D#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX G#2	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX C#3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX G#3	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX D#4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	SAX G4	
+AKAI	S1100 Library	Partition E -> SL1137 -> SAMPLE	WIND SYN  A3	
+AKAI	S1100 Library	Partition E -> SL1138 -> PROGRAM	E.PNO REVERB	
+AKAI	S1100 Library	Partition E -> SL1138 -> PROGRAM	FANTASY PNO	
+AKAI	S1100 Library	Partition E -> SL1138 -> PROGRAM	FANTASY BELL	
+AKAI	S1100 Library	Partition E -> SL1138 -> PROGRAM	MH E-PF	
+AKAI	S1100 Library	Partition E -> SL1138 -> PROGRAM	STRING PAD	
+AKAI	S1100 Library	Partition E -> SL1138 -> PROGRAM	STRINGS PNO	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	C3 MH DPF	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	F1 MH DPF	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	C4 MH DPF	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	C5 MH DPF	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	DIGIRHDS G1	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	DIGIRHDS G2	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	DIGIRHDS G3	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	DIGIRHDS G4	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	DIGIRHDS G5	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	FANTASY	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	STRINGPAD C5	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	STRINGPAD C3	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	STRINGPAD C2	
+AKAI	S1100 Library	Partition E -> SL1138 -> SAMPLE	STRINGPAD C4	
+AKAI	S1100 Library	Partition E -> SL1139 -> PROGRAM	HEAVENLY VOX	
+AKAI	S1100 Library	Partition E -> SL1139 -> PROGRAM	SYN CHORS AH	
+AKAI	S1100 Library	Partition E -> SL1139 -> PROGRAM	VOX MARIMBA	
+AKAI	S1100 Library	Partition E -> SL1139 -> PROGRAM	HEAVEN SYNTH	
+AKAI	S1100 Library	Partition E -> SL1139 -> PROGRAM	HEAVEN PAD	
+AKAI	S1100 Library	Partition E -> SL1139 -> SAMPLE	HEAVENVOX G2	
+AKAI	S1100 Library	Partition E -> SL1139 -> SAMPLE	HEAVENVOX G3	
+AKAI	S1100 Library	Partition E -> SL1139 -> SAMPLE	HEAVENVOX G4	
+AKAI	S1100 Library	Partition E -> SL1139 -> SAMPLE	HEAVENVOX G5	
+AKAI	S1100 Library	Partition E -> SL1139 -> SAMPLE	MKS PAD6 C4	
+AKAI	S1100 Library	Partition E -> SL1139 -> SAMPLE	MARIMBA D#2	
+AKAI	S1100 Library	Partition E -> SL1139 -> SAMPLE	THICK SYN 1	
+AKAI	S1100 Library	Partition E -> SL1140 -> PROGRAM	F TOMPROGRAM	
+AKAI	S1100 Library	Partition E -> SL1140 -> PROGRAM	F TOM F-SCLE	
+AKAI	S1100 Library	Partition E -> SL1140 -> PROGRAM	F TOM P-ENV	
+AKAI	S1100 Library	Partition E -> SL1140 -> PROGRAM	F TOM FF	
+AKAI	S1100 Library	Partition E -> SL1140 -> PROGRAM	F TOM MF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT1 FF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT1 MF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT2 FF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT2 MF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT3 FF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT3 MF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT4 FF	
+AKAI	S1100 Library	Partition E -> SL1140 -> SAMPLE	FT4 MF	
+AKAI	S1100 Library	Partition E -> SL1141 -> PROGRAM	R TOMPROGRAM	
+AKAI	S1100 Library	Partition E -> SL1141 -> PROGRAM	R TOM F-SCLE	
+AKAI	S1100 Library	Partition E -> SL1141 -> PROGRAM	F TOM P-ENV	
+AKAI	S1100 Library	Partition E -> SL1141 -> PROGRAM	R TOM FF	
+AKAI	S1100 Library	Partition E -> SL1141 -> PROGRAM	R TOM MF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT1 FF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT1 MF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT2 FF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT2 MF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT3 FF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT3 MF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT4 FF	
+AKAI	S1100 Library	Partition E -> SL1141 -> SAMPLE	RT4 MF	
+AKAI	S1100 Library	Partition E -> SL1142 -> PROGRAM	P TOMPROGRAM	
+AKAI	S1100 Library	Partition E -> SL1142 -> PROGRAM	P TOM F-SCLE	
+AKAI	S1100 Library	Partition E -> SL1142 -> PROGRAM	P TOM P-ENV1	
+AKAI	S1100 Library	Partition E -> SL1142 -> PROGRAM	P TOM P-ENV2	
+AKAI	S1100 Library	Partition E -> SL1142 -> PROGRAM	P TOM FF	
+AKAI	S1100 Library	Partition E -> SL1142 -> PROGRAM	P TOM MF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT1  FF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT1  MF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT2  FF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT2  MF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT3  FF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT3  MF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT4  FF	
+AKAI	S1100 Library	Partition E -> SL1142 -> SAMPLE	PT4  MF	
+AKAI	S1100 Library	Partition E -> SL1143 -> PROGRAM	J TOMPROGRAM	
+AKAI	S1100 Library	Partition E -> SL1143 -> PROGRAM	J TOM F-SCLE	
+AKAI	S1100 Library	Partition E -> SL1143 -> PROGRAM	J TOM P-ENV	
+AKAI	S1100 Library	Partition E -> SL1143 -> PROGRAM	J TOM FFF	
+AKAI	S1100 Library	Partition E -> SL1143 -> PROGRAM	J TOM FF	
+AKAI	S1100 Library	Partition E -> SL1143 -> PROGRAM	J TOM MF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 1 FFF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 1 FF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 1 MF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 2 FFF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 2 FF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 2 MF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 3 FFF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 3 FF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 3 MF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 4 FFF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 4 FF	
+AKAI	S1100 Library	Partition E -> SL1143 -> SAMPLE	J T 4 MF	
+AKAI	S1100 Library	Partition E -> SL1144 -> PROGRAM	HAT 1 PRGRM	
+AKAI	S1100 Library	Partition E -> SL1144 -> PROGRAM	CYM 1 PRGRM	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	CUP  1	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	RIDE 1	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	J   CRASH 3	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	J   CRASH 1	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	J   CRASH 2	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	SPLASH	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	CHAT1 HEAVY	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	CHAT1 LIGHT	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	OHAT1	
+AKAI	S1100 Library	Partition E -> SL1144 -> SAMPLE	CHAT1 FOOT	
+AKAI	S1100 Library	Partition E -> SL1145 -> PROGRAM	CYM 2 PRGRM	
+AKAI	S1100 Library	Partition E -> SL1145 -> PROGRAM	HAT 2 PRGRM	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	CUP  2	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	RIDE 2	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	ROCKCRASH 1	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	ROCKCRASH 2	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	CHINA	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	CHAT2 HEAVY	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	CHAT2 LIGHT	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	OHAT2	
+AKAI	S1100 Library	Partition E -> SL1145 -> SAMPLE	CHAT2 FOOT	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	F BD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	F SD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	R BD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	R SD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	P BD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	P SD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	J BD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	J SD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	M BD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	M SD PROGRAM	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	M BD PROGMIX	
+AKAI	S1100 Library	Partition E -> SL1146 -> PROGRAM	M SD PROGMIX	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	FBD FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	FBD MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	FSD FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	FSD MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	FSD MP	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	RBD FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	RBD MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	RSD O RIM	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	RSD FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	RSD MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	RSD MP	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	PBD FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	PBD MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	PSD  FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	PSD  MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	PSD  MP	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	P  C  RIM	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	JBD   FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	JBD   MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	J  SD O RIM	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	J  SD FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	J  SD MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	J  SD MP	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	JC RIM  FF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	JC RIM  MF	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	MIX KICK2	
+AKAI	S1100 Library	Partition E -> SL1146 -> SAMPLE	MIX SN 09	
+AKAI	S1100 Library	Partition E -> SL1147 -> PROGRAM	CAIXA..SN	
+AKAI	S1100 Library	Partition E -> SL1147 -> PROGRAM	TRIANGLE	
+AKAI	S1100 Library	Partition E -> SL1147 -> PROGRAM	GANZA	
+AKAI	S1100 Library	Partition E -> SL1147 -> PROGRAM	AGOGO	
+AKAI	S1100 Library	Partition E -> SL1147 -> PROGRAM	CUICA	
+AKAI	S1100 Library	Partition E -> SL1147 -> PROGRAM	BRAZIL A DEM	
+AKAI	S1100 Library	Partition E -> SL1147 -> PROGRAM	BRAZI A FSCL	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	CAIXA NORM	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	CAIXA RIM	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	CAIXA TR	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	TRIANGLE CL	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	TRIANGLE OP	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	GANZA NORMAL	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	GANZA ACCENT	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	LOW  AGOGO	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	HIGH AGOGO	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	BEL BEL AGGO	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	CUICA LO	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	CUICA HI	
+AKAI	S1100 Library	Partition E -> SL1147 -> SAMPLE	BRAZI A DE	
+AKAI	S1100 Library	Partition E -> SL1148 -> PROGRAM	SURDO	
+AKAI	S1100 Library	Partition E -> SL1148 -> PROGRAM	CAXIXI	
+AKAI	S1100 Library	Partition E -> SL1148 -> PROGRAM	TAMBOURIM	
+AKAI	S1100 Library	Partition E -> SL1148 -> PROGRAM	CABASA	
+AKAI	S1100 Library	Partition E -> SL1148 -> PROGRAM	BRAZIL B DEM	
+AKAI	S1100 Library	Partition E -> SL1148 -> PROGRAM	BRAZI B FSCL	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	SURDO OPEN	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	SURDO CL	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	SURDO L MUTE	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	SURDO RIM	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	CAXIXI NORM	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	CAXIXI ACCE	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	TAMBORI CL	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	TAMBORI OP	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	TAMBORI RIM	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	CABASA STACK	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	CABASA DOWN	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	CABASA UP	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	CABASA ROLL	
+AKAI	S1100 Library	Partition E -> SL1148 -> SAMPLE	BRAZI B DE	
+AKAI	S1100 Library	Partition E -> SL1149 -> PROGRAM	PANDEIRO	
+AKAI	S1100 Library	Partition E -> SL1149 -> PROGRAM	WHISTLE	
+AKAI	S1100 Library	Partition E -> SL1149 -> PROGRAM	RECO RECO	
+AKAI	S1100 Library	Partition E -> SL1149 -> PROGRAM	BRAZIL C DEM	
+AKAI	S1100 Library	Partition E -> SL1149 -> PROGRAM	BRAZI C FSCL	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	PANDEI CLOSE	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	PANDEI OPEN	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	PANDEI JINGL	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	WHISTLE LOW	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	WHISTLE HIGH	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	RECO MUTE	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	RECO ACCENT	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	RECO OPEN	
+AKAI	S1100 Library	Partition E -> SL1149 -> SAMPLE	BRAZI C DE	
+AKAI	S1100 Library	Partition F -> SL1150 -> PROGRAM	BIRIMBAU	
+AKAI	S1100 Library	Partition F -> SL1150 -> PROGRAM	BRAZI G DE	
+AKAI	S1100 Library	Partition F -> SL1150 -> PROGRAM	BIRIM F-SCLE	
+AKAI	S1100 Library	Partition F -> SL1150 -> SAMPLE	BIRIM COIN#	
+AKAI	S1100 Library	Partition F -> SL1150 -> SAMPLE	BIRIM COIN	
+AKAI	S1100 Library	Partition F -> SL1150 -> SAMPLE	BIRIM NOR PP	
+AKAI	S1100 Library	Partition F -> SL1150 -> SAMPLE	BIRIM NOR FF	
+AKAI	S1100 Library	Partition F -> SL1150 -> SAMPLE	BIRIM TO OP	
+AKAI	S1100 Library	Partition F -> SL1150 -> SAMPLE	BIRIM TO CL	
+AKAI	S1100 Library	Partition F -> SL1150 -> SAMPLE	BRAZI D DEMO	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	AFRICAN BELL	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	CHEKERE	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	BANANA BELL	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	LOG DRUM	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	THAMB PIANO	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	AFRICAM AGOG	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	RAKATAK	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	AFRIC A DEMO	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	THAM PF SCAL	
+AKAI	S1100 Library	Partition F -> SL1151 -> PROGRAM	AFRI A FSCLE	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	AFRICANBELL	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	CHEKERESHAKE	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	CHEKERE SHOT	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	BANANA BELL	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	LOG DRUM 1	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	LOG DRUM 2	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	LOG DRUM 3	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	LOG DRUM 4	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	THAMB PIANO1	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	THAMB PIANO2	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	THAMB PIANO3	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	THAMB PIANO4	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	THAMB PIANO5	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	AFRI AGG MAL	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	AFRICA AGGLO	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	AFRICA AGGHI	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	RAKATAK	
+AKAI	S1100 Library	Partition F -> SL1151 -> SAMPLE	AFRIC A DE	
+AKAI	S1100 Library	Partition F -> SL1152 -> PROGRAM	TALK DRUM	
+AKAI	S1100 Library	Partition F -> SL1152 -> PROGRAM	DJEMBE	
+AKAI	S1100 Library	Partition F -> SL1152 -> PROGRAM	ANKLE BEADS	
+AKAI	S1100 Library	Partition F -> SL1152 -> PROGRAM	BASS DRUM	
+AKAI	S1100 Library	Partition F -> SL1152 -> PROGRAM	AFRIC B DEMO	
+AKAI	S1100 Library	Partition F -> SL1152 -> PROGRAM	AFRICA F-SCL	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	TALKINGDR HI	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	TALKINGDR LO	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	TALKINGDR UP	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	TALKINGDR DN	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	DJEMBE BASS	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	DJEMBE OP	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	DJEMBE FLAM	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	DJEMBE MUFF	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	DJEMBE OPSLP	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	DJEMBE CLSLP	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	BEADS SHOT	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	KENKENI BASS	
+AKAI	S1100 Library	Partition F -> SL1152 -> SAMPLE	AFRIC B DE	
+AKAI	S1100 Library	Partition F -> SL1153 -> PROGRAM	CONGA	
+AKAI	S1100 Library	Partition F -> SL1153 -> PROGRAM	VIBRA SLAP	
+AKAI	S1100 Library	Partition F -> SL1153 -> PROGRAM	HAND BELL	
+AKAI	S1100 Library	Partition F -> SL1153 -> PROGRAM	CLAVESS	
+AKAI	S1100 Library	Partition F -> SL1153 -> PROGRAM	CUBA A DEMO	
+AKAI	S1100 Library	Partition F -> SL1153 -> PROGRAM	NUBA F-SCLE	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA BASS	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA LO OP	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA MD OP	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA HI OP	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA OP SLP	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA MUFF	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA CL SLP	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA L HEEL	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA L TOE	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA GLISS	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CONGA ROLL	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	VIBRA SLAP	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	HAND BELL HI	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	HAND BELL LO	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CLAVES #	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CLAVES ##	
+AKAI	S1100 Library	Partition F -> SL1153 -> SAMPLE	CUBA A DEM	
