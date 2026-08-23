@@ -1,0 +1,596 @@
+Yamaha	S80	VCE -> PRE1	001 Pf:StereoGrnd	
+Yamaha	S80	VCE -> PRE1	002 Pf:StereoGnd2	
+Yamaha	S80	VCE -> PRE1	003 Pf:CF Grand M	
+Yamaha	S80	VCE -> PRE1	004 Pf:Dark Grand	
+Yamaha	S80	VCE -> PRE1	005 Pf:Difference	
+Yamaha	S80	VCE -> PRE1	006 Pf:Piano/Ep	
+Yamaha	S80	VCE -> PRE1	007 Co:Piano/Strg	
+Yamaha	S80	VCE -> PRE1	008 Pf:Piano/Oohs	
+Yamaha	S80	VCE -> PRE1	009 Pf:CP2000	
+Yamaha	S80	VCE -> PRE1	010 Pf:Piano/DX	
+Yamaha	S80	VCE -> PRE1	011 Pf:Wurlitrm	
+Yamaha	S80	VCE -> PRE1	012 Pf:DF EP IV	
+Yamaha	S80	VCE -> PRE1	013 Pf:DF EP III	
+Yamaha	S80	VCE -> PRE1	014 Pf:Herb Roadz	
+Yamaha	S80	VCE -> PRE1	015 Pf:BasicRoadz	
+Yamaha	S80	VCE -> PRE1	016 Pf:19 Roadz	
+Yamaha	S80	VCE -> PRE1	017 Pf:Vic'sRoadz	
+Yamaha	S80	VCE -> PRE1	018 Pf:ErlyFusion	
+Yamaha	S80	VCE -> PRE1	019 Pf:Grapevine	
+Yamaha	S80	VCE -> PRE1	020 Pf:VintgCond	
+Yamaha	S80	VCE -> PRE1	021 Pf:DXAtacky	
+Yamaha	S80	VCE -> PRE1	022 Pf:DigiX Wave	
+Yamaha	S80	VCE -> PRE1	023 Pf:Dark DX	
+Yamaha	S80	VCE -> PRE1	024 Pf:Ice Piano	
+Yamaha	S80	VCE -> PRE1	025 Pf:ChorusBel	
+Yamaha	S80	VCE -> PRE1	026 Pf:Bel Roadz	
+Yamaha	S80	VCE -> PRE1	027 Pf:Glass EP	
+Yamaha	S80	VCE -> PRE1	028 Pf:SuperDyno	
+Yamaha	S80	VCE -> PRE1	029 Sc:PowerKeys	
+Yamaha	S80	VCE -> PRE1	030 Pf:Harpsicode	
+Yamaha	S80	VCE -> PRE1	031 Pf:Clav	
+Yamaha	S80	VCE -> PRE1	032 Pf:Clav Wah	
+Yamaha	S80	VCE -> PRE1	033 Or:Perc Org	
+Yamaha	S80	VCE -> PRE1	034 Or:Cool	
+Yamaha	S80	VCE -> PRE1	035 Or:ClickOrgan	
+Yamaha	S80	VCE -> PRE1	036 Or:Jazz	
+Yamaha	S80	VCE -> PRE1	037 Or:Soft Rock	
+Yamaha	S80	VCE -> PRE1	038 Or:Tube	
+Yamaha	S80	VCE -> PRE1	039 Or:Contnental	
+Yamaha	S80	VCE -> PRE1	040 Or:Swish	
+Yamaha	S80	VCE -> PRE1	041 Or:4 Bars	
+Yamaha	S80	VCE -> PRE1	042 Or:Full	
+Yamaha	S80	VCE -> PRE1	043 Or:GiantDrbr	
+Yamaha	S80	VCE -> PRE1	044 Or:Sunday	
+Yamaha	S80	VCE -> PRE1	045 Or:Pipes	
+Yamaha	S80	VCE -> PRE1	046 Gt:New Nylon	
+Yamaha	S80	VCE -> PRE1	047 Gt:JazzGTmelo	
+Yamaha	S80	VCE -> PRE1	048 Gt:Melo Trmlo	
+Yamaha	S80	VCE -> PRE1	049 Gt:Strat Chor	
+Yamaha	S80	VCE -> PRE1	050 Gt:StratChor2	
+Yamaha	S80	VCE -> PRE1	051 Gt:18 String	
+Yamaha	S80	VCE -> PRE1	052 Gt:Acoustic	
+Yamaha	S80	VCE -> PRE1	053 Gt:MuteGtr	
+Yamaha	S80	VCE -> PRE1	054 Gt:DirtyTwn	
+Yamaha	S80	VCE -> PRE1	055 Gt:Feedback	
+Yamaha	S80	VCE -> PRE1	056 Gt:VOODOO MAN	
+Yamaha	S80	VCE -> PRE1	057 Gt:Rockabilly	
+Yamaha	S80	VCE -> PRE1	058 Gt:Funk It!!	
+Yamaha	S80	VCE -> PRE1	059 Ba:Upright	
+Yamaha	S80	VCE -> PRE1	060 Ba:Finger	
+Yamaha	S80	VCE -> PRE1	061 Ba:PickBass	
+Yamaha	S80	VCE -> PRE1	062 Ba:Fretless	
+Yamaha	S80	VCE -> PRE1	063 Ba:Slap	
+Yamaha	S80	VCE -> PRE1	064 Ba:Fngr & RW	
+Yamaha	S80	VCE -> PRE1	065 St:Background	
+Yamaha	S80	VCE -> PRE1	066 St:Big String	
+Yamaha	S80	VCE -> PRE1	067 St:Cello Big	
+Yamaha	S80	VCE -> PRE1	068 St:Chamberz	
+Yamaha	S80	VCE -> PRE1	069 St:SmallSect	
+Yamaha	S80	VCE -> PRE1	070 St:CelloSmall	
+Yamaha	S80	VCE -> PRE1	071 St:Pizz	
+Yamaha	S80	VCE -> PRE1	072 St:Harp	
+Yamaha	S80	VCE -> PRE1	073 Rd:Oboe	
+Yamaha	S80	VCE -> PRE1	074 Rd:Bssoon	
+Yamaha	S80	VCE -> PRE1	075 Rd:Clarnet	
+Yamaha	S80	VCE -> PRE1	076 Co:Wind Orch	
+Yamaha	S80	VCE -> PRE1	077 St:SynthStrgs	
+Yamaha	S80	VCE -> PRE1	078 St:ObiStrings	
+Yamaha	S80	VCE -> PRE1	079 Br:Fanfare	
+Yamaha	S80	VCE -> PRE1	080 Br:MediumBrss	
+Yamaha	S80	VCE -> PRE1	081 Br:Two Brass	
+Yamaha	S80	VCE -> PRE1	082 Br:Brass&Sax	
+Yamaha	S80	VCE -> PRE1	083 Br:Dark Class	
+Yamaha	S80	VCE -> PRE1	084 Br:Stereo Brs	
+Yamaha	S80	VCE -> PRE1	085 Br:Trumpet	
+Yamaha	S80	VCE -> PRE1	086 Br:Mute Trpt	
+Yamaha	S80	VCE -> PRE1	087 Rd:Tenor Sax	
+Yamaha	S80	VCE -> PRE1	088 Rd:Alto Sax	
+Yamaha	S80	VCE -> PRE1	089 Rd:Bari Sax	
+Yamaha	S80	VCE -> PRE1	090 Rd:Soprano	
+Yamaha	S80	VCE -> PRE1	091 Br:ObrBrass	
+Yamaha	S80	VCE -> PRE1	092 Br:PowerSynth	
+Yamaha	S80	VCE -> PRE1	093 Br:Synth Horn	
+Yamaha	S80	VCE -> PRE1	094 Br:M Brass	
+Yamaha	S80	VCE -> PRE1	095 Br:Moon AT	
+Yamaha	S80	VCE -> PRE1	096 Br:SquishBrs	
+Yamaha	S80	VCE -> PRE1	097 Vo:Ooh Choir	
+Yamaha	S80	VCE -> PRE1	098 Vo:Ahh Choir	
+Yamaha	S80	VCE -> PRE1	099 Vo:Panmonks	
+Yamaha	S80	VCE -> PRE1	100 En:Pad Ooh	
+Yamaha	S80	VCE -> PRE1	101 Pd:Soft Pad	
+Yamaha	S80	VCE -> PRE1	102 Pd:FatSweep	
+Yamaha	S80	VCE -> PRE1	103 Pd:Cumulus	
+Yamaha	S80	VCE -> PRE1	104 Pd:Big Wing	
+Yamaha	S80	VCE -> PRE1	105 Pd:Slide in	
+Yamaha	S80	VCE -> PRE1	106 Pd:BPFx	
+Yamaha	S80	VCE -> PRE1	107 Pd:DigiSweep	
+Yamaha	S80	VCE -> PRE1	108 Pd:JM Pad	
+Yamaha	S80	VCE -> PRE1	109 Pd:Vermillion	
+Yamaha	S80	VCE -> PRE1	110 Pd:Magenta	
+Yamaha	S80	VCE -> PRE1	111 Sc:Liquito	
+Yamaha	S80	VCE -> PRE1	112 Fx:Shadow	
+Yamaha	S80	VCE -> PRE1	113 Cp:Vibes	
+Yamaha	S80	VCE -> PRE1	114 Cp:Marimba	
+Yamaha	S80	VCE -> PRE1	115 Cp:Gamelan	
+Yamaha	S80	VCE -> PRE1	116 Cp:Xylo	
+Yamaha	S80	VCE -> PRE1	117 Cp:Glocken	
+Yamaha	S80	VCE -> PRE1	118 Cp:Crotales	
+Yamaha	S80	VCE -> PRE1	119 Pc:Timpani	
+Yamaha	S80	VCE -> PRE1	120 Cp:SteelDrum	
+Yamaha	S80	VCE -> PRE1	121 Et:Sitar	
+Yamaha	S80	VCE -> PRE1	122 Pi:BrthFlute	
+Yamaha	S80	VCE -> PRE1	123 Pi:Pan Flute	
+Yamaha	S80	VCE -> PRE1	124 Or:Accordion	
+Yamaha	S80	VCE -> PRE1	125 Rd:Monica	
+Yamaha	S80	VCE -> PRE1	126 Rd:BluesHarp	
+Yamaha	S80	VCE -> PRE1	127 Co:Amandla	
+Yamaha	S80	VCE -> PRE1	128 Co:AnalogSplt	
+Yamaha	S80	VCE -> PRE2	001 Ba:1001 Sub	
+Yamaha	S80	VCE -> PRE2	002 Ba:Trancy	
+Yamaha	S80	VCE -> PRE2	003 Ba:Velo	
+Yamaha	S80	VCE -> PRE2	004 Ba:Wonk	
+Yamaha	S80	VCE -> PRE2	005 Ba:Mini 1	
+Yamaha	S80	VCE -> PRE2	006 Ba:Mini 2	
+Yamaha	S80	VCE -> PRE2	007 Ba:D-sub	
+Yamaha	S80	VCE -> PRE2	008 Ba:Lately	
+Yamaha	S80	VCE -> PRE2	009 Ba:Dark	
+Yamaha	S80	VCE -> PRE2	010 Ba:Moonbass	
+Yamaha	S80	VCE -> PRE2	011 Ba:Snoop Bs	
+Yamaha	S80	VCE -> PRE2	012 Ba:LoTic Bass	
+Yamaha	S80	VCE -> PRE2	013 Ba:Taurus	
+Yamaha	S80	VCE -> PRE2	014 Ba:Fuzzline	
+Yamaha	S80	VCE -> PRE2	015 Ba:Deep One	
+Yamaha	S80	VCE -> PRE2	016 Ba:Squbase	
+Yamaha	S80	VCE -> PRE2	017 Sc:Portachrd	
+Yamaha	S80	VCE -> PRE2	018 Sc:Thin man	
+Yamaha	S80	VCE -> PRE2	019 Sc:PopularSyn	
+Yamaha	S80	VCE -> PRE2	020 Sc:Straight	
+Yamaha	S80	VCE -> PRE2	021 Sc:Poly	
+Yamaha	S80	VCE -> PRE2	022 Sc:Zap Comp	
+Yamaha	S80	VCE -> PRE2	023 Sc:AnaTonk	
+Yamaha	S80	VCE -> PRE2	024 Sc:Insomnia	
+Yamaha	S80	VCE -> PRE2	025 Sc:Q Hit	
+Yamaha	S80	VCE -> PRE2	026 Sc:BPF1	
+Yamaha	S80	VCE -> PRE2	027 Sc:T-Eight	
+Yamaha	S80	VCE -> PRE2	028 Sc:L7 octs	
+Yamaha	S80	VCE -> PRE2	029 Sc:NoizRezz	
+Yamaha	S80	VCE -> PRE2	030 Sc:GX	
+Yamaha	S80	VCE -> PRE2	031 Sc:Noise Harp	
+Yamaha	S80	VCE -> PRE2	032 Ld:Syntax	
+Yamaha	S80	VCE -> PRE2	033 Ld:Tri Solo	
+Yamaha	S80	VCE -> PRE2	034 Ld:Smooth Saw	
+Yamaha	S80	VCE -> PRE2	035 Ld:Frontline	
+Yamaha	S80	VCE -> PRE2	036 Ld:Lucky	
+Yamaha	S80	VCE -> PRE2	037 Ld:Sneaky	
+Yamaha	S80	VCE -> PRE2	038 Ld:Rap Lead 1	
+Yamaha	S80	VCE -> PRE2	039 Ld:Rap Lead 2	
+Yamaha	S80	VCE -> PRE2	040 Ld:Rap Lead 3	
+Yamaha	S80	VCE -> PRE2	041 Ld:PhazFilter	
+Yamaha	S80	VCE -> PRE2	042 Ld:SpaceWhirl	
+Yamaha	S80	VCE -> PRE2	043 Ld:X-File	
+Yamaha	S80	VCE -> PRE2	044 Ld:BreathSaw	
+Yamaha	S80	VCE -> PRE2	045 Ld:1 is more	
+Yamaha	S80	VCE -> PRE2	046 Ld:Mini Pulse	
+Yamaha	S80	VCE -> PRE2	047 Ld:Syntrump	
+Yamaha	S80	VCE -> PRE2	048 Ld:Eagle	
+Yamaha	S80	VCE -> PRE2	049 Pd:Oberweich	
+Yamaha	S80	VCE -> PRE2	050 Pd:5thBreath	
+Yamaha	S80	VCE -> PRE2	051 Pd:Rain Pad	
+Yamaha	S80	VCE -> PRE2	052 Pd:Vortex	
+Yamaha	S80	VCE -> PRE2	053 Pd:Sprinkler	
+Yamaha	S80	VCE -> PRE2	054 Pd:Astronaut	
+Yamaha	S80	VCE -> PRE2	055 Pd:BrassyPad	
+Yamaha	S80	VCE -> PRE2	056 Pd:Sine Pad	
+Yamaha	S80	VCE -> PRE2	057 St:Big Syn	
+Yamaha	S80	VCE -> PRE2	058 Sc:Berlin	
+Yamaha	S80	VCE -> PRE2	059 Sc:Filtopia	
+Yamaha	S80	VCE -> PRE2	060 Sc:Poppy Vox	
+Yamaha	S80	VCE -> PRE2	061 Sc:Arabesque	
+Yamaha	S80	VCE -> PRE2	062 Sc:Crecendar	
+Yamaha	S80	VCE -> PRE2	063 Co:Soft Dream	
+Yamaha	S80	VCE -> PRE2	064 Co:ChimzArt	
+Yamaha	S80	VCE -> PRE2	065 Sq:Seal	
+Yamaha	S80	VCE -> PRE2	066 Sq:Shine Seq	
+Yamaha	S80	VCE -> PRE2	067 Sq:Kickwheel	
+Yamaha	S80	VCE -> PRE2	068 Sq:Supersnap	
+Yamaha	S80	VCE -> PRE2	069 Sq:Opener	
+Yamaha	S80	VCE -> PRE2	070 Sq:Rosy	
+Yamaha	S80	VCE -> PRE2	071 Sq:LAizer	
+Yamaha	S80	VCE -> PRE2	072 Sq:2 Friends	
+Yamaha	S80	VCE -> PRE2	073 Sq:Synfonic	
+Yamaha	S80	VCE -> PRE2	074 Sq:Hard road	
+Yamaha	S80	VCE -> PRE2	075 Sq:Quartz	
+Yamaha	S80	VCE -> PRE2	076 Dr:Atom	
+Yamaha	S80	VCE -> PRE2	077 Sq:Chordal	
+Yamaha	S80	VCE -> PRE2	078 Sq:Orgmatic	
+Yamaha	S80	VCE -> PRE2	079 Sq:Ana Plus	
+Yamaha	S80	VCE -> PRE2	080 Se:Frequencyz	
+Yamaha	S80	VCE -> PRE2	081 Se:Psycho	
+Yamaha	S80	VCE -> PRE2	082 Se:S - E	
+Yamaha	S80	VCE -> PRE2	083 Se:Voltage	
+Yamaha	S80	VCE -> PRE2	084 Se:Ectoplasm	
+Yamaha	S80	VCE -> PRE2	085 Se:Millenium	
+Yamaha	S80	VCE -> PRE2	086 Se:Noire	
+Yamaha	S80	VCE -> PRE2	087 Se:Falling	
+Yamaha	S80	VCE -> PRE2	088 Se:Topnotched	
+Yamaha	S80	VCE -> PRE2	089 Se:Drumnotize	
+Yamaha	S80	VCE -> PRE2	090 Se:Creature	
+Yamaha	S80	VCE -> PRE2	091 Se:Develop	
+Yamaha	S80	VCE -> PRE2	092 Se:Twilight	
+Yamaha	S80	VCE -> PRE2	093 Fx:RisingHigh	
+Yamaha	S80	VCE -> PRE2	094 Fx:90th Jimi	
+Yamaha	S80	VCE -> PRE2	095 Fx:Dew-drop	
+Yamaha	S80	VCE -> PRE2	096 Fx:SpaceTrain	
+Yamaha	S80	VCE -> PRE2	097 Fx:Brown Eyes	
+Yamaha	S80	VCE -> PRE2	098 Fx:Glacier	
+Yamaha	S80	VCE -> PRE2	099 Fx:Sahara	
+Yamaha	S80	VCE -> PRE2	100 Fx:Sunnydaze	
+Yamaha	S80	VCE -> PRE2	101 Fx:Starlight	
+Yamaha	S80	VCE -> PRE2	102 Fx:Roxy	
+Yamaha	S80	VCE -> PRE2	103 Fx:Bel Air	
+Yamaha	S80	VCE -> PRE2	104 Fx:Answers	
+Yamaha	S80	VCE -> PRE2	105 Ba:Bassline	
+Yamaha	S80	VCE -> PRE2	106 Ba:Boom Bass	
+Yamaha	S80	VCE -> PRE2	107 Ba:Drone	
+Yamaha	S80	VCE -> PRE2	108 Ba:Sweepy	
+Yamaha	S80	VCE -> PRE2	109 Ba:Super DX	
+Yamaha	S80	VCE -> PRE2	110 Ba:GangstaM	
+Yamaha	S80	VCE -> PRE2	111 Ba:FM Perko	
+Yamaha	S80	VCE -> PRE2	112 Ba:DX100	
+Yamaha	S80	VCE -> PRE2	113 Pf:BriteGrand	
+Yamaha	S80	VCE -> PRE2	114 Pf:Slamming	
+Yamaha	S80	VCE -> PRE2	115 Pf:Danzze	
+Yamaha	S80	VCE -> PRE2	116 Pf:House	
+Yamaha	S80	VCE -> PRE2	117 Pf:M25	
+Yamaha	S80	VCE -> PRE2	118 Pf:AcidFly	
+Yamaha	S80	VCE -> PRE2	119 Pf:Nite Roadz	
+Yamaha	S80	VCE -> PRE2	120 Sc:GS Brassy	
+Yamaha	S80	VCE -> PRE2	121 Co:Grand Pad	
+Yamaha	S80	VCE -> PRE2	122 Co:Ibiza	
+Yamaha	S80	VCE -> PRE2	123 Co:Meltpiano	
+Yamaha	S80	VCE -> PRE2	124 Pf:HonkyTonk	
+Yamaha	S80	VCE -> PRE2	125 Pf:For Ballad	
+Yamaha	S80	VCE -> PRE2	126 Pf:ShineHarmo	
+Yamaha	S80	VCE -> PRE2	127 Pf:TripleDark	
+Yamaha	S80	VCE -> PRE2	128 Pf:StageBrite	
+Yamaha	S80	VCE -> INT	001 Pf:Hybrid	
+Yamaha	S80	VCE -> INT	002 Pf:DarkGrand2	
+Yamaha	S80	VCE -> INT	003 Pf:BrtStereo	
+Yamaha	S80	VCE -> INT	004 Pf:HonkyTnk2	
+Yamaha	S80	VCE -> INT	005 Pf:Differenc2	
+Yamaha	S80	VCE -> INT	006 Pf:Piano/Ep2	
+Yamaha	S80	VCE -> INT	007 Co:Pno/Oo/Str	
+Yamaha	S80	VCE -> INT	008 Co:Grand Pad2	
+Yamaha	S80	VCE -> INT	009 Pf:Phase CP	
+Yamaha	S80	VCE -> INT	010 Pf:CP Layer	
+Yamaha	S80	VCE -> INT	011 Pf:Wurli Amp	
+Yamaha	S80	VCE -> INT	012 Pf:SunShine	
+Yamaha	S80	VCE -> INT	013 Pf:Phaser EP	
+Yamaha	S80	VCE -> INT	014 Pf:RB Roadz	
+Yamaha	S80	VCE -> INT	015 Pf:BasicRoad2	
+Yamaha	S80	VCE -> INT	016 Pf:Early70Rhd	
+Yamaha	S80	VCE -> INT	017 Pf:Doogie	
+Yamaha	S80	VCE -> INT	018 Pf:RT Roadz	
+Yamaha	S80	VCE -> INT	019 Co:Dyno Pad	
+Yamaha	S80	VCE -> INT	020 Co:Roadz Pad	
+Yamaha	S80	VCE -> INT	021 Pf:NiteBallad	
+Yamaha	S80	VCE -> INT	022 Pf:DXTinyVel	
+Yamaha	S80	VCE -> INT	023 Pf:DX Hard	
+Yamaha	S80	VCE -> INT	024 Pf:Superstit	
+Yamaha	S80	VCE -> INT	025 Sc:Puls Clav	
+Yamaha	S80	VCE -> INT	026 Cp:Handbel	
+Yamaha	S80	VCE -> INT	027 Cp:Estrn Bel1	
+Yamaha	S80	VCE -> INT	028 Cp:Tiny bell	
+Yamaha	S80	VCE -> INT	029 Or:Argent	
+Yamaha	S80	VCE -> INT	030 Or:Como Va	
+Yamaha	S80	VCE -> INT	031 Or:Blackpool	
+Yamaha	S80	VCE -> INT	032 Or:Tonewheels	
+Yamaha	S80	VCE -> INT	033 Or:BowNL	
+Yamaha	S80	VCE -> INT	034 Or:BassWalk	
+Yamaha	S80	VCE -> INT	035 Or:WhiteShade	
+Yamaha	S80	VCE -> INT	036 Or:Draws	
+Yamaha	S80	VCE -> INT	037 Or:PercMellow	
+Yamaha	S80	VCE -> INT	038 Or:RhoBassFiz	
+Yamaha	S80	VCE -> INT	039 Or:Knob Drive	
+Yamaha	S80	VCE -> INT	040 Or:E Bird	
+Yamaha	S80	VCE -> INT	041 Or:16-*-*-4	
+Yamaha	S80	VCE -> INT	042 Or:16-5-4-1-1	
+Yamaha	S80	VCE -> INT	043 Or:Mw Church	
+Yamaha	S80	VCE -> INT	044 Or:Big Church	
+Yamaha	S80	VCE -> INT	045 Gt:Hawks	
+Yamaha	S80	VCE -> INT	046 Gt:GoldGuitar	
+Yamaha	S80	VCE -> INT	047 Gt:El/Ac Mix	
+Yamaha	S80	VCE -> INT	048 Gt:VintStrat	
+Yamaha	S80	VCE -> INT	049 Gt:StratChor3	
+Yamaha	S80	VCE -> INT	050 Gt:VeloGuitar	
+Yamaha	S80	VCE -> INT	051 Gt:Jazz Man	
+Yamaha	S80	VCE -> INT	052 Gt:FMJazzGtr	
+Yamaha	S80	VCE -> INT	053 Gt:Cry	
+Yamaha	S80	VCE -> INT	054 Gt:P.F. Echo	
+Yamaha	S80	VCE -> INT	055 Gt:Birdy	
+Yamaha	S80	VCE -> INT	056 Gt:Velo Chunk	
+Yamaha	S80	VCE -> INT	057 Gt:VirtualDis	
+Yamaha	S80	VCE -> INT	058 Gt:100 Watts	
+Yamaha	S80	VCE -> INT	059 Co:Acst Vox	
+Yamaha	S80	VCE -> INT	060 Ba:Prec Bass	
+Yamaha	S80	VCE -> INT	061 Ba:Fing Sting	
+Yamaha	S80	VCE -> INT	062 Ba:FretlesAmp	
+Yamaha	S80	VCE -> INT	063 Ba:Slap&Pull	
+Yamaha	S80	VCE -> INT	064 Co:Bs+Cmbal	
+Yamaha	S80	VCE -> INT	065 St:Big Sction	
+Yamaha	S80	VCE -> INT	066 St:EnsemblMix	
+Yamaha	S80	VCE -> INT	067 St:Agitato	
+Yamaha	S80	VCE -> INT	068 St:Analog Mix	
+Yamaha	S80	VCE -> INT	069 St:Violin	
+Yamaha	S80	VCE -> INT	070 St:Big Pizz	
+Yamaha	S80	VCE -> INT	071 St:HarpStrum	
+Yamaha	S80	VCE -> INT	072 Co:Wood Winds	
+Yamaha	S80	VCE -> INT	073 Pi:Pan Attack	
+Yamaha	S80	VCE -> INT	074 St:AnaString	
+Yamaha	S80	VCE -> INT	075 St:AnaString2	
+Yamaha	S80	VCE -> INT	076 St:Tron	
+Yamaha	S80	VCE -> INT	077 Br:Brs/Strgs	
+Yamaha	S80	VCE -> INT	078 Br:MediumBrs2	
+Yamaha	S80	VCE -> INT	079 Br:SoftBrass	
+Yamaha	S80	VCE -> INT	080 Br:HybrdBrs	
+Yamaha	S80	VCE -> INT	081 Br:Class Sect	
+Yamaha	S80	VCE -> INT	082 Br:Sfz Brass	
+Yamaha	S80	VCE -> INT	083 Br:Pop Brass	
+Yamaha	S80	VCE -> INT	084 Br:Classical	
+Yamaha	S80	VCE -> INT	085 Br:Fr Horns	
+Yamaha	S80	VCE -> INT	086 Br:Flugel	
+Yamaha	S80	VCE -> INT	087 Rd:Brth Tenor	
+Yamaha	S80	VCE -> INT	088 Rd:Velo Growl	
+Yamaha	S80	VCE -> INT	089 Rd:NuSoprno	
+Yamaha	S80	VCE -> INT	090 Br:J Stabs	
+Yamaha	S80	VCE -> INT	091 Br:Oberhorns	
+Yamaha	S80	VCE -> INT	092 Br:Africa	
+Yamaha	S80	VCE -> INT	093 Br:NuTekBrss	
+Yamaha	S80	VCE -> INT	094 Br:CS80Brass	
+Yamaha	S80	VCE -> INT	095 Br:Fat Brazz	
+Yamaha	S80	VCE -> INT	096 Br:EgoSix	
+Yamaha	S80	VCE -> INT	097 Fx:Ambi Star	
+Yamaha	S80	VCE -> INT	098 Fx:Champ	
+Yamaha	S80	VCE -> INT	099 Fx:Rndm Gruv	
+Yamaha	S80	VCE -> INT	100 Sq:Generation	
+Yamaha	S80	VCE -> INT	101 Fx:Molecule	
+Yamaha	S80	VCE -> INT	102 Fx:Teardrops	
+Yamaha	S80	VCE -> INT	103 Fx:Hades	
+Yamaha	S80	VCE -> INT	104 Fx:Voyager	
+Yamaha	S80	VCE -> INT	105 Fx:Waterfowl	
+Yamaha	S80	VCE -> INT	106 Fx:Mayflower	
+Yamaha	S80	VCE -> INT	107 Pd:Cronen	
+Yamaha	S80	VCE -> INT	108 Pd:Padness	
+Yamaha	S80	VCE -> INT	109 Pd:Luminosity	
+Yamaha	S80	VCE -> INT	110 Pd:Expanse	
+Yamaha	S80	VCE -> INT	111 Pd:Vox 5ths	
+Yamaha	S80	VCE -> INT	112 Pd:Cleansing	
+Yamaha	S80	VCE -> INT	113 Se:4000 Volts	
+Yamaha	S80	VCE -> INT	114 Se:Rainstorm	
+Yamaha	S80	VCE -> INT	115 Se:RadioNoiz	
+Yamaha	S80	VCE -> INT	116 Se:Turntablz	
+Yamaha	S80	VCE -> INT	117 Se:Manufactur	
+Yamaha	S80	VCE -> INT	118 Se:Zap	
+Yamaha	S80	VCE -> INT	119 Se:Helicoptr	
+Yamaha	S80	VCE -> INT	120 Se:Sirens	
+Yamaha	S80	VCE -> INT	121 Se:Bubbles	
+Yamaha	S80	VCE -> INT	122 Pc:Beatniks	
+Yamaha	S80	VCE -> INT	123 Pc:Cybr Whip	
+Yamaha	S80	VCE -> INT	124 En:Voicey	
+Yamaha	S80	VCE -> INT	125 En:FormantStg	
+Yamaha	S80	VCE -> INT	126 Vo:Airy	
+Yamaha	S80	VCE -> INT	127 Vo:Chandelier	
+Yamaha	S80	VCE -> INT	128 Vo:Choir Atk	
+Yamaha	S80	VCE -> PRE	DR1 Dr:Rock Kit	
+Yamaha	S80	VCE -> PRE	DR2 Dr:House Kit	
+Yamaha	S80	VCE -> PRE	DR3 Dr:Hip Kit	
+Yamaha	S80	VCE -> PRE	DR4 Dr:Trance Kit	
+Yamaha	S80	VCE -> PRE	DR5 Dr:Nasty Kit	
+Yamaha	S80	VCE -> PRE	DR6 Dr:Brush Kit	
+Yamaha	S80	VCE -> PRE	DR7 Dr:Pop Kit	
+Yamaha	S80	VCE -> PRE	DR8 Dr:8o8 Kit	
+Yamaha	S80	VCE -> INT	DR1 Dr:HipHop Kit	
+Yamaha	S80	VCE -> INT	DR2 Dr:Urbanguard	
+Yamaha	S80	PFM -> INT	001 Co:AGE2000NEW	
+Yamaha	S80	PFM -> INT	002 Vo:Hallelujah	
+Yamaha	S80	PFM -> INT	003 Pf:MetalPiano	
+Yamaha	S80	PFM -> INT	004 Fx:MayanMagic	
+Yamaha	S80	PFM -> INT	005 Co:HipHop Pop	
+Yamaha	S80	PFM -> INT	006 Sc:Oktavian	
+Yamaha	S80	PFM -> INT	007 Co:Bass/Piano	
+Yamaha	S80	PFM -> INT	008 Fx:Overture	
+Yamaha	S80	PFM -> INT	009 St:Opus 12	
+Yamaha	S80	PFM -> INT	010 Co:EP+Strings	
+Yamaha	S80	PFM -> INT	011 Co:MuteTrp/EP	
+Yamaha	S80	PFM -> INT	012 Co:Rock It!	
+Yamaha	S80	PFM -> INT	013 Fx:WhirlPool	
+Yamaha	S80	PFM -> INT	014 Et:Marrakesh	
+Yamaha	S80	PFM -> INT	015 St:SuperStrgs	
+Yamaha	S80	PFM -> INT	016 Pd:Mysterioso	
+Yamaha	S80	PFM -> INT	017 Se:Clockworks	
+Yamaha	S80	PFM -> INT	018 Co:ChurchEns	
+Yamaha	S80	PFM -> INT	019 Pf:TX816 EP	
+Yamaha	S80	PFM -> INT	020 Co:Neonist	
+Yamaha	S80	PFM -> INT	021 Co:Busta'	
+Yamaha	S80	PFM -> INT	022 Co:Trancitar	
+Yamaha	S80	PFM -> INT	023 Co:Bss/Pno+EP	
+Yamaha	S80	PFM -> INT	024 Co:CirqDeAna	
+Yamaha	S80	PFM -> INT	025 Co:ScratchIt	
+Yamaha	S80	PFM -> INT	026 Co:EP/Strings	
+Yamaha	S80	PFM -> INT	027 Co:Sax/EP	
+Yamaha	S80	PFM -> INT	028 Co:Rollin'	
+Yamaha	S80	PFM -> INT	029 Co:GuitInAPad	
+Yamaha	S80	PFM -> INT	030 Et:SafariTech	
+Yamaha	S80	PFM -> INT	031 Co:Classical1	
+Yamaha	S80	PFM -> INT	032 Se:Horror	
+Yamaha	S80	PFM -> INT	033 Co:Dreamloopr	
+Yamaha	S80	PFM -> INT	034 Co:Messiah	
+Yamaha	S80	PFM -> INT	035 Pf:CrystalPno	
+Yamaha	S80	PFM -> INT	036 Pd:Pad Sweep	
+Yamaha	S80	PFM -> INT	037 Co:Ottomatic	
+Yamaha	S80	PFM -> INT	038 Sc:Rockie	
+Yamaha	S80	PFM -> INT	039 Co:Club Blues	
+Yamaha	S80	PFM -> INT	040 Dr:Drumantics	
+Yamaha	S80	PFM -> INT	041 Co:Fairy Dust	
+Yamaha	S80	PFM -> INT	042 Co:Piano&Str.	
+Yamaha	S80	PFM -> INT	043 Co:Bavarian	
+Yamaha	S80	PFM -> INT	044 Co:SlowGroove	
+Yamaha	S80	PFM -> INT	045 Co:Bell&Str	
+Yamaha	S80	PFM -> INT	046 Co:Rezzies	
+Yamaha	S80	PFM -> INT	047 Co:Classical2	
+Yamaha	S80	PFM -> INT	048 Se:911 Call	
+Yamaha	S80	PFM -> INT	049 Co:Seekwencer	
+Yamaha	S80	PFM -> INT	050 Co:Sanctuary	
+Yamaha	S80	PFM -> INT	051 Pf:Wire+Piano	
+Yamaha	S80	PFM -> INT	052 Pd:DeepBreeze	
+Yamaha	S80	PFM -> INT	053 Co:DiscoDucks	
+Yamaha	S80	PFM -> INT	054 Sc:BigFive	
+Yamaha	S80	PFM -> INT	055 Co:Bs/PercOrg	
+Yamaha	S80	PFM -> INT	056 Sq:Night Byte	
+Yamaha	S80	PFM -> INT	057 Co:Sonority	
+Yamaha	S80	PFM -> INT	058 Co:Folk Trio	
+Yamaha	S80	PFM -> INT	059 Co:Funk It!	
+Yamaha	S80	PFM -> INT	060 Co:Police Men	
+Yamaha	S80	PFM -> INT	061 Ld:2 Mini's	
+Yamaha	S80	PFM -> INT	062 Co:Aquamarine	
+Yamaha	S80	PFM -> INT	063 Co:Classical3	
+Yamaha	S80	PFM -> INT	064 Se:Nitechills	
+Yamaha	S80	PFM -> INT	065 Co:RayOfLight	
+Yamaha	S80	PFM -> INT	066 Co:NotreDame	
+Yamaha	S80	PFM -> INT	067 Pf:Montuno	
+Yamaha	S80	PFM -> INT	068 Pd:80Sphere	
+Yamaha	S80	PFM -> INT	069 Co:TheIslands	
+Yamaha	S80	PFM -> INT	070 Sc:SweepPerf	
+Yamaha	S80	PFM -> INT	071 Co:Jazz It!	
+Yamaha	S80	PFM -> INT	072 Se:Mobutu	
+Yamaha	S80	PFM -> INT	073 Co:Harp@Orch	
+Yamaha	S80	PFM -> INT	074 Co:PF/Strings	
+Yamaha	S80	PFM -> INT	075 Co:Gnu Age	
+Yamaha	S80	PFM -> INT	076 Co:Cookin'	
+Yamaha	S80	PFM -> INT	077 Co:A.Gt/Lucky	
+Yamaha	S80	PFM -> INT	078 Co:PhazeEuro	
+Yamaha	S80	PFM -> INT	079 Co:Classical4	
+Yamaha	S80	PFM -> INT	080 Fx:Scare-isma	
+Yamaha	S80	PFM -> INT	081 Co:Shagundala	
+Yamaha	S80	PFM -> INT	082 Br:Sevenths	
+Yamaha	S80	PFM -> INT	083 Pf:BreathPian	
+Yamaha	S80	PFM -> INT	084 Pd:It Grows!	
+Yamaha	S80	PFM -> INT	085 Co:Flute Funk	
+Yamaha	S80	PFM -> INT	086 Co:Real World	
+Yamaha	S80	PFM -> INT	087 Co:Cool Vibe	
+Yamaha	S80	PFM -> INT	088 Co:Paradise	
+Yamaha	S80	PFM -> INT	089 Co:Balladeer	
+Yamaha	S80	PFM -> INT	090 Co:Strg/Piano	
+Yamaha	S80	PFM -> INT	091 Co:Barcelona	
+Yamaha	S80	PFM -> INT	092 Co:Girl	
+Yamaha	S80	PFM -> INT	093 Co:1973!	
+Yamaha	S80	PFM -> INT	094 Co:Flying	
+Yamaha	S80	PFM -> INT	095 Co:Classical5	
+Yamaha	S80	PFM -> INT	096 Fx:PatchCords	
+Yamaha	S80	PFM -> INT	097 --:Pops	
+Yamaha	S80	PFM -> INT	098 --:Ballad 1	
+Yamaha	S80	PFM -> INT	099 --:Ballad 2	
+Yamaha	S80	PFM -> INT	100 --:Unplugged	
+Yamaha	S80	PFM -> INT	101 --:80's Disco	
+Yamaha	S80	PFM -> INT	102 --:Funk Rock	
+Yamaha	S80	PFM -> INT	103 --:Hard Rock	
+Yamaha	S80	PFM -> INT	104 --:HeavyMetal	
+Yamaha	S80	PFM -> INT	105 --:ProgreRock	
+Yamaha	S80	PFM -> INT	106 --:Blues Rock	
+Yamaha	S80	PFM -> INT	107 --:West Coast	
+Yamaha	S80	PFM -> INT	108 --:BritishRck	
+Yamaha	S80	PFM -> INT	109 --:Big Band	
+Yamaha	S80	PFM -> INT	110 --:Combo Jazz	
+Yamaha	S80	PFM -> INT	111 --:JazzBallad	
+Yamaha	S80	PFM -> INT	112 --:Fusion	
+Yamaha	S80	PFM -> INT	113 --:Club Jazz	
+Yamaha	S80	PFM -> INT	114 --:House	
+Yamaha	S80	PFM -> INT	115 --:Techno	
+Yamaha	S80	PFM -> INT	116 --:Trance	
+Yamaha	S80	PFM -> INT	117 --:Big Beat	
+Yamaha	S80	PFM -> INT	118 --:Drum'nBass	
+Yamaha	S80	PFM -> INT	119 --:HipHop	
+Yamaha	S80	PFM -> INT	120 --:Reggae	
+Yamaha	S80	PFM -> INT	121 --:R&B	
+Yamaha	S80	PFM -> INT	122 --:India	
+Yamaha	S80	PFM -> INT	123 --:Salsa	
+Yamaha	S80	PFM -> INT	124 --:Gamelan	
+Yamaha	S80	PFM -> INT	125 --:Ambient	
+Yamaha	S80	PFM -> INT	126 --:Tango	
+Yamaha	S80	PFM -> INT	127 --:SoundTrack	
+Yamaha	S80	PFM -> INT	128 --:Master KB	
+Yamaha	S80	Wave	480 Pf:Grand2	
+Yamaha	S80	Wave	481 Pf:Grand2St	
+Yamaha	S80	Wave	482 Pf:Grand2L	
+Yamaha	S80	Wave	483 Pf:Grand2R	
+Yamaha	S80	Wave	484 Pf:Grand2+	
+Yamaha	S80	Wave	485 Pf:Grnd2St+	
+Yamaha	S80	Wave	486 Pf:Grand2L+	
+Yamaha	S80	Wave	487 Pf:Grand2R+	
+Yamaha	S80	Wave	488 Pf:Grand2-	
+Yamaha	S80	Wave	489 Pf:Grnd2St-	
+Yamaha	S80	Wave	490 Pf:Grand2L-	
+Yamaha	S80	Wave	491 Pf:Grand2R-	
+Yamaha	S80	Wave	492 Pf:Grand3	
+Yamaha	S80	Wave	493 Pf:Grand3St	
+Yamaha	S80	Wave	494 Pf:Grand3L	
+Yamaha	S80	Wave	495 Pf:Grand3R	
+Yamaha	S80	Wave	496 Pf:Grand3+	
+Yamaha	S80	Wave	497 Pf:Grnd3St+	
+Yamaha	S80	Wave	498 Pf:Grand3L+	
+Yamaha	S80	Wave	499 Pf:Grand3R+	
+Yamaha	S80	Wave	500 Pf:Grand3-	
+Yamaha	S80	Wave	501 Pf:Grnd3St-	
+Yamaha	S80	Wave	502 Pf:Grand3L-	
+Yamaha	S80	Wave	503 Pf:Grand3R-	
+Yamaha	S80	Wave	504 Pf:Rho5H	
+Yamaha	S80	Wave	505 Pf:Rho5M	
+Yamaha	S80	Wave	506 Pf:Rho5L	
+Yamaha	S80	Wave	507 Pf:Rho5H+	
+Yamaha	S80	Wave	508 Pf:Rho5M+	
+Yamaha	S80	Wave	509 Pf:Rho5L+	
+Yamaha	S80	Wave	510 Pf:Rho5H-	
+Yamaha	S80	Wave	511 Pf:Rho5M-	
+Yamaha	S80	Wave	512 Pf:Rho5L-	
+Yamaha	S80	Wave	513 Pf:Rho6H	
+Yamaha	S80	Wave	514 Pf:Rho6L	
+Yamaha	S80	Wave	515 Pf:Rho6H+	
+Yamaha	S80	Wave	516 Pf:Rho6L+	
+Yamaha	S80	Wave	517 Pf:Rho6H-	
+Yamaha	S80	Wave	518 Pf:Rho6L-	
+Yamaha	S80	Wave	519 Or:Pipe1St	
+Yamaha	S80	Wave	520 Or:Pipe1L	
+Yamaha	S80	Wave	521 Or:Pipe1R	
+Yamaha	S80	Wave	522 Or:Pipe2	
+Yamaha	S80	Wave	523 Or:Pipe3St	
+Yamaha	S80	Wave	524 Or:Pipe3L	
+Yamaha	S80	Wave	525 Or:Pipe3R	
+Yamaha	S80	Wave	526 Or:Pipe4	
+Yamaha	S80	Wave	527 Or:Pipe5	
+Yamaha	S80	Wave	528 Or:Pipe6	
+Yamaha	S80	Wave	529 Or:Pipe7	
+Yamaha	S80	Wave	530 En:AahSt	
+Yamaha	S80	Wave	531 En:AahL	
+Yamaha	S80	Wave	532 En:AahR	
+Yamaha	S80	Wave	533 En:AahC	
+Yamaha	S80	Wave	534 En:AahSt+	
+Yamaha	S80	Wave	535 En:AahL+	
+Yamaha	S80	Wave	536 En:AahR+	
+Yamaha	S80	Wave	537 En:AahC+	
+Yamaha	S80	Wave	538 En:AahSt-	
+Yamaha	S80	Wave	539 En:AahL-	
+Yamaha	S80	Wave	540 En:AahR-	
+Yamaha	S80	Wave	541 En:AahC-	
+Yamaha	S80	Wave	542 En:OohSt	
+Yamaha	S80	Wave	543 En:OohL	
+Yamaha	S80	Wave	544 En:OohR	
+Yamaha	S80	Wave	545 En:OohRich	
+Yamaha	S80	Wave	546 En:OohSt+	
+Yamaha	S80	Wave	547 En:OohL+	
+Yamaha	S80	Wave	548 En:OohR+	
+Yamaha	S80	Wave	549 En:OohRich+	
+Yamaha	S80	Wave	550 En:OohSt-	
+Yamaha	S80	Wave	551 En:OohL-	
+Yamaha	S80	Wave	552 En:OohR-	
+Yamaha	S80	Wave	553 En:OohRich-	

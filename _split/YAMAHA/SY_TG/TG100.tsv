@@ -1,0 +1,595 @@
+Yamaha	TG100	Voice	001 GrandPno	Acoustic Grand Piano
+Yamaha	TG100	Voice	002 BritePno	Bright Acoustic Piano
+Yamaha	TG100	Voice	003 El.Grand	Electric Grand Piano
+Yamaha	TG100	Voice	004 HnkyTonk	Honky-tonk Piano
+Yamaha	TG100	Voice	005 ElPiano1	Rhodes Piano
+Yamaha	TG100	Voice	006 ElPiano2	Chorused Piano
+Yamaha	TG100	Voice	007 Harpsich	Harpsichord
+Yamaha	TG100	Voice	008 Clavinet	Clavinet
+Yamaha	TG100	Voice	009 Celesta	Celesta1
+Yamaha	TG100	Voice	010 Glocken	Glockenspiel
+Yamaha	TG100	Voice	011 MusicBox	Music Box
+Yamaha	TG100	Voice	012 Vibes	Vibraphone
+Yamaha	TG100	Voice	013 Marimba	Marimba
+Yamaha	TG100	Voice	014 Xylophon	Xylophone
+Yamaha	TG100	Voice	015 TubulBel	Tubular Bells
+Yamaha	TG100	Voice	016 Dulcimer	Dulcimer
+Yamaha	TG100	Voice	017 DrawOrgn	Hammond Organ
+Yamaha	TG100	Voice	018 PercOrgn	Percussive Organ
+Yamaha	TG100	Voice	019 RockOrgn	Rock Organ
+Yamaha	TG100	Voice	020 ChrcOrgn	Church Organ
+Yamaha	TG100	Voice	021 ReedOrgn	Reed Organ
+Yamaha	TG100	Voice	022 Acordion	Accordion
+Yamaha	TG100	Voice	023 Harmnica	Harmonica
+Yamaha	TG100	Voice	024 TangoAcd	Tango Accordion
+Yamaha	TG100	Voice	025 NylonGtr	Acoustic Nylon Guitar
+Yamaha	TG100	Voice	026 SteelGtr	Acoustic Steel Guitar
+Yamaha	TG100	Voice	027 JazzGtr	Electric Jazz Guitar
+Yamaha	TG100	Voice	028 CleanGtr	Electric Clean Guitar
+Yamaha	TG100	Voice	029 MuteGtr	Electric muted Guitar
+Yamaha	TG100	Voice	030 Ovrdrive	Overdriven Guitar
+Yamaha	TG100	Voice	031 Distortd	Distortion Guitar
+Yamaha	TG100	Voice	032 Harmnics	Guitar Harmonics
+Yamaha	TG100	Voice	033 WoodBass	Acoustic Bass
+Yamaha	TG100	Voice	034 FngrBass	Electric Bass fingered
+Yamaha	TG100	Voice	035 PickBass	Electric Bass picked
+Yamaha	TG100	Voice	036 Fretless	Fretless Bass
+Yamaha	TG100	Voice	037 SlapBas1	Slap Bass 1
+Yamaha	TG100	Voice	038 SlapBas2	Slap Bass 2
+Yamaha	TG100	Voice	039 SynBas1	Synth Bass 1
+Yamaha	TG100	Voice	040 SynBas2	Synth Bass 2
+Yamaha	TG100	Voice	041 Violin	Violin
+Yamaha	TG100	Voice	042 Viola	Viola
+Yamaha	TG100	Voice	043 Cello	Cello
+Yamaha	TG100	Voice	044 Contra	Contrabass
+Yamaha	TG100	Voice	045 TremStrg	Tremolo Strings
+Yamaha	TG100	Voice	046 Pizzicto	Pizzicato Strings
+Yamaha	TG100	Voice	047 Harp	Orchestral Harp
+Yamaha	TG100	Voice	048 Timpani	Timpani 1
+Yamaha	TG100	Voice	049 Ensmble1	String Ensemble1
+Yamaha	TG100	Voice	050 Ensmble2	String Ensemble2
+Yamaha	TG100	Voice	051 SynStrg1	Synth Strings 1
+Yamaha	TG100	Voice	052 SynStrg2	Synth Strings 2
+Yamaha	TG100	Voice	053 AahChoir	Choir Aahs
+Yamaha	TG100	Voice	054 OohChoir	Voice Oohs
+Yamaha	TG100	Voice	055 SynChoir	Synth Voice
+Yamaha	TG100	Voice	056 Orch Hit	Orchestral Hit
+Yamaha	TG100	Voice	057 Trumpet	Trumpet
+Yamaha	TG100	Voice	058 Trombone	Trombone
+Yamaha	TG100	Voice	059 Tuba	Tuba
+Yamaha	TG100	Voice	060 MuteTrum	Muted Trumpet
+Yamaha	TG100	Voice	061 FrenchHr	French Horn
+Yamaha	TG100	Voice	062 BrasSect	Brass Section
+Yamaha	TG100	Voice	063 SynBras1	Synth Brass 1
+Yamaha	TG100	Voice	064 SynBras2	Synth Brass 2
+Yamaha	TG100	Voice	065 SprnoSax	Soprano Sax
+Yamaha	TG100	Voice	066 Alto Sax	Alto Sax
+Yamaha	TG100	Voice	067 TenorSax	Tenor Sax
+Yamaha	TG100	Voice	068 Bari Sax	Baritone Sax
+Yamaha	TG100	Voice	069 Oboe	Oboe
+Yamaha	TG100	Voice	070 EnglHorn	English Horn
+Yamaha	TG100	Voice	071 Bassoon	Bassoon
+Yamaha	TG100	Voice	072 Clarinet	Clarinet
+Yamaha	TG100	Voice	073 Piccolo	Piccolo
+Yamaha	TG100	Voice	074 Flute	Flute
+Yamaha	TG100	Voice	075 Recorder	Recorder
+Yamaha	TG100	Voice	076 PanFlute	Pan Flute
+Yamaha	TG100	Voice	077 Bottle	Bottle Blow
+Yamaha	TG100	Voice	078 Shakhchi	Shakuhachi
+Yamaha	TG100	Voice	079 Whistle	Whistle
+Yamaha	TG100	Voice	080 Ocarina	Ocarina
+Yamaha	TG100	Voice	081 SquareLd	Lead 1 (square)
+Yamaha	TG100	Voice	082 Saw   Ld	Lead 2 (saw tooth)
+Yamaha	TG100	Voice	083 CaliopLd	Lead 3 (calliope)
+Yamaha	TG100	Voice	084 Chiff Ld	Lead 4 (chiff)
+Yamaha	TG100	Voice	085 CharanLd	Lead 5 (charang)
+Yamaha	TG100	Voice	086 Voice Ld	Lead 6 (voice)
+Yamaha	TG100	Voice	087 Fifth Ld	Lead 7 (fifths)
+Yamaha	TG100	Voice	088 Bass &Ld	Lead 8 (bass+lead)
+Yamaha	TG100	Voice	089 NewAgePd	Pad 1 (new age)
+Yamaha	TG100	Voice	090 Warm  Pd	Pad 2 (warm)
+Yamaha	TG100	Voice	091 PolySyPd	Pad 3 (polysynth)
+Yamaha	TG100	Voice	092 Choir Pd	Pad 4 (choir)
+Yamaha	TG100	Voice	093 Bowed Pd	Pad 5 (bowed)
+Yamaha	TG100	Voice	094 Metal Pd	Pad 6 (metallic)
+Yamaha	TG100	Voice	095 Halo  Pd	Pad 7 (halo)
+Yamaha	TG100	Voice	096 Sweep Pd	Pad 8 (sweep)
+Yamaha	TG100	Voice	097 Rain	SFX 1 (rain)
+Yamaha	TG100	Voice	098 SoundTrk	SFX 2 (soundtrack)
+Yamaha	TG100	Voice	099 Crystal	SFX 3 (crystal)
+Yamaha	TG100	Voice	100 Atmosphr	SFX 4 (atmosphere)
+Yamaha	TG100	Voice	101 Bright	SFX 5 (brightness)
+Yamaha	TG100	Voice	102 Goblin	SFX 6 (goblins)
+Yamaha	TG100	Voice	103 Echoes	SFX 7 (echoes)
+Yamaha	TG100	Voice	104 SciFi	SFX 8 (sci-fi)
+Yamaha	TG100	Voice	105 Sitar	Sitar
+Yamaha	TG100	Voice	106 Banjo	Banjo
+Yamaha	TG100	Voice	107 Shamisen	Shamisen
+Yamaha	TG100	Voice	108 Koto	Koto
+Yamaha	TG100	Voice	109 Kalimba	Kalimba
+Yamaha	TG100	Voice	110 Bagpipe	Bag pipe
+Yamaha	TG100	Voice	111 Fiddle	Fiddle
+Yamaha	TG100	Voice	112 Shanai	Shanai
+Yamaha	TG100	Voice	113 TnklBell	Tinkle Bell
+Yamaha	TG100	Voice	114 Agogo	Agogo
+Yamaha	TG100	Voice	115 Stl Drum	Steel Drums
+Yamaha	TG100	Voice	116 WoodBlok	Woodblock
+Yamaha	TG100	Voice	117 TaikoDrm	Taiko Drum
+Yamaha	TG100	Voice	118 MelodTom	Melodic Tom
+Yamaha	TG100	Voice	119 SynthTom	Synth Drum
+Yamaha	TG100	Voice	120 RevCymbl	Reverse cymbal
+Yamaha	TG100	Voice	121 FretNoiz	Guitar Fret Noise
+Yamaha	TG100	Voice	122 BrthNoiz	Breath Noise
+Yamaha	TG100	Voice	123 Seashore	Seashore
+Yamaha	TG100	Voice	124 Tweet	Bird Tweet
+Yamaha	TG100	Voice	125 Telphone	Telephone Ring
+Yamaha	TG100	Voice	126 Helicptr	Helicopter
+Yamaha	TG100	Voice	127 Applause	Applause
+Yamaha	TG100	Voice	128 Gunshot	Gun Shot
+Yamaha	TG100	Voice	129 SynHarmo	SynHarmo
+Yamaha	TG100	Voice	130 SynWarm	SynWarm
+Yamaha	TG100	Voice	131 SynFunny	SynFunny
+Yamaha	TG100	Voice	132 SynEcho1	SynEcho1
+Yamaha	TG100	Voice	133 SynOboe	SynOboe
+Yamaha	TG100	Voice	134 SynEcho2	SynEcho2
+Yamaha	TG100	Voice	135 SynSolo	SynSolo
+Yamaha	TG100	Voice	136 SynRdOrg	SynReedOrgan
+Yamaha	TG100	Voice	137 SynBell	SynBell
+Yamaha	TG100	Voice	138 MalletSy	MalletSy
+Yamaha	TG100	Voice	139 MaletWin	MalletWind
+Yamaha	TG100	Voice	140 Sho	Sho
+Yamaha	TG100	Voice	141 Breathy	Breathy
+Yamaha	TG100	Voice	142 DeepSnar	DeepSnare
+Yamaha	TG100	Voice	143 Syn Tom2	Syn Tom2
+Yamaha	TG100	Voice	144 TaikoRim	TaikoRim
+Yamaha	TG100	Voice	145 Cymbal	Cymbal
+Yamaha	TG100	Voice	146 Castanet	Castanet
+Yamaha	TG100	Voice	147 Triangle	Triangle
+Yamaha	TG100	Voice	148 Bird	Bird
+Yamaha	TG100	Voice	149 Jam	Jam
+Yamaha	TG100	Voice	150 EfctWatr	EffectWater
+Yamaha	TG100	Voice	151 EfctJngl	EffectJungle
+Yamaha	TG100	Voice	152 SteelGt2	Acoustic Steel guitar 2
+Yamaha	TG100	Voice	153 Mute Gt2	Electric muted guitar 2
+Yamaha	TG100	Voice	154 Mute Gt3	Electric muted guitar 3
+Yamaha	TG100	Voice	155 SlapBas3	Slap Bass 3
+Yamaha	TG100	Voice	156 SlapBas4	Slap Bass 4
+Yamaha	TG100	Voice	157 SlapBas5	Slap Bass 5
+Yamaha	TG100	Voice	158 SlapBas6	Slap Bass 6
+Yamaha	TG100	Voice	159 SlapBas7	Slap Bass 7
+Yamaha	TG100	Voice	160 SlapBas8	Slap Bass 8
+Yamaha	TG100	Voice	161 SlapBas9	Slap Bass 9
+Yamaha	TG100	Voice	162 FngrBas2	Electric Bass fingered 2
+Yamaha	TG100	Voice	163 PickBas2	Electric Bass picked 2
+Yamaha	TG100	Voice	164 AahChor2	Choir Aah 2
+Yamaha	TG100	Voice	165 AahChor3	Choir Aah 3
+Yamaha	TG100	Voice	166 AahChor4	Choir Aah 4
+Yamaha	TG100	Voice	167 Ensmble3	String Ensemble 3
+Yamaha	TG100	Voice	168 PrcOrgn2	Percussive Organ 2
+Yamaha	TG100	Voice	169 Brassec2	Brass section 2
+Yamaha	TG100	Voice	170 ElPno DX	Electric Piano DX
+Yamaha	TG100	Voice	171 SynPiano	Synth Piano
+Yamaha	TG100	Voice	172 Celesta2	Celesta 2
+Yamaha	TG100	Voice	173 Clavnova	Clavinova tone
+Yamaha	TG100	Voice	174 JazzOrgn	Jazz Organ
+Yamaha	TG100	Voice	175 CombOrgn	Combo Organ
+Yamaha	TG100	Voice	176 PipeOrgn	Pipe Organ
+Yamaha	TG100	Voice	177 SlpBas10	Slap Bass 10
+Yamaha	TG100	Voice	178 BrasSec3	Brass Section 3
+Yamaha	TG100	Voice	179 PopBrass	Pop Brass
+Yamaha	TG100	Voice	180 SynBras3	Synth Brass 3
+Yamaha	TG100	Voice	181 Sax 1	Saxophone 1
+Yamaha	TG100	Voice	182 Sax 2	Saxophone 2
+Yamaha	TG100	Voice	183 SynCrstl	Synth crystal
+Yamaha	TG100	Voice	184 Syn Wood	Synth Wood
+Yamaha	TG100	Voice	185 Ensmble4	String Ensemble 4
+Yamaha	TG100	Voice	186 SynStrg3	Synth Strings 3
+Yamaha	TG100	Voice	187 Synchor2	Synth choir 2
+Yamaha	TG100	Voice	188 Flute 2	Flute 2
+Yamaha	TG100	Voice	189 GrndPno2	Acoustic Grand piano 2
+Yamaha	TG100	Voice	190 BritePn2	Bright Acoustic piano 2
+Yamaha	TG100	Voice	191 Timpani2	Timpani 2
+Yamaha	TG100	Voice	192 Hvy Bass	Electric bass Heavy
+Yamaha	TG100	Drum Kit	001 Standard	Standard
+Yamaha	TG100	Drum Kit	009 Room	
+Yamaha	TG100	Drum Kit	017 Power	
+Yamaha	TG100	Drum Kit	025 Elctrnic	Electronic
+Yamaha	TG100	Drum Kit	026 Analog	
+Yamaha	TG100	Drum Kit	033 Jazz	same as the standard kit
+Yamaha	TG100	Drum Kit	041 Brush	
+Yamaha	TG100	Drum Kit	049 Orchstra	Orchestra
+Yamaha	TG100	Drum Kit	126 Clavinov	Clavinova
+Yamaha	TG100	Drum Kit	127 RX	
+Yamaha	TG100	Drum Kit	128 C/M	
+Yamaha	TG100	General MIDI	001 GrandPno	
+Yamaha	TG100	General MIDI	002 BritePno	
+Yamaha	TG100	General MIDI	003 El.Grand	
+Yamaha	TG100	General MIDI	004 HnkyTonk	
+Yamaha	TG100	General MIDI	005 ElPiano1	
+Yamaha	TG100	General MIDI	006 ElPiano2	
+Yamaha	TG100	General MIDI	007 Harpsich	
+Yamaha	TG100	General MIDI	008 Clavinet	
+Yamaha	TG100	General MIDI	009 Celesta	
+Yamaha	TG100	General MIDI	010 Glocken	
+Yamaha	TG100	General MIDI	011 MusicBox	
+Yamaha	TG100	General MIDI	012 Vibes	
+Yamaha	TG100	General MIDI	013 Marimba	
+Yamaha	TG100	General MIDI	014 Xylophon	
+Yamaha	TG100	General MIDI	015 TubulBel	
+Yamaha	TG100	General MIDI	016 Dulcimer	
+Yamaha	TG100	General MIDI	017 DrawOrgn	
+Yamaha	TG100	General MIDI	018 PercOrgn	
+Yamaha	TG100	General MIDI	019 RockOrgn	
+Yamaha	TG100	General MIDI	020 ChrcOrgn	
+Yamaha	TG100	General MIDI	021 ReedOrgn	
+Yamaha	TG100	General MIDI	022 Acordion	
+Yamaha	TG100	General MIDI	023 Harmnica	
+Yamaha	TG100	General MIDI	024 TangoAcd	
+Yamaha	TG100	General MIDI	025 NylonGtr	
+Yamaha	TG100	General MIDI	026 SteelGtr	
+Yamaha	TG100	General MIDI	027 JazzGtr	
+Yamaha	TG100	General MIDI	028 CleanGtr	
+Yamaha	TG100	General MIDI	029 MuteGtr	
+Yamaha	TG100	General MIDI	030 Ovrdrive	
+Yamaha	TG100	General MIDI	031 Distortd	
+Yamaha	TG100	General MIDI	032 Harmnics	
+Yamaha	TG100	General MIDI	033 WoodBass	
+Yamaha	TG100	General MIDI	034 FngrBass	
+Yamaha	TG100	General MIDI	035 PickBass	
+Yamaha	TG100	General MIDI	036 Fretless	
+Yamaha	TG100	General MIDI	037 SlapBas1	
+Yamaha	TG100	General MIDI	038 SlapBas2	
+Yamaha	TG100	General MIDI	039 SynBas1	
+Yamaha	TG100	General MIDI	040 SynBas2	
+Yamaha	TG100	General MIDI	041 Violin	
+Yamaha	TG100	General MIDI	042 Viola	
+Yamaha	TG100	General MIDI	043 Cello	
+Yamaha	TG100	General MIDI	044 Contra	
+Yamaha	TG100	General MIDI	045 TremStrg	
+Yamaha	TG100	General MIDI	046 Pizzicto	
+Yamaha	TG100	General MIDI	047 Harp	
+Yamaha	TG100	General MIDI	048 Timpani	
+Yamaha	TG100	General MIDI	049 Ensmble1	
+Yamaha	TG100	General MIDI	050 Ensmble2	
+Yamaha	TG100	General MIDI	051 SynStrg1	
+Yamaha	TG100	General MIDI	052 SynStrg2	
+Yamaha	TG100	General MIDI	053 AahChoir	
+Yamaha	TG100	General MIDI	054 OohChoir	
+Yamaha	TG100	General MIDI	055 SynChoir	
+Yamaha	TG100	General MIDI	056 Orch Hit	
+Yamaha	TG100	General MIDI	057 Trumpet	
+Yamaha	TG100	General MIDI	058 Trombone	
+Yamaha	TG100	General MIDI	059 Tuba	
+Yamaha	TG100	General MIDI	060 MuteTrum	
+Yamaha	TG100	General MIDI	061 FrenchHr	
+Yamaha	TG100	General MIDI	062 BrasSect	
+Yamaha	TG100	General MIDI	063 SynBras1	
+Yamaha	TG100	General MIDI	064 SynBras2	
+Yamaha	TG100	General MIDI	065 SprnoSax	
+Yamaha	TG100	General MIDI	066 Alto Sax	
+Yamaha	TG100	General MIDI	067 TenorSax	
+Yamaha	TG100	General MIDI	068 Bari Sax	
+Yamaha	TG100	General MIDI	069 Oboe	
+Yamaha	TG100	General MIDI	070 EnglHorn	
+Yamaha	TG100	General MIDI	071 Bassoon	
+Yamaha	TG100	General MIDI	072 Clarinet	
+Yamaha	TG100	General MIDI	073 Piccolo	
+Yamaha	TG100	General MIDI	074 Flute	
+Yamaha	TG100	General MIDI	075 Recorder	
+Yamaha	TG100	General MIDI	076 PanFlute	
+Yamaha	TG100	General MIDI	077 Bottle	
+Yamaha	TG100	General MIDI	078 Shakhchi	
+Yamaha	TG100	General MIDI	079 Whistle	
+Yamaha	TG100	General MIDI	080 Ocarina	
+Yamaha	TG100	General MIDI	081 SquareLd	
+Yamaha	TG100	General MIDI	082 Saw   Ld	
+Yamaha	TG100	General MIDI	083 CaliopLd	
+Yamaha	TG100	General MIDI	084 Chiff Ld	
+Yamaha	TG100	General MIDI	085 CharanLd	
+Yamaha	TG100	General MIDI	086 Voice Ld	
+Yamaha	TG100	General MIDI	087 Fifth Ld	
+Yamaha	TG100	General MIDI	088 Bass &Ld	
+Yamaha	TG100	General MIDI	089 NewAgePd	
+Yamaha	TG100	General MIDI	090 Warm  Pd	
+Yamaha	TG100	General MIDI	091 PolySyPd	
+Yamaha	TG100	General MIDI	092 Choir Pd	
+Yamaha	TG100	General MIDI	093 Bowed Pd	
+Yamaha	TG100	General MIDI	094 Metal Pd	
+Yamaha	TG100	General MIDI	095 Halo  Pd	
+Yamaha	TG100	General MIDI	096 Sweep Pd	
+Yamaha	TG100	General MIDI	097 Rain	
+Yamaha	TG100	General MIDI	098 SoundTrk	
+Yamaha	TG100	General MIDI	099 Crystal	
+Yamaha	TG100	General MIDI	100 Atmosphr	
+Yamaha	TG100	General MIDI	101 Bright	
+Yamaha	TG100	General MIDI	102 Goblin	
+Yamaha	TG100	General MIDI	103 Echoes	
+Yamaha	TG100	General MIDI	104 SciFi	
+Yamaha	TG100	General MIDI	105 Sitar	
+Yamaha	TG100	General MIDI	106 Banjo	
+Yamaha	TG100	General MIDI	107 Shamisen	
+Yamaha	TG100	General MIDI	108 Koto	
+Yamaha	TG100	General MIDI	109 Kalimba	
+Yamaha	TG100	General MIDI	110 Bagpipe	
+Yamaha	TG100	General MIDI	111 Fiddle	
+Yamaha	TG100	General MIDI	112 Shanai	
+Yamaha	TG100	General MIDI	113 TnklBell	
+Yamaha	TG100	General MIDI	114 Agogo	
+Yamaha	TG100	General MIDI	115 Stl Drum	
+Yamaha	TG100	General MIDI	116 WoodBlok	
+Yamaha	TG100	General MIDI	117 TaikoDrm	
+Yamaha	TG100	General MIDI	118 MelodTom	
+Yamaha	TG100	General MIDI	119 SynthTom	
+Yamaha	TG100	General MIDI	120 RevCymbl	
+Yamaha	TG100	General MIDI	121 FretNoiz	
+Yamaha	TG100	General MIDI	122 BrthNoiz	
+Yamaha	TG100	General MIDI	123 Seashore	
+Yamaha	TG100	General MIDI	124 Tweet	
+Yamaha	TG100	General MIDI	125 Telphone	
+Yamaha	TG100	General MIDI	126 Helicptr	
+Yamaha	TG100	General MIDI	127 Applause	
+Yamaha	TG100	General MIDI	128 Gunshot	
+Yamaha	TG100	Disk Orchestra	001 BrasSect	
+Yamaha	TG100	Disk Orchestra	002 Trumpet	
+Yamaha	TG100	Disk Orchestra	003 FrenchHr	
+Yamaha	TG100	Disk Orchestra	004 Sax 1	
+Yamaha	TG100	Disk Orchestra	005 Clarinet	
+Yamaha	TG100	Disk Orchestra	006 Oboe	
+Yamaha	TG100	Disk Orchestra	007 Flute	
+Yamaha	TG100	Disk Orchestra	008 Acordion	
+Yamaha	TG100	Disk Orchestra	009 Ensmble4	
+Yamaha	TG100	Disk Orchestra	010 Violin	
+Yamaha	TG100	Disk Orchestra	011 PipeOrgn	
+Yamaha	TG100	Disk Orchestra	012 JazzOrgn	
+Yamaha	TG100	Disk Orchestra	013 GrndPno2	
+Yamaha	TG100	Disk Orchestra	014 ElPno DX	
+Yamaha	TG100	Disk Orchestra	015 Harpsich	
+Yamaha	TG100	Disk Orchestra	016 Celesta2	
+Yamaha	TG100	Disk Orchestra	017 Vibes	
+Yamaha	TG100	Disk Orchestra	018 Marimba	
+Yamaha	TG100	Disk Orchestra	019 Clavinet	
+Yamaha	TG100	Disk Orchestra	020 Glocken	
+Yamaha	TG100	Disk Orchestra	021 SynBras3	
+Yamaha	TG100	Disk Orchestra	023 SynCrstl	
+Yamaha	TG100	Disk Orchestra	024 Timpani2	
+Yamaha	TG100	Disk Orchestra	025 NylonGtr	
+Yamaha	TG100	Disk Orchestra	026 JazzGtr	
+Yamaha	TG100	Disk Orchestra	027 CleanGtr	
+Yamaha	TG100	Disk Orchestra	028 Sitar	
+Yamaha	TG100	Disk Orchestra	029 WoodBass	
+Yamaha	TG100	Disk Orchestra	030 FngrBass	
+Yamaha	TG100	Disk Orchestra	031 SlpBas10	
+Yamaha	TG100	Disk Orchestra	032 SynBas2	
+Yamaha	TG100	Disk Orchestra	041 MuteTrum	
+Yamaha	TG100	Disk Orchestra	042 Harmnica	
+Yamaha	TG100	Disk Orchestra	043 AahChoir	
+Yamaha	TG100	Disk Orchestra	044 CombOrgn	
+Yamaha	TG100	Disk Orchestra	045 Syn Wood	
+Yamaha	TG100	Disk Orchestra	046 SynStrg3	
+Yamaha	TG100	Disk Orchestra	047 Synchor2	
+Yamaha	TG100	Disk Orchestra	048 BritePn2	
+Yamaha	TG100	Disk Orchestra	049 GrndPno2	
+Yamaha	TG100	Disk Orchestra	050 HnkyTonk	
+Yamaha	TG100	Disk Orchestra	051 ElPiano1	
+Yamaha	TG100	Disk Orchestra	052 El.Grand	
+Yamaha	TG100	Disk Orchestra	053 SynPiano	
+Yamaha	TG100	Disk Orchestra	054 SteelGtr	
+Yamaha	TG100	Disk Orchestra	055 CleanGtr	
+Yamaha	TG100	Disk Orchestra	056 Banjo	
+Yamaha	TG100	Disk Orchestra	057 Pizzicto	
+Yamaha	TG100	Disk Orchestra	058 Harp	
+Yamaha	TG100	Disk Orchestra	059 Stl Drum	
+Yamaha	TG100	Disk Orchestra	061 BrasSect	
+Yamaha	TG100	Disk Orchestra	062 Flute	
+Yamaha	TG100	Disk Orchestra	063 Ensmble1	
+Yamaha	TG100	Disk Orchestra	064 AahChoir	
+Yamaha	TG100	Disk Orchestra	065 PipeOrgn	
+Yamaha	TG100	Disk Orchestra	066 JazzOrgn	
+Yamaha	TG100	Disk Orchestra	067 SynBras3	
+Yamaha	TG100	Disk Orchestra	068 Sax 1	
+Yamaha	TG100	Disk Orchestra	069 Clavnova	
+Yamaha	TG100	Disk Orchestra	070 CleanGtr	
+Yamaha	TG100	Disk Orchestra	071 MuteGtr	
+Yamaha	TG100	Disk Orchestra	072 WoodBass	
+Yamaha	TG100	Disk Orchestra	073 JazzGtr	
+Yamaha	TG100	Disk Orchestra	074 PopBrass	
+Yamaha	TG100	Disk Orchestra	075 Ensmble2	
+Yamaha	TG100	Disk Orchestra	076 Violin	
+Yamaha	TG100	Disk Orchestra	077 ChrcOrgn	
+Yamaha	TG100	Disk Orchestra	078 Sax 2	
+Yamaha	TG100	Disk Orchestra	079 Hvy Bass	
+Yamaha	TG100	Disk Orchestra	080 Flute 2	
+Yamaha	TG100	Disk Orchestra	081 Bassoon	
+Yamaha	TG100	Disk Orchestra	083 JazzOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	001 GrandPno	
+Yamaha	TG100	C/M -> Parts 1...9	002 BritePno	
+Yamaha	TG100	C/M -> Parts 1...9	003 ElPiano2	
+Yamaha	TG100	C/M -> Parts 1...9	004 El.Grand	
+Yamaha	TG100	C/M -> Parts 1...9	005 El.Grand	
+Yamaha	TG100	C/M -> Parts 1...9	006 ElPiano2	
+Yamaha	TG100	C/M -> Parts 1...9	007 ElPiano1	
+Yamaha	TG100	C/M -> Parts 1...9	008 HnkyTonk	
+Yamaha	TG100	C/M -> Parts 1...9	009 DrawOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	010 PercOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	011 PercOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	012 RockOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	013 ChrcOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	014 ReedOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	015 ChrcOrgn	
+Yamaha	TG100	C/M -> Parts 1...9	016 Acordion	
+Yamaha	TG100	C/M -> Parts 1...9	017 Harpsich	
+Yamaha	TG100	C/M -> Parts 1...9	018 Harpsich	
+Yamaha	TG100	C/M -> Parts 1...9	019 Harpsich	
+Yamaha	TG100	C/M -> Parts 1...9	020 Clavinet	
+Yamaha	TG100	C/M -> Parts 1...9	021 Clavinet	
+Yamaha	TG100	C/M -> Parts 1...9	022 Clavinet	
+Yamaha	TG100	C/M -> Parts 1...9	023 Celesta	
+Yamaha	TG100	C/M -> Parts 1...9	024 Celesta	
+Yamaha	TG100	C/M -> Parts 1...9	025 SynBras1	
+Yamaha	TG100	C/M -> Parts 1...9	026 SynBras2	
+Yamaha	TG100	C/M -> Parts 1...9	027 SynBras1	
+Yamaha	TG100	C/M -> Parts 1...9	028 SynBras2	
+Yamaha	TG100	C/M -> Parts 1...9	029 SynBas1	
+Yamaha	TG100	C/M -> Parts 1...9	030 SynBas2	
+Yamaha	TG100	C/M -> Parts 1...9	031 SynBas1	
+Yamaha	TG100	C/M -> Parts 1...9	032 SynBas2	
+Yamaha	TG100	C/M -> Parts 1...9	033 NewAgePd	
+Yamaha	TG100	C/M -> Parts 1...9	034 SynHarmo	
+Yamaha	TG100	C/M -> Parts 1...9	035 Choir Pd	
+Yamaha	TG100	C/M -> Parts 1...9	036 Bowed Pd	
+Yamaha	TG100	C/M -> Parts 1...9	037 SoundTrk	
+Yamaha	TG100	C/M -> Parts 1...9	038 Atmosphr	
+Yamaha	TG100	C/M -> Parts 1...9	039 SynWarm	
+Yamaha	TG100	C/M -> Parts 1...9	040 SynFunny	
+Yamaha	TG100	C/M -> Parts 1...9	041 SynEcho1	
+Yamaha	TG100	C/M -> Parts 1...9	042 Rain	
+Yamaha	TG100	C/M -> Parts 1...9	043 SynOboe	
+Yamaha	TG100	C/M -> Parts 1...9	044 SynEcho2	
+Yamaha	TG100	C/M -> Parts 1...9	045 SynSolo	
+Yamaha	TG100	C/M -> Parts 1...9	046 SynRdOrg	
+Yamaha	TG100	C/M -> Parts 1...9	047 SynBell	
+Yamaha	TG100	C/M -> Parts 1...9	048 SquareLd	
+Yamaha	TG100	C/M -> Parts 1...9	049 Ensmble1	
+Yamaha	TG100	C/M -> Parts 1...9	050 Ensmble2	
+Yamaha	TG100	C/M -> Parts 1...9	051 SynStrg1	
+Yamaha	TG100	C/M -> Parts 1...9	052 Pizzicto	
+Yamaha	TG100	C/M -> Parts 1...9	053 Violin	
+Yamaha	TG100	C/M -> Parts 1...9	054 Viola	
+Yamaha	TG100	C/M -> Parts 1...9	055 Cello	
+Yamaha	TG100	C/M -> Parts 1...9	056 Cello	
+Yamaha	TG100	C/M -> Parts 1...9	057 Contra	
+Yamaha	TG100	C/M -> Parts 1...9	058 Harp	
+Yamaha	TG100	C/M -> Parts 1...9	059 Harp	
+Yamaha	TG100	C/M -> Parts 1...9	060 NylonGtr	
+Yamaha	TG100	C/M -> Parts 1...9	061 SteelGtr	
+Yamaha	TG100	C/M -> Parts 1...9	062 JazzGtr	
+Yamaha	TG100	C/M -> Parts 1...9	063 CleanGtr	
+Yamaha	TG100	C/M -> Parts 1...9	064 Sitar	
+Yamaha	TG100	C/M -> Parts 1...9	065 WoodBass	
+Yamaha	TG100	C/M -> Parts 1...9	066 WoodBass	
+Yamaha	TG100	C/M -> Parts 1...9	067 FngrBass	
+Yamaha	TG100	C/M -> Parts 1...9	068 PickBass	
+Yamaha	TG100	C/M -> Parts 1...9	069 SlapBas1	
+Yamaha	TG100	C/M -> Parts 1...9	070 SlapBas2	
+Yamaha	TG100	C/M -> Parts 1...9	071 Fretless	
+Yamaha	TG100	C/M -> Parts 1...9	072 Fretless	
+Yamaha	TG100	C/M -> Parts 1...9	073 Flute	
+Yamaha	TG100	C/M -> Parts 1...9	074 Flute	
+Yamaha	TG100	C/M -> Parts 1...9	075 Piccolo	
+Yamaha	TG100	C/M -> Parts 1...9	076 Piccolo	
+Yamaha	TG100	C/M -> Parts 1...9	077 Recorder	
+Yamaha	TG100	C/M -> Parts 1...9	078 PanFlute	
+Yamaha	TG100	C/M -> Parts 1...9	079 SprnoSax	
+Yamaha	TG100	C/M -> Parts 1...9	080 Alto Sax	
+Yamaha	TG100	C/M -> Parts 1...9	081 TenorSax	
+Yamaha	TG100	C/M -> Parts 1...9	082 Bari Sax	
+Yamaha	TG100	C/M -> Parts 1...9	083 Clarinet	
+Yamaha	TG100	C/M -> Parts 1...9	084 Clarinet	
+Yamaha	TG100	C/M -> Parts 1...9	085 Oboe	
+Yamaha	TG100	C/M -> Parts 1...9	086 EnglHorn	
+Yamaha	TG100	C/M -> Parts 1...9	087 Bassoon	
+Yamaha	TG100	C/M -> Parts 1...9	088 Harmnica	
+Yamaha	TG100	C/M -> Parts 1...9	089 Trumpet	
+Yamaha	TG100	C/M -> Parts 1...9	090 Trumpet	
+Yamaha	TG100	C/M -> Parts 1...9	091 Trombone	
+Yamaha	TG100	C/M -> Parts 1...9	092 Trombone	
+Yamaha	TG100	C/M -> Parts 1...9	093 FrenchHr	
+Yamaha	TG100	C/M -> Parts 1...9	094 FrenchHr	
+Yamaha	TG100	C/M -> Parts 1...9	095 Tuba	
+Yamaha	TG100	C/M -> Parts 1...9	096 BrasSect	
+Yamaha	TG100	C/M -> Parts 1...9	097 BrasSect	
+Yamaha	TG100	C/M -> Parts 1...9	098 Vibes	
+Yamaha	TG100	C/M -> Parts 1...9	099 Vibes	
+Yamaha	TG100	C/M -> Parts 1...9	100 MalletSy	
+Yamaha	TG100	C/M -> Parts 1...9	101 MaletWin	
+Yamaha	TG100	C/M -> Parts 1...9	102 Glocken	
+Yamaha	TG100	C/M -> Parts 1...9	103 TubulBel	
+Yamaha	TG100	C/M -> Parts 1...9	104 Xylophon	
+Yamaha	TG100	C/M -> Parts 1...9	105 Marimba	
+Yamaha	TG100	C/M -> Parts 1...9	106 Koto	
+Yamaha	TG100	C/M -> Parts 1...9	107 Sho	
+Yamaha	TG100	C/M -> Parts 1...9	108 Shakhchi	
+Yamaha	TG100	C/M -> Parts 1...9	109 Whistle	
+Yamaha	TG100	C/M -> Parts 1...9	110 Whistle	
+Yamaha	TG100	C/M -> Parts 1...9	111 Bottle	
+Yamaha	TG100	C/M -> Parts 1...9	112 Breathy	
+Yamaha	TG100	C/M -> Parts 1...9	113 Timpani	
+Yamaha	TG100	C/M -> Parts 1...9	114 MelodTom	
+Yamaha	TG100	C/M -> Parts 1...9	115 DeepSnar	
+Yamaha	TG100	C/M -> Parts 1...9	116 SynthTom	
+Yamaha	TG100	C/M -> Parts 1...9	117 Syn Tom2	
+Yamaha	TG100	C/M -> Parts 1...9	118 TaikoDrm	
+Yamaha	TG100	C/M -> Parts 1...9	119 TaikoRim	
+Yamaha	TG100	C/M -> Parts 1...9	120 Cymbal	
+Yamaha	TG100	C/M -> Parts 1...9	121 Castanet	
+Yamaha	TG100	C/M -> Parts 1...9	122 Triangle	
+Yamaha	TG100	C/M -> Parts 1...9	123 Orch Hit	
+Yamaha	TG100	C/M -> Parts 1...9	124 Telphone	
+Yamaha	TG100	C/M -> Parts 1...9	125 Bird	
+Yamaha	TG100	C/M -> Parts 1...9	126 Jam	
+Yamaha	TG100	C/M -> Parts 1...9	127 EfctWatr	
+Yamaha	TG100	C/M -> Parts 1...9	128 EfctJngl	
+Yamaha	TG100	C/M -> Parts 11...16	001 GrandPno	
+Yamaha	TG100	C/M -> Parts 11...16	002 GrandPno	
+Yamaha	TG100	C/M -> Parts 11...16	003 El.Grand	
+Yamaha	TG100	C/M -> Parts 11...16	004 HnkyTonk	
+Yamaha	TG100	C/M -> Parts 11...16	005 GrandPno	
+Yamaha	TG100	C/M -> Parts 11...16	006 BritePno	
+Yamaha	TG100	C/M -> Parts 11...16	007 BritePno	
+Yamaha	TG100	C/M -> Parts 11...16	008 ElPiano1	
+Yamaha	TG100	C/M -> Parts 11...16	009 ElPiano1	
+Yamaha	TG100	C/M -> Parts 11...16	010 ElPiano1	
+Yamaha	TG100	C/M -> Parts 11...16	011 SteelGtr	
+Yamaha	TG100	C/M -> Parts 11...16	012 SteelGtr	
+Yamaha	TG100	C/M -> Parts 11...16	013 SteelGt2	
+Yamaha	TG100	C/M -> Parts 11...16	014 Mute Gt2	
+Yamaha	TG100	C/M -> Parts 11...16	015 Mute Gt3	
+Yamaha	TG100	C/M -> Parts 11...16	016 SlapBas3	
+Yamaha	TG100	C/M -> Parts 11...16	017 SlapBas4	
+Yamaha	TG100	C/M -> Parts 11...16	018 SlapBas5	
+Yamaha	TG100	C/M -> Parts 11...16	019 SlapBas6	
+Yamaha	TG100	C/M -> Parts 11...16	020 SlapBas7	
+Yamaha	TG100	C/M -> Parts 11...16	021 SlapBas8	
+Yamaha	TG100	C/M -> Parts 11...16	022 SlapBas5	
+Yamaha	TG100	C/M -> Parts 11...16	023 SlapBas9	
+Yamaha	TG100	C/M -> Parts 11...16	024 FngrBass	
+Yamaha	TG100	C/M -> Parts 11...16	025 FngrBas2	
+Yamaha	TG100	C/M -> Parts 11...16	026 PickBass	
+Yamaha	TG100	C/M -> Parts 11...16	027 PickBas2	
+Yamaha	TG100	C/M -> Parts 11...16	028 Fretless	
+Yamaha	TG100	C/M -> Parts 11...16	029 WoodBass	
+Yamaha	TG100	C/M -> Parts 11...16	030 AahChor2	
+Yamaha	TG100	C/M -> Parts 11...16	031 AahChoir	
+Yamaha	TG100	C/M -> Parts 11...16	032 AahChor3	
+Yamaha	TG100	C/M -> Parts 11...16	033 AahChor4	
+Yamaha	TG100	C/M -> Parts 11...16	034 Ensmble2	
+Yamaha	TG100	C/M -> Parts 11...16	035 Ensmble1	
+Yamaha	TG100	C/M -> Parts 11...16	036 Ensmble3	
+Yamaha	TG100	C/M -> Parts 11...16	037 Ensmble3	
+Yamaha	TG100	C/M -> Parts 11...16	038 DrawOrgn	
+Yamaha	TG100	C/M -> Parts 11...16	039 DrawOrgn	
+Yamaha	TG100	C/M -> Parts 11...16	040 PercOrgn	
+Yamaha	TG100	C/M -> Parts 11...16	041 PrcOrgn2	
+Yamaha	TG100	C/M -> Parts 11...16	042 DrawOrgn	
+Yamaha	TG100	C/M -> Parts 11...16	043 DrawOrgn	
+Yamaha	TG100	C/M -> Parts 11...16	044 PercOrgn	
+Yamaha	TG100	C/M -> Parts 11...16	045 PrcOrgn2	
+Yamaha	TG100	C/M -> Parts 11...16	046 PrcOrgn2	
+Yamaha	TG100	C/M -> Parts 11...16	047 Trumpet	
+Yamaha	TG100	C/M -> Parts 11...16	048 Trumpet	
+Yamaha	TG100	C/M -> Parts 11...16	049 Trombone	
+Yamaha	TG100	C/M -> Parts 11...16	050 Trombone	
+Yamaha	TG100	C/M -> Parts 11...16	051 Trombone	
+Yamaha	TG100	C/M -> Parts 11...16	052 PopBrass	
+Yamaha	TG100	C/M -> Parts 11...16	053 BrasSec3	
+Yamaha	TG100	C/M -> Parts 11...16	054 Brassec2	
+Yamaha	TG100	C/M -> Parts 11...16	055 SprnoSax	
+Yamaha	TG100	C/M -> Parts 11...16	056 Alto Sax	
+Yamaha	TG100	C/M -> Parts 11...16	057 TenorSax	
+Yamaha	TG100	C/M -> Parts 11...16	058 Bari Sax	
+Yamaha	TG100	C/M -> Parts 11...16	059 BrasSect	
+Yamaha	TG100	C/M -> Parts 11...16	060 PopBrass	
+Yamaha	TG100	C/M -> Parts 11...16	061 Brassec2	
+Yamaha	TG100	C/M -> Parts 11...16	062 Brassec2	
+Yamaha	TG100	C/M -> Parts 11...16	063 Brassec2	
+Yamaha	TG100	C/M -> Parts 11...16	064 Orch Hit	

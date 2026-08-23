@@ -1,0 +1,492 @@
+Yamaha	PLG100-XG	XG	000 001 GrandPno	
+Yamaha	PLG100-XG	XG	001 001 GrndPnoK	
+Yamaha	PLG100-XG	XG	018 001 MelloGrP	
+Yamaha	PLG100-XG	XG	040 001 PianoStr	
+Yamaha	PLG100-XG	XG	041 001 Dream	
+Yamaha	PLG100-XG	XG	000 002 BritePno	
+Yamaha	PLG100-XG	XG	001 002 BritPnoK	
+Yamaha	PLG100-XG	XG	000 003 El.Grand	
+Yamaha	PLG100-XG	XG	001 003 ElGrPnoK	
+Yamaha	PLG100-XG	XG	032 003 Det.CP80	
+Yamaha	PLG100-XG	XG	040 003 LayerCP1	
+Yamaha	PLG100-XG	XG	041 003 LayerCP2	
+Yamaha	PLG100-XG	XG	000 004 HnkyTonk	
+Yamaha	PLG100-XG	XG	001 004 HnkyTnkK	
+Yamaha	PLG100-XG	XG	000 005 E.Piano1	
+Yamaha	PLG100-XG	XG	001 005 El.Pno1K	
+Yamaha	PLG100-XG	XG	018 005 MelloEP1	
+Yamaha	PLG100-XG	XG	032 005 Chor.EP1	
+Yamaha	PLG100-XG	XG	040 005 HardEl.P	
+Yamaha	PLG100-XG	XG	045 005 VX El.P1	
+Yamaha	PLG100-XG	XG	064 005 60sEl.P1	
+Yamaha	PLG100-XG	XG	000 006 E.Piano2	
+Yamaha	PLG100-XG	XG	001 006 El.Pno2K	
+Yamaha	PLG100-XG	XG	032 006 Chor.EP2	
+Yamaha	PLG100-XG	XG	033 006 DX Hard	
+Yamaha	PLG100-XG	XG	034 006 DXLegend	
+Yamaha	PLG100-XG	XG	040 006 DX Phase	
+Yamaha	PLG100-XG	XG	041 006 DX+Analg	
+Yamaha	PLG100-XG	XG	042 006 DXKotoEP	
+Yamaha	PLG100-XG	XG	045 006 VX El.P2	
+Yamaha	PLG100-XG	XG	000 007 Harpsi.	
+Yamaha	PLG100-XG	XG	001 007 Harpsi.K	
+Yamaha	PLG100-XG	XG	025 007 Harpsi.2	
+Yamaha	PLG100-XG	XG	035 007 Harpsi.3	
+Yamaha	PLG100-XG	XG	000 008 Clavi.	
+Yamaha	PLG100-XG	XG	001 008 Clav K	
+Yamaha	PLG100-XG	XG	027 008 ClaviWah	
+Yamaha	PLG100-XG	XG	064 008 PulseClv	
+Yamaha	PLG100-XG	XG	065 008 PierceCl	
+Yamaha	PLG100-XG	XG	000 009 Celesta	
+Yamaha	PLG100-XG	XG	000 010 Glocken	
+Yamaha	PLG100-XG	XG	000 011 MusicBox	
+Yamaha	PLG100-XG	XG	064 011 Orgel	
+Yamaha	PLG100-XG	XG	000 012 Vibes	
+Yamaha	PLG100-XG	XG	001 012 Vibes K	
+Yamaha	PLG100-XG	XG	045 012 HardVibe	
+Yamaha	PLG100-XG	XG	000 013 Marimba	
+Yamaha	PLG100-XG	XG	001 013 MarimbaK	
+Yamaha	PLG100-XG	XG	064 013 SineMrmb	
+Yamaha	PLG100-XG	XG	097 013 Balimba	
+Yamaha	PLG100-XG	XG	098 013 Log Drum	
+Yamaha	PLG100-XG	XG	000 014 Xylophon	
+Yamaha	PLG100-XG	XG	000 015 TubulBel	
+Yamaha	PLG100-XG	XG	096 015 ChrchBel	
+Yamaha	PLG100-XG	XG	097 015 Carillon	
+Yamaha	PLG100-XG	XG	000 016 Dulcimer	
+Yamaha	PLG100-XG	XG	035 016 Dulcimr2	
+Yamaha	PLG100-XG	XG	096 016 Cimbalom	
+Yamaha	PLG100-XG	XG	097 016 Santur	
+Yamaha	PLG100-XG	XG	000 017 DrawOrgn	
+Yamaha	PLG100-XG	XG	032 017 DetDrwOr	
+Yamaha	PLG100-XG	XG	033 017 60sDrOr1	
+Yamaha	PLG100-XG	XG	034 017 60sDrOr2	
+Yamaha	PLG100-XG	XG	035 017 70sDrOr1	
+Yamaha	PLG100-XG	XG	036 017 DrawOrg2	
+Yamaha	PLG100-XG	XG	037 017 60sDrOr3	
+Yamaha	PLG100-XG	XG	038 017 Even Bar	
+Yamaha	PLG100-XG	XG	040 017 16+2"2/3	
+Yamaha	PLG100-XG	XG	064 017 Organ Ba	
+Yamaha	PLG100-XG	XG	065 017 70sDrOr2	
+Yamaha	PLG100-XG	XG	066 017 CheezOrg	
+Yamaha	PLG100-XG	XG	067 017 DrawOrg3	
+Yamaha	PLG100-XG	XG	000 018 PercOrgn	
+Yamaha	PLG100-XG	XG	024 018 70sPcOr1	
+Yamaha	PLG100-XG	XG	032 018 DetPrcOr	
+Yamaha	PLG100-XG	XG	033 018 Lite Org	
+Yamaha	PLG100-XG	XG	037 018 PercOrg2	
+Yamaha	PLG100-XG	XG	000 019 RockOrgn	
+Yamaha	PLG100-XG	XG	064 019 RotaryOr	
+Yamaha	PLG100-XG	XG	065 019 SloRotar	
+Yamaha	PLG100-XG	XG	066 019 FstRotar	
+Yamaha	PLG100-XG	XG	000 020 ChrchOrg	
+Yamaha	PLG100-XG	XG	032 020 ChurOrg3	
+Yamaha	PLG100-XG	XG	035 020 ChurOrg2	
+Yamaha	PLG100-XG	XG	040 020 NotreDam	
+Yamaha	PLG100-XG	XG	064 020 OrgFlute	
+Yamaha	PLG100-XG	XG	065 020 TrmOrgFl	
+Yamaha	PLG100-XG	XG	000 021 ReedOrgn	
+Yamaha	PLG100-XG	XG	040 021 Puff Org	
+Yamaha	PLG100-XG	XG	000 022 Acordion	
+Yamaha	PLG100-XG	XG	032 022 AccordIt	
+Yamaha	PLG100-XG	XG	000 023 Harmnica	
+Yamaha	PLG100-XG	XG	032 023 Harmo. 2	
+Yamaha	PLG100-XG	XG	000 024 TangoAcd	
+Yamaha	PLG100-XG	XG	064 024 TngoAcd2	
+Yamaha	PLG100-XG	XG	000 025 NylonGtr	
+Yamaha	PLG100-XG	XG	016 025 NylonGt2	
+Yamaha	PLG100-XG	XG	025 025 NylonGt3	
+Yamaha	PLG100-XG	XG	043 025 VelGtHrm	
+Yamaha	PLG100-XG	XG	096 025 Ukulele	
+Yamaha	PLG100-XG	XG	000 026 SteelGtr	
+Yamaha	PLG100-XG	XG	016 026 SteelGt2	
+Yamaha	PLG100-XG	XG	035 026 12StrGtr	
+Yamaha	PLG100-XG	XG	040 026 Nyln&Stl	
+Yamaha	PLG100-XG	XG	041 026 Stl&Body	
+Yamaha	PLG100-XG	XG	096 026 Mandolin	
+Yamaha	PLG100-XG	XG	000 027 Jazz Gtr	
+Yamaha	PLG100-XG	XG	018 027 MelloGtr	
+Yamaha	PLG100-XG	XG	032 027 Jazz Amp	
+Yamaha	PLG100-XG	XG	000 028 CleanGtr	
+Yamaha	PLG100-XG	XG	032 028 ChorusGt	
+Yamaha	PLG100-XG	XG	000 029 Mute.Gtr	
+Yamaha	PLG100-XG	XG	040 029 FunkGtr1	
+Yamaha	PLG100-XG	XG	041 029 MuteStlG	
+Yamaha	PLG100-XG	XG	043 029 FunkGtr2	
+Yamaha	PLG100-XG	XG	045 029 Jazz Man	
+Yamaha	PLG100-XG	XG	000 030 Ovrdrive	
+Yamaha	PLG100-XG	XG	043 030 Gt.Pinch	
+Yamaha	PLG100-XG	XG	000 031 Dist.Gtr	
+Yamaha	PLG100-XG	XG	040 031 FeedbkGt	
+Yamaha	PLG100-XG	XG	041 031 FeedbkG2	
+Yamaha	PLG100-XG	XG	000 032 GtrHarmo	
+Yamaha	PLG100-XG	XG	065 032 GtFeedbk	
+Yamaha	PLG100-XG	XG	066 032 GtrHrmo2	
+Yamaha	PLG100-XG	XG	000 033 Aco.Bass	
+Yamaha	PLG100-XG	XG	040 033 JazzRthm	
+Yamaha	PLG100-XG	XG	045 033 VXUprght	
+Yamaha	PLG100-XG	XG	000 034 FngrBass	
+Yamaha	PLG100-XG	XG	018 034 FingrDrk	
+Yamaha	PLG100-XG	XG	027 034 FlangeBa	
+Yamaha	PLG100-XG	XG	040 034 Ba&DstEG	
+Yamaha	PLG100-XG	XG	043 034 FngrSlap	
+Yamaha	PLG100-XG	XG	045 034 FngBass2	
+Yamaha	PLG100-XG	XG	065 034 Mod.Bass	
+Yamaha	PLG100-XG	XG	000 035 PickBass	
+Yamaha	PLG100-XG	XG	028 035 MutePkBa	
+Yamaha	PLG100-XG	XG	000 036 Fretless	
+Yamaha	PLG100-XG	XG	032 036 Fretles2	
+Yamaha	PLG100-XG	XG	033 036 Fretles3	
+Yamaha	PLG100-XG	XG	034 036 Fretles4	
+Yamaha	PLG100-XG	XG	096 036 SynFretl	
+Yamaha	PLG100-XG	XG	097 036 SmthFrtl	
+Yamaha	PLG100-XG	XG	000 037 SlapBas1	
+Yamaha	PLG100-XG	XG	027 037 ResoSlap	
+Yamaha	PLG100-XG	XG	032 037 PunchThm	
+Yamaha	PLG100-XG	XG	000 038 SlapBas2	
+Yamaha	PLG100-XG	XG	043 038 VeloSlap	
+Yamaha	PLG100-XG	XG	000 039 SynBass1	
+Yamaha	PLG100-XG	XG	018 039 SynBa1Dk	
+Yamaha	PLG100-XG	XG	020 039 FastResB	
+Yamaha	PLG100-XG	XG	024 039 AcidBass	
+Yamaha	PLG100-XG	XG	035 039 Clv Bass	
+Yamaha	PLG100-XG	XG	040 039 TechnoBa	
+Yamaha	PLG100-XG	XG	064 039 Orbiter	
+Yamaha	PLG100-XG	XG	065 039 Sqr.Bass	
+Yamaha	PLG100-XG	XG	066 039 RubberBa	
+Yamaha	PLG100-XG	XG	096 039 Hammer	
+Yamaha	PLG100-XG	XG	000 040 SynBass2	
+Yamaha	PLG100-XG	XG	006 040 MelloSBa	
+Yamaha	PLG100-XG	XG	012 040 Seq Bass	
+Yamaha	PLG100-XG	XG	018 040 ClkSynBa	
+Yamaha	PLG100-XG	XG	019 040 SynBa2Dk	
+Yamaha	PLG100-XG	XG	032 040 SmthSynB	
+Yamaha	PLG100-XG	XG	040 040 ModulrBa	
+Yamaha	PLG100-XG	XG	041 040 DX Bass	
+Yamaha	PLG100-XG	XG	064 040 X WireBa	
+Yamaha	PLG100-XG	XG	000 041 Violin	
+Yamaha	PLG100-XG	XG	008 041 Slow Vln	
+Yamaha	PLG100-XG	XG	000 042 Viola	
+Yamaha	PLG100-XG	XG	000 043 Cello	
+Yamaha	PLG100-XG	XG	000 044 Contrabs	
+Yamaha	PLG100-XG	XG	000 045 Trem.Str	
+Yamaha	PLG100-XG	XG	008 045 SlwTrStr	
+Yamaha	PLG100-XG	XG	040 045 Susp.Str	
+Yamaha	PLG100-XG	XG	000 046 Pizz.Str	
+Yamaha	PLG100-XG	XG	000 047 Harp	
+Yamaha	PLG100-XG	XG	040 047 YangChin	
+Yamaha	PLG100-XG	XG	000 048 Timpani	
+Yamaha	PLG100-XG	XG	000 049 Strings1	
+Yamaha	PLG100-XG	XG	003 049 S.Strngs	
+Yamaha	PLG100-XG	XG	008 049 Slow Str	
+Yamaha	PLG100-XG	XG	024 049 Arco Str	
+Yamaha	PLG100-XG	XG	035 049 60sStrng	
+Yamaha	PLG100-XG	XG	040 049 Orchestr	
+Yamaha	PLG100-XG	XG	041 049 Orchstr2	
+Yamaha	PLG100-XG	XG	042 049 TremOrch	
+Yamaha	PLG100-XG	XG	045 049 Velo.Str	
+Yamaha	PLG100-XG	XG	000 050 Strings2	
+Yamaha	PLG100-XG	XG	003 050 S.SlwStr	
+Yamaha	PLG100-XG	XG	008 050 LegatoSt	
+Yamaha	PLG100-XG	XG	040 050 Warm Str	
+Yamaha	PLG100-XG	XG	041 050 Kingdom	
+Yamaha	PLG100-XG	XG	064 050 70s Str	
+Yamaha	PLG100-XG	XG	065 050 Strings3	
+Yamaha	PLG100-XG	XG	000 051 Syn.Str1	
+Yamaha	PLG100-XG	XG	027 051 Reso Str	
+Yamaha	PLG100-XG	XG	064 051 Syn Str4	
+Yamaha	PLG100-XG	XG	065 051 Syn Str5	
+Yamaha	PLG100-XG	XG	000 052 Syn.Str2	
+Yamaha	PLG100-XG	XG	000 053 ChoirAah	
+Yamaha	PLG100-XG	XG	003 053 S.Choir	
+Yamaha	PLG100-XG	XG	016 053 Ch.Aahs2	
+Yamaha	PLG100-XG	XG	032 053 MelChoir	
+Yamaha	PLG100-XG	XG	040 053 ChoirStr	
+Yamaha	PLG100-XG	XG	000 054 VoiceOoh	
+Yamaha	PLG100-XG	XG	000 055 SynVoice	
+Yamaha	PLG100-XG	XG	040 055 SyVoice2	
+Yamaha	PLG100-XG	XG	041 055 Choral	
+Yamaha	PLG100-XG	XG	064 055 AnaVoice	
+Yamaha	PLG100-XG	XG	000 056 Orch.Hit	
+Yamaha	PLG100-XG	XG	035 056 OrchHit2	
+Yamaha	PLG100-XG	XG	064 056 Impact	
+Yamaha	PLG100-XG	XG	000 057 Trumpet	
+Yamaha	PLG100-XG	XG	016 057 Trumpet2	
+Yamaha	PLG100-XG	XG	017 057 BriteTrp	
+Yamaha	PLG100-XG	XG	032 057 Warm Trp	
+Yamaha	PLG100-XG	XG	000 058 Trombone	
+Yamaha	PLG100-XG	XG	018 058 Trmbone2	
+Yamaha	PLG100-XG	XG	000 059 Tuba	
+Yamaha	PLG100-XG	XG	016 059 Tuba 2	
+Yamaha	PLG100-XG	XG	000 060 Mute.Trp	
+Yamaha	PLG100-XG	XG	000 061 Fr. Horn	
+Yamaha	PLG100-XG	XG	006 061 FrHrSolo	
+Yamaha	PLG100-XG	XG	032 061 FrHorn 2	
+Yamaha	PLG100-XG	XG	037 061 HornOrch	
+Yamaha	PLG100-XG	XG	000 062 BrasSect	
+Yamaha	PLG100-XG	XG	035 062 Tp&TbSec	
+Yamaha	PLG100-XG	XG	040 062 BrssSec2	
+Yamaha	PLG100-XG	XG	041 062 Hi Brass	
+Yamaha	PLG100-XG	XG	042 062 MelloBrs	
+Yamaha	PLG100-XG	XG	000 063 SynBrss1	
+Yamaha	PLG100-XG	XG	012 063 Quack Br	
+Yamaha	PLG100-XG	XG	020 063 RezSynBr	
+Yamaha	PLG100-XG	XG	024 063 PolyBrss	
+Yamaha	PLG100-XG	XG	027 063 SynBrss3	
+Yamaha	PLG100-XG	XG	032 063 JumpBrss	
+Yamaha	PLG100-XG	XG	045 063 AnVelBr1	
+Yamaha	PLG100-XG	XG	064 063 AnaBrss1	
+Yamaha	PLG100-XG	XG	000 064 SynBrss2	
+Yamaha	PLG100-XG	XG	018 064 Soft Brs	
+Yamaha	PLG100-XG	XG	040 064 SynBrss4	
+Yamaha	PLG100-XG	XG	041 064 ChoirBrs	
+Yamaha	PLG100-XG	XG	045 064 AnVelBr2	
+Yamaha	PLG100-XG	XG	064 064 AnaBrss2	
+Yamaha	PLG100-XG	XG	000 065 SprnoSax	
+Yamaha	PLG100-XG	XG	000 066 Alto Sax	
+Yamaha	PLG100-XG	XG	040 066 Sax Sect	
+Yamaha	PLG100-XG	XG	043 066 HyprAlto	
+Yamaha	PLG100-XG	XG	000 067 TenorSax	
+Yamaha	PLG100-XG	XG	040 067 BrthTnSx	
+Yamaha	PLG100-XG	XG	041 067 SoftTenr	
+Yamaha	PLG100-XG	XG	064 067 TnrSax 2	
+Yamaha	PLG100-XG	XG	000 068 Bari.Sax	
+Yamaha	PLG100-XG	XG	000 069 Oboe	
+Yamaha	PLG100-XG	XG	000 070 Eng.Horn	
+Yamaha	PLG100-XG	XG	000 071 Bassoon	
+Yamaha	PLG100-XG	XG	000 072 Clarinet	
+Yamaha	PLG100-XG	XG	000 073 Piccolo	
+Yamaha	PLG100-XG	XG	000 074 Flute	
+Yamaha	PLG100-XG	XG	000 075 Recorder	
+Yamaha	PLG100-XG	XG	000 076 PanFlute	
+Yamaha	PLG100-XG	XG	000 077 Bottle	
+Yamaha	PLG100-XG	XG	000 078 Shakhchi	
+Yamaha	PLG100-XG	XG	000 079 Whistle	
+Yamaha	PLG100-XG	XG	000 080 Ocarina	
+Yamaha	PLG100-XG	XG	000 081 SquareLd	
+Yamaha	PLG100-XG	XG	006 081 SquarLd2	
+Yamaha	PLG100-XG	XG	008 081 LMSquare	
+Yamaha	PLG100-XG	XG	018 081 Hollow	
+Yamaha	PLG100-XG	XG	019 081 Shroud	
+Yamaha	PLG100-XG	XG	064 081 Mellow	
+Yamaha	PLG100-XG	XG	065 081 SoloSine	
+Yamaha	PLG100-XG	XG	066 081 SineLead	
+Yamaha	PLG100-XG	XG	000 082 Saw Ld	
+Yamaha	PLG100-XG	XG	006 082 Saw Ld 2	
+Yamaha	PLG100-XG	XG	008 082 ThickSaw	
+Yamaha	PLG100-XG	XG	018 082 Dyna Saw	
+Yamaha	PLG100-XG	XG	019 082 Digi Saw	
+Yamaha	PLG100-XG	XG	020 082 Big Lead	
+Yamaha	PLG100-XG	XG	024 082 HeavySyn	
+Yamaha	PLG100-XG	XG	025 082 WaspySyn	
+Yamaha	PLG100-XG	XG	040 082 PulseSaw	
+Yamaha	PLG100-XG	XG	041 082 Dr. Lead	
+Yamaha	PLG100-XG	XG	045 082 VeloLead	
+Yamaha	PLG100-XG	XG	096 082 Seq Ana.	
+Yamaha	PLG100-XG	XG	000 083 CaliopLd	
+Yamaha	PLG100-XG	XG	065 083 PureLead	
+Yamaha	PLG100-XG	XG	000 084 Chiff Ld	
+Yamaha	PLG100-XG	XG	064 084 Rubby	
+Yamaha	PLG100-XG	XG	000 085 CharanLd	
+Yamaha	PLG100-XG	XG	064 085 DistLead	
+Yamaha	PLG100-XG	XG	065 085 WireLead	
+Yamaha	PLG100-XG	XG	000 086 Voice Ld	
+Yamaha	PLG100-XG	XG	024 086 SynthAah	
+Yamaha	PLG100-XG	XG	064 086 Vox Lead	
+Yamaha	PLG100-XG	XG	000 087 Fifth Ld	
+Yamaha	PLG100-XG	XG	035 087 Big Five	
+Yamaha	PLG100-XG	XG	000 088 Bass&Ld	
+Yamaha	PLG100-XG	XG	016 088 Big&Low	
+Yamaha	PLG100-XG	XG	064 088 Fat&Prky	
+Yamaha	PLG100-XG	XG	065 088 Soft Wrl	
+Yamaha	PLG100-XG	XG	000 089 NewAgePd	
+Yamaha	PLG100-XG	XG	064 089 Fantasy	
+Yamaha	PLG100-XG	XG	000 090 Warm Pad	
+Yamaha	PLG100-XG	XG	016 090 ThickPad	
+Yamaha	PLG100-XG	XG	017 090 Soft Pad	
+Yamaha	PLG100-XG	XG	018 090 Sine Pad	
+Yamaha	PLG100-XG	XG	064 090 Horn Pad	
+Yamaha	PLG100-XG	XG	065 090 RotarStr	
+Yamaha	PLG100-XG	XG	000 091 PolySyPd	
+Yamaha	PLG100-XG	XG	064 091 PolyPd80	
+Yamaha	PLG100-XG	XG	065 091 ClickPad	
+Yamaha	PLG100-XG	XG	066 091 Ana. Pad	
+Yamaha	PLG100-XG	XG	067 091 SquarPad	
+Yamaha	PLG100-XG	XG	000 092 ChoirPad	
+Yamaha	PLG100-XG	XG	064 092 Heaven	
+Yamaha	PLG100-XG	XG	066 092 Itopia	
+Yamaha	PLG100-XG	XG	067 092 CC Pad	
+Yamaha	PLG100-XG	XG	000 093 BowedPad	
+Yamaha	PLG100-XG	XG	064 093 Glacier	
+Yamaha	PLG100-XG	XG	065 093 GlassPad	
+Yamaha	PLG100-XG	XG	000 094 MetalPad	
+Yamaha	PLG100-XG	XG	064 094 Tine Pad	
+Yamaha	PLG100-XG	XG	065 094 Pan Pad	
+Yamaha	PLG100-XG	XG	000 095 Halo Pad	
+Yamaha	PLG100-XG	XG	000 096 SweepPad	
+Yamaha	PLG100-XG	XG	020 096 Shwimmer	
+Yamaha	PLG100-XG	XG	027 096 Converge	
+Yamaha	PLG100-XG	XG	064 096 PolarPad	
+Yamaha	PLG100-XG	XG	066 096 Celstial	
+Yamaha	PLG100-XG	XG	000 097 Rain	
+Yamaha	PLG100-XG	XG	045 097 ClaviPad	
+Yamaha	PLG100-XG	XG	064 097 HrmoRain	
+Yamaha	PLG100-XG	XG	065 097 AfrcnWnd	
+Yamaha	PLG100-XG	XG	066 097 Carib	
+Yamaha	PLG100-XG	XG	000 098 SoundTrk	
+Yamaha	PLG100-XG	XG	027 098 Prologue	
+Yamaha	PLG100-XG	XG	064 098 Ancestrl	
+Yamaha	PLG100-XG	XG	000 099 Crystal	
+Yamaha	PLG100-XG	XG	012 099 SynDrCmp	
+Yamaha	PLG100-XG	XG	014 099 Popcorn	
+Yamaha	PLG100-XG	XG	018 099 TinyBell	
+Yamaha	PLG100-XG	XG	035 099 RndGlock	
+Yamaha	PLG100-XG	XG	040 099 GlockChi	
+Yamaha	PLG100-XG	XG	041 099 ClearBel	
+Yamaha	PLG100-XG	XG	042 099 ChorBell	
+Yamaha	PLG100-XG	XG	064 099 SynMalet	
+Yamaha	PLG100-XG	XG	065 099 SftCryst	
+Yamaha	PLG100-XG	XG	066 099 LoudGlok	
+Yamaha	PLG100-XG	XG	067 099 ChrstBel	
+Yamaha	PLG100-XG	XG	068 099 VibeBell	
+Yamaha	PLG100-XG	XG	069 099 DigiBell	
+Yamaha	PLG100-XG	XG	070 099 AirBells	
+Yamaha	PLG100-XG	XG	071 099 BellHarp	
+Yamaha	PLG100-XG	XG	072 099 Gamelmba	
+Yamaha	PLG100-XG	XG	000 100 Atmosphr	
+Yamaha	PLG100-XG	XG	018 100 WarmAtms	
+Yamaha	PLG100-XG	XG	019 100 HollwRls	
+Yamaha	PLG100-XG	XG	040 100 Nylon EP	
+Yamaha	PLG100-XG	XG	064 100 NylnHarp	
+Yamaha	PLG100-XG	XG	065 100 Harp Vox	
+Yamaha	PLG100-XG	XG	066 100 AtmosPad	
+Yamaha	PLG100-XG	XG	067 100 Planet	
+Yamaha	PLG100-XG	XG	000 101 Bright	
+Yamaha	PLG100-XG	XG	064 101 FantaBel	
+Yamaha	PLG100-XG	XG	096 101 Smokey	
+Yamaha	PLG100-XG	XG	000 102 Goblins	
+Yamaha	PLG100-XG	XG	064 102 GobSynth	
+Yamaha	PLG100-XG	XG	065 102 Creeper	
+Yamaha	PLG100-XG	XG	066 102 Ring Pad	
+Yamaha	PLG100-XG	XG	067 102 Ritual	
+Yamaha	PLG100-XG	XG	068 102 ToHeaven	
+Yamaha	PLG100-XG	XG	070 102 Night	
+Yamaha	PLG100-XG	XG	071 102 Glisten	
+Yamaha	PLG100-XG	XG	096 102 BelChoir	
+Yamaha	PLG100-XG	XG	000 103 Echoes	
+Yamaha	PLG100-XG	XG	008 103 Echoes 2	
+Yamaha	PLG100-XG	XG	014 103 Echo Pan	
+Yamaha	PLG100-XG	XG	064 103 EchoBell	
+Yamaha	PLG100-XG	XG	065 103 Big Pan	
+Yamaha	PLG100-XG	XG	066 103 SynPiano	
+Yamaha	PLG100-XG	XG	067 103 Creation	
+Yamaha	PLG100-XG	XG	068 103 StarDust	
+Yamaha	PLG100-XG	XG	069 103 Reso&Pan	
+Yamaha	PLG100-XG	XG	000 104 Sci-Fi	
+Yamaha	PLG100-XG	XG	064 104 Starz	
+Yamaha	PLG100-XG	XG	000 105 Sitar	
+Yamaha	PLG100-XG	XG	032 105 DetSitar	
+Yamaha	PLG100-XG	XG	035 105 Sitar 2	
+Yamaha	PLG100-XG	XG	096 105 Tambra	
+Yamaha	PLG100-XG	XG	097 105 Tamboura	
+Yamaha	PLG100-XG	XG	000 106 Banjo	
+Yamaha	PLG100-XG	XG	028 106 MuteBnjo	
+Yamaha	PLG100-XG	XG	096 106 Rabab	
+Yamaha	PLG100-XG	XG	097 106 Gopichnt	
+Yamaha	PLG100-XG	XG	098 106 Oud	
+Yamaha	PLG100-XG	XG	000 107 Shamisen	
+Yamaha	PLG100-XG	XG	000 108 Koto	
+Yamaha	PLG100-XG	XG	096 108 Taisho-k	
+Yamaha	PLG100-XG	XG	097 108 Kanoon	
+Yamaha	PLG100-XG	XG	000 109 Kalimba	
+Yamaha	PLG100-XG	XG	000 110 Bagpipe	
+Yamaha	PLG100-XG	XG	000 111 Fiddle	
+Yamaha	PLG100-XG	XG	000 112 Shanai	
+Yamaha	PLG100-XG	XG	064 112 Shanai 2	
+Yamaha	PLG100-XG	XG	096 112 Pungi	
+Yamaha	PLG100-XG	XG	097 112 Hichriki	
+Yamaha	PLG100-XG	XG	000 113 TnklBell	
+Yamaha	PLG100-XG	XG	096 113 Bonang	
+Yamaha	PLG100-XG	XG	097 113 Altair	
+Yamaha	PLG100-XG	XG	098 113 Gamelan	
+Yamaha	PLG100-XG	XG	099 113 S.Gamlan	
+Yamaha	PLG100-XG	XG	100 113 Rama Cym	
+Yamaha	PLG100-XG	XG	101 113 AsianBel	
+Yamaha	PLG100-XG	XG	000 114 Agogo	
+Yamaha	PLG100-XG	XG	000 115 SteelDrm	
+Yamaha	PLG100-XG	XG	097 115 GlasPerc	
+Yamaha	PLG100-XG	XG	098 115 ThaiBell	
+Yamaha	PLG100-XG	XG	000 116 Woodblok	
+Yamaha	PLG100-XG	XG	096 116 Castanet	
+Yamaha	PLG100-XG	XG	000 117 TaikoDrm	
+Yamaha	PLG100-XG	XG	096 117 Gr.Cassa	
+Yamaha	PLG100-XG	XG	000 118 MelodTom	
+Yamaha	PLG100-XG	XG	064 118 Mel Tom2	
+Yamaha	PLG100-XG	XG	065 118 Real Tom	
+Yamaha	PLG100-XG	XG	066 118 Rock Tom	
+Yamaha	PLG100-XG	XG	000 119 Syn Drum	
+Yamaha	PLG100-XG	XG	064 119 Ana Tom	
+Yamaha	PLG100-XG	XG	065 119 ElecPerc	
+Yamaha	PLG100-XG	XG	000 120 RevCymbl	
+Yamaha	PLG100-XG	XG	000 121 FretNoiz	
+Yamaha	PLG100-XG	XG	000 122 BrthNoiz	
+Yamaha	PLG100-XG	XG	000 123 Seashore	
+Yamaha	PLG100-XG	XG	000 124 Tweet	
+Yamaha	PLG100-XG	XG	000 125 Telphone	
+Yamaha	PLG100-XG	XG	000 126 Helicptr	
+Yamaha	PLG100-XG	XG	000 127 Applause	
+Yamaha	PLG100-XG	XG	000 128 Gunshot	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 001 StandKit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 002 StndKit2	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 009 Room Kit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 017 Rock Kit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 025 ElctrKit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 026 AnalgKit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 028 DanceKit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 033 Jazz Kit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 041 BrushKit	
+Yamaha	PLG100-XG	XG -> Drum Kit	127 049 SymphKit	
+Yamaha	PLG100-XG	XG -> Drum Kit	126 001 SFXKit 1	
+Yamaha	PLG100-XG	XG -> Drum Kit	126 002 SFXKit 2	
+Yamaha	PLG100-XG	SFX	001 CuttngNz	
+Yamaha	PLG100-XG	SFX	002 CttngNz2	
+Yamaha	PLG100-XG	SFX	004 Str Slap	
+Yamaha	PLG100-XG	SFX	017 Fl.KClik	
+Yamaha	PLG100-XG	SFX	033 Shower	
+Yamaha	PLG100-XG	SFX	034 Thunder	
+Yamaha	PLG100-XG	SFX	035 Wind	
+Yamaha	PLG100-XG	SFX	036 Stream	
+Yamaha	PLG100-XG	SFX	037 Bubble	
+Yamaha	PLG100-XG	SFX	038 Feed	
+Yamaha	PLG100-XG	SFX	049 Dog	
+Yamaha	PLG100-XG	SFX	050 Horse	
+Yamaha	PLG100-XG	SFX	051 Tweet 2	
+Yamaha	PLG100-XG	SFX	055 Ghost	
+Yamaha	PLG100-XG	SFX	056 Maou	
+Yamaha	PLG100-XG	SFX	065 PhonCall	
+Yamaha	PLG100-XG	SFX	066 DoorSqek	
+Yamaha	PLG100-XG	SFX	067 DoorSlam	
+Yamaha	PLG100-XG	SFX	068 ScratchC	
+Yamaha	PLG100-XG	SFX	069 ScratchS	
+Yamaha	PLG100-XG	SFX	070 WindChim	
+Yamaha	PLG100-XG	SFX	071 Telphon2	
+Yamaha	PLG100-XG	SFX	081 CarEIgnt	
+Yamaha	PLG100-XG	SFX	082 CarTSqel	
+Yamaha	PLG100-XG	SFX	083 Car Pass	
+Yamaha	PLG100-XG	SFX	084 CarCrash	
+Yamaha	PLG100-XG	SFX	085 Siren	
+Yamaha	PLG100-XG	SFX	086 Train	
+Yamaha	PLG100-XG	SFX	087 JetPlane	
+Yamaha	PLG100-XG	SFX	088 Starship	
+Yamaha	PLG100-XG	SFX	089 Burst	
+Yamaha	PLG100-XG	SFX	090 Coaster	
+Yamaha	PLG100-XG	SFX	091 Submarin	
+Yamaha	PLG100-XG	SFX	097 Laugh	
+Yamaha	PLG100-XG	SFX	098 Scream	
+Yamaha	PLG100-XG	SFX	099 Punch	
+Yamaha	PLG100-XG	SFX	100 Heart	
+Yamaha	PLG100-XG	SFX	101 Footstep	
+Yamaha	PLG100-XG	SFX	113 MchinGun	
+Yamaha	PLG100-XG	SFX	114 LaserGun	
+Yamaha	PLG100-XG	SFX	115 Xplosion	
+Yamaha	PLG100-XG	SFX	116 Firework	

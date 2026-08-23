@@ -1,0 +1,1623 @@
+Yamaha	MU90	XG	000 001 GrandPno	
+Yamaha	MU90	XG	001 001 GrndPnoK	
+Yamaha	MU90	XG	018 001 MelloGrP	
+Yamaha	MU90	XG	040 001 PianoStr	
+Yamaha	MU90	XG	041 001 Dream	
+Yamaha	MU90	XG	000 002 BritePno	
+Yamaha	MU90	XG	001 002 BritPnoK	
+Yamaha	MU90	XG	000 003 El.Grand	
+Yamaha	MU90	XG	001 003 ElGrPnoK	
+Yamaha	MU90	XG	032 003 Det.CP80	
+Yamaha	MU90	XG	040 003 ElGrPno2	
+Yamaha	MU90	XG	041 003 ElGrPno3	
+Yamaha	MU90	XG	000 004 HnkyTonk	
+Yamaha	MU90	XG	001 004 HnkyTnkK	
+Yamaha	MU90	XG	000 005 E.Piano1	
+Yamaha	MU90	XG	001 005 El.Pno1K	
+Yamaha	MU90	XG	018 005 MelloEP1	
+Yamaha	MU90	XG	032 005 Chor.EP1	
+Yamaha	MU90	XG	040 005 HardEl.P	
+Yamaha	MU90	XG	045 005 VX El.P1	
+Yamaha	MU90	XG	064 005 60sEl.P1	
+Yamaha	MU90	XG	000 006 E.Piano2	
+Yamaha	MU90	XG	001 006 El.Pno2K	
+Yamaha	MU90	XG	032 006 Chor.EP2	
+Yamaha	MU90	XG	033 006 DX Hard	
+Yamaha	MU90	XG	034 006 DXLegend	
+Yamaha	MU90	XG	040 006 DX Phase	
+Yamaha	MU90	XG	041 006 DX+Analg	
+Yamaha	MU90	XG	042 006 DXKotoEP	
+Yamaha	MU90	XG	045 006 VX El.P2	
+Yamaha	MU90	XG	000 007 Harpsi	
+Yamaha	MU90	XG	001 007 Harpsi.K	
+Yamaha	MU90	XG	025 007 Harpsi.2	
+Yamaha	MU90	XG	035 007 Harpsi.3	
+Yamaha	MU90	XG	000 008 Clavi	
+Yamaha	MU90	XG	001 008 Clavi K	
+Yamaha	MU90	XG	027 008 ClaviWah	
+Yamaha	MU90	XG	064 008 PulseClv	
+Yamaha	MU90	XG	065 008 PierceCl	
+Yamaha	MU90	XG	000 009 Celesta	
+Yamaha	MU90	XG	000 010 Glocken	
+Yamaha	MU90	XG	000 011 MusicBox	
+Yamaha	MU90	XG	064 011 Orgel	
+Yamaha	MU90	XG	000 012 Vibes	
+Yamaha	MU90	XG	001 012 Vibes K	
+Yamaha	MU90	XG	045 012 HardVibe	
+Yamaha	MU90	XG	000 013 Marimba	
+Yamaha	MU90	XG	001 013 MarimbaK	
+Yamaha	MU90	XG	064 013 SineMrmb	
+Yamaha	MU90	XG	096 013 Balafon	
+Yamaha	MU90	XG	097 013 Balimba	
+Yamaha	MU90	XG	098 013 Log Drum	
+Yamaha	MU90	XG	000 014 Xylophon	
+Yamaha	MU90	XG	000 015 TubulBel	
+Yamaha	MU90	XG	096 015 ChrchBel	
+Yamaha	MU90	XG	097 015 Carillon	
+Yamaha	MU90	XG	000 016 Dulcimer	
+Yamaha	MU90	XG	035 016 Dulcimr2	
+Yamaha	MU90	XG	096 016 Cimbalom	
+Yamaha	MU90	XG	097 016 Santur	
+Yamaha	MU90	XG	000 017 DrawOrgn	
+Yamaha	MU90	XG	032 017 DetDrwOr	
+Yamaha	MU90	XG	033 017 60sDrOr1	
+Yamaha	MU90	XG	034 017 60sDrOr2	
+Yamaha	MU90	XG	035 017 70sDrOr1	
+Yamaha	MU90	XG	036 017 DrawOrg2	
+Yamaha	MU90	XG	037 017 60sDrOr3	
+Yamaha	MU90	XG	038 017 Even Bar	
+Yamaha	MU90	XG	040 017 16+2"2/3	
+Yamaha	MU90	XG	064 017 Organ Ba	
+Yamaha	MU90	XG	065 017 70sDrOr2	
+Yamaha	MU90	XG	066 017 CheezOrg	
+Yamaha	MU90	XG	067 017 DrawOrg3	
+Yamaha	MU90	XG	068 017 StdiumOr	
+Yamaha	MU90	XG	069 017 StdiumO2	
+Yamaha	MU90	XG	070 017 GospelOr	
+Yamaha	MU90	XG	071 017 ClkGsplO	
+Yamaha	MU90	XG	072 017 ChapelOr	
+Yamaha	MU90	XG	000 018 PercOrgn	
+Yamaha	MU90	XG	024 018 70sPcOr1	
+Yamaha	MU90	XG	032 018 DetPrcOr	
+Yamaha	MU90	XG	033 018 Lite Org	
+Yamaha	MU90	XG	037 018 PercOrg2	
+Yamaha	MU90	XG	064 018 JazOrgan	
+Yamaha	MU90	XG	065 018 WarmJzOr	
+Yamaha	MU90	XG	066 018 ClikOrgn	
+Yamaha	MU90	XG	000 019 RockOrgn	
+Yamaha	MU90	XG	064 019 RotaryOr	
+Yamaha	MU90	XG	065 019 SloRotar	
+Yamaha	MU90	XG	066 019 FstRotar	
+Yamaha	MU90	XG	000 020 ChrchOrg	
+Yamaha	MU90	XG	032 020 ChurOrg3	
+Yamaha	MU90	XG	035 020 ChurOrg2	
+Yamaha	MU90	XG	040 020 NotreDam	
+Yamaha	MU90	XG	064 020 OrgFlute	
+Yamaha	MU90	XG	065 020 TrmOrgFl	
+Yamaha	MU90	XG	000 021 ReedOrgn	
+Yamaha	MU90	XG	040 021 Puff Org	
+Yamaha	MU90	XG	000 022 Acordion	
+Yamaha	MU90	XG	032 022 AccordIt	
+Yamaha	MU90	XG	000 023 Harmnica	
+Yamaha	MU90	XG	032 023 Harmo. 2	
+Yamaha	MU90	XG	000 024 TangoAcd	
+Yamaha	MU90	XG	064 024 TngoAcd2	
+Yamaha	MU90	XG	000 025 NylonGtr	
+Yamaha	MU90	XG	016 025 NylonGt2	
+Yamaha	MU90	XG	025 025 NylonGt3	
+Yamaha	MU90	XG	043 025 VelGtHrm	
+Yamaha	MU90	XG	096 025 Ukulele	
+Yamaha	MU90	XG	000 026 SteelGtr	
+Yamaha	MU90	XG	016 026 SteelGt2	
+Yamaha	MU90	XG	035 026 12StrGtr	
+Yamaha	MU90	XG	040 026 Nyln&Stl	
+Yamaha	MU90	XG	041 026 Stl&Body	
+Yamaha	MU90	XG	096 026 Mandolin	
+Yamaha	MU90	XG	000 027 Jazz Gtr	
+Yamaha	MU90	XG	018 027 MelloGtr	
+Yamaha	MU90	XG	032 027 Jazz Amp	
+Yamaha	MU90	XG	096 027 PdlSteel	
+Yamaha	MU90	XG	000 028 CleanGtr	
+Yamaha	MU90	XG	032 028 ChorusGt	
+Yamaha	MU90	XG	064 028 CleanGt2	
+Yamaha	MU90	XG	065 028 MidT.Gtr	
+Yamaha	MU90	XG	066 028 MidTGtSt	
+Yamaha	MU90	XG	067 028 NasalGtr	
+Yamaha	MU90	XG	068 028 NaslGtSt	
+Yamaha	MU90	XG	000 029 Mute Gtr	
+Yamaha	MU90	XG	040 029 FunkGtr1	
+Yamaha	MU90	XG	041 029 MuteStlG	
+Yamaha	MU90	XG	043 029 FunkGtr2	
+Yamaha	MU90	XG	045 029 Jazz Man	
+Yamaha	MU90	XG	096 029 Mu.DstGt	
+Yamaha	MU90	XG	000 030 Ovrdrive	
+Yamaha	MU90	XG	043 030 Gt.Pinch	
+Yamaha	MU90	XG	000 031 Dist.Gtr	
+Yamaha	MU90	XG	012 031 DstRthmG	
+Yamaha	MU90	XG	024 031 DistGtr2	
+Yamaha	MU90	XG	035 031 DistGtr3	
+Yamaha	MU90	XG	036 031 PowerGt2	
+Yamaha	MU90	XG	037 031 PowerGt1	
+Yamaha	MU90	XG	038 031 Dst.5ths	
+Yamaha	MU90	XG	040 031 FeedbkGt	
+Yamaha	MU90	XG	041 031 FeedbGt2	
+Yamaha	MU90	XG	043 031 RckRthm2	
+Yamaha	MU90	XG	045 031 RckRthm1	
+Yamaha	MU90	XG	000 032 GtrHarmo	
+Yamaha	MU90	XG	064 032 AcoHarmo	
+Yamaha	MU90	XG	065 032 GtFeedbk	
+Yamaha	MU90	XG	066 032 GtrHrmo2	
+Yamaha	MU90	XG	000 033 Aco.Bass	
+Yamaha	MU90	XG	040 033 JazzRthm	
+Yamaha	MU90	XG	045 033 VXUprght	
+Yamaha	MU90	XG	000 034 FngrBass	
+Yamaha	MU90	XG	018 034 FingrDrk	
+Yamaha	MU90	XG	027 034 FlangeBa	
+Yamaha	MU90	XG	040 034 Ba&DstEG	
+Yamaha	MU90	XG	043 034 FngrSlap	
+Yamaha	MU90	XG	045 034 FngBass2	
+Yamaha	MU90	XG	064 034 Jazzy Ba	
+Yamaha	MU90	XG	065 034 Mod.Bass	
+Yamaha	MU90	XG	000 035 PickBass	
+Yamaha	MU90	XG	028 035 MutePkBa	
+Yamaha	MU90	XG	000 036 Fretless	
+Yamaha	MU90	XG	032 036 Fretles2	
+Yamaha	MU90	XG	033 036 Fretles3	
+Yamaha	MU90	XG	034 036 Fretles4	
+Yamaha	MU90	XG	096 036 SynFretl	
+Yamaha	MU90	XG	097 036 SmthFrtl	
+Yamaha	MU90	XG	000 037 SlapBas1	
+Yamaha	MU90	XG	027 037 ResoSlap	
+Yamaha	MU90	XG	032 037 PunchThm	
+Yamaha	MU90	XG	064 037 Slapper	
+Yamaha	MU90	XG	065 037 Thum&Slp	
+Yamaha	MU90	XG	000 038 SlapBas2	
+Yamaha	MU90	XG	043 038 VeloSlap	
+Yamaha	MU90	XG	000 039 SynBass1	
+Yamaha	MU90	XG	018 039 SynBa1Dk	
+Yamaha	MU90	XG	020 039 FastResB	
+Yamaha	MU90	XG	024 039 AcidBass	
+Yamaha	MU90	XG	027 039 ResoBass	
+Yamaha	MU90	XG	035 039 Clv Bass	
+Yamaha	MU90	XG	040 039 TechnoBa	
+Yamaha	MU90	XG	064 039 Orbiter	
+Yamaha	MU90	XG	065 039 Sqr.Bass	
+Yamaha	MU90	XG	066 039 RubberBa	
+Yamaha	MU90	XG	067 039 Fish	
+Yamaha	MU90	XG	068 039 HardReso	
+Yamaha	MU90	XG	096 039 Hammer	
+Yamaha	MU90	XG	000 040 SynBass2	
+Yamaha	MU90	XG	006 040 MelloSB1	
+Yamaha	MU90	XG	012 040 Seq Bass	
+Yamaha	MU90	XG	018 040 ClkSynBa	
+Yamaha	MU90	XG	019 040 SynBa2Dk	
+Yamaha	MU90	XG	032 040 SmthSynB	
+Yamaha	MU90	XG	040 040 ModulrBa	
+Yamaha	MU90	XG	041 040 DX Bass	
+Yamaha	MU90	XG	064 040 X WireBa	
+Yamaha	MU90	XG	065 040 AtkPulse	
+Yamaha	MU90	XG	066 040 CS Light	
+Yamaha	MU90	XG	067 040 MetlBass	
+Yamaha	MU90	XG	000 041 Violin	
+Yamaha	MU90	XG	008 041 Slow Vln	
+Yamaha	MU90	XG	000 042 Viola	
+Yamaha	MU90	XG	000 043 Cello	
+Yamaha	MU90	XG	000 044 Contrabs	
+Yamaha	MU90	XG	000 045 Trem.Str	
+Yamaha	MU90	XG	008 045 SlwTrStr	
+Yamaha	MU90	XG	040 045 Susp.Str	
+Yamaha	MU90	XG	000 046 Pizz.Str	
+Yamaha	MU90	XG	000 047 Harp	
+Yamaha	MU90	XG	040 047 YangChin	
+Yamaha	MU90	XG	000 048 Timpani	
+Yamaha	MU90	XG	000 049 Strings1	
+Yamaha	MU90	XG	003 049 S.Strngs	
+Yamaha	MU90	XG	008 049 Slow Str	
+Yamaha	MU90	XG	024 049 Arco Str	
+Yamaha	MU90	XG	035 049 60sStrng	
+Yamaha	MU90	XG	040 049 Orchestr	
+Yamaha	MU90	XG	041 049 Orchstr2	
+Yamaha	MU90	XG	042 049 TremOrch	
+Yamaha	MU90	XG	045 049 Velo.Str	
+Yamaha	MU90	XG	000 050 Strings2	
+Yamaha	MU90	XG	003 050 S.SlwStr	
+Yamaha	MU90	XG	008 050 LegatoSt	
+Yamaha	MU90	XG	040 050 Warm Str	
+Yamaha	MU90	XG	041 050 Kingdom	
+Yamaha	MU90	XG	064 050 70s Str	
+Yamaha	MU90	XG	065 050 Strings3	
+Yamaha	MU90	XG	000 051 Syn Str1	
+Yamaha	MU90	XG	027 051 Reso Str	
+Yamaha	MU90	XG	035 051 Syn Str3	
+Yamaha	MU90	XG	040 051 GrandPad	
+Yamaha	MU90	XG	064 051 Syn Str4	
+Yamaha	MU90	XG	065 051 Syn Str5	
+Yamaha	MU90	XG	000 052 Syn Str2	
+Yamaha	MU90	XG	000 053 ChoirAah	
+Yamaha	MU90	XG	003 053 S.Choir	
+Yamaha	MU90	XG	016 053 Ch.Aahs2	
+Yamaha	MU90	XG	032 053 MelChoir	
+Yamaha	MU90	XG	040 053 ChoirStr	
+Yamaha	MU90	XG	064 053 StrngAah	
+Yamaha	MU90	XG	065 053 Male Aah	
+Yamaha	MU90	XG	000 054 VoiceOoh	
+Yamaha	MU90	XG	064 054 VoiceDoo	
+Yamaha	MU90	XG	096 054 VoiceHmn	
+Yamaha	MU90	XG	000 055 SynVoice	
+Yamaha	MU90	XG	040 055 SyVoice2	
+Yamaha	MU90	XG	041 055 Choral	
+Yamaha	MU90	XG	064 055 AnaVoice	
+Yamaha	MU90	XG	000 056 Orch.Hit	
+Yamaha	MU90	XG	012 056 LoFi Hit	
+Yamaha	MU90	XG	035 056 OrchHit2	
+Yamaha	MU90	XG	064 056 Impact	
+Yamaha	MU90	XG	065 056 BrssStab	
+Yamaha	MU90	XG	066 056 DoublHit	
+Yamaha	MU90	XG	067 056 BrStab80	
+Yamaha	MU90	XG	068 056 Bass Hit	
+Yamaha	MU90	XG	069 056 BassHit+	
+Yamaha	MU90	XG	070 056 6th Hit	
+Yamaha	MU90	XG	071 056 6thHit +	
+Yamaha	MU90	XG	072 056 Euro Hit	
+Yamaha	MU90	XG	073 056 EuroHit+	
+Yamaha	MU90	XG	000 057 Trumpet	
+Yamaha	MU90	XG	016 057 Trumpet2	
+Yamaha	MU90	XG	017 057 BriteTrp	
+Yamaha	MU90	XG	032 057 Warm Trp	
+Yamaha	MU90	XG	064 057 Dark Trp	
+Yamaha	MU90	XG	065 057 DrkTpSft	
+Yamaha	MU90	XG	096 057 FluglHrn	
+Yamaha	MU90	XG	000 058 Trombone	
+Yamaha	MU90	XG	018 058 Trmbone2	
+Yamaha	MU90	XG	064 058 BrghtTrb	
+Yamaha	MU90	XG	065 058 MellowTb	
+Yamaha	MU90	XG	000 059 Tuba	
+Yamaha	MU90	XG	016 059 Tuba 2	
+Yamaha	MU90	XG	000 060 Mute Trp	
+Yamaha	MU90	XG	064 060 MuteTrp2	
+Yamaha	MU90	XG	000 061 Fr. Horn	
+Yamaha	MU90	XG	006 061 FrHrSolo	
+Yamaha	MU90	XG	032 061 FrHorn 2	
+Yamaha	MU90	XG	037 061 HornOrch	
+Yamaha	MU90	XG	000 062 BrssSect	
+Yamaha	MU90	XG	003 062 BrssSec3	
+Yamaha	MU90	XG	014 062 SfrzndBr	
+Yamaha	MU90	XG	018 062 MildBrss	
+Yamaha	MU90	XG	035 062 Tp&TbSec	
+Yamaha	MU90	XG	036 062 Tp&TbSc2	
+Yamaha	MU90	XG	039 062 BrssFall	
+Yamaha	MU90	XG	040 062 BrssSec2	
+Yamaha	MU90	XG	041 062 Hi Brass	
+Yamaha	MU90	XG	042 062 MelloBrs	
+Yamaha	MU90	XG	000 063 SynBrss1	
+Yamaha	MU90	XG	012 063 Quack Br	
+Yamaha	MU90	XG	020 063 RezSynBr	
+Yamaha	MU90	XG	024 063 PolyBrss	
+Yamaha	MU90	XG	027 063 SynBrss3	
+Yamaha	MU90	XG	032 063 JumpBrss	
+Yamaha	MU90	XG	040 063 SyBrsSub	
+Yamaha	MU90	XG	045 063 AnVelBr1	
+Yamaha	MU90	XG	064 063 AnaBrss1	
+Yamaha	MU90	XG	000 064 SynBrss2	
+Yamaha	MU90	XG	018 064 Soft Brs	
+Yamaha	MU90	XG	040 064 SynBrss4	
+Yamaha	MU90	XG	041 064 ChoirBrs	
+Yamaha	MU90	XG	045 064 AnVelBr2	
+Yamaha	MU90	XG	064 064 AnaBrss2	
+Yamaha	MU90	XG	000 065 SprnoSax	
+Yamaha	MU90	XG	000 066 Alto Sax	
+Yamaha	MU90	XG	040 066 Sax Sect	
+Yamaha	MU90	XG	043 066 HyprAlto	
+Yamaha	MU90	XG	000 067 TenorSax	
+Yamaha	MU90	XG	040 067 BrthTnSx	
+Yamaha	MU90	XG	041 067 SoftTenr	
+Yamaha	MU90	XG	064 067 TnrSax 2	
+Yamaha	MU90	XG	000 068 Bari.Sax	
+Yamaha	MU90	XG	000 069 Oboe	
+Yamaha	MU90	XG	000 070 Eng.Horn	
+Yamaha	MU90	XG	000 071 Bassoon	
+Yamaha	MU90	XG	000 072 Clarinet	
+Yamaha	MU90	XG	096 072 BassClar	
+Yamaha	MU90	XG	000 073 Piccolo	
+Yamaha	MU90	XG	000 074 Flute	
+Yamaha	MU90	XG	000 075 Recorder	
+Yamaha	MU90	XG	000 076 PanFlute	
+Yamaha	MU90	XG	064 076 PanFlut2	
+Yamaha	MU90	XG	096 076 Kawala	
+Yamaha	MU90	XG	000 077 Bottle	
+Yamaha	MU90	XG	000 078 Shakhchi	
+Yamaha	MU90	XG	000 079 Whistle	
+Yamaha	MU90	XG	000 080 Ocarina	
+Yamaha	MU90	XG	000 081 SquareLd	
+Yamaha	MU90	XG	006 081 SquarLd2	
+Yamaha	MU90	XG	008 081 LMSquare	
+Yamaha	MU90	XG	018 081 Hollow	
+Yamaha	MU90	XG	019 081 Shroud	
+Yamaha	MU90	XG	035 081 2 Osc	
+Yamaha	MU90	XG	064 081 Mellow	
+Yamaha	MU90	XG	065 081 SoloSine	
+Yamaha	MU90	XG	066 081 SineLead	
+Yamaha	MU90	XG	067 081 Pulse Ld	
+Yamaha	MU90	XG	068 081 SyncLead	
+Yamaha	MU90	XG	000 082 Saw Ld	
+Yamaha	MU90	XG	006 082 Saw Ld 2	
+Yamaha	MU90	XG	008 082 ThickSaw	
+Yamaha	MU90	XG	018 082 Dyna Saw	
+Yamaha	MU90	XG	019 082 Digi Saw	
+Yamaha	MU90	XG	020 082 Big Lead	
+Yamaha	MU90	XG	024 082 HeavySyn	
+Yamaha	MU90	XG	025 082 WaspySyn	
+Yamaha	MU90	XG	026 082 Mondo	
+Yamaha	MU90	XG	027 082 RezzySaw	
+Yamaha	MU90	XG	032 082 DoublSaw	
+Yamaha	MU90	XG	035 082 Toy Lead	
+Yamaha	MU90	XG	036 082 Dim Saw	
+Yamaha	MU90	XG	040 082 PulseSaw	
+Yamaha	MU90	XG	041 082 Dr.Lead	
+Yamaha	MU90	XG	045 082 VeloLead	
+Yamaha	MU90	XG	064 082 Digger	
+Yamaha	MU90	XG	096 082 Seq Ana.	
+Yamaha	MU90	XG	000 083 CaliopLd	
+Yamaha	MU90	XG	064 083 Vent Syn	
+Yamaha	MU90	XG	065 083 PureLead	
+Yamaha	MU90	XG	000 084 Chiff Ld	
+Yamaha	MU90	XG	064 084 Rubby	
+Yamaha	MU90	XG	065 084 HardSync	
+Yamaha	MU90	XG	000 085 CharanLd	
+Yamaha	MU90	XG	064 085 DistLead	
+Yamaha	MU90	XG	065 085 WireLead	
+Yamaha	MU90	XG	066 085 SynPluck	
+Yamaha	MU90	XG	000 086 Voice Ld	
+Yamaha	MU90	XG	024 086 SynthAah	
+Yamaha	MU90	XG	064 086 Vox Lead	
+Yamaha	MU90	XG	065 086 Br.Layer	
+Yamaha	MU90	XG	000 087 Fifth Ld	
+Yamaha	MU90	XG	035 087 Big Five	
+Yamaha	MU90	XG	000 088 Bass&Ld	
+Yamaha	MU90	XG	016 088 Big&Low	
+Yamaha	MU90	XG	064 088 Fat&Prky	
+Yamaha	MU90	XG	065 088 Soft Wrl	
+Yamaha	MU90	XG	000 089 NewAgePd	
+Yamaha	MU90	XG	064 089 Fantasy	
+Yamaha	MU90	XG	000 090 Warm Pad	
+Yamaha	MU90	XG	016 090 ThickPad	
+Yamaha	MU90	XG	017 090 Soft Pad	
+Yamaha	MU90	XG	018 090 Sine Pad	
+Yamaha	MU90	XG	064 090 Horn Pad	
+Yamaha	MU90	XG	065 090 RotarStr	
+Yamaha	MU90	XG	000 091 PolySyPd	
+Yamaha	MU90	XG	064 091 PolyPd80	
+Yamaha	MU90	XG	065 091 ClickPad	
+Yamaha	MU90	XG	066 091 Ana. Pad	
+Yamaha	MU90	XG	067 091 SquarPad	
+Yamaha	MU90	XG	068 091 Snow Pad	
+Yamaha	MU90	XG	000 092 ChoirPad	
+Yamaha	MU90	XG	064 092 Heaven	
+Yamaha	MU90	XG	065 092 Lite Pad	
+Yamaha	MU90	XG	066 092 Itopia	
+Yamaha	MU90	XG	067 092 CC Pad	
+Yamaha	MU90	XG	068 092 CosmicPd	
+Yamaha	MU90	XG	000 093 BowedPad	
+Yamaha	MU90	XG	064 093 Glacier	
+Yamaha	MU90	XG	065 093 GlassPad	
+Yamaha	MU90	XG	000 094 MetalPad	
+Yamaha	MU90	XG	064 094 Tine Pad	
+Yamaha	MU90	XG	065 094 Pan Pad	
+Yamaha	MU90	XG	000 095 Halo Pad	
+Yamaha	MU90	XG	000 096 SweepPad	
+Yamaha	MU90	XG	020 096 Shwimmer	
+Yamaha	MU90	XG	027 096 Converge	
+Yamaha	MU90	XG	064 096 PolarPad	
+Yamaha	MU90	XG	065 096 Sweepy	
+Yamaha	MU90	XG	066 096 Celstial	
+Yamaha	MU90	XG	000 097 Rain	
+Yamaha	MU90	XG	045 097 ClaviPad	
+Yamaha	MU90	XG	064 097 HrmoRain	
+Yamaha	MU90	XG	065 097 AfrcnWnd	
+Yamaha	MU90	XG	066 097 Carib	
+Yamaha	MU90	XG	000 098 SoundTrk	
+Yamaha	MU90	XG	027 098 Prologue	
+Yamaha	MU90	XG	064 098 Ancestrl	
+Yamaha	MU90	XG	065 098 Rave	
+Yamaha	MU90	XG	066 098 Fairy	
+Yamaha	MU90	XG	000 099 Crystal	
+Yamaha	MU90	XG	012 099 SynDrCmp	
+Yamaha	MU90	XG	014 099 Popcorn	
+Yamaha	MU90	XG	018 099 TinyBell	
+Yamaha	MU90	XG	035 099 RndGlock	
+Yamaha	MU90	XG	040 099 GlockChi	
+Yamaha	MU90	XG	041 099 ClearBel	
+Yamaha	MU90	XG	042 099 ChorBell	
+Yamaha	MU90	XG	064 099 SynMalet	
+Yamaha	MU90	XG	065 099 SftCryst	
+Yamaha	MU90	XG	066 099 LoudGlok	
+Yamaha	MU90	XG	067 099 ChrstBel	
+Yamaha	MU90	XG	068 099 VibeBell	
+Yamaha	MU90	XG	069 099 DigiBell	
+Yamaha	MU90	XG	070 099 AirBells	
+Yamaha	MU90	XG	071 099 BellHarp	
+Yamaha	MU90	XG	072 099 Gamelmba	
+Yamaha	MU90	XG	000 100 Atmosphr	
+Yamaha	MU90	XG	018 100 WarmAtms	
+Yamaha	MU90	XG	019 100 HollwRls	
+Yamaha	MU90	XG	040 100 Nylon EP	
+Yamaha	MU90	XG	064 100 NylnHarp	
+Yamaha	MU90	XG	065 100 Harp Vox	
+Yamaha	MU90	XG	066 100 AtmosPad	
+Yamaha	MU90	XG	067 100 Planet	
+Yamaha	MU90	XG	000 101 Bright	
+Yamaha	MU90	XG	064 101 FantaBel	
+Yamaha	MU90	XG	096 101 Smokey	
+Yamaha	MU90	XG	000 102 Goblins	
+Yamaha	MU90	XG	064 102 GobSynth	
+Yamaha	MU90	XG	065 102 Creeper	
+Yamaha	MU90	XG	066 102 Ring Pad	
+Yamaha	MU90	XG	067 102 Ritual	
+Yamaha	MU90	XG	068 102 ToHeaven	
+Yamaha	MU90	XG	069 102 MilkyWay	
+Yamaha	MU90	XG	070 102 Night	
+Yamaha	MU90	XG	071 102 Glisten	
+Yamaha	MU90	XG	072 102 Puffy	
+Yamaha	MU90	XG	096 102 BelChoir	
+Yamaha	MU90	XG	097 102 Dharma	
+Yamaha	MU90	XG	000 103 Echoes	
+Yamaha	MU90	XG	008 103 Echoes 2	
+Yamaha	MU90	XG	014 103 Echo Pan	
+Yamaha	MU90	XG	064 103 EchoBell	
+Yamaha	MU90	XG	065 103 Big Pan	
+Yamaha	MU90	XG	066 103 SynPiano	
+Yamaha	MU90	XG	067 103 Creation	
+Yamaha	MU90	XG	068 103 StarDust	
+Yamaha	MU90	XG	069 103 Reso&Pan	
+Yamaha	MU90	XG	000 104 Sci-Fi	
+Yamaha	MU90	XG	064 104 Starz	
+Yamaha	MU90	XG	065 104 Odin	
+Yamaha	MU90	XG	000 105 Sitar	
+Yamaha	MU90	XG	032 105 DetSitar	
+Yamaha	MU90	XG	035 105 Sitar 2	
+Yamaha	MU90	XG	096 105 Tambra	
+Yamaha	MU90	XG	097 105 Tamboura	
+Yamaha	MU90	XG	000 106 Banjo	
+Yamaha	MU90	XG	028 106 MuteBnjo	
+Yamaha	MU90	XG	096 106 Rabab	
+Yamaha	MU90	XG	097 106 Gopichnt	
+Yamaha	MU90	XG	098 106 Oud	
+Yamaha	MU90	XG	000 107 Shamisen	
+Yamaha	MU90	XG	096 107 Tsugaru	
+Yamaha	MU90	XG	000 108 Koto	
+Yamaha	MU90	XG	096 108 Taisho-k	
+Yamaha	MU90	XG	097 108 Kanoon	
+Yamaha	MU90	XG	000 109 Kalimba	
+Yamaha	MU90	XG	064 109 BigKalim	
+Yamaha	MU90	XG	000 110 Bagpipe	
+Yamaha	MU90	XG	000 111 Fiddle	
+Yamaha	MU90	XG	000 112 Shanai	
+Yamaha	MU90	XG	064 112 Shanai 2	
+Yamaha	MU90	XG	096 112 Pungi	
+Yamaha	MU90	XG	097 112 Hichriki	
+Yamaha	MU90	XG	000 113 TnklBell	
+Yamaha	MU90	XG	096 113 Bonang	
+Yamaha	MU90	XG	097 113 Altair	
+Yamaha	MU90	XG	098 113 Gamelan	
+Yamaha	MU90	XG	099 113 S.Gamlan	
+Yamaha	MU90	XG	100 113 Rama Cym	
+Yamaha	MU90	XG	101 113 AsianBel	
+Yamaha	MU90	XG	000 114 Agogo	
+Yamaha	MU90	XG	096 114 Atrigane	
+Yamaha	MU90	XG	000 115 SteelDrm	
+Yamaha	MU90	XG	096 115 Tablas	
+Yamaha	MU90	XG	097 115 GlasPerc	
+Yamaha	MU90	XG	098 115 ThaiBell	
+Yamaha	MU90	XG	000 116 Woodblok	
+Yamaha	MU90	XG	096 116 Castanet	
+Yamaha	MU90	XG	000 117 TaikoDrm	
+Yamaha	MU90	XG	096 117 Gr.Cassa	
+Yamaha	MU90	XG	000 118 MelodTom	
+Yamaha	MU90	XG	064 118 Mel Tom2	
+Yamaha	MU90	XG	065 118 Real Tom	
+Yamaha	MU90	XG	066 118 Rock Tom	
+Yamaha	MU90	XG	000 119 Syn Drum	
+Yamaha	MU90	XG	064 119 Ana Tom	
+Yamaha	MU90	XG	065 119 ElecPerc	
+Yamaha	MU90	XG	000 120 RevCymbl	
+Yamaha	MU90	XG	064 120 Rev Cym2	
+Yamaha	MU90	XG	096 120 RevSnar1	
+Yamaha	MU90	XG	097 120 RevSnar2	
+Yamaha	MU90	XG	098 120 RevKick1	
+Yamaha	MU90	XG	099 120 RevConBD	
+Yamaha	MU90	XG	100 120 Rev Tom1	
+Yamaha	MU90	XG	101 120 Rev Tom2	
+Yamaha	MU90	XG	000 121 FretNoiz	
+Yamaha	MU90	XG	000 122 BrthNoiz	
+Yamaha	MU90	XG	000 123 Seashore	
+Yamaha	MU90	XG	000 124 Tweet	
+Yamaha	MU90	XG	000 125 Telphone	
+Yamaha	MU90	XG	000 126 Helicptr	
+Yamaha	MU90	XG	000 127 Applause	
+Yamaha	MU90	XG	000 128 Gunshot	
+Yamaha	MU90	XG -> Drum Kit	127 001 StandKit	
+Yamaha	MU90	XG -> Drum Kit	127 002 StndKit2	
+Yamaha	MU90	XG -> Drum Kit	127 003 Dry Kit	
+Yamaha	MU90	XG -> Drum Kit	127 004 Brilliant Kit	to-do: get name on hardware (called BriteKit on mu2k)
+Yamaha	MU90	XG -> Drum Kit	127 009 Room Kit	
+Yamaha	MU90	XG -> Drum Kit	127 010 DarkRKit	
+Yamaha	MU90	XG -> Drum Kit	127 017 Rock Kit	
+Yamaha	MU90	XG -> Drum Kit	127 018 RockKit2	
+Yamaha	MU90	XG -> Drum Kit	127 025 ElctrKit	
+Yamaha	MU90	XG -> Drum Kit	127 026 AnalgKit	
+Yamaha	MU90	XG -> Drum Kit	127 027 AnlgKit2	
+Yamaha	MU90	XG -> Drum Kit	127 028 DanceKit	
+Yamaha	MU90	XG -> Drum Kit	127 029 HipHpKit	
+Yamaha	MU90	XG -> Drum Kit	127 030 JunglKit	
+Yamaha	MU90	XG -> Drum Kit	127 033 Jazz Kit	
+Yamaha	MU90	XG -> Drum Kit	127 034 JazzKit2	
+Yamaha	MU90	XG -> Drum Kit	127 041 BrushKit	
+Yamaha	MU90	XG -> Drum Kit	127 049 SymphKit	
+Yamaha	MU90	XG -> Drum Kit	126 001 SFXKit 1	
+Yamaha	MU90	XG -> Drum Kit	126 002 SFXKit 2	
+Yamaha	MU90	SFX	001 CuttngNz	
+Yamaha	MU90	SFX	002 CttngNz2	
+Yamaha	MU90	SFX	003 DstCutNz	
+Yamaha	MU90	SFX	004 Str Slap	
+Yamaha	MU90	SFX	005 B.Slide	
+Yamaha	MU90	SFX	006 P.Scrape	
+Yamaha	MU90	SFX	017 Fl.KClik	
+Yamaha	MU90	SFX	033 Shower	
+Yamaha	MU90	SFX	034 Thunder	
+Yamaha	MU90	SFX	035 Wind	
+Yamaha	MU90	SFX	036 Stream	
+Yamaha	MU90	SFX	037 Bubble	
+Yamaha	MU90	SFX	038 Feed	
+Yamaha	MU90	SFX	049 Dog	
+Yamaha	MU90	SFX	050 Horse	
+Yamaha	MU90	SFX	051 Tweet 2	
+Yamaha	MU90	SFX	052 Kitty	
+Yamaha	MU90	SFX	053 Growl	
+Yamaha	MU90	SFX	054 Haunted	
+Yamaha	MU90	SFX	055 Ghost	
+Yamaha	MU90	SFX	056 Maou	
+Yamaha	MU90	SFX	065 Call	
+Yamaha	MU90	SFX	066 DoorSqek	
+Yamaha	MU90	SFX	067 DoorSlam	
+Yamaha	MU90	SFX	068 ScratchC	
+Yamaha	MU90	SFX	069 ScratchS	
+Yamaha	MU90	SFX	070 WindChim	
+Yamaha	MU90	SFX	071 Telphon2	
+Yamaha	MU90	SFX	081 Ignition	
+Yamaha	MU90	SFX	082 Squeal	
+Yamaha	MU90	SFX	083 Exhaust	
+Yamaha	MU90	SFX	084 Crash	
+Yamaha	MU90	SFX	085 Siren	
+Yamaha	MU90	SFX	086 Train	
+Yamaha	MU90	SFX	087 JetPlane	
+Yamaha	MU90	SFX	088 Starship	
+Yamaha	MU90	SFX	089 Burst	
+Yamaha	MU90	SFX	090 Coaster	
+Yamaha	MU90	SFX	091 Submarin	
+Yamaha	MU90	SFX	097 Laugh	
+Yamaha	MU90	SFX	098 Scream	
+Yamaha	MU90	SFX	099 Punch	
+Yamaha	MU90	SFX	100 Heart	
+Yamaha	MU90	SFX	101 Footstep	
+Yamaha	MU90	SFX	102 Applaus2	
+Yamaha	MU90	SFX	113 MchinGun	
+Yamaha	MU90	SFX	114 LaserGun	
+Yamaha	MU90	SFX	115 Xplosion	
+Yamaha	MU90	SFX	116 Firework	
+Yamaha	MU90	TG300B	000 001 GrandPno	
+Yamaha	MU90	TG300B	008 001 GrndPnoK	
+Yamaha	MU90	TG300B	016 001 MelloGrP	
+Yamaha	MU90	TG300B	126 001 A-Piano1	
+Yamaha	MU90	TG300B	127 001 a.piano1	
+Yamaha	MU90	TG300B	000 002 BritePno	
+Yamaha	MU90	TG300B	008 002 BritPnoK	
+Yamaha	MU90	TG300B	126 002 A-Piano2	
+Yamaha	MU90	TG300B	127 002 a.piano2	
+Yamaha	MU90	TG300B	000 003 El.Grand	
+Yamaha	MU90	TG300B	001 003 ElGrPno	
+Yamaha	MU90	TG300B	002 003 ElGrPno3	
+Yamaha	MU90	TG300B	008 003 ElGrPnoK	
+Yamaha	MU90	TG300B	126 003 A-Piano3	
+Yamaha	MU90	TG300B	127 003 a.piano3	
+Yamaha	MU90	TG300B	000 004 HnkyTonk	
+Yamaha	MU90	TG300B	008 004 HnkyTnkK	
+Yamaha	MU90	TG300B	126 004 A-Piano4	
+Yamaha	MU90	TG300B	127 004 e.piano1	
+Yamaha	MU90	TG300B	000 005 E.Piano1	
+Yamaha	MU90	TG300B	008 005 Chor.EP1	
+Yamaha	MU90	TG300B	016 005 VX El.P1	
+Yamaha	MU90	TG300B	024 005 60sEl.P1	
+Yamaha	MU90	TG300B	025 005 HardEl.P	
+Yamaha	MU90	TG300B	026 005 MelloEP1	
+Yamaha	MU90	TG300B	032 005 El.Pno1K	
+Yamaha	MU90	TG300B	126 005 A-Piano5	
+Yamaha	MU90	TG300B	127 005 e.piano2	
+Yamaha	MU90	TG300B	000 006 E.Piano2	
+Yamaha	MU90	TG300B	008 006 Chor.EP2	
+Yamaha	MU90	TG300B	016 006 VX El.P2	
+Yamaha	MU90	TG300B	024 006 DX Hard	
+Yamaha	MU90	TG300B	032 006 El.Pno2K	
+Yamaha	MU90	TG300B	126 006 A-Piano6	
+Yamaha	MU90	TG300B	127 006 e.piano3	
+Yamaha	MU90	TG300B	000 007 Harpsi.	
+Yamaha	MU90	TG300B	008 007 Harpsi.3	
+Yamaha	MU90	TG300B	016 007 Harpsi.K	
+Yamaha	MU90	TG300B	024 007 Harpsi.2	
+Yamaha	MU90	TG300B	126 007 A-Piano7	
+Yamaha	MU90	TG300B	127 007 e.piano4	
+Yamaha	MU90	TG300B	000 008 Clavi	
+Yamaha	MU90	TG300B	008 008 Clavi K	
+Yamaha	MU90	TG300B	126 008 E-Piano1	
+Yamaha	MU90	TG300B	127 008 hnkytnk	
+Yamaha	MU90	TG300B	000 009 Celesta	
+Yamaha	MU90	TG300B	126 009 E-Piano2	
+Yamaha	MU90	TG300B	127 009 e.organ1	
+Yamaha	MU90	TG300B	000 010 Glocken	
+Yamaha	MU90	TG300B	126 010 E-Piano3	
+Yamaha	MU90	TG300B	127 010 e.organ2	
+Yamaha	MU90	TG300B	000 011 MusicBox	
+Yamaha	MU90	TG300B	126 011 A-Guitr1	
+Yamaha	MU90	TG300B	127 011 e.organ3	
+Yamaha	MU90	TG300B	000 012 Vibes	
+Yamaha	MU90	TG300B	001 012 HardVibe	
+Yamaha	MU90	TG300B	008 012 Vibes K	
+Yamaha	MU90	TG300B	126 012 A-Guitr2	
+Yamaha	MU90	TG300B	127 012 e.organ4	
+Yamaha	MU90	TG300B	000 013 Marimba	
+Yamaha	MU90	TG300B	008 013 MarimbaK	
+Yamaha	MU90	TG300B	016 013 Balafon	
+Yamaha	MU90	TG300B	017 013 Balimba	
+Yamaha	MU90	TG300B	024 013 LogDrum	
+Yamaha	MU90	TG300B	126 013 A-Guitr3	
+Yamaha	MU90	TG300B	127 013 pipeorg1	
+Yamaha	MU90	TG300B	000 014 Xylophon	
+Yamaha	MU90	TG300B	126 014 E-Guitr1	
+Yamaha	MU90	TG300B	127 014 pipeorg2	
+Yamaha	MU90	TG300B	000 015 TubulBel	
+Yamaha	MU90	TG300B	008 015 ChrchBel	
+Yamaha	MU90	TG300B	009 015 Carillon	
+Yamaha	MU90	TG300B	126 015 E-Guitr2	
+Yamaha	MU90	TG300B	127 015 pipeorg3	
+Yamaha	MU90	TG300B	000 016 Dulcimer	
+Yamaha	MU90	TG300B	001 016 Dulcimr2	
+Yamaha	MU90	TG300B	008 016 Cimbalom	
+Yamaha	MU90	TG300B	126 016 Slap-1	
+Yamaha	MU90	TG300B	127 016 acordion	
+Yamaha	MU90	TG300B	000 017 DrawOrgn	
+Yamaha	MU90	TG300B	001 017 70sDrOr1	
+Yamaha	MU90	TG300B	008 017 DetDrwOr	
+Yamaha	MU90	TG300B	009 017 70sDrOr2	
+Yamaha	MU90	TG300B	016 017 60sDrOr1	
+Yamaha	MU90	TG300B	017 017 60sDrOr2	
+Yamaha	MU90	TG300B	018 017 60sDrOr3	
+Yamaha	MU90	TG300B	024 017 CheezOrg	
+Yamaha	MU90	TG300B	032 017 DrawOrg2	
+Yamaha	MU90	TG300B	033 017 Even Bar	
+Yamaha	MU90	TG300B	040 017 Organ Ba	
+Yamaha	MU90	TG300B	126 017 Slap-2	
+Yamaha	MU90	TG300B	127 017 harpsi1	
+Yamaha	MU90	TG300B	000 018 PercOrgn	
+Yamaha	MU90	TG300B	001 018 70sPcOr1	
+Yamaha	MU90	TG300B	008 018 DetPrcOr	
+Yamaha	MU90	TG300B	032 018 PereOrg2	
+Yamaha	MU90	TG300B	126 018 Slap-3	
+Yamaha	MU90	TG300B	127 018 harpsi2	
+Yamaha	MU90	TG300B	000 019 RockOrgn	
+Yamaha	MU90	TG300B	008 019 RotaryOr	
+Yamaha	MU90	TG300B	016 019 SloRotar	
+Yamaha	MU90	TG300B	024 019 FstRotar	
+Yamaha	MU90	TG300B	126 019 Slap-4	
+Yamaha	MU90	TG300B	127 019 harpsi3	
+Yamaha	MU90	TG300B	000 020 ChrchOrg	
+Yamaha	MU90	TG300B	008 020 ChurOrg2	
+Yamaha	MU90	TG300B	016 020 ChurOrg3	
+Yamaha	MU90	TG300B	024 020 OrgFlute	
+Yamaha	MU90	TG300B	032 020 TrmOrgFl	
+Yamaha	MU90	TG300B	126 020 Slap-5	
+Yamaha	MU90	TG300B	127 020 clavi1	
+Yamaha	MU90	TG300B	000 021 ReedOrgn	
+Yamaha	MU90	TG300B	126 021 Slap-6	
+Yamaha	MU90	TG300B	127 021 clavi2	
+Yamaha	MU90	TG300B	000 022 Acordion	
+Yamaha	MU90	TG300B	008 022 AccordIt	
+Yamaha	MU90	TG300B	126 022 Slap-7	
+Yamaha	MU90	TG300B	127 022 clavi3	
+Yamaha	MU90	TG300B	000 023 Harmnica	
+Yamaha	MU90	TG300B	001 023 Harmo.2	
+Yamaha	MU90	TG300B	126 023 Slap-8	
+Yamaha	MU90	TG300B	127 023 celesta1	
+Yamaha	MU90	TG300B	000 024 TangoAcd	
+Yamaha	MU90	TG300B	126 024 Finger-1	
+Yamaha	MU90	TG300B	127 024 celesta2	
+Yamaha	MU90	TG300B	000 025 NylonGtr	
+Yamaha	MU90	TG300B	008 025 Ukulele	
+Yamaha	MU90	TG300B	016 025 NylonGt3	
+Yamaha	MU90	TG300B	024 025 VelGtHrm	
+Yamaha	MU90	TG300B	032 025 NylonGt2	
+Yamaha	MU90	TG300B	040 025 Requinto	
+Yamaha	MU90	TG300B	126 025 Finger-2	
+Yamaha	MU90	TG300B	127 025 synbras1	
+Yamaha	MU90	TG300B	000 026 SteelGtr	
+Yamaha	MU90	TG300B	008 026 12StGtr	
+Yamaha	MU90	TG300B	009 026 Nyln&Stl	
+Yamaha	MU90	TG300B	016 026 Mandolin	
+Yamaha	MU90	TG300B	032 026 SteelGt2	
+Yamaha	MU90	TG300B	126 026 Picked-1	
+Yamaha	MU90	TG300B	127 026 synbras2	
+Yamaha	MU90	TG300B	000 027 Jazz Gtr	
+Yamaha	MU90	TG300B	001 027 MelloGtr	
+Yamaha	MU90	TG300B	008 027 PdlSteel	
+Yamaha	MU90	TG300B	126 027 Picked-2	
+Yamaha	MU90	TG300B	127 027 synbras3	
+Yamaha	MU90	TG300B	000 028 CleanGtr	
+Yamaha	MU90	TG300B	008 028 ChorusGt	
+Yamaha	MU90	TG300B	126 028 FretlsBs	
+Yamaha	MU90	TG300B	127 028 synbras4	
+Yamaha	MU90	TG300B	000 029 Mute Gtr	
+Yamaha	MU90	TG300B	001 029 Mu.DstGt	
+Yamaha	MU90	TG300B	008 029 FunkGtrl	
+Yamaha	MU90	TG300B	016 029 FunkGtr2	
+Yamaha	MU90	TG300B	126 029 A-Bass	
+Yamaha	MU90	TG300B	127 029 synbass1	
+Yamaha	MU90	TG300B	000 030 Ovrdrive	
+Yamaha	MU90	TG300B	126 030 Choir-1	
+Yamaha	MU90	TG300B	127 030 synbass2	
+Yamaha	MU90	TG300B	000 031 Dist.Gtr	
+Yamaha	MU90	TG300B	001 031 DistGtr2	
+Yamaha	MU90	TG300B	002 031 DistGtr3	
+Yamaha	MU90	TG300B	008 031 FeedbkGt	
+Yamaha	MU90	TG300B	009 031 FeedbGt2	
+Yamaha	MU90	TG300B	016 031 PowerGt1	
+Yamaha	MU90	TG300B	017 031 PowerGt2	
+Yamaha	MU90	TG300B	018 031 Dst.5ths	
+Yamaha	MU90	TG300B	024 031 RckRthm1	
+Yamaha	MU90	TG300B	025 031 RckRthm2	
+Yamaha	MU90	TG300B	126 031 Choir-2	
+Yamaha	MU90	TG300B	127 031 synbass3	
+Yamaha	MU90	TG300B	000 032 GtrHarmo	
+Yamaha	MU90	TG300B	008 032 GtFeedbk	
+Yamaha	MU90	TG300B	016 032 AcoHarmo	
+Yamaha	MU90	TG300B	126 032 Choir-3	
+Yamaha	MU90	TG300B	127 032 synbass4	
+Yamaha	MU90	TG300B	000 033 Aco.Bass	
+Yamaha	MU90	TG300B	126 033 Choir-4	
+Yamaha	MU90	TG300B	127 033 newgepd	
+Yamaha	MU90	TG300B	000 034 FngrBass	
+Yamaha	MU90	TG300B	001 034 FngBass2	
+Yamaha	MU90	TG300B	002 034 Jazzy Ba	
+Yamaha	MU90	TG300B	126 034 Strngs-1	
+Yamaha	MU90	TG300B	127 034 synharmo	
+Yamaha	MU90	TG300B	000 035 PickBass	
+Yamaha	MU90	TG300B	008 035 MutePKBa	
+Yamaha	MU90	TG300B	126 035 Strngs-2	
+Yamaha	MU90	TG300B	127 035 choir pd	
+Yamaha	MU90	TG300B	000 036 Fretless	
+Yamaha	MU90	TG300B	001 036 Fretles2	
+Yamaha	MU90	TG300B	002 036 Fretles3	
+Yamaha	MU90	TG300B	003 036 Fretles4	
+Yamaha	MU90	TG300B	004 036 SynFretl	
+Yamaha	MU90	TG300B	005 036 SmthFrtl	
+Yamaha	MU90	TG300B	126 036 Strngs-3	
+Yamaha	MU90	TG300B	127 036 bowed pd	
+Yamaha	MU90	TG300B	000 037 SlapBas1	
+Yamaha	MU90	TG300B	008 037 ResoSlap	
+Yamaha	MU90	TG300B	126 037 Strngs-4	
+Yamaha	MU90	TG300B	127 037 soundtrk	
+Yamaha	MU90	TG300B	000 038 SlapBas2	
+Yamaha	MU90	TG300B	126 038 E-Organ1	
+Yamaha	MU90	TG300B	127 038 atmosphr	
+Yamaha	MU90	TG300B	000 039 SynBass1	
+Yamaha	MU90	TG300B	001 039 SynBa1 Dk	
+Yamaha	MU90	TG300B	008 039 AcidBass	
+Yamaha	MU90	TG300B	009 039 FastResB	
+Yamaha	MU90	TG300B	010 039 TechnoBa	
+Yamaha	MU90	TG300B	016 039 ResoBass	
+Yamaha	MU90	TG300B	126 039 E-Organ2	
+Yamaha	MU90	TG300B	127 039 syn warm	
+Yamaha	MU90	TG300B	000 040 SynBass2	
+Yamaha	MU90	TG300B	001 040 ClkSynBa	
+Yamaha	MU90	TG300B	002 040 ModulrBa	
+Yamaha	MU90	TG300B	003 040 Seq Bass	
+Yamaha	MU90	TG300B	008 040 DX Bass	
+Yamaha	MU90	TG300B	009 040 X WireBa	
+Yamaha	MU90	TG300B	016 040 RubberBa	
+Yamaha	MU90	TG300B	017 040 SynBa2Dk	
+Yamaha	MU90	TG300B	018 040 MelloSB1	
+Yamaha	MU90	TG300B	019 040 SmthSynB	
+Yamaha	MU90	TG300B	126 040 E-Organ3	
+Yamaha	MU90	TG300B	127 040 synfunny	
+Yamaha	MU90	TG300B	000 041 Violin	
+Yamaha	MU90	TG300B	008 041 Slow Vln	
+Yamaha	MU90	TG300B	126 041 E-Organ4	
+Yamaha	MU90	TG300B	127 041 synecho1	
+Yamaha	MU90	TG300B	000 042 Viola	
+Yamaha	MU90	TG300B	126 042 E-Organ5	
+Yamaha	MU90	TG300B	127 042 rain	
+Yamaha	MU90	TG300B	000 043 Cello	
+Yamaha	MU90	TG300B	126 043 E-Organ6	
+Yamaha	MU90	TG300B	127 043 synoboe	
+Yamaha	MU90	TG300B	000 044 Contrabs	
+Yamaha	MU90	TG300B	126 044 E-Organ7	
+Yamaha	MU90	TG300B	127 044 synecho2	
+Yamaha	MU90	TG300B	000 045 Trem.Str	
+Yamaha	MU90	TG300B	008 045 SlwTrStr	
+Yamaha	MU90	TG300B	009 045 Susp.Str	
+Yamaha	MU90	TG300B	126 045 E-Organ8	
+Yamaha	MU90	TG300B	127 045 synsolo	
+Yamaha	MU90	TG300B	000 046 Pizz.Str	
+Yamaha	MU90	TG300B	126 046 E-Organ9	
+Yamaha	MU90	TG300B	127 046 syndorg	
+Yamaha	MU90	TG300B	000 047 Harp	
+Yamaha	MU90	TG300B	126 047 SoftTP-1	
+Yamaha	MU90	TG300B	127 047 synbell	
+Yamaha	MU90	TG300B	000 048 Timpani	
+Yamaha	MU90	TG300B	126 048 SoftTP-2	
+Yamaha	MU90	TG300B	127 048 squareld	
+Yamaha	MU90	TG300B	000 049 Strings1	
+Yamaha	MU90	TG300B	001 049 Slow Str	
+Yamaha	MU90	TG300B	008 049 Orchestr	
+Yamaha	MU90	TG300B	009 049 Orchstr2	
+Yamaha	MU90	TG300B	010 049 TremOrch	
+Yamaha	MU90	TG300B	011 049 ChoirStr	
+Yamaha	MU90	TG300B	016 049 S.Strngs	
+Yamaha	MU90	TG300B	024 049 Velo.Str	
+Yamaha	MU90	TG300B	126 049 TP/TRB-1	
+Yamaha	MU90	TG300B	127 049 strsect1	
+Yamaha	MU90	TG300B	000 050 Strings2	
+Yamaha	MU90	TG300B	001 050 70s Str	
+Yamaha	MU90	TG300B	008 050 LegatoSt	
+Yamaha	MU90	TG300B	009 050 WarmStr	
+Yamaha	MU90	TG300B	010 050 S.SlwStr	
+Yamaha	MU90	TG300B	126 050 TP/TRB-2	
+Yamaha	MU90	TG300B	127 050 strsect2	
+Yamaha	MU90	TG300B	000 051 Syn Str1	
+Yamaha	MU90	TG300B	001 051 Syn Str4	
+Yamaha	MU90	TG300B	008 051 Syn Str3	
+Yamaha	MU90	TG300B	126 051 TP/TRB-3	
+Yamaha	MU90	TG300B	127 051 strsect3	
+Yamaha	MU90	TG300B	000 052 Syn Str2	
+Yamaha	MU90	TG300B	126 052 TP/TRB-4	
+Yamaha	MU90	TG300B	127 052 pizz.str	
+Yamaha	MU90	TG300B	000 053 ChoirAah	
+Yamaha	MU90	TG300B	008 053 S.Choir	
+Yamaha	MU90	TG300B	009 053 MelChoir	
+Yamaha	MU90	TG300B	032 053 Ch.Aahs2	
+Yamaha	MU90	TG300B	126 053 TP/TRB-5	
+Yamaha	MU90	TG300B	127 053 violin 1	
+Yamaha	MU90	TG300B	000 054 VoiceDoo	
+Yamaha	MU90	TG300B	126 054 TP/TRB-6	
+Yamaha	MU90	TG300B	127 054 violin 2	
+Yamaha	MU90	TG300B	000 055 SynVoice	
+Yamaha	MU90	TG300B	008 055 SyVoice2	
+Yamaha	MU90	TG300B	126 055 Sax-1	
+Yamaha	MU90	TG300B	127 055 cello 1	
+Yamaha	MU90	TG300B	000 056 Orch.Hit	
+Yamaha	MU90	TG300B	001 056 OrchHit2	
+Yamaha	MU90	TG300B	008 056 Impact	
+Yamaha	MU90	TG300B	009 056 BrssStab	
+Yamaha	MU90	TG300B	010 056 DoublHit	
+Yamaha	MU90	TG300B	016 056 LoFi Hit	
+Yamaha	MU90	TG300B	126 056 Sax-2	
+Yamaha	MU90	TG300B	127 056 cello 2	
+Yamaha	MU90	TG300B	000 057 Trumpet	
+Yamaha	MU90	TG300B	001 057 Trumpet2	
+Yamaha	MU90	TG300B	008 057 FluglHrn	
+Yamaha	MU90	TG300B	024 057 BriteTrp	
+Yamaha	MU90	TG300B	025 057 Warm Trp	
+Yamaha	MU90	TG300B	126 057 Sax-3	
+Yamaha	MU90	TG300B	127 057 contrabs	
+Yamaha	MU90	TG300B	000 058 Trombone	
+Yamaha	MU90	TG300B	001 058 Trmbone2	
+Yamaha	MU90	TG300B	126 058 Sax-4	
+Yamaha	MU90	TG300B	127 058 harp 1	
+Yamaha	MU90	TG300B	000 059 Tuba	
+Yamaha	MU90	TG300B	001 059 Tuba 2	
+Yamaha	MU90	TG300B	126 059 Brass-1	
+Yamaha	MU90	TG300B	127 059 harp 2	
+Yamaha	MU90	TG300B	000 060 Mute Trp	
+Yamaha	MU90	TG300B	126 060 Brass-2	
+Yamaha	MU90	TG300B	127 060 guitar 1	
+Yamaha	MU90	TG300B	000 061 Fr. Horn	
+Yamaha	MU90	TG300B	001 061 FrHorn2	
+Yamaha	MU90	TG300B	008 061 FrHrSolo	
+Yamaha	MU90	TG300B	016 061 HornOrch	
+Yamaha	MU90	TG300B	126 061 Brass-3	
+Yamaha	MU90	TG300B	127 061 guitar 2	
+Yamaha	MU90	TG300B	000 062 BrssSect	
+Yamaha	MU90	TG300B	008 062 BrssSec2	
+Yamaha	MU90	TG300B	016 062 BrssFall	
+Yamaha	MU90	TG300B	126 062 Brass-4	
+Yamaha	MU90	TG300B	127 062 elecgtr1	
+Yamaha	MU90	TG300B	000 063 SynBrss1	
+Yamaha	MU90	TG300B	001 063 PolyBrss	
+Yamaha	MU90	TG300B	008 063 SynBrss3	
+Yamaha	MU90	TG300B	009 063 Quack Br	
+Yamaha	MU90	TG300B	016 063 AnaBrss1	
+Yamaha	MU90	TG300B	126 063 Brass-5	
+Yamaha	MU90	TG300B	127 063 elecgtr2	
+Yamaha	MU90	TG300B	000 064 SynBrss2	
+Yamaha	MU90	TG300B	001 064 Soft Brs	
+Yamaha	MU90	TG300B	008 064 SynBrss4	
+Yamaha	MU90	TG300B	016 064 AnaBrss2	
+Yamaha	MU90	TG300B	017 064 AnVelBr2	
+Yamaha	MU90	TG300B	126 064 Orch-Hit	
+Yamaha	MU90	TG300B	127 064 sitar	
+Yamaha	MU90	TG300B	000 065 SprnoSax	
+Yamaha	MU90	TG300B	127 065 a.bass 1	
+Yamaha	MU90	TG300B	000 066 Alto Sax	
+Yamaha	MU90	TG300B	008 066 HyprAlto	
+Yamaha	MU90	TG300B	127 066 a.bass 2	
+Yamaha	MU90	TG300B	000 067 TenorSax	
+Yamaha	MU90	TG300B	008 067 BrthTnSx	
+Yamaha	MU90	TG300B	127 067 e.bass 1	
+Yamaha	MU90	TG300B	000 068 Bari.Sax	
+Yamaha	MU90	TG300B	127 068 e.bass 2	
+Yamaha	MU90	TG300B	000 069 Oboe	
+Yamaha	MU90	TG300B	127 069 slapbas1	
+Yamaha	MU90	TG300B	000 070 Eng.Horn	
+Yamaha	MU90	TG300B	127 070 slapbas2	
+Yamaha	MU90	TG300B	000 071 Bassoon	
+Yamaha	MU90	TG300B	127 071 fretles1	
+Yamaha	MU90	TG300B	000 072 Clarinet	
+Yamaha	MU90	TG300B	008 072 BassClar	
+Yamaha	MU90	TG300B	127 072 fretles2	
+Yamaha	MU90	TG300B	000 073 Piccolo	
+Yamaha	MU90	TG300B	127 073 flute1	
+Yamaha	MU90	TG300B	000 074 Flute	
+Yamaha	MU90	TG300B	127 074 flute2	
+Yamaha	MU90	TG300B	000 075 Recorder	
+Yamaha	MU90	TG300B	127 075 piccolo1	
+Yamaha	MU90	TG300B	000 076 PanFlute	
+Yamaha	MU90	TG300B	008 076 Kawala	
+Yamaha	MU90	TG300B	127 076 piccolo2	
+Yamaha	MU90	TG300B	000 077 Bottle	
+Yamaha	MU90	TG300B	127 077 recorder	
+Yamaha	MU90	TG300B	000 078 Shakhchi	
+Yamaha	MU90	TG300B	127 078 panpipes	
+Yamaha	MU90	TG300B	000 079 Whistle	
+Yamaha	MU90	TG300B	127 079 sax1	
+Yamaha	MU90	TG300B	000 080 Ocarina	
+Yamaha	MU90	TG300B	127 080 sax2	
+Yamaha	MU90	TG300B	000 081 SquareLd	
+Yamaha	MU90	TG300B	001 081 SquarLd2	
+Yamaha	MU90	TG300B	002 081 Hollow	
+Yamaha	MU90	TG300B	003 081 Mellow	
+Yamaha	MU90	TG300B	004 081 SoloSine	
+Yamaha	MU90	TG300B	005 081 Shroud	
+Yamaha	MU90	TG300B	006 081 LMSquare	
+Yamaha	MU90	TG300B	008 081 SineLead	
+Yamaha	MU90	TG300B	127 081 sax3	
+Yamaha	MU90	TG300B	000 082 Saw Ld	
+Yamaha	MU90	TG300B	001 082 Saw Ld 2	
+Yamaha	MU90	TG300B	002 082 PulseSaw	
+Yamaha	MU90	TG300B	003 082 ThickSaw	
+Yamaha	MU90	TG300B	004 082 Big Lead	
+Yamaha	MU90	TG300B	005 082 VeloLead	
+Yamaha	MU90	TG300B	006 082 HeavySyn	
+Yamaha	MU90	TG300B	007 082 Dyna Saw	
+Yamaha	MU90	TG300B	008 082 Dr.Lead	
+Yamaha	MU90	TG300B	016 082 WaspySyn	
+Yamaha	MU90	TG300B	127 082 sax4	
+Yamaha	MU90	TG300B	000 083 CaliopLd	
+Yamaha	MU90	TG300B	001 083 Vent Syn	
+Yamaha	MU90	TG300B	002 083 PureLead	
+Yamaha	MU90	TG300B	127 083 clarinet1	
+Yamaha	MU90	TG300B	000 084 Chiff Ld	
+Yamaha	MU90	TG300B	127 084 clarinet2	
+Yamaha	MU90	TG300B	000 085 CharanLd	
+Yamaha	MU90	TG300B	008 085 DistLead	
+Yamaha	MU90	TG300B	127 085 oboe	
+Yamaha	MU90	TG300B	000 086 Voice Ld	
+Yamaha	MU90	TG300B	127 086 eng.horn	
+Yamaha	MU90	TG300B	000 087 Fifth Ld	
+Yamaha	MU90	TG300B	001 087 Big Five	
+Yamaha	MU90	TG300B	127 087 bassoon	
+Yamaha	MU90	TG300B	000 088 Bass&Ld	
+Yamaha	MU90	TG300B	001 088 Big&Low	
+Yamaha	MU90	TG300B	002 088 Fat&Prky	
+Yamaha	MU90	TG300B	127 088 harmnica	
+Yamaha	MU90	TG300B	000 089 NewAgePd	
+Yamaha	MU90	TG300B	001 089 Fantasy	
+Yamaha	MU90	TG300B	127 089 trumpet1	
+Yamaha	MU90	TG300B	000 090 Warm Pad	
+Yamaha	MU90	TG300B	001 090 ThickPad	
+Yamaha	MU90	TG300B	002 090 Horn Pad	
+Yamaha	MU90	TG300B	003 090 RotarStr	
+Yamaha	MU90	TG300B	004 090 Soft Pad	
+Yamaha	MU90	TG300B	127 090 trumpet2	
+Yamaha	MU90	TG300B	000 091 PolySyPd	
+Yamaha	MU90	TG300B	001 091 PolyPd80	
+Yamaha	MU90	TG300B	127 091 trmbone1	
+Yamaha	MU90	TG300B	000 092 ChoirPad	
+Yamaha	MU90	TG300B	001 092 Heaven	
+Yamaha	MU90	TG300B	127 092 trmbone2	
+Yamaha	MU90	TG300B	000 093 BowedPad	
+Yamaha	MU90	TG300B	127 093 fr.horn1	
+Yamaha	MU90	TG300B	000 094 MetalPad	
+Yamaha	MU90	TG300B	001 094 Tine Pad	
+Yamaha	MU90	TG300B	002 094 Pan Pad	
+Yamaha	MU90	TG300B	127 094 fr.horn2	
+Yamaha	MU90	TG300B	000 095 Halo Pad	
+Yamaha	MU90	TG300B	127 095 tuba	
+Yamaha	MU90	TG300B	000 096 SweepPad	
+Yamaha	MU90	TG300B	001 096 PolarPad	
+Yamaha	MU90	TG300B	008 096 Converge	
+Yamaha	MU90	TG300B	009 096 Shwimmer	
+Yamaha	MU90	TG300B	010 096 Celstial	
+Yamaha	MU90	TG300B	127 096 brssect1	
+Yamaha	MU90	TG300B	000 097 Rain	
+Yamaha	MU90	TG300B	001 097 HrmoRain	
+Yamaha	MU90	TG300B	002 097 AfrcnWnd	
+Yamaha	MU90	TG300B	008 097 ClaviPad	
+Yamaha	MU90	TG300B	127 097 brssect2	
+Yamaha	MU90	TG300B	000 098 SoundTrk	
+Yamaha	MU90	TG300B	001 098 Ancestrl	
+Yamaha	MU90	TG300B	002 098 Prologue	
+Yamaha	MU90	TG300B	008 098 Rave	
+Yamaha	MU90	TG300B	127 098 vibe1	
+Yamaha	MU90	TG300B	000 099 Crystal	
+Yamaha	MU90	TG300B	001 099 SynMalet	
+Yamaha	MU90	TG300B	002 099 SftCryst	
+Yamaha	MU90	TG300B	003 099 RndGlock	
+Yamaha	MU90	TG300B	004 099 LoudGlok	
+Yamaha	MU90	TG300B	005 099 GlockChi	
+Yamaha	MU90	TG300B	006 099 ClearBel	
+Yamaha	MU90	TG300B	007 099 ChrstBel	
+Yamaha	MU90	TG300B	008 099 VibeBell	
+Yamaha	MU90	TG300B	009 099 DigiBell	
+Yamaha	MU90	TG300B	016 099 ChorBell	
+Yamaha	MU90	TG300B	017 099 AirBells	
+Yamaha	MU90	TG300B	018 099 BellHarp	
+Yamaha	MU90	TG300B	019 099 Gamelmba	
+Yamaha	MU90	TG300B	127 099 vibe2	
+Yamaha	MU90	TG300B	000 100 Atmosphr	
+Yamaha	MU90	TG300B	001 100 WarmAtms	
+Yamaha	MU90	TG300B	002 100 NylnHarp	
+Yamaha	MU90	TG300B	003 100 Harp Vox	
+Yamaha	MU90	TG300B	004 100 HollwRls	
+Yamaha	MU90	TG300B	005 100 Nylon EP	
+Yamaha	MU90	TG300B	006 100 AtmosPad	
+Yamaha	MU90	TG300B	127 100 symallet	
+Yamaha	MU90	TG300B	000 101 Bright	
+Yamaha	MU90	TG300B	127 101 maletwin	
+Yamaha	MU90	TG300B	000 102 Goblins	
+Yamaha	MU90	TG300B	001 102 GobSynth	
+Yamaha	MU90	TG300B	002 102 Creeper	
+Yamaha	MU90	TG300B	127 102 glocken	
+Yamaha	MU90	TG300B	000 103 Echoes	
+Yamaha	MU90	TG300B	001 103 EchoBell	
+Yamaha	MU90	TG300B	002 103 Echo Pan	
+Yamaha	MU90	TG300B	003 103 Echoes 2	
+Yamaha	MU90	TG300B	004 103 Big Pan	
+Yamaha	MU90	TG300B	005 103 Reso&Pan	
+Yamaha	MU90	TG300B	006 103 SynPiano	
+Yamaha	MU90	TG300B	127 103 tubulbel	
+Yamaha	MU90	TG300B	000 104 Sci-Fi	
+Yamaha	MU90	TG300B	001 104 Starz	
+Yamaha	MU90	TG300B	127 104 xylophen	
+Yamaha	MU90	TG300B	000 105 Sitar	
+Yamaha	MU90	TG300B	001 105 Sitar 2	
+Yamaha	MU90	TG300B	002 105 DetSitar	
+Yamaha	MU90	TG300B	008 105 Tambra	
+Yamaha	MU90	TG300B	016 105 Tamboura	
+Yamaha	MU90	TG300B	127 105 marimba	
+Yamaha	MU90	TG300B	000 106 Banjo	
+Yamaha	MU90	TG300B	001 106 MuteBnjo	
+Yamaha	MU90	TG300B	008 106 Rabab	
+Yamaha	MU90	TG300B	016 106 Gopichnt	
+Yamaha	MU90	TG300B	024 106 Oud	
+Yamaha	MU90	TG300B	127 106 koto	
+Yamaha	MU90	TG300B	000 107 Shamisen	
+Yamaha	MU90	TG300B	001 107 Tsugaru	
+Yamaha	MU90	TG300B	127 107 sho	
+Yamaha	MU90	TG300B	000 108 Koto	
+Yamaha	MU90	TG300B	008 108 Taisho-k	
+Yamaha	MU90	TG300B	016 108 Kanoon	
+Yamaha	MU90	TG300B	127 108 shakhchi	
+Yamaha	MU90	TG300B	000 109 Kalimba	
+Yamaha	MU90	TG300B	127 109 whistle1	
+Yamaha	MU90	TG300B	000 110 Bagpipe	
+Yamaha	MU90	TG300B	127 110 whistle2	
+Yamaha	MU90	TG300B	000 111 Fiddle	
+Yamaha	MU90	TG300B	127 111 bottle	
+Yamaha	MU90	TG300B	000 112 Shanai	
+Yamaha	MU90	TG300B	001 112 Shanai 2	
+Yamaha	MU90	TG300B	008 112 Pungi	
+Yamaha	MU90	TG300B	016 112 Hichriki	
+Yamaha	MU90	TG300B	127 112 breath	
+Yamaha	MU90	TG300B	000 113 TnklBell	
+Yamaha	MU90	TG300B	008 113 Bonang	
+Yamaha	MU90	TG300B	009 113 Altair	
+Yamaha	MU90	TG300B	010 113 Gamelan	
+Yamaha	MU90	TG300B	011 113 S.Gamlan	
+Yamaha	MU90	TG300B	016 113 Rama Cym	
+Yamaha	MU90	TG300B	127 113 timpani	
+Yamaha	MU90	TG300B	000 114 Agogo	
+Yamaha	MU90	TG300B	008 114 Atrigane	
+Yamaha	MU90	TG300B	127 114 melotom	
+Yamaha	MU90	TG300B	000 115 SteelDrm	
+Yamaha	MU90	TG300B	127 115 deepsnar	
+Yamaha	MU90	TG300B	000 116 Woodblok	
+Yamaha	MU90	TG300B	008 116 Castanet	
+Yamaha	MU90	TG300B	127 116 e.perc1	
+Yamaha	MU90	TG300B	000 117 TaikoDrm	
+Yamaha	MU90	TG300B	008 117 Gr.Cassa	
+Yamaha	MU90	TG300B	127 117 e.perc2	
+Yamaha	MU90	TG300B	000 118 MelodTom	
+Yamaha	MU90	TG300B	001 118 Real Tom	
+Yamaha	MU90	TG300B	008 118 Mel Tom2	
+Yamaha	MU90	TG300B	009 118 Rock Tom	
+Yamaha	MU90	TG300B	127 118 taiko	
+Yamaha	MU90	TG300B	000 119 Syn Drum	
+Yamaha	MU90	TG300B	008 119 Ana Tom	
+Yamaha	MU90	TG300B	009 119 ElecPerc	
+Yamaha	MU90	TG300B	127 119 taikorim	
+Yamaha	MU90	TG300B	000 120 RevCymbl	
+Yamaha	MU90	TG300B	001 120 Rev Cym2	
+Yamaha	MU90	TG300B	008 120 RevSnar1	
+Yamaha	MU90	TG300B	009 120 RevSnar2	
+Yamaha	MU90	TG300B	016 120 RevKick1	
+Yamaha	MU90	TG300B	017 120 RevConBD	
+Yamaha	MU90	TG300B	024 120 Rev Tom1	
+Yamaha	MU90	TG300B	025 120 Rev Tom2	
+Yamaha	MU90	TG300B	127 120 cymbal	
+Yamaha	MU90	TG300B	000 121 FretNoiz	
+Yamaha	MU90	TG300B	001 121 CuttngNz	
+Yamaha	MU90	TG300B	002 121 Str Slap	
+Yamaha	MU90	TG300B	003 121 CttngNz2	
+Yamaha	MU90	TG300B	004 121 DstCutNz	
+Yamaha	MU90	TG300B	005 121 B.Slide	
+Yamaha	MU90	TG300B	006 121 P.Scrape	
+Yamaha	MU90	TG300B	127 121 castanet	
+Yamaha	MU90	TG300B	000 122 BrthNoiz	
+Yamaha	MU90	TG300B	001 122 Fl.KClik	
+Yamaha	MU90	TG300B	127 122 triangle	
+Yamaha	MU90	TG300B	000 123 Seashore	
+Yamaha	MU90	TG300B	001 123 Shower	
+Yamaha	MU90	TG300B	002 123 Thunder	
+Yamaha	MU90	TG300B	003 123 Wind	
+Yamaha	MU90	TG300B	004 123 Stream	
+Yamaha	MU90	TG300B	005 123 Bubble	
+Yamaha	MU90	TG300B	127 123 orchehit	
+Yamaha	MU90	TG300B	000 124 Tweet	
+Yamaha	MU90	TG300B	001 124 Dog	
+Yamaha	MU90	TG300B	002 124 Horse	
+Yamaha	MU90	TG300B	003 124 Tweet 2	
+Yamaha	MU90	TG300B	004 124 Kitty	
+Yamaha	MU90	TG300B	005 124 Growl	
+Yamaha	MU90	TG300B	127 124 telphone	
+Yamaha	MU90	TG300B	000 125 Telphone	
+Yamaha	MU90	TG300B	001 125 Call	
+Yamaha	MU90	TG300B	002 125 DoorSqek	
+Yamaha	MU90	TG300B	003 125 DoorSlam	
+Yamaha	MU90	TG300B	004 125 ScratchC	
+Yamaha	MU90	TG300B	005 125 WindChim	
+Yamaha	MU90	TG300B	007 125 ScratchS	
+Yamaha	MU90	TG300B	127 125 bird	
+Yamaha	MU90	TG300B	000 126 Helicptr	
+Yamaha	MU90	TG300B	001 126 Ignition	
+Yamaha	MU90	TG300B	002 126 Squeal	
+Yamaha	MU90	TG300B	003 126 Exhaust	
+Yamaha	MU90	TG300B	004 126 Crash	
+Yamaha	MU90	TG300B	005 126 Siren	
+Yamaha	MU90	TG300B	006 126 Train	
+Yamaha	MU90	TG300B	007 126 JetPlane	
+Yamaha	MU90	TG300B	008 126 Starship	
+Yamaha	MU90	TG300B	009 126 Burst	
+Yamaha	MU90	TG300B	016 126 Coaster	
+Yamaha	MU90	TG300B	127 126 jam	
+Yamaha	MU90	TG300B	000 127 Applause	
+Yamaha	MU90	TG300B	001 127 Laugh	
+Yamaha	MU90	TG300B	002 127 Scream	
+Yamaha	MU90	TG300B	003 127 Punch	
+Yamaha	MU90	TG300B	004 127 Heart	
+Yamaha	MU90	TG300B	005 127 Footstep	
+Yamaha	MU90	TG300B	127 127 efctwatr	
+Yamaha	MU90	TG300B	000 128 Gunshot	
+Yamaha	MU90	TG300B	001 128 MchinGun	
+Yamaha	MU90	TG300B	002 128 LaserGun	
+Yamaha	MU90	TG300B	003 128 Xplosion	
+Yamaha	MU90	TG300B	127 128 efctjngl	
+Yamaha	MU90	TG300B -> Drum Kit	001 StandKit	
+Yamaha	MU90	TG300B -> Drum Kit	009 Room Kit	
+Yamaha	MU90	TG300B -> Drum Kit	017 PowerKit	
+Yamaha	MU90	TG300B -> Drum Kit	025 ElctrKit	
+Yamaha	MU90	TG300B -> Drum Kit	026 AnalgKit	
+Yamaha	MU90	TG300B -> Drum Kit	033 Jazz Kit	
+Yamaha	MU90	TG300B -> Drum Kit	041 BrushKit	
+Yamaha	MU90	TG300B -> Drum Kit	049 OrcheKit	
+Yamaha	MU90	TG300B -> Drum Kit	057 SFX Set	
+Yamaha	MU90	TG300B -> Drum Kit	128 C/M Kit	
+Yamaha	MU90	C/M -> part1~9	001 a.piano1	
+Yamaha	MU90	C/M -> part1~9	002 a.piano2	
+Yamaha	MU90	C/M -> part1~9	003 a.piano3	
+Yamaha	MU90	C/M -> part1~9	004 e.piano1	
+Yamaha	MU90	C/M -> part1~9	005 e.piano2	
+Yamaha	MU90	C/M -> part1~9	006 e.piano3	
+Yamaha	MU90	C/M -> part1~9	007 e.piano4	
+Yamaha	MU90	C/M -> part1~9	008 hnkytnk	
+Yamaha	MU90	C/M -> part1~9	009 e.organ1	
+Yamaha	MU90	C/M -> part1~9	010 e.organ2	
+Yamaha	MU90	C/M -> part1~9	011 e.organ3	
+Yamaha	MU90	C/M -> part1~9	012 e.organ4	
+Yamaha	MU90	C/M -> part1~9	013 pipeorg1	
+Yamaha	MU90	C/M -> part1~9	014 pipeorg2	
+Yamaha	MU90	C/M -> part1~9	015 pipeorg3	
+Yamaha	MU90	C/M -> part1~9	016 acordion	
+Yamaha	MU90	C/M -> part1~9	017 harpsi1	
+Yamaha	MU90	C/M -> part1~9	018 harpsi2	
+Yamaha	MU90	C/M -> part1~9	019 harpsi3	
+Yamaha	MU90	C/M -> part1~9	020 clavi1	
+Yamaha	MU90	C/M -> part1~9	021 clavi2	
+Yamaha	MU90	C/M -> part1~9	022 clavi3	
+Yamaha	MU90	C/M -> part1~9	023 celesta1	
+Yamaha	MU90	C/M -> part1~9	024 celesta2	
+Yamaha	MU90	C/M -> part1~9	025 synbras1	
+Yamaha	MU90	C/M -> part1~9	026 synbras2	
+Yamaha	MU90	C/M -> part1~9	027 synbras3	
+Yamaha	MU90	C/M -> part1~9	028 synbras4	
+Yamaha	MU90	C/M -> part1~9	029 synbass1	
+Yamaha	MU90	C/M -> part1~9	030 synbass2	
+Yamaha	MU90	C/M -> part1~9	031 synbass3	
+Yamaha	MU90	C/M -> part1~9	032 synbass4	
+Yamaha	MU90	C/M -> part1~9	033 newagepd	
+Yamaha	MU90	C/M -> part1~9	034 synharmo	
+Yamaha	MU90	C/M -> part1~9	035 choir pd	
+Yamaha	MU90	C/M -> part1~9	036 bowed pd	
+Yamaha	MU90	C/M -> part1~9	037 soundtrk	
+Yamaha	MU90	C/M -> part1~9	038 atmosphr	
+Yamaha	MU90	C/M -> part1~9	039 syn warm	
+Yamaha	MU90	C/M -> part1~9	040 synfunny	
+Yamaha	MU90	C/M -> part1~9	041 synecho1	
+Yamaha	MU90	C/M -> part1~9	042 rain	
+Yamaha	MU90	C/M -> part1~9	043 synoboe	
+Yamaha	MU90	C/M -> part1~9	044 synecho2	
+Yamaha	MU90	C/M -> part1~9	045 synsolo	
+Yamaha	MU90	C/M -> part1~9	046 synrdorg	
+Yamaha	MU90	C/M -> part1~9	047 synbell	
+Yamaha	MU90	C/M -> part1~9	048 squareld	
+Yamaha	MU90	C/M -> part1~9	049 strsect1	
+Yamaha	MU90	C/M -> part1~9	050 strsect2	
+Yamaha	MU90	C/M -> part1~9	051 strsect3	
+Yamaha	MU90	C/M -> part1~9	052 pizz.str	
+Yamaha	MU90	C/M -> part1~9	053 violin 1	
+Yamaha	MU90	C/M -> part1~9	054 violin 2	
+Yamaha	MU90	C/M -> part1~9	055 cello 1	
+Yamaha	MU90	C/M -> part1~9	056 cello 2	
+Yamaha	MU90	C/M -> part1~9	057 contrabs	
+Yamaha	MU90	C/M -> part1~9	058 harp 1	
+Yamaha	MU90	C/M -> part1~9	059 harp 2	
+Yamaha	MU90	C/M -> part1~9	060 guitar 1	
+Yamaha	MU90	C/M -> part1~9	061 guitar 2	
+Yamaha	MU90	C/M -> part1~9	062 elecgtr1	
+Yamaha	MU90	C/M -> part1~9	063 elecgtr2	
+Yamaha	MU90	C/M -> part1~9	064 sitar	
+Yamaha	MU90	C/M -> part1~9	065 a.bass 1	
+Yamaha	MU90	C/M -> part1~9	066 a.bass 2	
+Yamaha	MU90	C/M -> part1~9	067 e.bass 1	
+Yamaha	MU90	C/M -> part1~9	068 e.bass 2	
+Yamaha	MU90	C/M -> part1~9	069 slapbas1	
+Yamaha	MU90	C/M -> part1~9	070 slapbas2	
+Yamaha	MU90	C/M -> part1~9	071 fretles1	
+Yamaha	MU90	C/M -> part1~9	072 fretles2	
+Yamaha	MU90	C/M -> part1~9	073 flute1	
+Yamaha	MU90	C/M -> part1~9	074 flute2	
+Yamaha	MU90	C/M -> part1~9	075 piccolo1	
+Yamaha	MU90	C/M -> part1~9	076 piccolo2	
+Yamaha	MU90	C/M -> part1~9	077 recorder	
+Yamaha	MU90	C/M -> part1~9	078 panpipes	
+Yamaha	MU90	C/M -> part1~9	079 sax1	
+Yamaha	MU90	C/M -> part1~9	080 sax2	
+Yamaha	MU90	C/M -> part1~9	081 sax3	
+Yamaha	MU90	C/M -> part1~9	082 sax4	
+Yamaha	MU90	C/M -> part1~9	083 clarint1	
+Yamaha	MU90	C/M -> part1~9	084 clarint2	
+Yamaha	MU90	C/M -> part1~9	085 oboe	
+Yamaha	MU90	C/M -> part1~9	086 eng.horn	
+Yamaha	MU90	C/M -> part1~9	087 bassoon	
+Yamaha	MU90	C/M -> part1~9	088 harmnica	
+Yamaha	MU90	C/M -> part1~9	089 trumpet1	
+Yamaha	MU90	C/M -> part1~9	090 trumpet2	
+Yamaha	MU90	C/M -> part1~9	091 trmbone1	
+Yamaha	MU90	C/M -> part1~9	092 trmbone2	
+Yamaha	MU90	C/M -> part1~9	093 fr.horn1	
+Yamaha	MU90	C/M -> part1~9	094 fr.horn2	
+Yamaha	MU90	C/M -> part1~9	095 tuba	
+Yamaha	MU90	C/M -> part1~9	096 brssect1	
+Yamaha	MU90	C/M -> part1~9	097 brssect2	
+Yamaha	MU90	C/M -> part1~9	098 vibe1	
+Yamaha	MU90	C/M -> part1~9	099 vibe2	
+Yamaha	MU90	C/M -> part1~9	100 symallet	
+Yamaha	MU90	C/M -> part1~9	101 maletwin	
+Yamaha	MU90	C/M -> part1~9	102 glocken	
+Yamaha	MU90	C/M -> part1~9	103 tubulbel	
+Yamaha	MU90	C/M -> part1~9	104 xylophen	
+Yamaha	MU90	C/M -> part1~9	105 marimba	
+Yamaha	MU90	C/M -> part1~9	106 koto	
+Yamaha	MU90	C/M -> part1~9	107 sho	
+Yamaha	MU90	C/M -> part1~9	108 shakhchi	
+Yamaha	MU90	C/M -> part1~9	109 whistle1	
+Yamaha	MU90	C/M -> part1~9	110 whistle2	
+Yamaha	MU90	C/M -> part1~9	111 bottle	
+Yamaha	MU90	C/M -> part1~9	112 breath	
+Yamaha	MU90	C/M -> part1~9	113 timpani	
+Yamaha	MU90	C/M -> part1~9	114 melotom	
+Yamaha	MU90	C/M -> part1~9	115 deepsnar	
+Yamaha	MU90	C/M -> part1~9	116 e.perc1	
+Yamaha	MU90	C/M -> part1~9	117 e.perc2	
+Yamaha	MU90	C/M -> part1~9	118 taiko	
+Yamaha	MU90	C/M -> part1~9	119 taikorim	
+Yamaha	MU90	C/M -> part1~9	120 cymbal	
+Yamaha	MU90	C/M -> part1~9	121 castanet	
+Yamaha	MU90	C/M -> part1~9	122 triangle	
+Yamaha	MU90	C/M -> part1~9	123 orchehit	
+Yamaha	MU90	C/M -> part1~9	124 telphone	
+Yamaha	MU90	C/M -> part1~9	125 bird	
+Yamaha	MU90	C/M -> part1~9	126 jam	
+Yamaha	MU90	C/M -> part1~9	127 efctwatr	
+Yamaha	MU90	C/M -> part1~9	128 efctjngl	
+Yamaha	MU90	C/M -> part11~16	001 A-Piano1	
+Yamaha	MU90	C/M -> part11~16	002 A-Piano2	
+Yamaha	MU90	C/M -> part11~16	003 A-Piano3	
+Yamaha	MU90	C/M -> part11~16	004 A-Piano4	
+Yamaha	MU90	C/M -> part11~16	005 A-Piano5	
+Yamaha	MU90	C/M -> part11~16	006 A-Piano6	
+Yamaha	MU90	C/M -> part11~16	007 A-Piano7	
+Yamaha	MU90	C/M -> part11~16	008 E-Piano1	
+Yamaha	MU90	C/M -> part11~16	009 E-Piano2	
+Yamaha	MU90	C/M -> part11~16	010 E-Piano3	
+Yamaha	MU90	C/M -> part11~16	011 A-Guitr1	
+Yamaha	MU90	C/M -> part11~16	012 A-Guitr2	
+Yamaha	MU90	C/M -> part11~16	013 A-Guitr3	
+Yamaha	MU90	C/M -> part11~16	014 E-Guitr1	
+Yamaha	MU90	C/M -> part11~16	015 E-Guitr2	
+Yamaha	MU90	C/M -> part11~16	016 Slap-1	
+Yamaha	MU90	C/M -> part11~16	017 Slap-2	
+Yamaha	MU90	C/M -> part11~16	018 Slap-3	
+Yamaha	MU90	C/M -> part11~16	019 Slap-4	
+Yamaha	MU90	C/M -> part11~16	020 Slap-5	
+Yamaha	MU90	C/M -> part11~16	021 Slap-6	
+Yamaha	MU90	C/M -> part11~16	022 Slap-7	
+Yamaha	MU90	C/M -> part11~16	023 Slap-8	
+Yamaha	MU90	C/M -> part11~16	024 Finger-1	
+Yamaha	MU90	C/M -> part11~16	025 Finger-2	
+Yamaha	MU90	C/M -> part11~16	026 Picked-1	
+Yamaha	MU90	C/M -> part11~16	027 Picked-2	
+Yamaha	MU90	C/M -> part11~16	028 FretlsBs	
+Yamaha	MU90	C/M -> part11~16	029 A-Bass	
+Yamaha	MU90	C/M -> part11~16	030 Choir-1	
+Yamaha	MU90	C/M -> part11~16	031 Choir-2	
+Yamaha	MU90	C/M -> part11~16	032 Choir-3	
+Yamaha	MU90	C/M -> part11~16	033 Choir-4	
+Yamaha	MU90	C/M -> part11~16	034 Strngs-1	
+Yamaha	MU90	C/M -> part11~16	035 Strngs-2	
+Yamaha	MU90	C/M -> part11~16	036 Strngs-3	
+Yamaha	MU90	C/M -> part11~16	037 Strngs-4	
+Yamaha	MU90	C/M -> part11~16	038 E-Organ1	
+Yamaha	MU90	C/M -> part11~16	039 E-Organ2	
+Yamaha	MU90	C/M -> part11~16	040 E-Organ3	
+Yamaha	MU90	C/M -> part11~16	041 E-Organ4	
+Yamaha	MU90	C/M -> part11~16	042 E-Organ5	
+Yamaha	MU90	C/M -> part11~16	043 E-Organ6	
+Yamaha	MU90	C/M -> part11~16	044 E-Organ7	
+Yamaha	MU90	C/M -> part11~16	045 E-Organ8	
+Yamaha	MU90	C/M -> part11~16	046 E-Organ9	
+Yamaha	MU90	C/M -> part11~16	047 SoftTP-1	
+Yamaha	MU90	C/M -> part11~16	048 SoftTP-2	
+Yamaha	MU90	C/M -> part11~16	049 TP/TRB-1	
+Yamaha	MU90	C/M -> part11~16	050 TP/TRB-2	
+Yamaha	MU90	C/M -> part11~16	051 TP/TRB-3	
+Yamaha	MU90	C/M -> part11~16	052 TP/TRB-4	
+Yamaha	MU90	C/M -> part11~16	053 TP/TRB-5	
+Yamaha	MU90	C/M -> part11~16	054 TP/TRB-6	
+Yamaha	MU90	C/M -> part11~16	055 Sax-1	
+Yamaha	MU90	C/M -> part11~16	056 Sax-2	
+Yamaha	MU90	C/M -> part11~16	057 Sax-3	
+Yamaha	MU90	C/M -> part11~16	058 Sax-4	
+Yamaha	MU90	C/M -> part11~16	059 Brass-1	
+Yamaha	MU90	C/M -> part11~16	060 Brass-2	
+Yamaha	MU90	C/M -> part11~16	061 Brass-3	
+Yamaha	MU90	C/M -> part11~16	062 Brass-4	
+Yamaha	MU90	C/M -> part11~16	063 Brass-5	
+Yamaha	MU90	C/M -> part11~16	064 Orch-Hit	
+Yamaha	MU90	C/M -> Drum Kit	001 C/M Kit	
+Yamaha	MU90	PFM -> Pre	P001 Heavens Door	to-do: get names on hardware
+Yamaha	MU90	PFM -> Pre	P002 Rich Piano	
+Yamaha	MU90	PFM -> Pre	P003 Saw Classic	
+Yamaha	MU90	PFM -> Pre	P004 Analog Age	
+Yamaha	MU90	PFM -> Pre	P005 Big Atmos	
+Yamaha	MU90	PFM -> Pre	P006 Two Flutish	
+Yamaha	MU90	PFM -> Pre	P007 Session Bass	
+Yamaha	MU90	PFM -> Pre	P008 70s Organ AT	
+Yamaha	MU90	PFM -> Pre	P009 Touch Line	
+Yamaha	MU90	PFM -> Pre	P010 Rave Mecca	
+Yamaha	MU90	PFM -> Pre	P011 Superstrings	
+Yamaha	MU90	PFM -> Pre	P012 EP Street	
+Yamaha	MU90	PFM -> Pre	P013 Fat Lead	
+Yamaha	MU90	PFM -> Pre	P014 Fancy Pad	
+Yamaha	MU90	PFM -> Pre	P015 Dikk Tekk	
+Yamaha	MU90	PFM -> Pre	P016 Laser Harp	
+Yamaha	MU90	PFM -> Pre	P017 Gary Guitar	
+Yamaha	MU90	PFM -> Pre	P018 Full Organ	
+Yamaha	MU90	PFM -> Pre	P019 Dyno Lead	
+Yamaha	MU90	PFM -> Pre	P020 CP70 On Stage	
+Yamaha	MU90	PFM -> Pre	P021 Super Brass	
+Yamaha	MU90	PFM -> Pre	P022 Ethnograph	
+Yamaha	MU90	PFM -> Pre	P023 Tecspiration	
+Yamaha	MU90	PFM -> Pre	P024 Vox Pop	
+Yamaha	MU90	PFM -> Pre	P025 Dark Pad	
+Yamaha	MU90	PFM -> Pre	P026 Sparkle Pad	
+Yamaha	MU90	PFM -> Pre	P027 Jump-off	
+Yamaha	MU90	PFM -> Pre	P028 Overdrive OR	
+Yamaha	MU90	PFM -> Pre	P029 Ricky Guitar	
+Yamaha	MU90	PFM -> Pre	P030 Euro Hook	
+Yamaha	MU90	PFM -> Pre	P031 Groovin' Baritone	
+Yamaha	MU90	PFM -> Pre	P032 Alien Peace	
+Yamaha	MU90	PFM -> Pre	P033 Hit House	
+Yamaha	MU90	PFM -> Pre	P034 6-string Guitar	
+Yamaha	MU90	PFM -> Pre	P035 Phase Strings	
+Yamaha	MU90	PFM -> Pre	P036 Minstrel	
+Yamaha	MU90	PFM -> Pre	P037 Early Bird	
+Yamaha	MU90	PFM -> Pre	P038 Orchestral Suite	
+Yamaha	MU90	PFM -> Pre	P039 Fat Hook	
+Yamaha	MU90	PFM -> Pre	P040 R&B Gig	
+Yamaha	MU90	PFM -> Pre	P041 Deep Harp	
+Yamaha	MU90	PFM -> Pre	P042 Almost Heaven	
+Yamaha	MU90	PFM -> Pre	P043 Digi Bizzar	
+Yamaha	MU90	PFM -> Pre	P044 Euro Accordion	
+Yamaha	MU90	PFM -> Pre	P045 2 Octaves Strings	
+Yamaha	MU90	PFM -> Pre	P046 New House Piano	
+Yamaha	MU90	PFM -> Pre	P047 Crisp Organ	
+Yamaha	MU90	PFM -> Pre	P048 Rich Jazz Guitar	
+Yamaha	MU90	PFM -> Pre	P049 Flangi Baze	
+Yamaha	MU90	PFM -> Pre	P050 1st Violin	
+Yamaha	MU90	PFM -> Pre	P051 Deep Choir	
+Yamaha	MU90	PFM -> Pre	P052 Old Clavi	
+Yamaha	MU90	PFM -> Pre	P053 Dance Chord	
+Yamaha	MU90	PFM -> Pre	P054 White Train	
+Yamaha	MU90	PFM -> Pre	P055 Power Synth Brass	
+Yamaha	MU90	PFM -> Pre	P056 Deep Port	
+Yamaha	MU90	PFM -> Pre	P057 Floor Tack	
+Yamaha	MU90	PFM -> Pre	P058 Rich Nylon Guitar	
+Yamaha	MU90	PFM -> Pre	P059 Solemn Organ	
+Yamaha	MU90	PFM -> Pre	P060 Piano & Strings	
+Yamaha	MU90	PFM -> Pre	P061 Rich Bass Clarinet	
+Yamaha	MU90	PFM -> Pre	P062 Slap Switch	
+Yamaha	MU90	PFM -> Pre	P063 Hi Strings	
+Yamaha	MU90	PFM -> Pre	P064 Soft Sweep	
+Yamaha	MU90	PFM -> Pre	P065 Draw Organ MW	
+Yamaha	MU90	PFM -> Pre	P066 Porta Line MW	
+Yamaha	MU90	PFM -> Pre	P067 Crypt	
+Yamaha	MU90	PFM -> Pre	P068 Easy Seven	
+Yamaha	MU90	PFM -> Pre	P069 Guitar & Sax	
+Yamaha	MU90	PFM -> Pre	P070 Gut EP	
+Yamaha	MU90	PFM -> Pre	P071 SQ2003 Wheel	
+Yamaha	MU90	PFM -> Pre	P072 Easter	
+Yamaha	MU90	PFM -> Pre	P073 Dance Comp	
+Yamaha	MU90	PFM -> Pre	P074 Ethnic Seq	
+Yamaha	MU90	PFM -> Pre	P075 Trombonist	
+Yamaha	MU90	PFM -> Pre	P076 Orion	
+Yamaha	MU90	PFM -> Pre	P077 Remix Brass	
+Yamaha	MU90	PFM -> Pre	P078 Specter EP	
+Yamaha	MU90	PFM -> Pre	P079 Tech Chord 1	
+Yamaha	MU90	PFM -> Pre	P080 Bass + Piano/Brass	
+Yamaha	MU90	PFM -> Pre	P081 SQ-Bass	
+Yamaha	MU90	PFM -> Pre	P082 Rich Strings	
+Yamaha	MU90	PFM -> Pre	P083 Hybrid Brass	
+Yamaha	MU90	PFM -> Pre	P084 Phaze Clavi	
+Yamaha	MU90	PFM -> Pre	P085 Toy SQ	
+Yamaha	MU90	PFM -> Pre	P086 MUtopia	
+Yamaha	MU90	PFM -> Pre	P087 Float Pad	
+Yamaha	MU90	PFM -> Pre	P088 Tiny Pipe	
+Yamaha	MU90	PFM -> Pre	P089 Sweet Wine	
+Yamaha	MU90	PFM -> Pre	P090 Pad Swell	
+Yamaha	MU90	PFM -> Pre	P091 Aquarius 90	
+Yamaha	MU90	PFM -> Pre	P092 Perc Shamisen	
+Yamaha	MU90	PFM -> Pre	P093 Clav-babe	
+Yamaha	MU90	PFM -> Pre	P094 Space Wall	
+Yamaha	MU90	PFM -> Pre	P095 Door Bell	
+Yamaha	MU90	PFM -> Pre	P096 FAT*SQ	
+Yamaha	MU90	PFM -> Pre	P097 Clavinova	
+Yamaha	MU90	PFM -> Pre	P098 Volksmusik	
+Yamaha	MU90	PFM -> Pre	P099 Jfunk Jammin	
+Yamaha	MU90	PFM -> Pre	P100 Alpen Echo	
+Yamaha	MU90	PFM -> Int	I001 Concert Grand	
+Yamaha	MU90	PFM -> Int	I002 MIDI Grand	
+Yamaha	MU90	PFM -> Int	I003 60s Piano	
+Yamaha	MU90	PFM -> Int	I004 CP Pad	
+Yamaha	MU90	PFM -> Int	I005 Phase EP	
+Yamaha	MU90	PFM -> Int	I006 Rich DX EP	
+Yamaha	MU90	PFM -> Int	I007 Grand Pad	
+Yamaha	MU90	PFM -> Int	I008 Pictures	
+Yamaha	MU90	PFM -> Int	I009 Movie Pad	
+Yamaha	MU90	PFM -> Int	I010 Aquamarine	
+Yamaha	MU90	PFM -> Int	I011 Polypad	
+Yamaha	MU90	PFM -> Int	I012 Blonk Y	
+Yamaha	MU90	PFM -> Int	I013 Dark Pad	
+Yamaha	MU90	PFM -> Int	I014 Analog SQ 1	
+Yamaha	MU90	PFM -> Int	I015 Analog SQ 2	
+Yamaha	MU90	PFM -> Int	I016 Rave Chord	
+Yamaha	MU90	PFM -> Int	I017 Short SQ	
+Yamaha	MU90	PFM -> Int	I018 Fat Poly	
+Yamaha	MU90	PFM -> Int	I019 Backyard Organ	
+Yamaha	MU90	PFM -> Int	I020 Old Days Organ	
+Yamaha	MU90	PFM -> Int	I021 Stereo Field Organ	
+Yamaha	MU90	PFM -> Int	I022 Drawbars 1 AT	
+Yamaha	MU90	PFM -> Int	I023 Drawbars 2 MW	
+Yamaha	MU90	PFM -> Int	I024 Full Church	
+Yamaha	MU90	PFM -> Int	I025 Old Rock Organ	
+Yamaha	MU90	PFM -> Int	I026 Progressive Organ	
+Yamaha	MU90	PFM -> Int	I027 12-string Fantasy	
+Yamaha	MU90	PFM -> Int	I028 Wah Guitar	
+Yamaha	MU90	PFM -> Int	I029 Arpeggio EG	
+Yamaha	MU90	PFM -> Int	I030 Rich 12-string Guitar	
+Yamaha	MU90	PFM -> Int	I031 Pedal Steel Wheeler	
+Yamaha	MU90	PFM -> Int	I032 Chorus Guitar	
+Yamaha	MU90	PFM -> Int	I033 Hip Bais	
+Yamaha	MU90	PFM -> Int	I034 Rezzy Bass	
+Yamaha	MU90	PFM -> Int	I035 Fuzzline	
+Yamaha	MU90	PFM -> Int	I036 Bassline 1	
+Yamaha	MU90	PFM -> Int	I037 Bassline 2	
+Yamaha	MU90	PFM -> Int	I038 Pink Bass MW	
+Yamaha	MU90	PFM -> Int	I039 Vienna Strings	
+Yamaha	MU90	PFM -> Int	I040 Orchestra Plus	
+Yamaha	MU90	PFM -> Int	I041 Synth Ensemble	
+Yamaha	MU90	PFM -> Int	I042 Mello Strings	
+Yamaha	MU90	PFM -> Int	I043 Ooh Choir	
+Yamaha	MU90	PFM -> Int	I044 Compu Vox	
+Yamaha	MU90	PFM -> Int	I045 Cutting Brass	
+Yamaha	MU90	PFM -> Int	I046 Tijuana Brass	
+Yamaha	MU90	PFM -> Int	I047 CS80 Mind	
+Yamaha	MU90	PFM -> Int	I048 Fat Ensemble	
+Yamaha	MU90	PFM -> Int	I049 Tech Brass	
+Yamaha	MU90	PFM -> Int	I050 Thin Brass	
+Yamaha	MU90	PFM -> Int	I051 Mono Wire Lead	
+Yamaha	MU90	PFM -> Int	I052 Vintage Lead	
+Yamaha	MU90	PFM -> Int	I053 Sticky Lead	
+Yamaha	MU90	PFM -> Int	I054 Saww Lead	
+Yamaha	MU90	PFM -> Int	I055 Fat Glide	
+Yamaha	MU90	PFM -> Int	I056 Early Lead	
+Yamaha	MU90	PFM -> Int	I057 Dreamer	
+Yamaha	MU90	PFM -> Int	I058 Slow Sweep	
+Yamaha	MU90	PFM -> Int	I059 Flower	
+Yamaha	MU90	PFM -> Int	I060 High Light	
+Yamaha	MU90	PFM -> Int	I061 DX Lover	
+Yamaha	MU90	PFM -> Int	I062 Clav Western	
+Yamaha	MU90	PFM -> Int	I063 TX802 EP	
+Yamaha	MU90	PFM -> Int	I064 Chorus DX EP	
+Yamaha	MU90	PFM -> Int	I065 EP Velo SW	
+Yamaha	MU90	PFM -> Int	I066 Cool Vibes	
+Yamaha	MU90	PFM -> Int	I067 Poly Syn	
+Yamaha	MU90	PFM -> Int	I068 Tech Chord 2	
+Yamaha	MU90	PFM -> Int	I069 Hi Pass SQ 1	
+Yamaha	MU90	PFM -> Int	I070 Eight Oscis	
+Yamaha	MU90	PFM -> Int	I071 HPF Flight	
+Yamaha	MU90	PFM -> Int	I072 Acid Hook	
+Yamaha	MU90	PFM -> Int	I073 Fat Comp	
+Yamaha	MU90	PFM -> Int	I074 70s Rock Organ	
+Yamaha	MU90	PFM -> Int	I075 Click Organ MW	
+Yamaha	MU90	PFM -> Int	I076 Nice Organ	
+Yamaha	MU90	PFM -> Int	I077 Sacral Organ	
+Yamaha	MU90	PFM -> Int	I078 Baroque Feel	
+Yamaha	MU90	PFM -> Int	I079 Plain Pipe	
+Yamaha	MU90	PFM -> Int	I080 French Accordion	
+Yamaha	MU90	PFM -> Int	I081 Lambada Accordion	
+Yamaha	MU90	PFM -> Int	I082 Vacuum Bass	
+Yamaha	MU90	PFM -> Int	I083 Water Phase Bass	
+Yamaha	MU90	PFM -> Int	I084 Frankfurt Bass	
+Yamaha	MU90	PFM -> Int	I085 Pizza Time	
+Yamaha	MU90	PFM -> Int	I086 Soft Sax Section	
+Yamaha	MU90	PFM -> Int	I087 Banjo Man	
+Yamaha	MU90	PFM -> Int	I088 Kanoonics	
+Yamaha	MU90	PFM -> Int	I089 Devil's House	
+Yamaha	MU90	PFM -> Int	I090 Alien	
+Yamaha	MU90	PFM -> Int	I091 Sea View	
+Yamaha	MU90	PFM -> Int	I092 Phat & Funky	
+Yamaha	MU90	PFM -> Int	I093 Horn & Strings	
+Yamaha	MU90	PFM -> Int	I094 Clavorgue	
+Yamaha	MU90	PFM -> Int	I095 1950's Jazz	
+Yamaha	MU90	PFM -> Int	I096 Mari Voice	
+Yamaha	MU90	PFM -> Int	I097 Sweepy Line	
+Yamaha	MU90	PFM -> Int	I098 Blue & Blue	
+Yamaha	MU90	PFM -> Int	I099 Space Legend	
+Yamaha	MU90	PFM -> Int	I100 Z-Hole	

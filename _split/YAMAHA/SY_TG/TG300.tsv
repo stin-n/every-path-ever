@@ -1,0 +1,861 @@
+Yamaha	TG300	GM-A	001 000 GrandPno	
+Yamaha	TG300	GM-A	001 008 GrndPnoK	
+Yamaha	TG300	GM-A	001 016 GrndPnoM	
+Yamaha	TG300	GM-A	002 000 BritePno	
+Yamaha	TG300	GM-A	002 008 BritPnoK	
+Yamaha	TG300	GM-A	003 000 E.Grand	
+Yamaha	TG300	GM-A	003 008 ElGrPnoK	
+Yamaha	TG300	GM-A	004 000 HnkyTonk	
+Yamaha	TG300	GM-A	004 008 HnkyTnkK	
+Yamaha	TG300	GM-A	005 000 E.Piano1	
+Yamaha	TG300	GM-A	005 008 E.Pno1CH	
+Yamaha	TG300	GM-A	005 016 E.Pno1VS	
+Yamaha	TG300	GM-A	005 024 E.P1 60s	
+Yamaha	TG300	GM-A	005 032 E.Pno1 K	
+Yamaha	TG300	GM-A	006 000 E.Piano2	
+Yamaha	TG300	GM-A	006 008 E.Pno2CH	
+Yamaha	TG300	GM-A	006 016 E.Pno2VS	
+Yamaha	TG300	GM-A	006 032 E.Pno2 K	
+Yamaha	TG300	GM-A	007 000 Harpsi.	
+Yamaha	TG300	GM-A	007 008 Harpsi.O	
+Yamaha	TG300	GM-A	007 016 Harpsi.K	
+Yamaha	TG300	GM-A	007 024 Harpsi.R	
+Yamaha	TG300	GM-A	008 000 Clavi.	
+Yamaha	TG300	GM-A	008 008 Clavi. K	
+Yamaha	TG300	GM-A	009 000 Celesta	
+Yamaha	TG300	GM-A	010 000 Glocken	
+Yamaha	TG300	GM-A	011 000 MusicBox	
+Yamaha	TG300	GM-A	012 000 Vibes	
+Yamaha	TG300	GM-A	012 008 Vibes K	
+Yamaha	TG300	GM-A	013 000 Marimba	
+Yamaha	TG300	GM-A	013 008 MarimbaK	
+Yamaha	TG300	GM-A	014 000 Xylophon	
+Yamaha	TG300	GM-A	015 000 TubulBel	
+Yamaha	TG300	GM-A	015 008 ChrchBel	
+Yamaha	TG300	GM-A	016 000 Dulcimer	
+Yamaha	TG300	GM-A	017 000 DrawOrgn	
+Yamaha	TG300	GM-A	017 008 DrwOrgCH	
+Yamaha	TG300	GM-A	017 016 DrOrg60s	
+Yamaha	TG300	GM-A	017 032 DrawOrg2	
+Yamaha	TG300	GM-A	018 000 PercOrgn	
+Yamaha	TG300	GM-A	018 008 PerOrgCH	
+Yamaha	TG300	GM-A	018 032 PercOrg2	
+Yamaha	TG300	GM-A	019 000 RockOrgn	
+Yamaha	TG300	GM-A	020 000 ChrchOrg	
+Yamaha	TG300	GM-A	020 008 ChrcOrg2	
+Yamaha	TG300	GM-A	020 016 ChrcOrg3	
+Yamaha	TG300	GM-A	021 000 ReedOrgn	
+Yamaha	TG300	GM-A	022 000 Acordion	
+Yamaha	TG300	GM-A	022 008 Acrdion2	
+Yamaha	TG300	GM-A	023 000 Harmnica	
+Yamaha	TG300	GM-A	024 000 TangoAcd	
+Yamaha	TG300	GM-A	025 000 NylonGtr	
+Yamaha	TG300	GM-A	025 008 Ukulele	
+Yamaha	TG300	GM-A	025 016 NylonGtR	
+Yamaha	TG300	GM-A	025 032 NylonGtB	
+Yamaha	TG300	GM-A	026 000 SteelGtr	
+Yamaha	TG300	GM-A	026 008 12StrGtr	
+Yamaha	TG300	GM-A	026 016 Mandolin	
+Yamaha	TG300	GM-A	027 000 Jazz Gtr	
+Yamaha	TG300	GM-A	027 008 Hawaiian	
+Yamaha	TG300	GM-A	028 000 CleanGtr	
+Yamaha	TG300	GM-A	028 008 ClnGtrCH	
+Yamaha	TG300	GM-A	029 000 Mute.Gtr	
+Yamaha	TG300	GM-A	029 008 FunkGtr1	
+Yamaha	TG300	GM-A	029 016 FunkGtr2	
+Yamaha	TG300	GM-A	030 000 Ovrdrive	
+Yamaha	TG300	GM-A	031 000 Dist.Gtr	
+Yamaha	TG300	GM-A	031 008 FeedbkGt	
+Yamaha	TG300	GM-A	032 000 GtrHarmo	
+Yamaha	TG300	GM-A	032 008 GtFeedbk	
+Yamaha	TG300	GM-A	033 000 Aco.Bass	
+Yamaha	TG300	GM-A	034 000 FngrBass	
+Yamaha	TG300	GM-A	035 000 PickBass	
+Yamaha	TG300	GM-A	036 000 Fretless	
+Yamaha	TG300	GM-A	037 000 SlapBas1	
+Yamaha	TG300	GM-A	038 000 SlapBas2	
+Yamaha	TG300	GM-A	039 000 SynBass1	
+Yamaha	TG300	GM-A	039 001 SynBass5	
+Yamaha	TG300	GM-A	039 008 SynBass3	
+Yamaha	TG300	GM-A	040 000 SynBass2	
+Yamaha	TG300	GM-A	040 008 SynBass4	
+Yamaha	TG300	GM-A	040 016 RubberBs	
+Yamaha	TG300	GM-A	041 000 Violin	
+Yamaha	TG300	GM-A	041 008 ViolinSA	
+Yamaha	TG300	GM-A	042 000 Viola	
+Yamaha	TG300	GM-A	043 000 Cello	
+Yamaha	TG300	GM-A	044 000 Contrabs	
+Yamaha	TG300	GM-A	045 000 Trem.Str	
+Yamaha	TG300	GM-A	046 000 Pizz.Str	
+Yamaha	TG300	GM-A	047 000 Harp	
+Yamaha	TG300	GM-A	048 000 Timpani	
+Yamaha	TG300	GM-A	049 000 Strings1	
+Yamaha	TG300	GM-A	049 008 OrchEns.	
+Yamaha	TG300	GM-A	050 000 Strings2	
+Yamaha	TG300	GM-A	051 000 Syn.Str1	
+Yamaha	TG300	GM-A	051 008 Syn.Str3	
+Yamaha	TG300	GM-A	052 000 Syn.Str2	
+Yamaha	TG300	GM-A	053 000 ChoirAah	
+Yamaha	TG300	GM-A	053 032 ChoirAh2	
+Yamaha	TG300	GM-A	054 000 VoiceOoh	
+Yamaha	TG300	GM-A	055 000 SynVoice	
+Yamaha	TG300	GM-A	056 000 Orch.Hit	
+Yamaha	TG300	GM-A	056 001 Orch.Ht2	
+Yamaha	TG300	GM-A	057 000 Trumpet	
+Yamaha	TG300	GM-A	058 000 Trombone	
+Yamaha	TG300	GM-A	058 001 Trmbone2	
+Yamaha	TG300	GM-A	059 000 Tuba	
+Yamaha	TG300	GM-A	060 000 Mute.Trp	
+Yamaha	TG300	GM-A	061 000 Fr.Horn	
+Yamaha	TG300	GM-A	061 001 FrHorn2	
+Yamaha	TG300	GM-A	062 000 BrasSect	
+Yamaha	TG300	GM-A	062 008 BrasSct2	
+Yamaha	TG300	GM-A	063 000 SynBras1	
+Yamaha	TG300	GM-A	063 008 SynBras3	
+Yamaha	TG300	GM-A	063 016 AnaBras1	
+Yamaha	TG300	GM-A	064 000 SynBras2	
+Yamaha	TG300	GM-A	064 008 SynBras4	
+Yamaha	TG300	GM-A	064 016 AnaBras2	
+Yamaha	TG300	GM-A	065 000 SprnoSax	
+Yamaha	TG300	GM-A	066 000 Alto Sax	
+Yamaha	TG300	GM-A	067 000 TenorSax	
+Yamaha	TG300	GM-A	068 000 Bari.Sax	
+Yamaha	TG300	GM-A	069 000 Oboe	
+Yamaha	TG300	GM-A	070 000 Eng.Horn	
+Yamaha	TG300	GM-A	071 000 Bassoon	
+Yamaha	TG300	GM-A	072 000 Clarinet	
+Yamaha	TG300	GM-A	073 000 Piccolo	
+Yamaha	TG300	GM-A	074 000 Flute	
+Yamaha	TG300	GM-A	075 000 Recorder	
+Yamaha	TG300	GM-A	076 000 PanFlute	
+Yamaha	TG300	GM-A	077 000 Bottle	
+Yamaha	TG300	GM-A	078 000 Shakhchi	
+Yamaha	TG300	GM-A	079 000 Whistle	
+Yamaha	TG300	GM-A	080 000 Ocarina	
+Yamaha	TG300	GM-A	081 000 SquareLd	
+Yamaha	TG300	GM-A	081 001 Square 2	
+Yamaha	TG300	GM-A	081 008 Sine Ld	
+Yamaha	TG300	GM-A	082 000 Saw.Lead	
+Yamaha	TG300	GM-A	082 001 Saw 2	
+Yamaha	TG300	GM-A	082 008 Lead Dr.	
+Yamaha	TG300	GM-A	083 000 CaliopLd	
+Yamaha	TG300	GM-A	084 000 Chiff Ld	
+Yamaha	TG300	GM-A	085 000 CharanLd	
+Yamaha	TG300	GM-A	086 000 Voice Ld	
+Yamaha	TG300	GM-A	087 000 Fifth Ld	
+Yamaha	TG300	GM-A	088 000 Bass &Ld	
+Yamaha	TG300	GM-A	089 000 NewAgePd	
+Yamaha	TG300	GM-A	090 000 Warm Pad	
+Yamaha	TG300	GM-A	091 000 PolySyPd	
+Yamaha	TG300	GM-A	092 000 ChoirPad	
+Yamaha	TG300	GM-A	093 000 BowedPad	
+Yamaha	TG300	GM-A	094 000 MetalPad	
+Yamaha	TG300	GM-A	095 000 Halo Pad	
+Yamaha	TG300	GM-A	096 000 SweepPad	
+Yamaha	TG300	GM-A	097 000 Rain	
+Yamaha	TG300	GM-A	098 000 SoundTrk	
+Yamaha	TG300	GM-A	099 000 Crystal	
+Yamaha	TG300	GM-A	099 001 SyMallet	
+Yamaha	TG300	GM-A	100 000 Atmosphr	
+Yamaha	TG300	GM-A	101 000 Bright	
+Yamaha	TG300	GM-A	102 000 Goblins	
+Yamaha	TG300	GM-A	103 000 Echoes	
+Yamaha	TG300	GM-A	103 001 Echoes 2	
+Yamaha	TG300	GM-A	103 002 Echoes 3	
+Yamaha	TG300	GM-A	104 000 Sci-Fi	
+Yamaha	TG300	GM-A	105 000 Sitar	
+Yamaha	TG300	GM-A	105 001 Sitar 2	
+Yamaha	TG300	GM-A	106 000 Banjo	
+Yamaha	TG300	GM-A	107 000 Shamisen	
+Yamaha	TG300	GM-A	108 000 Koto	
+Yamaha	TG300	GM-A	108 008 TaishoKt	
+Yamaha	TG300	GM-A	109 000 Kalimba	
+Yamaha	TG300	GM-A	110 000 Bagpipe	
+Yamaha	TG300	GM-A	111 000 Fiddle	
+Yamaha	TG300	GM-A	112 000 Shanai	
+Yamaha	TG300	GM-A	113 000 TnklBell	
+Yamaha	TG300	GM-A	114 000 Agogo	
+Yamaha	TG300	GM-A	115 000 SteelDrm	
+Yamaha	TG300	GM-A	116 000 WoodBlok	
+Yamaha	TG300	GM-A	116 008 Castanet	
+Yamaha	TG300	GM-A	117 000 TaikoDrm	
+Yamaha	TG300	GM-A	117 008 GranCasa	
+Yamaha	TG300	GM-A	118 000 MelodTom	
+Yamaha	TG300	GM-A	118 008 MeloTom2	
+Yamaha	TG300	GM-A	119 000 Syn.Drum	
+Yamaha	TG300	GM-A	119 008 AnalgTom	
+Yamaha	TG300	GM-A	120 000 RevCymbl	
+Yamaha	TG300	GM-A	121 000 FretNoiz	
+Yamaha	TG300	GM-A	122 000 BrthNoiz	
+Yamaha	TG300	GM-A	123 000 Seashore	
+Yamaha	TG300	GM-A	124 000 Tweet	
+Yamaha	TG300	GM-A	125 000 Telphone	
+Yamaha	TG300	GM-A	126 000 Helicptr	
+Yamaha	TG300	GM-A	127 000 Applause	
+Yamaha	TG300	GM-A	128 000 Gunshot	
+Yamaha	TG300	GM-A -> Drum Kit	001 Standard Kit	
+Yamaha	TG300	GM-A -> Drum Kit	009 Room Kit	
+Yamaha	TG300	GM-A -> Drum Kit	017 Rock kit	
+Yamaha	TG300	GM-A -> Drum Kit	025 Electronic Kit	
+Yamaha	TG300	GM-A -> Drum Kit	026 Analog Kit	
+Yamaha	TG300	GM-A -> Drum Kit	041 Brush Kit	
+Yamaha	TG300	GM-B	001 000 GrandPno	
+Yamaha	TG300	GM-B	001 008 GrndPnoK	
+Yamaha	TG300	GM-B	001 016 GrndPnoM	
+Yamaha	TG300	GM-B	002 000 BritePno	
+Yamaha	TG300	GM-B	002 008 BritPnoK	
+Yamaha	TG300	GM-B	003 000 E.Grand	
+Yamaha	TG300	GM-B	003 008 ElGrPnoK	
+Yamaha	TG300	GM-B	004 000 HnkyTonk	
+Yamaha	TG300	GM-B	004 008 HnkyTnkK	
+Yamaha	TG300	GM-B	005 000 E.Piano1	
+Yamaha	TG300	GM-B	005 008 E.Pno1CH	
+Yamaha	TG300	GM-B	005 016 E.Pno1VS	
+Yamaha	TG300	GM-B	005 024 E.P1 60s	
+Yamaha	TG300	GM-B	005 032 E.Pno1 K	
+Yamaha	TG300	GM-B	006 000 E.Piano2	
+Yamaha	TG300	GM-B	006 008 E.Pno2CH	
+Yamaha	TG300	GM-B	006 016 E.Pno2VS	
+Yamaha	TG300	GM-B	006 032 E.Pno2 K	
+Yamaha	TG300	GM-B	007 000 Harpsi.	
+Yamaha	TG300	GM-B	007 008 Harpsi.O	
+Yamaha	TG300	GM-B	007 016 Harpsi.K	
+Yamaha	TG300	GM-B	007 024 Harpsi.R	
+Yamaha	TG300	GM-B	008 000 Clavi.	
+Yamaha	TG300	GM-B	008 008 Clavi. K	
+Yamaha	TG300	GM-B	009 000 Celesta	
+Yamaha	TG300	GM-B	010 000 Glocken	
+Yamaha	TG300	GM-B	011 000 MusicBox	
+Yamaha	TG300	GM-B	012 000 Vibes	
+Yamaha	TG300	GM-B	012 008 Vibes K	
+Yamaha	TG300	GM-B	013 000 Marimba	
+Yamaha	TG300	GM-B	013 008 MarimbaK	
+Yamaha	TG300	GM-B	014 000 Xylophon	
+Yamaha	TG300	GM-B	015 000 TubulBel	
+Yamaha	TG300	GM-B	015 008 ChrchBel	
+Yamaha	TG300	GM-B	015 009 Carillon	
+Yamaha	TG300	GM-B	016 000 Dulcimer	
+Yamaha	TG300	GM-B	017 000 DrawOrgn	
+Yamaha	TG300	GM-B	017 008 DrwOrgCH	
+Yamaha	TG300	GM-B	017 016 DrOrg60s	
+Yamaha	TG300	GM-B	017 032 DrawOrg2	
+Yamaha	TG300	GM-B	018 000 PercOrgn	
+Yamaha	TG300	GM-B	018 008 PerOrgCH	
+Yamaha	TG300	GM-B	018 032 PercOrg2	
+Yamaha	TG300	GM-B	019 000 RockOrgn	
+Yamaha	TG300	GM-B	020 000 ChrchOrg	
+Yamaha	TG300	GM-B	020 008 ChrcOrg2	
+Yamaha	TG300	GM-B	020 016 ChrcOrg3	
+Yamaha	TG300	GM-B	021 000 ReedOrgn	
+Yamaha	TG300	GM-B	022 000 Acordion	
+Yamaha	TG300	GM-B	022 008 Acrdion2	
+Yamaha	TG300	GM-B	023 000 Harmnica	
+Yamaha	TG300	GM-B	024 000 TangoAcd	
+Yamaha	TG300	GM-B	025 000 NylonGtr	
+Yamaha	TG300	GM-B	025 008 Ukulele	
+Yamaha	TG300	GM-B	025 016 NylonGtR	
+Yamaha	TG300	GM-B	025 032 NylonGtB	
+Yamaha	TG300	GM-B	026 000 SteelGtr	
+Yamaha	TG300	GM-B	026 008 12StrGtr	
+Yamaha	TG300	GM-B	026 016 Mandolin	
+Yamaha	TG300	GM-B	027 000 Jazz Gtr	
+Yamaha	TG300	GM-B	027 008 Hawaiian	
+Yamaha	TG300	GM-B	028 000 CleanGtr	
+Yamaha	TG300	GM-B	028 008 ClnGtrCH	
+Yamaha	TG300	GM-B	029 000 Mute.Gtr	
+Yamaha	TG300	GM-B	029 008 FunkGtr1	
+Yamaha	TG300	GM-B	029 016 FunkGtr2	
+Yamaha	TG300	GM-B	030 000 Ovrdrive	
+Yamaha	TG300	GM-B	031 000 Dist.Gtr	
+Yamaha	TG300	GM-B	031 008 FeedbkGt	
+Yamaha	TG300	GM-B	032 000 GtrHarmo	
+Yamaha	TG300	GM-B	032 008 GtFeedbk	
+Yamaha	TG300	GM-B	033 000 Aco.Bass	
+Yamaha	TG300	GM-B	034 000 FngrBass	
+Yamaha	TG300	GM-B	035 000 PickBass	
+Yamaha	TG300	GM-B	036 000 Fretless	
+Yamaha	TG300	GM-B	037 000 SlapBas1	
+Yamaha	TG300	GM-B	038 000 SlapBas2	
+Yamaha	TG300	GM-B	039 000 SynBass1	
+Yamaha	TG300	GM-B	039 001 SynBass5	
+Yamaha	TG300	GM-B	039 008 SynBass3	
+Yamaha	TG300	GM-B	040 000 SynBass2	
+Yamaha	TG300	GM-B	040 008 SynBass4	
+Yamaha	TG300	GM-B	040 016 RubberBs	
+Yamaha	TG300	GM-B	041 000 Violin	
+Yamaha	TG300	GM-B	041 008 ViolinSA	
+Yamaha	TG300	GM-B	042 000 Viola	
+Yamaha	TG300	GM-B	043 000 Cello	
+Yamaha	TG300	GM-B	044 000 Contrabs	
+Yamaha	TG300	GM-B	045 000 Trem.Str	
+Yamaha	TG300	GM-B	046 000 Pizz.Str	
+Yamaha	TG300	GM-B	047 000 Harp	
+Yamaha	TG300	GM-B	048 000 Timpani	
+Yamaha	TG300	GM-B	049 000 Strings1	
+Yamaha	TG300	GM-B	049 008 OrchEns.	
+Yamaha	TG300	GM-B	050 000 Strings2	
+Yamaha	TG300	GM-B	051 000 Syn.Str1	
+Yamaha	TG300	GM-B	051 008 Syn.Str3	
+Yamaha	TG300	GM-B	052 000 Syn.Str2	
+Yamaha	TG300	GM-B	053 000 ChoirAah	
+Yamaha	TG300	GM-B	053 032 ChoirAh2	
+Yamaha	TG300	GM-B	054 000 VoiceOoh	
+Yamaha	TG300	GM-B	055 000 SynVoice	
+Yamaha	TG300	GM-B	056 000 Orch.Hit	
+Yamaha	TG300	GM-B	056 001 Orch.Ht2	
+Yamaha	TG300	GM-B	057 000 Trumpet	
+Yamaha	TG300	GM-B	058 000 Trombone	
+Yamaha	TG300	GM-B	058 001 Trmbone2	
+Yamaha	TG300	GM-B	059 000 Tuba	
+Yamaha	TG300	GM-B	060 000 Mute.Trp	
+Yamaha	TG300	GM-B	061 000 Fr.Horn	
+Yamaha	TG300	GM-B	061 001 FrHorn2	
+Yamaha	TG300	GM-B	062 000 BrasSect	
+Yamaha	TG300	GM-B	062 008 BrasSct2	
+Yamaha	TG300	GM-B	063 000 SynBras1	
+Yamaha	TG300	GM-B	063 008 SynBras3	
+Yamaha	TG300	GM-B	063 016 AnaBras1	
+Yamaha	TG300	GM-B	064 000 SynBras2	
+Yamaha	TG300	GM-B	064 008 SynBras4	
+Yamaha	TG300	GM-B	064 016 AnaBras2	
+Yamaha	TG300	GM-B	065 000 SprnoSax	
+Yamaha	TG300	GM-B	066 000 Alto Sax	
+Yamaha	TG300	GM-B	067 000 TenorSax	
+Yamaha	TG300	GM-B	068 000 Bari.Sax	
+Yamaha	TG300	GM-B	069 000 Oboe	
+Yamaha	TG300	GM-B	070 000 Eng.Horn	
+Yamaha	TG300	GM-B	071 000 Bassoon	
+Yamaha	TG300	GM-B	072 000 Clarinet	
+Yamaha	TG300	GM-B	073 000 Piccolo	
+Yamaha	TG300	GM-B	074 000 Flute	
+Yamaha	TG300	GM-B	075 000 Recorder	
+Yamaha	TG300	GM-B	076 000 PanFlute	
+Yamaha	TG300	GM-B	077 000 Bottle	
+Yamaha	TG300	GM-B	078 000 Shakhchi	
+Yamaha	TG300	GM-B	079 000 Whistle	
+Yamaha	TG300	GM-B	080 000 Ocarina	
+Yamaha	TG300	GM-B	081 000 SquareLd	
+Yamaha	TG300	GM-B	081 001 Square 2	
+Yamaha	TG300	GM-B	081 008 Sine Ld	
+Yamaha	TG300	GM-B	082 000 Saw.Lead	
+Yamaha	TG300	GM-B	082 001 Saw 2	
+Yamaha	TG300	GM-B	082 008 Lead Dr.	
+Yamaha	TG300	GM-B	083 000 CaliopLd	
+Yamaha	TG300	GM-B	084 000 Chiff Ld	
+Yamaha	TG300	GM-B	085 000 CharanLd	
+Yamaha	TG300	GM-B	086 000 Voice Ld	
+Yamaha	TG300	GM-B	087 000 Fifth Ld	
+Yamaha	TG300	GM-B	088 000 Bass &Ld	
+Yamaha	TG300	GM-B	089 000 NewAgePd	
+Yamaha	TG300	GM-B	090 000 Warm Pad	
+Yamaha	TG300	GM-B	091 000 PolySyPd	
+Yamaha	TG300	GM-B	092 000 ChoirPad	
+Yamaha	TG300	GM-B	093 000 BowedPad	
+Yamaha	TG300	GM-B	094 000 MetalPad	
+Yamaha	TG300	GM-B	095 000 Halo Pad	
+Yamaha	TG300	GM-B	096 000 SweepPad	
+Yamaha	TG300	GM-B	097 000 Rain	
+Yamaha	TG300	GM-B	098 000 SoundTrk	
+Yamaha	TG300	GM-B	099 000 Crystal	
+Yamaha	TG300	GM-B	099 001 SyMallet	
+Yamaha	TG300	GM-B	100 000 Atmosphr	
+Yamaha	TG300	GM-B	101 000 Bright	
+Yamaha	TG300	GM-B	102 000 Goblins	
+Yamaha	TG300	GM-B	103 000 Echoes	
+Yamaha	TG300	GM-B	103 001 Echoes 2	
+Yamaha	TG300	GM-B	103 002 Echoes 3	
+Yamaha	TG300	GM-B	104 000 Sci-Fi	
+Yamaha	TG300	GM-B	105 000 Sitar	
+Yamaha	TG300	GM-B	105 001 Sitar 2	
+Yamaha	TG300	GM-B	106 000 Banjo	
+Yamaha	TG300	GM-B	107 000 Shamisen	
+Yamaha	TG300	GM-B	108 000 Koto	
+Yamaha	TG300	GM-B	108 008 TaishoKt	
+Yamaha	TG300	GM-B	109 000 Kalimba	
+Yamaha	TG300	GM-B	110 000 Bagpipe	
+Yamaha	TG300	GM-B	111 000 Fiddle	
+Yamaha	TG300	GM-B	112 000 Shanai	
+Yamaha	TG300	GM-B	113 000 TnklBell	
+Yamaha	TG300	GM-B	114 000 Agogo	
+Yamaha	TG300	GM-B	115 000 SteelDrm	
+Yamaha	TG300	GM-B	116 000 WoodBlok	
+Yamaha	TG300	GM-B	116 008 Castanet	
+Yamaha	TG300	GM-B	117 000 TaikoDrm	
+Yamaha	TG300	GM-B	117 008 GranCasa	
+Yamaha	TG300	GM-B	118 000 MelodTom	
+Yamaha	TG300	GM-B	118 008 MeloTom2	
+Yamaha	TG300	GM-B	119 000 Syn.Drum	
+Yamaha	TG300	GM-B	119 008 AnalgTom	
+Yamaha	TG300	GM-B	119 009 Elec Tom	
+Yamaha	TG300	GM-B	120 000 RevCymbl	
+Yamaha	TG300	GM-B	121 000 FretNoiz	
+Yamaha	TG300	GM-B	121 001 CuttngNz	
+Yamaha	TG300	GM-B	121 002 Str Slap	
+Yamaha	TG300	GM-B	122 000 BrthNoiz	
+Yamaha	TG300	GM-B	122 001 Fl.KClik	
+Yamaha	TG300	GM-B	123 000 Seashore	
+Yamaha	TG300	GM-B	123 001 Rain	
+Yamaha	TG300	GM-B	123 002 Thunder	
+Yamaha	TG300	GM-B	123 003 Wind	
+Yamaha	TG300	GM-B	123 004 Stream	
+Yamaha	TG300	GM-B	123 005 Bubble	
+Yamaha	TG300	GM-B	124 000 Tweet	
+Yamaha	TG300	GM-B	124 001 Dog	
+Yamaha	TG300	GM-B	124 002 Horse	
+Yamaha	TG300	GM-B	124 003 Bird 2	
+Yamaha	TG300	GM-B	124 004 Dinosaur	
+Yamaha	TG300	GM-B	125 000 Telphone	
+Yamaha	TG300	GM-B	125 001 Tel.Dial	
+Yamaha	TG300	GM-B	125 002 DoorSqek	
+Yamaha	TG300	GM-B	125 003 DoorSlam	
+Yamaha	TG300	GM-B	125 004 Scratch	
+Yamaha	TG300	GM-B	125 005 WindChim	
+Yamaha	TG300	GM-B	126 000 Helicptr	
+Yamaha	TG300	GM-B	126 001 CarEngin	
+Yamaha	TG300	GM-B	126 002 Car Stop	
+Yamaha	TG300	GM-B	126 003 Car Pass	
+Yamaha	TG300	GM-B	126 004 CarCrash	
+Yamaha	TG300	GM-B	126 005 Siren	
+Yamaha	TG300	GM-B	126 006 Train	
+Yamaha	TG300	GM-B	126 007 Jetplain	
+Yamaha	TG300	GM-B	126 008 StarShip	
+Yamaha	TG300	GM-B	126 009 Burst	
+Yamaha	TG300	GM-B	126 016 Coaster	
+Yamaha	TG300	GM-B	127 000 Applause	
+Yamaha	TG300	GM-B	127 001 Laghing	
+Yamaha	TG300	GM-B	127 002 Scream	
+Yamaha	TG300	GM-B	127 003 Punch	
+Yamaha	TG300	GM-B	127 004 Heart	
+Yamaha	TG300	GM-B	127 005 FootStep	
+Yamaha	TG300	GM-B	128 000 Gunshot	
+Yamaha	TG300	GM-B	128 001 MchinGun	
+Yamaha	TG300	GM-B	128 002 LaserGun	
+Yamaha	TG300	GM-B	128 003 Xplosion	
+Yamaha	TG300	GM-B -> Drum Kit	001 Standard Kit	
+Yamaha	TG300	GM-B -> Drum Kit	009 Room Kit	
+Yamaha	TG300	GM-B -> Drum Kit	017 Power Kit	
+Yamaha	TG300	GM-B -> Drum Kit	025 Electronic Kit	
+Yamaha	TG300	GM-B -> Drum Kit	026 Analog Kit	
+Yamaha	TG300	GM-B -> Drum Kit	041 Brush Kit	
+Yamaha	TG300	GM-B -> Drum Kit	049 Orchestra Kit	
+Yamaha	TG300	GM-B -> Drum Kit	057 SFX Set	
+Yamaha	TG300	C/M -> Parts 01~09	001 a.piano1	
+Yamaha	TG300	C/M -> Parts 01~09	002 a.piano2	
+Yamaha	TG300	C/M -> Parts 01~09	003 a.piano3	
+Yamaha	TG300	C/M -> Parts 01~09	004 e.piano1	
+Yamaha	TG300	C/M -> Parts 01~09	005 e.piano2	
+Yamaha	TG300	C/M -> Parts 01~09	006 e.piano3	
+Yamaha	TG300	C/M -> Parts 01~09	007 e.piano4	
+Yamaha	TG300	C/M -> Parts 01~09	008 hnkytnk	
+Yamaha	TG300	C/M -> Parts 01~09	009 e.organ1	
+Yamaha	TG300	C/M -> Parts 01~09	010 e.organ2	
+Yamaha	TG300	C/M -> Parts 01~09	011 e.organ3	
+Yamaha	TG300	C/M -> Parts 01~09	012 e.organ4	
+Yamaha	TG300	C/M -> Parts 01~09	013 pipeorg1	
+Yamaha	TG300	C/M -> Parts 01~09	014 pipeorg2	
+Yamaha	TG300	C/M -> Parts 01~09	015 pipeorg3	
+Yamaha	TG300	C/M -> Parts 01~09	016 acordion	
+Yamaha	TG300	C/M -> Parts 01~09	017 harpsi1	
+Yamaha	TG300	C/M -> Parts 01~09	018 harpsi2	
+Yamaha	TG300	C/M -> Parts 01~09	019 harpsi3	
+Yamaha	TG300	C/M -> Parts 01~09	020 clavi 1	
+Yamaha	TG300	C/M -> Parts 01~09	021 clavi 2	
+Yamaha	TG300	C/M -> Parts 01~09	022 clavi 3	
+Yamaha	TG300	C/M -> Parts 01~09	023 celesta1	
+Yamaha	TG300	C/M -> Parts 01~09	024 celesta2	
+Yamaha	TG300	C/M -> Parts 01~09	025 synbras1	
+Yamaha	TG300	C/M -> Parts 01~09	026 synbras2	
+Yamaha	TG300	C/M -> Parts 01~09	027 synbras3	
+Yamaha	TG300	C/M -> Parts 01~09	028 synbras4	
+Yamaha	TG300	C/M -> Parts 01~09	029 synbass1	
+Yamaha	TG300	C/M -> Parts 01~09	030 synbass2	
+Yamaha	TG300	C/M -> Parts 01~09	031 synbass3	
+Yamaha	TG300	C/M -> Parts 01~09	032 synbass4	
+Yamaha	TG300	C/M -> Parts 01~09	033 newagepd	
+Yamaha	TG300	C/M -> Parts 01~09	034 synharmo	
+Yamaha	TG300	C/M -> Parts 01~09	035 choir pd	
+Yamaha	TG300	C/M -> Parts 01~09	036 bowed pd	
+Yamaha	TG300	C/M -> Parts 01~09	037 soundtrk	
+Yamaha	TG300	C/M -> Parts 01~09	038 atmosphr	
+Yamaha	TG300	C/M -> Parts 01~09	039 syn warm	
+Yamaha	TG300	C/M -> Parts 01~09	040 synfunny	
+Yamaha	TG300	C/M -> Parts 01~09	041 synecho1	
+Yamaha	TG300	C/M -> Parts 01~09	042 rain	
+Yamaha	TG300	C/M -> Parts 01~09	043 synoboe	
+Yamaha	TG300	C/M -> Parts 01~09	044 synecho2	
+Yamaha	TG300	C/M -> Parts 01~09	045 synsolo	
+Yamaha	TG300	C/M -> Parts 01~09	046 synrdorg	
+Yamaha	TG300	C/M -> Parts 01~09	047 synbell	
+Yamaha	TG300	C/M -> Parts 01~09	048 squareld	
+Yamaha	TG300	C/M -> Parts 01~09	049 strsect1	
+Yamaha	TG300	C/M -> Parts 01~09	050 strsect2	
+Yamaha	TG300	C/M -> Parts 01~09	051 strsect3	
+Yamaha	TG300	C/M -> Parts 01~09	052 pizz.str	
+Yamaha	TG300	C/M -> Parts 01~09	053 violin 1	
+Yamaha	TG300	C/M -> Parts 01~09	054 violin 2	
+Yamaha	TG300	C/M -> Parts 01~09	055 cello 1	
+Yamaha	TG300	C/M -> Parts 01~09	056 cello 2	
+Yamaha	TG300	C/M -> Parts 01~09	057 contrabs	
+Yamaha	TG300	C/M -> Parts 01~09	058 harp 1	
+Yamaha	TG300	C/M -> Parts 01~09	059 harp 2	
+Yamaha	TG300	C/M -> Parts 01~09	060 guitar 1	
+Yamaha	TG300	C/M -> Parts 01~09	061 guitar 2	
+Yamaha	TG300	C/M -> Parts 01~09	062 elecgtr1	
+Yamaha	TG300	C/M -> Parts 01~09	063 elecgtr2	
+Yamaha	TG300	C/M -> Parts 01~09	064 sitar	
+Yamaha	TG300	C/M -> Parts 01~09	065 a.bass 1	
+Yamaha	TG300	C/M -> Parts 01~09	066 a.bass 2	
+Yamaha	TG300	C/M -> Parts 01~09	067 e.bass 1	
+Yamaha	TG300	C/M -> Parts 01~09	068 e.bass 2	
+Yamaha	TG300	C/M -> Parts 01~09	069 slapbas1	
+Yamaha	TG300	C/M -> Parts 01~09	070 slapbas2	
+Yamaha	TG300	C/M -> Parts 01~09	071 fretles1	
+Yamaha	TG300	C/M -> Parts 01~09	072 fretles2	
+Yamaha	TG300	C/M -> Parts 01~09	073 flute1	
+Yamaha	TG300	C/M -> Parts 01~09	074 flute2	
+Yamaha	TG300	C/M -> Parts 01~09	075 piccolo1	
+Yamaha	TG300	C/M -> Parts 01~09	076 piccolo2	
+Yamaha	TG300	C/M -> Parts 01~09	077 recorder	
+Yamaha	TG300	C/M -> Parts 01~09	078 panpipes	
+Yamaha	TG300	C/M -> Parts 01~09	079 sax1	
+Yamaha	TG300	C/M -> Parts 01~09	080 sax2	
+Yamaha	TG300	C/M -> Parts 01~09	081 sax3	
+Yamaha	TG300	C/M -> Parts 01~09	082 sax4	
+Yamaha	TG300	C/M -> Parts 01~09	083 clarint1	
+Yamaha	TG300	C/M -> Parts 01~09	084 clarint2	
+Yamaha	TG300	C/M -> Parts 01~09	085 oboe	
+Yamaha	TG300	C/M -> Parts 01~09	086 eng.horn	
+Yamaha	TG300	C/M -> Parts 01~09	087 bassoon	
+Yamaha	TG300	C/M -> Parts 01~09	088 harmnica	
+Yamaha	TG300	C/M -> Parts 01~09	089 trumpet1	
+Yamaha	TG300	C/M -> Parts 01~09	090 trumpet2	
+Yamaha	TG300	C/M -> Parts 01~09	091 trmbone1	
+Yamaha	TG300	C/M -> Parts 01~09	092 trmbone2	
+Yamaha	TG300	C/M -> Parts 01~09	093 fr.horn1	
+Yamaha	TG300	C/M -> Parts 01~09	094 fr.horn2	
+Yamaha	TG300	C/M -> Parts 01~09	095 tuba	
+Yamaha	TG300	C/M -> Parts 01~09	096 brssect1	
+Yamaha	TG300	C/M -> Parts 01~09	097 brssect2	
+Yamaha	TG300	C/M -> Parts 01~09	098 vibe1	
+Yamaha	TG300	C/M -> Parts 01~09	099 vibe2	
+Yamaha	TG300	C/M -> Parts 01~09	100 symallet	
+Yamaha	TG300	C/M -> Parts 01~09	101 maletwin	
+Yamaha	TG300	C/M -> Parts 01~09	102 glocken	
+Yamaha	TG300	C/M -> Parts 01~09	103 tubulbel	
+Yamaha	TG300	C/M -> Parts 01~09	104 xylophon	
+Yamaha	TG300	C/M -> Parts 01~09	105 marimba	
+Yamaha	TG300	C/M -> Parts 01~09	106 koto	
+Yamaha	TG300	C/M -> Parts 01~09	107 sho	
+Yamaha	TG300	C/M -> Parts 01~09	108 shakhchi	
+Yamaha	TG300	C/M -> Parts 01~09	109 whistle1	
+Yamaha	TG300	C/M -> Parts 01~09	110 whistle2	
+Yamaha	TG300	C/M -> Parts 01~09	111 bottle	
+Yamaha	TG300	C/M -> Parts 01~09	112 breath	
+Yamaha	TG300	C/M -> Parts 01~09	113 timpani	
+Yamaha	TG300	C/M -> Parts 01~09	114 melotom	
+Yamaha	TG300	C/M -> Parts 01~09	115 deepsnr	
+Yamaha	TG300	C/M -> Parts 01~09	116 e.perc1	
+Yamaha	TG300	C/M -> Parts 01~09	117 e.perc2	
+Yamaha	TG300	C/M -> Parts 01~09	118 taiko	
+Yamaha	TG300	C/M -> Parts 01~09	119 taikorim	
+Yamaha	TG300	C/M -> Parts 01~09	120 cymbal	
+Yamaha	TG300	C/M -> Parts 01~09	121 castanet	
+Yamaha	TG300	C/M -> Parts 01~09	122 triangle	
+Yamaha	TG300	C/M -> Parts 01~09	123 orchehit	
+Yamaha	TG300	C/M -> Parts 01~09	124 telphone	
+Yamaha	TG300	C/M -> Parts 01~09	125 bird	
+Yamaha	TG300	C/M -> Parts 01~09	126 jam	
+Yamaha	TG300	C/M -> Parts 01~09	127 efctwatr	
+Yamaha	TG300	C/M -> Parts 01~09	128 efctjngl	
+Yamaha	TG300	C/M -> Parts 11~16	001 A-Piano1	
+Yamaha	TG300	C/M -> Parts 11~16	002 A-Piano2	
+Yamaha	TG300	C/M -> Parts 11~16	003 A-Piano3	
+Yamaha	TG300	C/M -> Parts 11~16	004 A-Piano4	
+Yamaha	TG300	C/M -> Parts 11~16	005 A-Piano5	
+Yamaha	TG300	C/M -> Parts 11~16	006 A-Piano6	
+Yamaha	TG300	C/M -> Parts 11~16	007 A-Piano7	
+Yamaha	TG300	C/M -> Parts 11~16	008 E-Piano1	
+Yamaha	TG300	C/M -> Parts 11~16	009 E-Piano2	
+Yamaha	TG300	C/M -> Parts 11~16	010 E-Piano3	
+Yamaha	TG300	C/M -> Parts 11~16	011 A-Guitr1	
+Yamaha	TG300	C/M -> Parts 11~16	012 A-Guitr2	
+Yamaha	TG300	C/M -> Parts 11~16	013 A-Guitr3	
+Yamaha	TG300	C/M -> Parts 11~16	014 E-Guitr1	
+Yamaha	TG300	C/M -> Parts 11~16	015 E-Guitr2	
+Yamaha	TG300	C/M -> Parts 11~16	016 Slap-1	
+Yamaha	TG300	C/M -> Parts 11~16	017 Slap-2	
+Yamaha	TG300	C/M -> Parts 11~16	018 Slap-3	
+Yamaha	TG300	C/M -> Parts 11~16	019 Slap-4	
+Yamaha	TG300	C/M -> Parts 11~16	020 Slap-5	
+Yamaha	TG300	C/M -> Parts 11~16	021 Slap-6	
+Yamaha	TG300	C/M -> Parts 11~16	022 Slap-7	
+Yamaha	TG300	C/M -> Parts 11~16	023 Slap-8	
+Yamaha	TG300	C/M -> Parts 11~16	024 Finger-1	
+Yamaha	TG300	C/M -> Parts 11~16	025 Finger-2	
+Yamaha	TG300	C/M -> Parts 11~16	026 Picked-1	
+Yamaha	TG300	C/M -> Parts 11~16	027 Picked-2	
+Yamaha	TG300	C/M -> Parts 11~16	028 FretlsBs	
+Yamaha	TG300	C/M -> Parts 11~16	029 A-Bass	
+Yamaha	TG300	C/M -> Parts 11~16	030 Choir-1	
+Yamaha	TG300	C/M -> Parts 11~16	031 Choir-2	
+Yamaha	TG300	C/M -> Parts 11~16	032 Choir-3	
+Yamaha	TG300	C/M -> Parts 11~16	033 Choir-4	
+Yamaha	TG300	C/M -> Parts 11~16	034 Strngs-1	
+Yamaha	TG300	C/M -> Parts 11~16	035 Strngs-2	
+Yamaha	TG300	C/M -> Parts 11~16	036 Strngs-3	
+Yamaha	TG300	C/M -> Parts 11~16	037 Strngs-4	
+Yamaha	TG300	C/M -> Parts 11~16	038 E-Organ1	
+Yamaha	TG300	C/M -> Parts 11~16	039 E-Organ2	
+Yamaha	TG300	C/M -> Parts 11~16	040 E-Organ3	
+Yamaha	TG300	C/M -> Parts 11~16	041 E-Organ4	
+Yamaha	TG300	C/M -> Parts 11~16	042 E-Organ5	
+Yamaha	TG300	C/M -> Parts 11~16	043 E-Organ6	
+Yamaha	TG300	C/M -> Parts 11~16	044 E-Organ7	
+Yamaha	TG300	C/M -> Parts 11~16	045 E-Organ8	
+Yamaha	TG300	C/M -> Parts 11~16	046 E-Organ9	
+Yamaha	TG300	C/M -> Parts 11~16	047 SoftTP-1	
+Yamaha	TG300	C/M -> Parts 11~16	048 SoftTP-2	
+Yamaha	TG300	C/M -> Parts 11~16	049 TP/TRB-1	
+Yamaha	TG300	C/M -> Parts 11~16	050 TP/TRB-2	
+Yamaha	TG300	C/M -> Parts 11~16	051 TP/TRB-3	
+Yamaha	TG300	C/M -> Parts 11~16	052 TP/TRB-4	
+Yamaha	TG300	C/M -> Parts 11~16	053 TP/TRB-5	
+Yamaha	TG300	C/M -> Parts 11~16	054 TP/TRB-6	
+Yamaha	TG300	C/M -> Parts 11~16	055 Sax-1	
+Yamaha	TG300	C/M -> Parts 11~16	056 Sax-2	
+Yamaha	TG300	C/M -> Parts 11~16	057 Sax-3	
+Yamaha	TG300	C/M -> Parts 11~16	058 Sax-4	
+Yamaha	TG300	C/M -> Parts 11~16	059 Brass-1	
+Yamaha	TG300	C/M -> Parts 11~16	060 Brass-2	
+Yamaha	TG300	C/M -> Parts 11~16	061 Brass-3	
+Yamaha	TG300	C/M -> Parts 11~16	062 Brass-4	
+Yamaha	TG300	C/M -> Parts 11~16	063 Brass-5	
+Yamaha	TG300	C/M -> Parts 11~16	064 Orch-Hit	
+Yamaha	TG300	C/M -> Drum Kit	001 C/M Kit	
+Yamaha	TG300	Single	001 VeloGrnd	
+Yamaha	TG300	Single	002 AeroPian	
+Yamaha	TG300	Single	003 EP&Piano	
+Yamaha	TG300	Single	004 EP Pad	
+Yamaha	TG300	Single	005 Rock Org	
+Yamaha	TG300	Single	006 JimmyOrg	
+Yamaha	TG300	Single	007 KillClav	
+Yamaha	TG300	Single	008 FunkyPlk	
+Yamaha	TG300	Single	009 12String	
+Yamaha	TG300	Single	010 Snapper	
+Yamaha	TG300	Single	011 Dstrtion	
+Yamaha	TG300	Single	012 PadBass	
+Yamaha	TG300	Single	013 SQUBAs	
+Yamaha	TG300	Single	014 Nu-Age	
+Yamaha	TG300	Single	015 Fat Saw	
+Yamaha	TG300	Single	016 DigiLead	
+Yamaha	TG300	Single	017 BluesHrp	
+Yamaha	TG300	Single	018 Warrior	
+Yamaha	TG300	Single	019 VeloPad	
+Yamaha	TG300	Single	020 BrassPad	
+Yamaha	TG300	Single	021 StrngPad	
+Yamaha	TG300	Single	022 ChoirPad	
+Yamaha	TG300	Single	023 OBRSweep	
+Yamaha	TG300	Single	024 HornStr.	
+Yamaha	TG300	Single	025 St.Johns	
+Yamaha	TG300	Single	026 MAJESTIC	
+Yamaha	TG300	Single	027 RzSweep	
+Yamaha	TG300	Single	028 Electron	
+Yamaha	TG300	Single	029 JAVA	
+Yamaha	TG300	Single	030 MALI	
+Yamaha	TG300	Single	031 StarTrec	
+Yamaha	TG300	Single	032 IceCream	
+Yamaha	TG300	Waveform	001 Drum	
+Yamaha	TG300	Waveform	002 DrumAdds	
+Yamaha	TG300	Waveform	003 Percussi	
+Yamaha	TG300	Waveform	004 DR_SStic	
+Yamaha	TG300	Waveform	005 DR_Snr1	
+Yamaha	TG300	Waveform	006 DR_Snr2	
+Yamaha	TG300	Waveform	007 DR_Snr3	
+Yamaha	TG300	Waveform	008 DR_Snr4	
+Yamaha	TG300	Waveform	009 DR_Snr5	
+Yamaha	TG300	Waveform	010 DR_Snr6	
+Yamaha	TG300	Waveform	011 DR_SnrBr	
+Yamaha	TG300	Waveform	012 DR_Tom1	
+Yamaha	TG300	Waveform	013 DR_Tom2	
+Yamaha	TG300	Waveform	014 DR_Tom3	
+Yamaha	TG300	Waveform	015 DR_Tom4	
+Yamaha	TG300	Waveform	016 DR_Tom5	
+Yamaha	TG300	Waveform	017 DR_Tom6	
+Yamaha	TG300	Waveform	018 DR_Kick1	
+Yamaha	TG300	Waveform	019 DR_Kick2	
+Yamaha	TG300	Waveform	020 DR_Kick3	
+Yamaha	TG300	Waveform	021 DR_Kick4	
+Yamaha	TG300	Waveform	022 DR_BDOrc	
+Yamaha	TG300	Waveform	023 DR_Stick	
+Yamaha	TG300	Waveform	024 DR_Cym1	
+Yamaha	TG300	Waveform	025 DR_Cym2	
+Yamaha	TG300	Waveform	026 DR_Cym3	
+Yamaha	TG300	Waveform	027 DR_Cym4	
+Yamaha	TG300	Waveform	028 DR_RCym1	
+Yamaha	TG300	Waveform	029 DR_RCym2	
+Yamaha	TG300	Waveform	030 DR_RCym3	
+Yamaha	TG300	Waveform	031 DR_RCym4	
+Yamaha	TG300	Waveform	032 PC_Agogo	
+Yamaha	TG300	Waveform	033 PC_Casta	
+Yamaha	TG300	Waveform	034 PC_WBloc	
+Yamaha	TG300	Waveform	035 PC_Taiko	
+Yamaha	TG300	Waveform	036 PC_Trian	
+Yamaha	TG300	Waveform	037 AP_Grand	
+Yamaha	TG300	Waveform	038 AP_Brite	
+Yamaha	TG300	Waveform	039 AP_Honky	
+Yamaha	TG300	Waveform	040 BA_Fingr	
+Yamaha	TG300	Waveform	041 BA_Frtls	
+Yamaha	TG300	Waveform	042 BA_Pick	
+Yamaha	TG300	Waveform	043 BA_Slap1	
+Yamaha	TG300	Waveform	044 BA_Slap2	
+Yamaha	TG300	Waveform	045 BA_Thumb	
+Yamaha	TG300	Waveform	046 BA_Uprit	
+Yamaha	TG300	Waveform	047 BR_Trmpt	
+Yamaha	TG300	Waveform	048 BR_MtTrm	
+Yamaha	TG300	Waveform	049 BR_Trmbn	
+Yamaha	TG300	Waveform	050 BR_Tuba	
+Yamaha	TG300	Waveform	051 BR_FHorn	
+Yamaha	TG300	Waveform	052 BR_ScEns	
+Yamaha	TG300	Waveform	053 CH_Aah	
+Yamaha	TG300	Waveform	054 CH_Ooh	
+Yamaha	TG300	Waveform	055 EP_DX7	
+Yamaha	TG300	Waveform	056 EP_Grand	
+Yamaha	TG300	Waveform	057 FI_Banjo	
+Yamaha	TG300	Waveform	058 FI_BgPip	
+Yamaha	TG300	Waveform	059 FI_Dulci	
+Yamaha	TG300	Waveform	060 FI_Harmo	
+Yamaha	TG300	Waveform	061 FI_Harp	
+Yamaha	TG300	Waveform	062 FI_Kalim	
+Yamaha	TG300	Waveform	063 FI_Koto	
+Yamaha	TG300	Waveform	064 FI_Ocari	
+Yamaha	TG300	Waveform	065 FI_PanFl	
+Yamaha	TG300	Waveform	066 FI_Shaku	
+Yamaha	TG300	Waveform	067 FI_Shami	
+Yamaha	TG300	Waveform	068 FI_Shana	
+Yamaha	TG300	Waveform	069 FI_Sho	
+Yamaha	TG300	Waveform	070 FI_Sitar	
+Yamaha	TG300	Waveform	071 GT_Nylon	
+Yamaha	TG300	Waveform	072 GT_Steel	
+Yamaha	TG300	Waveform	073 GT_Jazz	
+Yamaha	TG300	Waveform	074 GT_Clean	
+Yamaha	TG300	Waveform	075 GT_Muted	
+Yamaha	TG300	Waveform	076 GT_OvDrv	
+Yamaha	TG300	Waveform	077 GT_Dstrt	
+Yamaha	TG300	Waveform	078 GT_Hrmnc	
+Yamaha	TG300	Waveform	079 KY_Acrdn	
+Yamaha	TG300	Waveform	080 KY_Celes	
+Yamaha	TG300	Waveform	081 KY_Clavi	
+Yamaha	TG300	Waveform	082 KY_Harps	
+Yamaha	TG300	Waveform	083 OR_DrwBr	
+Yamaha	TG300	Waveform	084 OR_Percu	
+Yamaha	TG300	Waveform	085 OR_Rock	
+Yamaha	TG300	Waveform	086 OR_Pipe	
+Yamaha	TG300	Waveform	087 OR_Reed	
+Yamaha	TG300	Waveform	088 ST_Violn	
+Yamaha	TG300	Waveform	089 ST_Viola	
+Yamaha	TG300	Waveform	090 ST_Cello	
+Yamaha	TG300	Waveform	091 ST_Cntra	
+Yamaha	TG300	Waveform	092 ST_ScEns	
+Yamaha	TG300	Waveform	093 ST_ScPiz	
+Yamaha	TG300	Waveform	094 SY_Squar	
+Yamaha	TG300	Waveform	095 SY_Saw	
+Yamaha	TG300	Waveform	096 SY_Trian	
+Yamaha	TG300	Waveform	097 SY_Bass1	
+Yamaha	TG300	Waveform	098 SY_Bass2	
+Yamaha	TG300	Waveform	099 SY_Brass	
+Yamaha	TG300	Waveform	100 SY_Choir	
+Yamaha	TG300	Waveform	101 SY_Strng	
+Yamaha	TG300	Waveform	102 SY_Pad_1	
+Yamaha	TG300	Waveform	103 SY_Pad_2	
+Yamaha	TG300	Waveform	104 SY_Malle	
+Yamaha	TG300	Waveform	105 TP_Glock	
+Yamaha	TG300	Waveform	106 TP_Marim	
+Yamaha	TG300	Waveform	107 TP_StDrm	
+Yamaha	TG300	Waveform	108 TP_Timpa	
+Yamaha	TG300	Waveform	109 TP_TnBel	
+Yamaha	TG300	Waveform	110 TP_TuBel	
+Yamaha	TG300	Waveform	111 TP_Vibe	
+Yamaha	TG300	Waveform	112 TP_Xylo	
+Yamaha	TG300	Waveform	113 WW_Basso	
+Yamaha	TG300	Waveform	114 WW_Clari	
+Yamaha	TG300	Waveform	115 WW_EHorn	
+Yamaha	TG300	Waveform	116 WW_Flute	
+Yamaha	TG300	Waveform	117 WW_Oboe	
+Yamaha	TG300	Waveform	118 WW_Pcclo	
+Yamaha	TG300	Waveform	119 WW_RcSop	
+Yamaha	TG300	Waveform	120 WW_SxSop	
+Yamaha	TG300	Waveform	121 WW_SxAlt	
+Yamaha	TG300	Waveform	122 WW_SxTen	
+Yamaha	TG300	Waveform	123 WW_SxBar	
+Yamaha	TG300	Waveform	124 SE_Appls	
+Yamaha	TG300	Waveform	125 SE_Bird1	
+Yamaha	TG300	Waveform	126 SE_Bird2	
+Yamaha	TG300	Waveform	127 SE_Breth	
+Yamaha	TG300	Waveform	128 SE_BSlap	
+Yamaha	TG300	Waveform	129 SE_Bubbl	
+Yamaha	TG300	Waveform	130 SE_CarPa	
+Yamaha	TG300	Waveform	131 SE_CarCr	
+Yamaha	TG300	Waveform	132 SE_CarSt	
+Yamaha	TG300	Waveform	133 SE_Dog	
+Yamaha	TG300	Waveform	134 SE_DrSlm	
+Yamaha	TG300	Waveform	135 SE_DSqek	
+Yamaha	TG300	Waveform	136 SE_FStep	
+Yamaha	TG300	Waveform	137 SE_Galop	
+Yamaha	TG300	Waveform	138 SE_GtCut	
+Yamaha	TG300	Waveform	139 SE_GtFrt	
+Yamaha	TG300	Waveform	140 SE_Gun	
+Yamaha	TG300	Waveform	141 SE_Heli	
+Yamaha	TG300	Waveform	142 SE_Heart	
+Yamaha	TG300	Waveform	143 SE_KyPad	
+Yamaha	TG300	Waveform	144 SE_Laugh	
+Yamaha	TG300	Waveform	145 SE_McGun	
+Yamaha	TG300	Waveform	146 SE_MtrCl	
+Yamaha	TG300	Waveform	147 SE_Noise	
+Yamaha	TG300	Waveform	148 SE_OrHit	
+Yamaha	TG300	Waveform	149 SE_Punch	
+Yamaha	TG300	Waveform	150 SE_Rain	
+Yamaha	TG300	Waveform	151 SE_Screm	
+Yamaha	TG300	Waveform	152 SE_Strem	
+Yamaha	TG300	Waveform	153 SE_Surf	
+Yamaha	TG300	Waveform	154 SE_TelDl	
+Yamaha	TG300	Waveform	155 SE_TelRg	
+Yamaha	TG300	Waveform	156 SE_Thndr	
+Yamaha	TG300	Waveform	157 SE_Tire	
+Yamaha	TG300	Waveform	158 SE_Train	
+Yamaha	TG300	Waveform	159 SE_Wind	
+Yamaha	TG300	Waveform	160 LO_AcPno	
+Yamaha	TG300	Waveform	161 LO_ElPno	
+Yamaha	TG300	Waveform	162 LO_DXPno	
+Yamaha	TG300	Waveform	163 LO_StEns	
+Yamaha	TG300	Waveform	164 LO_SxSop	
+Yamaha	TG300	Waveform	165 LO_SxAlt	
+Yamaha	TG300	Waveform	166 LO_SxTen	
+Yamaha	TG300	Waveform	167 LO_SxBar	
+Yamaha	TG300	Waveform	168 LO_OvDrv	
+Yamaha	TG300	Waveform	169 LO_Dstrt	
+Yamaha	TG300	Waveform	170 LO_Pcclo	
+Yamaha	TG300	Waveform	171 LO_Oboe	
+Yamaha	TG300	Waveform	172 SA_OvDrv	
+Yamaha	TG300	Waveform	173 SA_Dstrt	
+Yamaha	TG300	Waveform	174 SA_Flute	
+Yamaha	TG300	Waveform	175 SA_Pcclo	
+Yamaha	TG300	Waveform	176 SA_SxSop	
+Yamaha	TG300	Waveform	177 SA_SxAlt	
+Yamaha	TG300	Waveform	178 SA_SxTen	
+Yamaha	TG300	Waveform	179 SA_SxBar	
+Yamaha	TG300	Waveform	180 RV_Snr1	
+Yamaha	TG300	Waveform	181 RV_Snr2	
+Yamaha	TG300	Waveform	182 RV_Snr3	
+Yamaha	TG300	Waveform	183 RV_Snr5	
+Yamaha	TG300	Waveform	184 RV_Kick1	
+Yamaha	TG300	Waveform	185 RV_Kick2	
+Yamaha	TG300	Waveform	186 RV_Kick3	
+Yamaha	TG300	Waveform	187 RV_Kick4	
+Yamaha	TG300	Waveform	188 FL_Breth	
+Yamaha	TG300	Waveform	189 FL_TuBel	
+Yamaha	TG300	Waveform	190 FL_Vibe	
+Yamaha	TG300	Waveform	191 FL_Xylo	
+Yamaha	TG300	Waveform	192 FL_NlGtr	
+Yamaha	TG300	Waveform	193 FL_StGtr	
+Yamaha	TG300	Waveform	194 FL_SnrDr	
+Yamaha	TG300	Waveform	195 FL_Sine	
