@@ -12,11 +12,11 @@ def readPaths(pathToRead, keepExtensions, outputFile, companyName, productName, 
         exit()
 
     # check for company and product name
-    hasCompProd = False
     hasComp = companyName != None
     hasProd = productName != None
-    if hasComp and hasProd: hasCompProd = True
-    elif hasComp and not hasProd:
+    hasCompProd = hasComp and hasProd
+
+    if hasComp and not hasProd:
         print("error: --company must be used with --product")
         exit()
     elif hasProd and not hasComp:
