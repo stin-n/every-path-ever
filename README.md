@@ -8,3 +8,4 @@ to-do:
 - go through some products and add back the full sound list instead of only listing the differences with a previous product (i did that for less redundancy/bloat on the sheet but it's not really necessary here)
 - make a json file for the website with metadata for each product (i.e. company, product name, alternative product names (for multiple products that share the same patch list), format maybe, path to tsv, release date, description, to-do)
 - the to-do's listed on the sheet
+- write a tool to parse cdxtract's htm reports (for akai/roland/etc sample cds)
