@@ -1,0 +1,641 @@
+UVI	Click	Alarms	Alarm Beep 01	
+UVI	Click	Alarms	Alarm Beep 02	
+UVI	Click	Alarms	Alarm Beep 03	
+UVI	Click	Alarms	Alarm Beep 04	
+UVI	Click	Alarms	Alarm Beep 05	
+UVI	Click	Alarms	Alarm Beep 06	
+UVI	Click	Alarms	Alarm Beep 07	
+UVI	Click	Alarms	Alarm Clock 01	
+UVI	Click	Alarms	Alarm Clock 02	
+UVI	Click	Alarms	Alarm Large 01	
+UVI	Click	Alarms	Alarm Large 02	
+UVI	Click	Alarms	Alarm Large 03	
+UVI	Click	Alarms	Alarm Two-Tone 01	
+UVI	Click	Alarms	Alarm Two-Tone 02	
+UVI	Click	Alarms	Alarm Two-Tone 03	
+UVI	Click	Alarms	Alarm Two-Tone 04	
+UVI	Click	Alarms	Alarm Two-Tone 05	
+UVI	Click	Alarms	Alarm Two-Tone 06	
+UVI	Click	Alarms	Alarm Two-Tone 07	
+UVI	Click	Alarms	Alarm Two-Tone 08	
+UVI	Click	Alarms	Alarm Vehicule 01	
+UVI	Click	Alarms	Alarm Vehicule 02	
+UVI	Click	Alarms	Alarms Sweep 01	
+UVI	Click	Alarms	Alarms Sweep 02	
+UVI	Click	Alarms	Alarms Sweep 03	
+UVI	Click	Alarms	Alarms Sweep 04	
+UVI	Click	Alarms	Alarms Sweep 05	
+UVI	Click	Alarms	Alarms Sweep 06	
+UVI	Click	Alarms	Alarms Sweep 07	
+UVI	Click	Alarms	Alarms Sweep 08	
+UVI	Click	Alarms	Alarms Sweep 09	
+UVI	Click	Alarms	Siren 01	
+UVI	Click	Alarms	Siren 02	
+UVI	Click	Alarms	Siren 03	
+UVI	Click	Alarms	Siren 04	
+UVI	Click	Alarms	Siren 05	
+UVI	Click	Alarms	Smoke Detector 01	
+UVI	Click	Alarms	Smoke Detector 02	
+UVI	Click	Alarms	Smoke Detector 03	
+UVI	Click	Clocks	Clock Ticking 01	
+UVI	Click	Clocks	Clock Ticking 02	
+UVI	Click	Clocks	Clock Ticking 03	
+UVI	Click	Clocks	Clock Ticking 04	
+UVI	Click	Clocks	Clock Ticking 05	
+UVI	Click	Clocks	Clock Ticking 06	
+UVI	Click	Clocks	Clock Ticking 07	
+UVI	Click	Clocks	Stopwatch 01	
+UVI	Click	Clocks	Stopwatch 02	
+UVI	Click	Clocks	Tick Tock 01	
+UVI	Click	Clocks	Tick Tock 02	
+UVI	Click	Clocks	Tick Tock 03	
+UVI	Click	Clocks	Tick Tock 04	
+UVI	Click	Clocks	Tick Tock 05	
+UVI	Click	Clocks	Tick Tock 06	
+UVI	Click	Clocks	Tick Tock 07	
+UVI	Click	Clocks	Tick Tock 08	
+UVI	Click	Clocks	Tick Tock 09	
+UVI	Click	Clocks	Tick Tock 10	
+UVI	Click	Electronic Machines	Cash Register 01	
+UVI	Click	Electronic Machines	Cash Register 02	
+UVI	Click	Electronic Machines	Cash Register Old	
+UVI	Click	Electronic Machines	Dashboard 01	
+UVI	Click	Electronic Machines	Dashboard 02	
+UVI	Click	Electronic Machines	Dashboard 03	
+UVI	Click	Electronic Machines	Dashboard 04	
+UVI	Click	Electronic Machines	Dashboard 05	
+UVI	Click	Electronic Machines	Dashboard 06	
+UVI	Click	Electronic Machines	Digicode 01	
+UVI	Click	Electronic Machines	Digicode 02	
+UVI	Click	Electronic Machines	Elevator 01	
+UVI	Click	Electronic Machines	Elevator 02	
+UVI	Click	Electronic Machines	Elevator Beep 01	
+UVI	Click	Electronic Machines	Elevator Beep 02	
+UVI	Click	Electronic Machines	Elevator Beep 03	
+UVI	Click	Electronic Machines	Microwave	
+UVI	Click	Electronic Machines	Old Computer Error	
+UVI	Click	Electronic Machines	Printer Tone	
+UVI	Click	Electronic Machines	Recorder Rewind 01	
+UVI	Click	Electronic Machines	Recorder Rewind 02	
+UVI	Click	Electronic Machines	Recorder Rewind 03	
+UVI	Click	Electronic Machines	Sonar 01	
+UVI	Click	Electronic Machines	Sonar 02	
+UVI	Click	Electronic Machines	Telephone Booth Keypad	
+UVI	Click	Electronic Machines	Toy Robot	
+UVI	Click	Foley -> Buttons	Click Buttons 01	
+UVI	Click	Foley -> Buttons	Click Buttons 01 - Close Up	
+UVI	Click	Foley -> Buttons	Click Buttons 01 - Wide Shot	
+UVI	Click	Foley -> Buttons	Click Buttons 02	
+UVI	Click	Foley -> Buttons	Click Buttons 02 - Close Up	
+UVI	Click	Foley -> Buttons	Click Buttons 02 - Wide Shot	
+UVI	Click	Foley -> Buttons	Click Buttons 03	
+UVI	Click	Foley -> Buttons	Click Buttons 03 - Close Up	
+UVI	Click	Foley -> Buttons	Click Buttons 03 - Wide Shot	
+UVI	Click	Foley -> Buttons	Click Buttons 04	
+UVI	Click	Foley -> Buttons	Click Buttons 04 - Close Up	
+UVI	Click	Foley -> Buttons	Click Buttons 04 - Wide Shot	
+UVI	Click	Foley -> Buttons	Power Buttons	
+UVI	Click	Foley -> Buttons	Power Buttons - Close Up	
+UVI	Click	Foley -> Buttons	Power Buttons - Wide Shot	
+UVI	Click	Foley -> Buttons	Push Buttons 01	
+UVI	Click	Foley -> Buttons	Push Buttons 01 - Close Up	
+UVI	Click	Foley -> Buttons	Push Buttons 01 - Wide Shot	
+UVI	Click	Foley -> Buttons	Push Buttons 02	
+UVI	Click	Foley -> Buttons	Push Buttons 02 - Close Up	
+UVI	Click	Foley -> Buttons	Push Buttons 02 - Wide Shot	
+UVI	Click	Foley -> Buttons	Push Buttons 03	
+UVI	Click	Foley -> Buttons	Push Buttons 03 - Close Up	
+UVI	Click	Foley -> Buttons	Push Buttons 03 - Wide Shot	
+UVI	Click	Foley -> Cameras	Camera Flash	
+UVI	Click	Foley -> Cameras	Camera Papparazi	
+UVI	Click	Foley -> Cameras	Digital	
+UVI	Click	Foley -> Cameras	Digital - Close Up	
+UVI	Click	Foley -> Cameras	Digital - Wide Shot	
+UVI	Click	Foley -> Cameras	Film 01	
+UVI	Click	Foley -> Cameras	Film 01 - Close Up	
+UVI	Click	Foley -> Cameras	Film 01 - Wide Shot	
+UVI	Click	Foley -> Cameras	Film 02	
+UVI	Click	Foley -> Cameras	Film 02 - Close Up	
+UVI	Click	Foley -> Cameras	Film 02 - Wide Shot	
+UVI	Click	Foley -> Cameras	Photo Shoot 01	
+UVI	Click	Foley -> Cameras	Photo Shoot 02	
+UVI	Click	Foley -> Cars	Car Turn Signal 01	
+UVI	Click	Foley -> Cars	Car Turn Signal 02	
+UVI	Click	Foley -> Cars	Dashboard	
+UVI	Click	Foley -> Cars	Dashboard - Close Up	
+UVI	Click	Foley -> Cars	Dashboard - Wide Shot	
+UVI	Click	Foley -> Cars	Indicator Levers	
+UVI	Click	Foley -> Cars	Indicator Levers - Close Up	
+UVI	Click	Foley -> Cars	Indicator Levers - Wide Shot	
+UVI	Click	Foley -> Cars	Mechanism 01	
+UVI	Click	Foley -> Cars	Mechanism 01 - Close Up	
+UVI	Click	Foley -> Cars	Mechanism 01 - Wide Shot	
+UVI	Click	Foley -> Cars	Mechanism 02	
+UVI	Click	Foley -> Cars	Mechanism 02 - Close Up	
+UVI	Click	Foley -> Cars	Mechanism 02 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 01	
+UVI	Click	Foley -> Computers	Computer Keyboard 01 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 01 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 02	
+UVI	Click	Foley -> Computers	Computer Keyboard 02 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 02 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 03	
+UVI	Click	Foley -> Computers	Computer Keyboard 03 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 03 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 04	
+UVI	Click	Foley -> Computers	Computer Keyboard 04 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 04 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 05	
+UVI	Click	Foley -> Computers	Computer Keyboard 05 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 05 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 06	
+UVI	Click	Foley -> Computers	Computer Keyboard 06 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 06 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 07	
+UVI	Click	Foley -> Computers	Computer Keyboard 07 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 07 - Wide Shot	
+UVI	Click	Foley -> Computers	Computer Keyboard 08	
+UVI	Click	Foley -> Computers	Computer Keyboard 08 - Close Up	
+UVI	Click	Foley -> Computers	Computer Keyboard 08 - Wide Shot	
+UVI	Click	Foley -> Computers	Minitel Keyboard	
+UVI	Click	Foley -> Computers	Minitel Keyboard - Close Up	
+UVI	Click	Foley -> Computers	Minitel Keyboard - Wide Shot	
+UVI	Click	Foley -> Computers	Mouses	
+UVI	Click	Foley -> Computers	Mouses - Close Up	
+UVI	Click	Foley -> Computers	Mouses - Wide Shot	
+UVI	Click	Foley -> Game Controllers	Generic Controller	
+UVI	Click	Foley -> Game Controllers	Generic Controller - Close Up	
+UVI	Click	Foley -> Game Controllers	Generic Controller - Wide Shot	
+UVI	Click	Foley -> Game Controllers	Nintendo Controller	
+UVI	Click	Foley -> Game Controllers	Nintendo Controller - Close Up	
+UVI	Click	Foley -> Game Controllers	Nintendo Controller - Wide Shot	
+UVI	Click	Foley -> Game Controllers	Nintendo Handheld	
+UVI	Click	Foley -> Game Controllers	Nintendo Handheld - Close Up	
+UVI	Click	Foley -> Game Controllers	Nintendo Handheld - Wide Shot	
+UVI	Click	Foley -> Game Controllers	Playstation Controller	
+UVI	Click	Foley -> Game Controllers	Playstation Controller - Close Up	
+UVI	Click	Foley -> Game Controllers	Playstation Controller - Wide Shot	
+UVI	Click	Foley -> Game Controllers	XBox Controller	
+UVI	Click	Foley -> Game Controllers	XBox Controller - Close Up	
+UVI	Click	Foley -> Game Controllers	XBox Controller - Wide Shot	
+UVI	Click	Foley -> Guitar Pedals	FX Bypass 01	
+UVI	Click	Foley -> Guitar Pedals	FX Bypass 01 - Close Up	
+UVI	Click	Foley -> Guitar Pedals	FX Bypass 01 - Wide Shot	
+UVI	Click	Foley -> Guitar Pedals	FX Bypass 02	
+UVI	Click	Foley -> Guitar Pedals	FX Bypass 02 - Close Up	
+UVI	Click	Foley -> Guitar Pedals	FX Bypass 02 - Wide Shot	
+UVI	Click	Foley -> Guitar Pedals	Pedal Switches	
+UVI	Click	Foley -> Guitar Pedals	Pedal Switches - Close Up	
+UVI	Click	Foley -> Guitar Pedals	Pedal Switches - Wide Shot	
+UVI	Click	Foley -> Lamps	Lamp Buttons 01	
+UVI	Click	Foley -> Lamps	Lamp Buttons 01 - Close Up	
+UVI	Click	Foley -> Lamps	Lamp Buttons 01 - Wide Shot	
+UVI	Click	Foley -> Lamps	Lamp Buttons 02	
+UVI	Click	Foley -> Lamps	Lamp Buttons 02 - Close Up	
+UVI	Click	Foley -> Lamps	Lamp Buttons 02 - Wide Shot	
+UVI	Click	Foley -> Lamps	Lamp Switches 01	
+UVI	Click	Foley -> Lamps	Lamp Switches 01 - Close Up	
+UVI	Click	Foley -> Lamps	Lamp Switches 01 - Wide Shot	
+UVI	Click	Foley -> Lamps	Lamp Switches 02	
+UVI	Click	Foley -> Lamps	Lamp Switches 02 - Close Up	
+UVI	Click	Foley -> Lamps	Lamp Switches 02 - Wide Shot	
+UVI	Click	Foley -> Lamps	Lamp Switches 03	
+UVI	Click	Foley -> Lamps	Lamp Switches 03 - Close Up	
+UVI	Click	Foley -> Lamps	Lamp Switches 03 - Wide Shot	
+UVI	Click	Foley -> Lamps	Lamp Switches 04	
+UVI	Click	Foley -> Lamps	Lamp Switches 04 - Close Up	
+UVI	Click	Foley -> Lamps	Lamp Switches 04 - Wide Shot	
+UVI	Click	Foley -> Office	Binders	
+UVI	Click	Foley -> Office	Binders - Close Up	
+UVI	Click	Foley -> Office	Binders - Wide Shot	
+UVI	Click	Foley -> Office	Calculators	
+UVI	Click	Foley -> Office	Calculators - Close Up	
+UVI	Click	Foley -> Office	Calculators - Wide Shot	
+UVI	Click	Foley -> Office	Paper Punches	
+UVI	Click	Foley -> Office	Paper Punches - Close Up	
+UVI	Click	Foley -> Office	Paper Punches - Wide Shot	
+UVI	Click	Foley -> Office	Pens 01	
+UVI	Click	Foley -> Office	Pens 01 - Close Up	
+UVI	Click	Foley -> Office	Pens 01 - Wide Shot	
+UVI	Click	Foley -> Office	Pens 02	
+UVI	Click	Foley -> Office	Pens 02 - Close Up	
+UVI	Click	Foley -> Office	Pens 02 - Wide Shot	
+UVI	Click	Foley -> Office	Pens 03	
+UVI	Click	Foley -> Office	Pens 03 - Close Up	
+UVI	Click	Foley -> Office	Pens 03 - Wide Shot	
+UVI	Click	Foley -> Office	Staplers	
+UVI	Click	Foley -> Office	Staplers - Close Up	
+UVI	Click	Foley -> Office	Staplers - Wide Shot	
+UVI	Click	Foley -> Phones	Landlines	
+UVI	Click	Foley -> Phones	Landlines - Close Up	
+UVI	Click	Foley -> Phones	Landlines - Wide Shot	
+UVI	Click	Foley -> Phones	Mobiles	
+UVI	Click	Foley -> Phones	Mobiles - Close Up	
+UVI	Click	Foley -> Phones	Mobiles - Wide Shot	
+UVI	Click	Foley -> Phones	Walkie Talkies	
+UVI	Click	Foley -> Phones	Walkie Talkies - Close Up	
+UVI	Click	Foley -> Phones	Walkie Talkies - Wide Shot	
+UVI	Click	Foley -> Power Tools	Drill	
+UVI	Click	Foley -> Power Tools	Drill - Close Up	
+UVI	Click	Foley -> Power Tools	Drill - Wide Shot	
+UVI	Click	Foley -> Power Tools	Flashlights	
+UVI	Click	Foley -> Power Tools	Flashlights - Close Up	
+UVI	Click	Foley -> Power Tools	Flashlights - Wide Shot	
+UVI	Click	Foley -> Switches	Appliances	
+UVI	Click	Foley -> Switches	Appliances - Close Up	
+UVI	Click	Foley -> Switches	Appliances - Wide Shot	
+UVI	Click	Foley -> Switches	Larges 01	
+UVI	Click	Foley -> Switches	Larges 01 - Close Up	
+UVI	Click	Foley -> Switches	Larges 01 - Wide Shot	
+UVI	Click	Foley -> Switches	Larges 02	
+UVI	Click	Foley -> Switches	Larges 02 - Close Up	
+UVI	Click	Foley -> Switches	Larges 02 - Wide Shot	
+UVI	Click	Foley -> Switches	Mediums 01	
+UVI	Click	Foley -> Switches	Mediums 01 - Close Up	
+UVI	Click	Foley -> Switches	Mediums 01 - Wide Shot	
+UVI	Click	Foley -> Switches	Mediums 02	
+UVI	Click	Foley -> Switches	Mediums 02 - Close Up	
+UVI	Click	Foley -> Switches	Mediums 02 - Wide Shot	
+UVI	Click	Foley -> Switches	Power Strips	
+UVI	Click	Foley -> Switches	Power Strips - Close Up	
+UVI	Click	Foley -> Switches	Power Strips - Wide Shot	
+UVI	Click	Foley -> Switches	Smalls	
+UVI	Click	Foley -> Switches	Smalls - Close Up	
+UVI	Click	Foley -> Switches	Smalls - Wide Shot	
+UVI	Click	Foley -> Tape Recorders	Eject and Record	
+UVI	Click	Foley -> Tape Recorders	Eject and Record - Close Up	
+UVI	Click	Foley -> Tape Recorders	Eject and Record - Wide Shot	
+UVI	Click	Foley -> Tape Recorders	Play And Stop	
+UVI	Click	Foley -> Tape Recorders	Play And Stop - Close Up	
+UVI	Click	Foley -> Tape Recorders	Play And Stop - Wide Shot	
+UVI	Click	Foley -> Tape Recorders	Power and Pause	
+UVI	Click	Foley -> Tape Recorders	Power and Pause - Close Up	
+UVI	Click	Foley -> Tape Recorders	Power and Pause - Wide Shot	
+UVI	Click	Foley -> Tape Recorders	Rewind and Fast Forward	
+UVI	Click	Foley -> Tape Recorders	Rewind and Fast Forward - Close Up	
+UVI	Click	Foley -> Tape Recorders	Rewind and Fast Forward - Wide Shot	
+UVI	Click	Foley -> Toys	Funny	
+UVI	Click	Foley -> Toys	Funny - Close Up	
+UVI	Click	Foley -> Toys	Funny - Wide Shot	
+UVI	Click	Foley -> Toys	Toy Buttons 01	
+UVI	Click	Foley -> Toys	Toy Buttons 01 - Close Up	
+UVI	Click	Foley -> Toys	Toy Buttons 01 - Wide Shot	
+UVI	Click	Foley -> Toys	Toy Buttons 02	
+UVI	Click	Foley -> Toys	Toy Buttons 02 - Close Up	
+UVI	Click	Foley -> Toys	Toy Buttons 02 - Wide Shot	
+UVI	Click	Foley -> Toys	Toy Buttons 03	
+UVI	Click	Foley -> Toys	Toy Buttons 03 - Close Up	
+UVI	Click	Foley -> Toys	Toy Buttons 03 - Wide Shot	
+UVI	Click	Foley -> Typewriters	Mechanical Parts	
+UVI	Click	Foley -> Typewriters	Mechanical Parts - Close Up	
+UVI	Click	Foley -> Typewriters	Mechanical Parts - Wide Shot	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 01	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 01 - Close Up	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 01 - Wide Shot	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 02	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 02 - Close Up	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 02 - Wide Shot	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 03	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 03 - Close Up	
+UVI	Click	Foley -> Typewriters	Typewriter Keyboard 03 - Wide Shot	
+UVI	Click	Foley -> Wall Switches	Old Switches	
+UVI	Click	Foley -> Wall Switches	Old Switches - Close Up	
+UVI	Click	Foley -> Wall Switches	Old Switches - Wide Shot	
+UVI	Click	Foley -> Wall Switches	Wall Buttons	
+UVI	Click	Foley -> Wall Switches	Wall Buttons - Close Up	
+UVI	Click	Foley -> Wall Switches	Wall Buttons - Wide Shot	
+UVI	Click	Foley -> Wall Switches	Wall Switches 01	
+UVI	Click	Foley -> Wall Switches	Wall Switches 01 - Close Up	
+UVI	Click	Foley -> Wall Switches	Wall Switches 01 - Wide Shot	
+UVI	Click	Foley -> Wall Switches	Wall Switches 02	
+UVI	Click	Foley -> Wall Switches	Wall Switches 02 - Close Up	
+UVI	Click	Foley -> Wall Switches	Wall Switches 02 - Wide Shot	
+UVI	Click	Foley -> Wall Switches	Wall Switches 03	
+UVI	Click	Foley -> Wall Switches	Wall Switches 03 - Close Up	
+UVI	Click	Foley -> Wall Switches	Wall Switches 03 - Wide Shot	
+UVI	Click	Gear	Gear Mechanism 01	
+UVI	Click	Gear	Gear Mechanism 02	
+UVI	Click	Gear	Gear Mechanism 03	
+UVI	Click	Gear	Gear Mechanism 04	
+UVI	Click	Gear	Gear Mechanism 05	
+UVI	Click	Gear	Gear Mechanism 06	
+UVI	Click	Gear	Industrial Lever 01	
+UVI	Click	Gear	Industrial Lever 02	
+UVI	Click	Gear	Industrial Lever 03	
+UVI	Click	Gear	Industrial Lever 04	
+UVI	Click	Gear	Industrial Lever 05	
+UVI	Click	Hospital	Beep Monitor 01	
+UVI	Click	Hospital	Beep Monitor 02	
+UVI	Click	Hospital	Beep Monitor 03	
+UVI	Click	Hospital	Beep Monitor 04	
+UVI	Click	Hospital	Beep Monitor 05	
+UVI	Click	Hospital	Beep Monitor 06	
+UVI	Click	Hospital	Beep Monitor 07	
+UVI	Click	Hospital	Beep Monitor 08	
+UVI	Click	Hospital	Beep Monitor 09	
+UVI	Click	Hospital	Beep Monitor 10	
+UVI	Click	Hospital	Beep Monitor 11	
+UVI	Click	Hospital	Beep Monitor 12	
+UVI	Click	Hospital	Beep Monitor 13	
+UVI	Click	Hospital	Beep Monitor 14	
+UVI	Click	Hospital	Beep Monitor 15	
+UVI	Click	Hospital	Beep Monitor 16	
+UVI	Click	Hospital	Beep Monitor 17	
+UVI	Click	Hospital	Beep Monitor 18	
+UVI	Click	Hospital	Beep Monitor 19	
+UVI	Click	Hospital	Beep Monitor 20	
+UVI	Click	Hospital	Beep Sequence 01	
+UVI	Click	Hospital	Beep Sequence 02	
+UVI	Click	Hospital	Beep Sequence 03	
+UVI	Click	Hospital	Beep Sequence 04	
+UVI	Click	Hospital	Beep Sequence 05	
+UVI	Click	Hospital	Beep Sequence 06	
+UVI	Click	Hospital	Beep Sequence 07	
+UVI	Click	Hospital	Beep Sequence 08	
+UVI	Click	Magical	Aqua Spell 01	
+UVI	Click	Magical	Aqua Spell 02	
+UVI	Click	Magical	Aqua Spell 03	
+UVI	Click	Magical	Casting Spell	
+UVI	Click	Magical	Energy Blast 01	
+UVI	Click	Magical	Energy Blast 02	
+UVI	Click	Magical	Energy Blast 03	
+UVI	Click	Magical	Energy Blast 04	
+UVI	Click	Magical	Fire Spell 01	
+UVI	Click	Magical	Fire Spell 02	
+UVI	Click	Magical	Fire Spell 03	
+UVI	Click	Musical -> Instrument	Click Organ 01	
+UVI	Click	Musical -> Instrument	Click Organ 02	
+UVI	Click	Musical -> Instrument	Click Organ 03	
+UVI	Click	Musical -> Instrument	Glass Museum	
+UVI	Click	Musical -> Instrument	Horror Impact	
+UVI	Click	Musical -> Instrument	Quantum Dust	
+UVI	Click	Musical -> Instrument	Small Ensemble	
+UVI	Click	Musical -> Instrument	Small Tines	
+UVI	Click	Musical -> Instrument	Toy Bass	
+UVI	Click	Musical -> Rhythmic	Bucket Hammer	
+UVI	Click	Musical -> Rhythmic	Byte Hits	
+UVI	Click	Musical -> Rhythmic	Calling	
+UVI	Click	Musical -> Rhythmic	Caustic Window	
+UVI	Click	Musical -> Rhythmic	Creep Chamber	
+UVI	Click	Musical -> Rhythmic	Dark One	
+UVI	Click	Musical -> Rhythmic	Data Bed	
+UVI	Click	Musical -> Rhythmic	DC Dispersion	
+UVI	Click	Musical -> Rhythmic	Delta Drip	
+UVI	Click	Musical -> Rhythmic	False Signal	
+UVI	Click	Musical -> Rhythmic	Jaw Harp	
+UVI	Click	Musical -> Rhythmic	Kick It	
+UVI	Click	Musical -> Rhythmic	Mainframe	
+UVI	Click	Musical -> Rhythmic	Neural Overclock	
+UVI	Click	Musical -> Rhythmic	Ocean Waves	
+UVI	Click	Musical -> Rhythmic	Ointment Fly	
+UVI	Click	Musical -> Rhythmic	Perc Bubbles 01	
+UVI	Click	Musical -> Rhythmic	Perc Bubbles 02	
+UVI	Click	Musical -> Rhythmic	Perc Bubbles 03	
+UVI	Click	Musical -> Rhythmic	Perc Foley 01	
+UVI	Click	Musical -> Rhythmic	Perc Foley 02	
+UVI	Click	Musical -> Rhythmic	Perc Foley 03	
+UVI	Click	Musical -> Rhythmic	Perc Foley 04	
+UVI	Click	Musical -> Rhythmic	Perc Foley 05	
+UVI	Click	Musical -> Rhythmic	Perc Foley 06	
+UVI	Click	Musical -> Rhythmic	Perc Foley 07	
+UVI	Click	Musical -> Rhythmic	Perc Glitches 01	
+UVI	Click	Musical -> Rhythmic	Perc Glitches 02	
+UVI	Click	Musical -> Rhythmic	Perc Glitches 03	
+UVI	Click	Musical -> Rhythmic	Perc Glitches 04	
+UVI	Click	Musical -> Rhythmic	Polygon Rust	
+UVI	Click	Musical -> Rhythmic	Spectral Shadows	
+UVI	Click	Musical -> Rhythmic	Spewing Portal	
+UVI	Click	Musical -> Rhythmic	Sub Cloud	
+UVI	Click	Musical -> Rhythmic	Support	
+UVI	Click	Musical -> Rhythmic	Trickle	
+UVI	Click	Musical -> Tonal	Arp Sequence 01	
+UVI	Click	Musical -> Tonal	Arp Sequence 02	
+UVI	Click	Musical -> Tonal	Click Mouse	
+UVI	Click	Musical -> Tonal	Collapse Arp	
+UVI	Click	Musical -> Tonal	Connex	
+UVI	Click	Musical -> Tonal	Fold	
+UVI	Click	Musical -> Tonal	Game Theory	
+UVI	Click	Musical -> Tonal	Goth Ornament	
+UVI	Click	Musical -> Tonal	Grand Suspense	
+UVI	Click	Musical -> Tonal	Haunted Mirror	
+UVI	Click	Musical -> Tonal	Horrible Ending	
+UVI	Click	Musical -> Tonal	Offset Tension	
+UVI	Click	Musical -> Tonal	Select Screen	
+UVI	Click	Musical -> Tonal	Simili Arp	
+UVI	Click	Musical -> Tonal	Soul Covenant	
+UVI	Click	Musical -> Tonal	Strungout	
+UVI	Click	Musical -> Tonal	Time Machine	
+UVI	Click	Musical -> Tonal	Tuba Shimmer	
+UVI	Click	Phone Tones	Interphone 01	
+UVI	Click	Phone Tones	Interphone 02	
+UVI	Click	Phone Tones	Interphone 03	
+UVI	Click	Phone Tones	Interphone 04	
+UVI	Click	Phone Tones	Office Phone 01	
+UVI	Click	Phone Tones	Office Phone 02	
+UVI	Click	Phone Tones	Office Phone 03	
+UVI	Click	Phone Tones	Office Phone 04	
+UVI	Click	Phone Tones	Phone Busy Signal	
+UVI	Click	Phone Tones	Phone Hang Up	
+UVI	Click	Phone Tones	Ringtone 01	
+UVI	Click	Phone Tones	Ringtone 02	
+UVI	Click	Phone Tones	Ringtone 03	
+UVI	Click	Phone Tones	Ringtone 04	
+UVI	Click	Phone Tones	Ringtone Urgent	
+UVI	Click	Presets	Init	
+UVI	Click	Presets	Init Beep	
+UVI	Click	Presets	Init Click	
+UVI	Click	Rotary Knob	Cooking Timer	
+UVI	Click	Rotary Knob	Old Clock Cartoony	
+UVI	Click	Rotary Knob	Old Clock Plain	
+UVI	Click	Rotary Knob	Rotary Modern 01	
+UVI	Click	Rotary Knob	Rotary Modern 02	
+UVI	Click	Rotary Knob	Rotary Modern 03	
+UVI	Click	Rotary Knob	Rotary Modern 04	
+UVI	Click	Rotary Knob	Rotary Modern 05	
+UVI	Click	Rotary Knob	Rotary Retro 01	
+UVI	Click	Rotary Knob	Rotary Retro 02	
+UVI	Click	Rotary Knob	Rotary Retro 03	
+UVI	Click	Rotary Knob	Rotary Retro 04	
+UVI	Click	Rotary Knob	Rotary UI 01	
+UVI	Click	Rotary Knob	Rotary UI 02	
+UVI	Click	Rotary Knob	Rotary UI 03	
+UVI	Click	Rotary Knob	Rusty Gear 01	
+UVI	Click	Rotary Knob	Rusty Gear 02	
+UVI	Click	Rotary Knob	Safe	
+UVI	Click	Rotary Knob	Suitcase Combination Lock	
+UVI	Click	Sci-Fi -> Bleep	SF Bleep 01	
+UVI	Click	Sci-Fi -> Bleep	SF Bleep 02	
+UVI	Click	Sci-Fi -> Bleep	SF Confirm 01	
+UVI	Click	Sci-Fi -> Bleep	SF Confirm 02	
+UVI	Click	Sci-Fi -> Bleep	SF Confirm 03	
+UVI	Click	Sci-Fi -> Bleep	SF Deny 01	
+UVI	Click	Sci-Fi -> Bleep	SF Deny 02	
+UVI	Click	Sci-Fi -> Bleep	SF Hologram 01	
+UVI	Click	Sci-Fi -> Bleep	SF Hologram 02	
+UVI	Click	Sci-Fi -> Bleep	SF Process Chip	
+UVI	Click	Sci-Fi -> Bleep	SF Radar 01	
+UVI	Click	Sci-Fi -> Bleep	SF Radar 02	
+UVI	Click	Sci-Fi -> Bleep	SF Radar 03	
+UVI	Click	Sci-Fi -> Bleep	SF Robot Beep 01	
+UVI	Click	Sci-Fi -> Bleep	SF Robot Beep 02	
+UVI	Click	Sci-Fi -> Bleep	SF Robot Beep 03	
+UVI	Click	Sci-Fi -> Bleep	SF Robot Beep 04	
+UVI	Click	Sci-Fi -> Bleep	SF Robot Beep 05	
+UVI	Click	Sci-Fi -> Bleep	SF Robot Beep 06	
+UVI	Click	Sci-Fi -> Bleep	SF Select 01	
+UVI	Click	Sci-Fi -> Bleep	SF Select 02	
+UVI	Click	Sci-Fi -> Bleep	SF Select 03	
+UVI	Click	Sci-Fi -> Powered	SF A Codex	
+UVI	Click	Sci-Fi -> Powered	SF Alter	
+UVI	Click	Sci-Fi -> Powered	SF Crunch Machina	
+UVI	Click	Sci-Fi -> Powered	SF Futura	
+UVI	Click	Sci-Fi -> Powered	SF HotSpot	
+UVI	Click	Sci-Fi -> Powered	SF Orticular	
+UVI	Click	Sci-Fi -> Powered	SF Power Portal	
+UVI	Click	Sci-Fi -> Powered	SF Power Stance	
+UVI	Click	Sci-Fi -> Powered	SF Simple Beep	
+UVI	Click	Sci-Fi -> Powered	SF Smart Engine	
+UVI	Click	Sci-Fi -> Powered	SF Sorino	
+UVI	Click	Sci-Fi -> Powered	SF Stressed	
+UVI	Click	Sci-Fi -> Powered	SF Teleportation	
+UVI	Click	Sci-Fi -> Powered	SF Wave Done	
+UVI	Click	Sci-Fi -> Powered	UFO 01 Phone Home	
+UVI	Click	Sci-Fi -> Powered	UFO 02 Shimmer	
+UVI	Click	Sci-Fi -> Powered	UFO 03 Deep Space	
+UVI	Click	UI Elements -> Apps and Games	Cartoon 01	
+UVI	Click	UI Elements -> Apps and Games	Cartoon 02	
+UVI	Click	UI Elements -> Apps and Games	Coins	
+UVI	Click	UI Elements -> Apps and Games	Errors	
+UVI	Click	UI Elements -> Apps and Games	Gameplay	
+UVI	Click	UI Elements -> Apps and Games	Notification 01	
+UVI	Click	UI Elements -> Apps and Games	Notification 02	
+UVI	Click	UI Elements -> Apps and Games	Pop-Up 01	
+UVI	Click	UI Elements -> Apps and Games	Pop-Up 02	
+UVI	Click	UI Elements -> Apps and Games	Retros	
+UVI	Click	UI Elements -> Apps and Games	Select 01	
+UVI	Click	UI Elements -> Apps and Games	Select 02	
+UVI	Click	UI Elements -> Apps and Games	Success	
+UVI	Click	UI Elements -> Modern	Alarms	
+UVI	Click	UI Elements -> Modern	Bugs	
+UVI	Click	UI Elements -> Modern	Confirm 01	
+UVI	Click	UI Elements -> Modern	Confirm 02	
+UVI	Click	UI Elements -> Modern	Confirm 03	
+UVI	Click	UI Elements -> Modern	Dactylo 01	
+UVI	Click	UI Elements -> Modern	Dactylo 02	
+UVI	Click	UI Elements -> Modern	Error 01	
+UVI	Click	UI Elements -> Modern	Error 02	
+UVI	Click	UI Elements -> Modern	Error 03	
+UVI	Click	UI Elements -> Modern	Hover 01	
+UVI	Click	UI Elements -> Modern	Hover 02	
+UVI	Click	UI Elements -> Modern	Hover 03	
+UVI	Click	UI Elements -> Modern	Power Up	
+UVI	Click	UI Elements -> Modern	Radars	
+UVI	Click	UI Elements -> Modern	Scan 01	
+UVI	Click	UI Elements -> Modern	Scan 02	
+UVI	Click	UI Elements -> Musical	Bass Drum 01	
+UVI	Click	UI Elements -> Musical	Bass Drum 02	
+UVI	Click	UI Elements -> Musical	Bells	
+UVI	Click	UI Elements -> Musical	Brass	
+UVI	Click	UI Elements -> Musical	Electric Guitars 01	
+UVI	Click	UI Elements -> Musical	Electric Guitars 02	
+UVI	Click	UI Elements -> Musical	Keys	
+UVI	Click	UI Elements -> Musical	Kick	
+UVI	Click	UI Elements -> Musical	Kick Reverb	
+UVI	Click	UI Elements -> Musical	Percs Epic	
+UVI	Click	UI Elements -> Musical	Percs Horror	
+UVI	Click	UI Elements -> Musical	Percs Small	
+UVI	Click	UI Elements -> Musical	Strings	
+UVI	Click	UI Elements -> Musical	Woodwinds	
+UVI	Click	UI Elements -> Sound Design	Clocks	
+UVI	Click	UI Elements -> Sound Design	Electricity	
+UVI	Click	UI Elements -> Sound Design	Fire	
+UVI	Click	UI Elements -> Sound Design	Gear	
+UVI	Click	UI Elements -> Sound Design	Gun Handling 01	
+UVI	Click	UI Elements -> Sound Design	Gun Handling 02	
+UVI	Click	UI Elements -> Sound Design	Magic	
+UVI	Click	UI Elements -> Sound Design	Rock Fall	
+UVI	Click	UI Elements -> Sound Design	Rock Scrape	
+UVI	Click	UI Elements -> Sound Design	Stab	
+UVI	Click	UI Elements -> Sound Design	Sword Fall	
+UVI	Click	UI Elements -> Sound Design	Sword Hit	
+UVI	Click	UI Elements -> Sound Design	Sword Scrape	
+UVI	Click	UI Elements -> Sound Design	Water	
+UVI	Click	UI Elements -> Sound Design	Whoosh	
+UVI	Click	User Interface	UI Browsing Menu 01	
+UVI	Click	User Interface	UI Browsing Menu 02	
+UVI	Click	User Interface	UI Browsing Menu 03	
+UVI	Click	User Interface	UI Bubble 01	
+UVI	Click	User Interface	UI Bubble 02	
+UVI	Click	User Interface	UI Bubble 03	
+UVI	Click	User Interface	UI Bubble 04	
+UVI	Click	User Interface	UI Bubble 05	
+UVI	Click	User Interface	UI Bubble 06	
+UVI	Click	User Interface	UI Bubble 07	
+UVI	Click	User Interface	UI Bubble 08	
+UVI	Click	User Interface	UI Bubble 09	
+UVI	Click	User Interface	UI Confirm 01	
+UVI	Click	User Interface	UI Confirm 02	
+UVI	Click	User Interface	UI Confirm 03	
+UVI	Click	User Interface	UI Confirm 04	
+UVI	Click	User Interface	UI Confirm 05	
+UVI	Click	User Interface	UI Deny 01	
+UVI	Click	User Interface	UI Deny 02	
+UVI	Click	User Interface	UI Deny 03	
+UVI	Click	User Interface	UI Fairy Tail	
+UVI	Click	User Interface	UI Happy Click	
+UVI	Click	User Interface	UI Horus	
+UVI	Click	User Interface	UI Incorrect Password	
+UVI	Click	User Interface	UI Magic Beep	
+UVI	Click	User Interface	UI Mechanical	
+UVI	Click	User Interface	UI Message 01	
+UVI	Click	User Interface	UI Message 02	
+UVI	Click	User Interface	UI Select 01	
+UVI	Click	User Interface	UI Select 02	
+UVI	Click	User Interface	UI Select 03	
+UVI	Click	User Interface	UI Select 04	
+UVI	Click	User Interface	UI Typing 01	
+UVI	Click	User Interface	UI Typing 02	
+UVI	Click	User Interface	UI Violent Clicker	
+UVI	Click	Video Games	Blast Short	
+UVI	Click	Video Games	Browsing 01	
+UVI	Click	Video Games	Browsing 02	
+UVI	Click	Video Games	Browsing 03	
+UVI	Click	Video Games	Car Engine	
+UVI	Click	Video Games	Car Malfunction	
+UVI	Click	Video Games	Character Selection 01	
+UVI	Click	Video Games	Character Selection 02	
+UVI	Click	Video Games	Character Selection 03	
+UVI	Click	Video Games	Character Selection 04	
+UVI	Click	Video Games	Coin Count 01	
+UVI	Click	Video Games	Coin Count 02	
+UVI	Click	Video Games	Coin Count 03	
+UVI	Click	Video Games	Coins 01	
+UVI	Click	Video Games	Coins 02	
+UVI	Click	Video Games	Counting Points 01	
+UVI	Click	Video Games	Counting Points 02	
+UVI	Click	Video Games	Craft 01	
+UVI	Click	Video Games	Craft 02	
+UVI	Click	Video Games	Failure	
+UVI	Click	Video Games	Jump 01	
+UVI	Click	Video Games	Jump 02	
+UVI	Click	Video Games	Jump 03	
+UVI	Click	Video Games	Jump 04	
+UVI	Click	Video Games	Jump Double	
+UVI	Click	Video Games	Level Up 01	
+UVI	Click	Video Games	Level Up 02	
+UVI	Click	Video Games	Modern Hover 01	
+UVI	Click	Video Games	Modern Hover 02	
+UVI	Click	Video Games	Modern Select 01	
+UVI	Click	Video Games	Modern Select 02	
+UVI	Click	Video Games	Modern Select 03	
+UVI	Click	Video Games	Modern Select 04	
+UVI	Click	Video Games	Negative Short	
+UVI	Click	Video Games	Pizz Down	
+UVI	Click	Video Games	Pizz Up	
+UVI	Click	Video Games	Positive Short	
+UVI	Click	Video Games	Simple Beep	
+UVI	Click	Video Games	Unlock 01	
+UVI	Click	Video Games	Unlock 02	
+UVI	Click	Video Games	Unlock 03	
+UVI	Click	Video Games	Unlock 04	
+UVI	Click	Video Games	Unlock 05	
