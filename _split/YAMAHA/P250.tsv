@@ -1,0 +1,569 @@
+Yamaha	P-250	VOICE -> 1 G.PIANO1	Grand Piano 1	
+Yamaha	P-250	VOICE -> 1 G.PIANO1	Mellow Piano 1	
+Yamaha	P-250	VOICE -> 1 G.PIANO1	Rock Piano	
+Yamaha	P-250	VOICE -> 1 G.PIANO1	HonkyTonk Piano	
+Yamaha	P-250	VOICE -> 2 G.PIANO2	Grand Piano 2	
+Yamaha	P-250	VOICE -> 2 G.PIANO2	Mellow Piano 2	
+Yamaha	P-250	VOICE -> 3 E.PIANO1	Chorus E.Piano	
+Yamaha	P-250	VOICE -> 3 E.PIANO1	Phaser E.Piano	
+Yamaha	P-250	VOICE -> 3 E.PIANO1	AutoPan E.Piano	
+Yamaha	P-250	VOICE -> 3 E.PIANO1	Standard E.Piano	
+Yamaha	P-250	VOICE -> 4 E.PIANO2	DX E.Piano 1	
+Yamaha	P-250	VOICE -> 4 E.PIANO2	DX E.Piano 2	
+Yamaha	P-250	VOICE -> 4 E.PIANO2	Synth Piano	
+Yamaha	P-250	VOICE -> 5 E.PIANO3	Tremolo Vintage E.P.	
+Yamaha	P-250	VOICE -> 5 E.PIANO3	Vintage E.Piano	
+Yamaha	P-250	VOICE -> 5 E.PIANO3	Amp.Sim.Vintage.E.P.	
+Yamaha	P-250	VOICE -> 6 CLAVI.	Phaser Clavi.	
+Yamaha	P-250	VOICE -> 6 CLAVI.	Clavi.	
+Yamaha	P-250	VOICE -> 6 CLAVI.	Wah Clavi.	
+Yamaha	P-250	VOICE -> 7 HARPSI.	Harpsichord 8'	
+Yamaha	P-250	VOICE -> 7 HARPSI.	Harpsichord 8'+4'	
+Yamaha	P-250	VOICE -> 8 VIBES	Vibraphone	
+Yamaha	P-250	VOICE -> 8 VIBES	Marimba	
+Yamaha	P-250	VOICE -> 8 VIBES	Celesta	
+Yamaha	P-250	VOICE -> 9 ORGAN1	Jazz Organ	
+Yamaha	P-250	VOICE -> 9 ORGAN1	Theater Organ	
+Yamaha	P-250	VOICE -> 9 ORGAN1	Rock Organ	
+Yamaha	P-250	VOICE -> 9 ORGAN1	Draw Organ	
+Yamaha	P-250	VOICE -> 10 ORGAN2	Pipe Organ Principal	
+Yamaha	P-250	VOICE -> 10 ORGAN2	Pipe Organ Tutti	
+Yamaha	P-250	VOICE -> 10 ORGAN2	Pipe Organ Flute	
+Yamaha	P-250	VOICE -> 11 STRINGS	Strings	
+Yamaha	P-250	VOICE -> 11 STRINGS	Synth Strings	
+Yamaha	P-250	VOICE -> 11 STRINGS	Slow Strings	
+Yamaha	P-250	VOICE -> 12 CHOIR	Choir	
+Yamaha	P-250	VOICE -> 12 CHOIR	Slow Choir	
+Yamaha	P-250	VOICE -> 12 CHOIR	Scat	
+Yamaha	P-250	VOICE -> 13 SYNTH.PAD	Synth Pad 1	
+Yamaha	P-250	VOICE -> 13 SYNTH.PAD	Synth Pad 2	
+Yamaha	P-250	VOICE -> 14 GUITAR	Nylon Guitar	
+Yamaha	P-250	VOICE -> 14 GUITAR	Steel Guitar	
+Yamaha	P-250	VOICE -> 15 BASS	Wood Bass	
+Yamaha	P-250	VOICE -> 15 BASS	Bass&Cymbal	
+Yamaha	P-250	VOICE -> 15 BASS	Electric Bass	
+Yamaha	P-250	VOICE -> 15 BASS	Fretless Bass	
+Yamaha	P-250	VOICE -> XG	001 000 GrandPno	
+Yamaha	P-250	VOICE -> XG	002 000 BritePno	
+Yamaha	P-250	VOICE -> XG	003 000 El.Grand	
+Yamaha	P-250	VOICE -> XG	004 000 HnkyTonk	
+Yamaha	P-250	VOICE -> XG	005 000 E.Piano1	
+Yamaha	P-250	VOICE -> XG	006 000 E.Piano2	
+Yamaha	P-250	VOICE -> XG	007 000 Harpsi.	
+Yamaha	P-250	VOICE -> XG	008 000 Clavi.	
+Yamaha	P-250	VOICE -> XG	009 000 Celesta	
+Yamaha	P-250	VOICE -> XG	010 000 Glocken	
+Yamaha	P-250	VOICE -> XG	011 000 MusicBox	
+Yamaha	P-250	VOICE -> XG	012 000 Vibes	
+Yamaha	P-250	VOICE -> XG	013 000 Marimba	
+Yamaha	P-250	VOICE -> XG	014 000 Xylophon	
+Yamaha	P-250	VOICE -> XG	015 000 TubulBel	
+Yamaha	P-250	VOICE -> XG	016 000 Dulcimer	
+Yamaha	P-250	VOICE -> XG	017 000 DrawOrgn	
+Yamaha	P-250	VOICE -> XG	018 000 PercOrgn	
+Yamaha	P-250	VOICE -> XG	019 000 RockOrgn	
+Yamaha	P-250	VOICE -> XG	020 000 ChrchOrg	
+Yamaha	P-250	VOICE -> XG	021 000 ReedOrgn	
+Yamaha	P-250	VOICE -> XG	022 000 Acordion	
+Yamaha	P-250	VOICE -> XG	023 000 Harmnica	
+Yamaha	P-250	VOICE -> XG	024 000 TangoAcd	
+Yamaha	P-250	VOICE -> XG	025 000 NylonGtr	
+Yamaha	P-250	VOICE -> XG	026 000 SteelGtr	
+Yamaha	P-250	VOICE -> XG	027 000 Jazz Gtr	
+Yamaha	P-250	VOICE -> XG	028 000 CleanGtr	
+Yamaha	P-250	VOICE -> XG	029 000 Mute.Gtr	
+Yamaha	P-250	VOICE -> XG	030 000 Ovrdrive	
+Yamaha	P-250	VOICE -> XG	031 000 Dist.Gtr	
+Yamaha	P-250	VOICE -> XG	032 000 GtrHarmo	
+Yamaha	P-250	VOICE -> XG	033 000 Aco.Bass	
+Yamaha	P-250	VOICE -> XG	034 000 FngrBass	
+Yamaha	P-250	VOICE -> XG	035 000 PickBass	
+Yamaha	P-250	VOICE -> XG	036 000 Fretless	
+Yamaha	P-250	VOICE -> XG	037 000 SlapBas1	
+Yamaha	P-250	VOICE -> XG	038 000 SlapBas2	
+Yamaha	P-250	VOICE -> XG	039 000 SynBass1	
+Yamaha	P-250	VOICE -> XG	040 000 SynBass2	
+Yamaha	P-250	VOICE -> XG	041 000 Violin	
+Yamaha	P-250	VOICE -> XG	042 000 Viola	
+Yamaha	P-250	VOICE -> XG	043 000 Cello	
+Yamaha	P-250	VOICE -> XG	044 000 Contrabs	
+Yamaha	P-250	VOICE -> XG	045 000 Trem.Str	
+Yamaha	P-250	VOICE -> XG	046 000 Pizz.Str	
+Yamaha	P-250	VOICE -> XG	047 000 Harp	
+Yamaha	P-250	VOICE -> XG	048 000 Timpani	
+Yamaha	P-250	VOICE -> XG	049 000 Strings1	
+Yamaha	P-250	VOICE -> XG	050 000 Strings2	
+Yamaha	P-250	VOICE -> XG	051 000 Syn.Str1	
+Yamaha	P-250	VOICE -> XG	052 000 Syn.Str2	
+Yamaha	P-250	VOICE -> XG	053 000 ChoirAah	
+Yamaha	P-250	VOICE -> XG	054 000 VoiceOoh	
+Yamaha	P-250	VOICE -> XG	055 000 SynVoice	
+Yamaha	P-250	VOICE -> XG	056 000 Orch.Hit	
+Yamaha	P-250	VOICE -> XG	057 000 Trumpet	
+Yamaha	P-250	VOICE -> XG	058 000 Trombone	
+Yamaha	P-250	VOICE -> XG	059 000 Tuba	
+Yamaha	P-250	VOICE -> XG	060 000 Mute.Trp	
+Yamaha	P-250	VOICE -> XG	061 000 Fr. Horn	
+Yamaha	P-250	VOICE -> XG	062 000 BrasSect	
+Yamaha	P-250	VOICE -> XG	063 000 SynBrss1	
+Yamaha	P-250	VOICE -> XG	064 000 SynBrss2	
+Yamaha	P-250	VOICE -> XG	065 000 SprnoSax	
+Yamaha	P-250	VOICE -> XG	066 000 Alto Sax	
+Yamaha	P-250	VOICE -> XG	067 000 TenorSax	
+Yamaha	P-250	VOICE -> XG	068 000 Bari.Sax	
+Yamaha	P-250	VOICE -> XG	069 000 Oboe	
+Yamaha	P-250	VOICE -> XG	070 000 Eng.Horn	
+Yamaha	P-250	VOICE -> XG	071 000 Bassoon	
+Yamaha	P-250	VOICE -> XG	072 000 Clarinet	
+Yamaha	P-250	VOICE -> XG	073 000 Piccolo	
+Yamaha	P-250	VOICE -> XG	074 000 Flute	
+Yamaha	P-250	VOICE -> XG	075 000 Recorder	
+Yamaha	P-250	VOICE -> XG	076 000 PanFlute	
+Yamaha	P-250	VOICE -> XG	077 000 Bottle	
+Yamaha	P-250	VOICE -> XG	078 000 Shakhchi	
+Yamaha	P-250	VOICE -> XG	079 000 Whistle	
+Yamaha	P-250	VOICE -> XG	080 000 Ocarina	
+Yamaha	P-250	VOICE -> XG	081 000 SquareLd	
+Yamaha	P-250	VOICE -> XG	082 000 Saw Ld	
+Yamaha	P-250	VOICE -> XG	083 000 CaliopLd	
+Yamaha	P-250	VOICE -> XG	084 000 Chiff Ld	
+Yamaha	P-250	VOICE -> XG	085 000 CharanLd	
+Yamaha	P-250	VOICE -> XG	086 000 Voice Ld	
+Yamaha	P-250	VOICE -> XG	087 000 Fifth Ld	
+Yamaha	P-250	VOICE -> XG	088 000 Bass&Ld	
+Yamaha	P-250	VOICE -> XG	089 000 NewAgePd	
+Yamaha	P-250	VOICE -> XG	090 000 Warm Pad	
+Yamaha	P-250	VOICE -> XG	091 000 PolySyPd	
+Yamaha	P-250	VOICE -> XG	092 000 ChoirPad	
+Yamaha	P-250	VOICE -> XG	093 000 BowedPad	
+Yamaha	P-250	VOICE -> XG	094 000 MetalPad	
+Yamaha	P-250	VOICE -> XG	095 000 Halo Pad	
+Yamaha	P-250	VOICE -> XG	096 000 SweepPad	
+Yamaha	P-250	VOICE -> XG	097 000 Rain	
+Yamaha	P-250	VOICE -> XG	098 000 SoundTrk	
+Yamaha	P-250	VOICE -> XG	099 000 Crystal	
+Yamaha	P-250	VOICE -> XG	100 000 Atmosphr	
+Yamaha	P-250	VOICE -> XG	101 000 Bright	
+Yamaha	P-250	VOICE -> XG	102 000 Goblins	
+Yamaha	P-250	VOICE -> XG	103 000 Echoes	
+Yamaha	P-250	VOICE -> XG	104 000 Sci-Fi	
+Yamaha	P-250	VOICE -> XG	105 000 Sitar	
+Yamaha	P-250	VOICE -> XG	106 000 Banjo	
+Yamaha	P-250	VOICE -> XG	107 000 Shamisen	
+Yamaha	P-250	VOICE -> XG	108 000 Koto	
+Yamaha	P-250	VOICE -> XG	109 000 Kalimba	
+Yamaha	P-250	VOICE -> XG	110 000 Bagpipe	
+Yamaha	P-250	VOICE -> XG	111 000 Fiddle	
+Yamaha	P-250	VOICE -> XG	112 000 Shanai	
+Yamaha	P-250	VOICE -> XG	113 000 TnklBell	
+Yamaha	P-250	VOICE -> XG	114 000 Agogo	
+Yamaha	P-250	VOICE -> XG	115 000 SteelDrm	
+Yamaha	P-250	VOICE -> XG	116 000 Woodblok	
+Yamaha	P-250	VOICE -> XG	117 000 TaikoDrm	
+Yamaha	P-250	VOICE -> XG	118 000 MelodTom	
+Yamaha	P-250	VOICE -> XG	119 000 Syn Drum	
+Yamaha	P-250	VOICE -> XG	120 000 RevCymbl	
+Yamaha	P-250	VOICE -> XG	121 000 FretNoiz	
+Yamaha	P-250	VOICE -> XG	122 000 BrthNoiz	
+Yamaha	P-250	VOICE -> XG	123 000 Seashore	
+Yamaha	P-250	VOICE -> XG	124 000 Tweet	
+Yamaha	P-250	VOICE -> XG	125 000 Telphone	
+Yamaha	P-250	VOICE -> XG	126 000 Helicptr	
+Yamaha	P-250	VOICE -> XG	127 000 Applause	
+Yamaha	P-250	VOICE -> XG	128 000 Gunshot	
+Yamaha	P-250	VOICE -> XG	001 001 GrndPnoK	
+Yamaha	P-250	VOICE -> XG	002 001 BritPnoK	
+Yamaha	P-250	VOICE -> XG	003 001 ElGrPnoK	
+Yamaha	P-250	VOICE -> XG	004 001 HnkyTnkK	
+Yamaha	P-250	VOICE -> XG	005 001 El.Pno1K	
+Yamaha	P-250	VOICE -> XG	006 001 El.Pno2K	
+Yamaha	P-250	VOICE -> XG	007 001 Harpsi.K	
+Yamaha	P-250	VOICE -> XG	008 001 Clavi K	
+Yamaha	P-250	VOICE -> XG	012 001 Vibes K	
+Yamaha	P-250	VOICE -> XG	013 001 MarimbaK	
+Yamaha	P-250	VOICE -> XG	049 003 S.Strngs	
+Yamaha	P-250	VOICE -> XG	050 003 S.SlwStr	
+Yamaha	P-250	VOICE -> XG	053 003 S.Choir	
+Yamaha	P-250	VOICE -> XG	040 006 MelloSBa	
+Yamaha	P-250	VOICE -> XG	061 006 FrHrSolo	
+Yamaha	P-250	VOICE -> XG	081 006 SquarLd2	
+Yamaha	P-250	VOICE -> XG	082 006 Saw Ld 2	
+Yamaha	P-250	VOICE -> XG	041 008 Slow Vln	
+Yamaha	P-250	VOICE -> XG	045 008 SlwTrStr	
+Yamaha	P-250	VOICE -> XG	049 008 Slow Str	
+Yamaha	P-250	VOICE -> XG	050 008 LegatoSt	
+Yamaha	P-250	VOICE -> XG	081 008 LMSquare	
+Yamaha	P-250	VOICE -> XG	082 008 ThickSaw	
+Yamaha	P-250	VOICE -> XG	103 008 Echoes 2	
+Yamaha	P-250	VOICE -> XG	040 012 Seq Bass	
+Yamaha	P-250	VOICE -> XG	063 012 Quack Br	
+Yamaha	P-250	VOICE -> XG	099 012 SynDrCmp	
+Yamaha	P-250	VOICE -> XG	099 014 Popcorn	
+Yamaha	P-250	VOICE -> XG	103 014 Echo Pan	
+Yamaha	P-250	VOICE -> XG	025 016 NylonGt2	
+Yamaha	P-250	VOICE -> XG	026 016 SteelGt2	
+Yamaha	P-250	VOICE -> XG	053 016 Ch.Aahs2	
+Yamaha	P-250	VOICE -> XG	057 016 Trumpet2	
+Yamaha	P-250	VOICE -> XG	059 016 Tuba 2	
+Yamaha	P-250	VOICE -> XG	088 016 Big&Low	
+Yamaha	P-250	VOICE -> XG	090 016 ThickPad	
+Yamaha	P-250	VOICE -> XG	057 017 BriteTrp	
+Yamaha	P-250	VOICE -> XG	090 017 Soft Pad	
+Yamaha	P-250	VOICE -> XG	001 018 MelloGrP	
+Yamaha	P-250	VOICE -> XG	005 018 MelloEP1	
+Yamaha	P-250	VOICE -> XG	027 018 MelloGtr	
+Yamaha	P-250	VOICE -> XG	034 018 FingrDrk	
+Yamaha	P-250	VOICE -> XG	039 018 SynBa1Dk	
+Yamaha	P-250	VOICE -> XG	040 018 ClkSynBa	
+Yamaha	P-250	VOICE -> XG	058 018 Trmbone2	
+Yamaha	P-250	VOICE -> XG	064 018 Soft Brs	
+Yamaha	P-250	VOICE -> XG	081 018 Hollow	
+Yamaha	P-250	VOICE -> XG	082 018 Dyna Saw	
+Yamaha	P-250	VOICE -> XG	090 018 Sine Pad	
+Yamaha	P-250	VOICE -> XG	099 018 TinyBell	
+Yamaha	P-250	VOICE -> XG	100 018 WarmAtms	
+Yamaha	P-250	VOICE -> XG	040 019 SynBa2Dk	
+Yamaha	P-250	VOICE -> XG	081 019 Shroud	
+Yamaha	P-250	VOICE -> XG	082 019 Digi Saw	
+Yamaha	P-250	VOICE -> XG	100 019 HollwRls	
+Yamaha	P-250	VOICE -> XG	039 020 FastResB	
+Yamaha	P-250	VOICE -> XG	063 020 RezSynBr	
+Yamaha	P-250	VOICE -> XG	082 020 Big Lead	
+Yamaha	P-250	VOICE -> XG	096 020 Shwimmer	
+Yamaha	P-250	VOICE -> XG	018 024 70sPcOr1	
+Yamaha	P-250	VOICE -> XG	039 024 AcidBass	
+Yamaha	P-250	VOICE -> XG	049 024 Arco Str	
+Yamaha	P-250	VOICE -> XG	063 024 PolyBrss	
+Yamaha	P-250	VOICE -> XG	082 024 HeavySyn	
+Yamaha	P-250	VOICE -> XG	086 024 SynthAah	
+Yamaha	P-250	VOICE -> XG	007 025 Harpsi.2	
+Yamaha	P-250	VOICE -> XG	025 025 NylonGt3	
+Yamaha	P-250	VOICE -> XG	082 025 WaspySyn	
+Yamaha	P-250	VOICE -> XG	008 027 ClaviWah	
+Yamaha	P-250	VOICE -> XG	034 027 FlangeBa	
+Yamaha	P-250	VOICE -> XG	037 027 ResoSlap	
+Yamaha	P-250	VOICE -> XG	051 027 Reso Str	
+Yamaha	P-250	VOICE -> XG	063 027 SynBrss3	
+Yamaha	P-250	VOICE -> XG	096 027 Converge	
+Yamaha	P-250	VOICE -> XG	098 027 Prologue	
+Yamaha	P-250	VOICE -> XG	035 028 MutePkBa	
+Yamaha	P-250	VOICE -> XG	106 028 MuteBnjo	
+Yamaha	P-250	VOICE -> XG	003 032 Det.CP80	
+Yamaha	P-250	VOICE -> XG	005 032 Chor.EP1	
+Yamaha	P-250	VOICE -> XG	006 032 Chor.EP2	
+Yamaha	P-250	VOICE -> XG	017 032 DetDrwOr	
+Yamaha	P-250	VOICE -> XG	018 032 DetPrcOr	
+Yamaha	P-250	VOICE -> XG	020 032 ChurOrg3	
+Yamaha	P-250	VOICE -> XG	022 032 AccordIt	
+Yamaha	P-250	VOICE -> XG	023 032 Harmo. 2	
+Yamaha	P-250	VOICE -> XG	027 032 Jazz Amp	
+Yamaha	P-250	VOICE -> XG	028 032 ChorusGt	
+Yamaha	P-250	VOICE -> XG	036 032 Fretles2	
+Yamaha	P-250	VOICE -> XG	037 032 PunchThm	
+Yamaha	P-250	VOICE -> XG	040 032 SmthSynB	
+Yamaha	P-250	VOICE -> XG	053 032 MelChoir	
+Yamaha	P-250	VOICE -> XG	057 032 Warm Trp	
+Yamaha	P-250	VOICE -> XG	061 032 FrHorn 2	
+Yamaha	P-250	VOICE -> XG	063 032 JumpBrss	
+Yamaha	P-250	VOICE -> XG	105 032 DetSitar	
+Yamaha	P-250	VOICE -> XG	006 033 DX Hard	
+Yamaha	P-250	VOICE -> XG	017 033 60sDrOr1	
+Yamaha	P-250	VOICE -> XG	018 033 Lite Org	
+Yamaha	P-250	VOICE -> XG	036 033 Fretles3	
+Yamaha	P-250	VOICE -> XG	006 034 DXLegend	
+Yamaha	P-250	VOICE -> XG	017 034 60sDrOr2	
+Yamaha	P-250	VOICE -> XG	036 034 Fretles4	
+Yamaha	P-250	VOICE -> XG	007 035 Harpsi.3	
+Yamaha	P-250	VOICE -> XG	016 035 Dulcimr2	
+Yamaha	P-250	VOICE -> XG	017 035 70sDrOr1	
+Yamaha	P-250	VOICE -> XG	020 035 ChurOrg2	
+Yamaha	P-250	VOICE -> XG	026 035 12StrGtr	
+Yamaha	P-250	VOICE -> XG	039 035 Clv Bass	
+Yamaha	P-250	VOICE -> XG	049 035 60sStrng	
+Yamaha	P-250	VOICE -> XG	056 035 OrchHit2	
+Yamaha	P-250	VOICE -> XG	062 035 Tp&TbSec	
+Yamaha	P-250	VOICE -> XG	087 035 Big Five	
+Yamaha	P-250	VOICE -> XG	099 035 RndGlock	
+Yamaha	P-250	VOICE -> XG	105 035 Sitar 2	
+Yamaha	P-250	VOICE -> XG	017 036 DrawOrg2	
+Yamaha	P-250	VOICE -> XG	017 037 60sDrOr3	
+Yamaha	P-250	VOICE -> XG	018 037 PercOrg2	
+Yamaha	P-250	VOICE -> XG	061 037 HornOrch	
+Yamaha	P-250	VOICE -> XG	017 038 Even Bar	
+Yamaha	P-250	VOICE -> XG	001 040 PianoStr	
+Yamaha	P-250	VOICE -> XG	003 040 LayerCP1	
+Yamaha	P-250	VOICE -> XG	005 040 HardEl.P	
+Yamaha	P-250	VOICE -> XG	006 040 DX Phase	
+Yamaha	P-250	VOICE -> XG	017 040 16+2"2/3	
+Yamaha	P-250	VOICE -> XG	020 040 NotreDam	
+Yamaha	P-250	VOICE -> XG	021 040 Puff Org	
+Yamaha	P-250	VOICE -> XG	026 040 Nyln&Stl	
+Yamaha	P-250	VOICE -> XG	029 040 FunkGtr1	
+Yamaha	P-250	VOICE -> XG	031 040 FeedbkGt	
+Yamaha	P-250	VOICE -> XG	033 040 JazzRthm	
+Yamaha	P-250	VOICE -> XG	034 040 Ba&DstEG	
+Yamaha	P-250	VOICE -> XG	039 040 TechnoBa	
+Yamaha	P-250	VOICE -> XG	040 040 ModulrBa	
+Yamaha	P-250	VOICE -> XG	045 040 Susp.Str	
+Yamaha	P-250	VOICE -> XG	047 040 YangChin	
+Yamaha	P-250	VOICE -> XG	049 040 Orchestr	
+Yamaha	P-250	VOICE -> XG	050 040 Warm Str	
+Yamaha	P-250	VOICE -> XG	053 040 ChoirStr	
+Yamaha	P-250	VOICE -> XG	055 040 SyVoice2	
+Yamaha	P-250	VOICE -> XG	062 040 BrssSec2	
+Yamaha	P-250	VOICE -> XG	064 040 SynBrss4	
+Yamaha	P-250	VOICE -> XG	066 040 Sax Sect	
+Yamaha	P-250	VOICE -> XG	067 040 BrthTnSx	
+Yamaha	P-250	VOICE -> XG	082 040 PulseSaw	
+Yamaha	P-250	VOICE -> XG	099 040 GlockChi	
+Yamaha	P-250	VOICE -> XG	100 040 Nylon EP	
+Yamaha	P-250	VOICE -> XG	001 041 Dream	
+Yamaha	P-250	VOICE -> XG	003 041 LayerCP2	
+Yamaha	P-250	VOICE -> XG	006 041 DX+Analg	
+Yamaha	P-250	VOICE -> XG	026 041 Stl&Body	
+Yamaha	P-250	VOICE -> XG	029 041 MuteStlG	
+Yamaha	P-250	VOICE -> XG	031 041 FeedbkG2	
+Yamaha	P-250	VOICE -> XG	040 041 DX Bass	
+Yamaha	P-250	VOICE -> XG	049 041 Orchstr2	
+Yamaha	P-250	VOICE -> XG	050 041 Kingdom	
+Yamaha	P-250	VOICE -> XG	055 041 Choral	
+Yamaha	P-250	VOICE -> XG	062 041 Hi Brass	
+Yamaha	P-250	VOICE -> XG	064 041 ChoirBrs	
+Yamaha	P-250	VOICE -> XG	067 041 SoftTenr	
+Yamaha	P-250	VOICE -> XG	082 041 Dr. Lead	
+Yamaha	P-250	VOICE -> XG	099 041 ClearBel	
+Yamaha	P-250	VOICE -> XG	006 042 DXKotoEP	
+Yamaha	P-250	VOICE -> XG	049 042 TremOrch	
+Yamaha	P-250	VOICE -> XG	062 042 MelloBrs	
+Yamaha	P-250	VOICE -> XG	099 042 ChorBell	
+Yamaha	P-250	VOICE -> XG	025 043 VelGtHrm	
+Yamaha	P-250	VOICE -> XG	029 043 FunkGtr2	
+Yamaha	P-250	VOICE -> XG	030 043 Gt.Pinch	
+Yamaha	P-250	VOICE -> XG	034 043 FngrSlap	
+Yamaha	P-250	VOICE -> XG	038 043 VeloSlap	
+Yamaha	P-250	VOICE -> XG	066 043 HyprAlto	
+Yamaha	P-250	VOICE -> XG	005 045 VX El.P1	
+Yamaha	P-250	VOICE -> XG	006 045 VX El.P2	
+Yamaha	P-250	VOICE -> XG	012 045 HardVibe	
+Yamaha	P-250	VOICE -> XG	029 045 Jazz Man	
+Yamaha	P-250	VOICE -> XG	033 045 VXUprght	
+Yamaha	P-250	VOICE -> XG	034 045 FngBass2	
+Yamaha	P-250	VOICE -> XG	049 045 Velo.Str	
+Yamaha	P-250	VOICE -> XG	063 045 AnVelBr1	
+Yamaha	P-250	VOICE -> XG	064 045 AnVelBr2	
+Yamaha	P-250	VOICE -> XG	082 045 VeloLead	
+Yamaha	P-250	VOICE -> XG	097 045 ClaviPad	
+Yamaha	P-250	VOICE -> XG	005 064 60sEl.P1	
+Yamaha	P-250	VOICE -> XG	008 064 PulseClv	
+Yamaha	P-250	VOICE -> XG	011 064 Orgel	
+Yamaha	P-250	VOICE -> XG	013 064 SineMrmb	
+Yamaha	P-250	VOICE -> XG	017 064 Organ Ba	
+Yamaha	P-250	VOICE -> XG	019 064 RotaryOr	
+Yamaha	P-250	VOICE -> XG	020 064 OrgFlute	
+Yamaha	P-250	VOICE -> XG	024 064 TngoAcd2	
+Yamaha	P-250	VOICE -> XG	039 064 Orbiter	
+Yamaha	P-250	VOICE -> XG	040 064 X WireBa	
+Yamaha	P-250	VOICE -> XG	050 064 70s Str	
+Yamaha	P-250	VOICE -> XG	051 064 Syn Str4	
+Yamaha	P-250	VOICE -> XG	055 064 AnaVoice	
+Yamaha	P-250	VOICE -> XG	056 064 Impact	
+Yamaha	P-250	VOICE -> XG	063 064 AnaBrss1	
+Yamaha	P-250	VOICE -> XG	064 064 AnaBrss2	
+Yamaha	P-250	VOICE -> XG	067 064 TnrSax 2	
+Yamaha	P-250	VOICE -> XG	081 064 Mellow	
+Yamaha	P-250	VOICE -> XG	084 064 Rubby	
+Yamaha	P-250	VOICE -> XG	085 064 DistLead	
+Yamaha	P-250	VOICE -> XG	086 064 Vox Lead	
+Yamaha	P-250	VOICE -> XG	088 064 Fat&Prky	
+Yamaha	P-250	VOICE -> XG	089 064 Fantasy	
+Yamaha	P-250	VOICE -> XG	090 064 Horn Pad	
+Yamaha	P-250	VOICE -> XG	091 064 PolyPd80	
+Yamaha	P-250	VOICE -> XG	092 064 Heaven	
+Yamaha	P-250	VOICE -> XG	093 064 Glacier	
+Yamaha	P-250	VOICE -> XG	094 064 Tine Pad	
+Yamaha	P-250	VOICE -> XG	096 064 PolarPad	
+Yamaha	P-250	VOICE -> XG	097 064 HrmoRain	
+Yamaha	P-250	VOICE -> XG	098 064 Ancestrl	
+Yamaha	P-250	VOICE -> XG	099 064 SynMalet	
+Yamaha	P-250	VOICE -> XG	100 064 NylnHarp	
+Yamaha	P-250	VOICE -> XG	101 064 FantaBel	
+Yamaha	P-250	VOICE -> XG	102 064 GobSynth	
+Yamaha	P-250	VOICE -> XG	103 064 EchoBell	
+Yamaha	P-250	VOICE -> XG	104 064 Starz	
+Yamaha	P-250	VOICE -> XG	112 064 Shanai 2	
+Yamaha	P-250	VOICE -> XG	118 064 Mel Tom2	
+Yamaha	P-250	VOICE -> XG	119 064 Ana Tom	
+Yamaha	P-250	VOICE -> XG	008 065 PierceCl	
+Yamaha	P-250	VOICE -> XG	017 065 70sDrOr2	
+Yamaha	P-250	VOICE -> XG	019 065 SloRotar	
+Yamaha	P-250	VOICE -> XG	020 065 TrmOrgFl	
+Yamaha	P-250	VOICE -> XG	032 065 GtFeedbk	
+Yamaha	P-250	VOICE -> XG	034 065 Mod.Bass	
+Yamaha	P-250	VOICE -> XG	039 065 Sqr.Bass	
+Yamaha	P-250	VOICE -> XG	050 065 Strings3	
+Yamaha	P-250	VOICE -> XG	051 065 Syn Str5	
+Yamaha	P-250	VOICE -> XG	081 065 SoloSine	
+Yamaha	P-250	VOICE -> XG	083 065 PureLead	
+Yamaha	P-250	VOICE -> XG	085 065 WireLead	
+Yamaha	P-250	VOICE -> XG	088 065 Soft Wrl	
+Yamaha	P-250	VOICE -> XG	090 065 RotarStr	
+Yamaha	P-250	VOICE -> XG	091 065 ClickPad	
+Yamaha	P-250	VOICE -> XG	093 065 GlassPad	
+Yamaha	P-250	VOICE -> XG	094 065 Pan Pad	
+Yamaha	P-250	VOICE -> XG	097 065 AfrcnWnd	
+Yamaha	P-250	VOICE -> XG	099 065 SftCryst	
+Yamaha	P-250	VOICE -> XG	100 065 Harp Vox	
+Yamaha	P-250	VOICE -> XG	102 065 Creeper	
+Yamaha	P-250	VOICE -> XG	103 065 Big Pan	
+Yamaha	P-250	VOICE -> XG	118 065 Real Tom	
+Yamaha	P-250	VOICE -> XG	119 065 ElecPerc	
+Yamaha	P-250	VOICE -> XG	017 066 CheezOrg	
+Yamaha	P-250	VOICE -> XG	019 066 FstRotar	
+Yamaha	P-250	VOICE -> XG	032 066 GtrHrmo2	
+Yamaha	P-250	VOICE -> XG	039 066 RubberBa	
+Yamaha	P-250	VOICE -> XG	081 066 SineLead	
+Yamaha	P-250	VOICE -> XG	091 066 Ana. Pad	
+Yamaha	P-250	VOICE -> XG	092 066 Itopia	
+Yamaha	P-250	VOICE -> XG	096 066 Celstial	
+Yamaha	P-250	VOICE -> XG	097 066 Carib	
+Yamaha	P-250	VOICE -> XG	099 066 LoudGlok	
+Yamaha	P-250	VOICE -> XG	100 066 AtmosPad	
+Yamaha	P-250	VOICE -> XG	102 066 Ring Pad	
+Yamaha	P-250	VOICE -> XG	103 066 SynPiano	
+Yamaha	P-250	VOICE -> XG	118 066 Rock Tom	
+Yamaha	P-250	VOICE -> XG	017 067 DrawOrg3	
+Yamaha	P-250	VOICE -> XG	091 067 SquarPad	
+Yamaha	P-250	VOICE -> XG	092 067 CC Pad	
+Yamaha	P-250	VOICE -> XG	099 067 ChrstBel	
+Yamaha	P-250	VOICE -> XG	100 067 Planet	
+Yamaha	P-250	VOICE -> XG	102 067 Ritual	
+Yamaha	P-250	VOICE -> XG	103 067 Creation	
+Yamaha	P-250	VOICE -> XG	099 068 VibeBell	
+Yamaha	P-250	VOICE -> XG	102 068 ToHeaven	
+Yamaha	P-250	VOICE -> XG	103 068 StarDust	
+Yamaha	P-250	VOICE -> XG	099 069 DigiBell	
+Yamaha	P-250	VOICE -> XG	103 069 Reso&Pan	
+Yamaha	P-250	VOICE -> XG	099 070 AirBells	
+Yamaha	P-250	VOICE -> XG	102 070 Night	
+Yamaha	P-250	VOICE -> XG	099 071 BellHarp	
+Yamaha	P-250	VOICE -> XG	102 071 Glisten	
+Yamaha	P-250	VOICE -> XG	099 072 Gamelmba	
+Yamaha	P-250	VOICE -> XG	015 096 ChrchBel	
+Yamaha	P-250	VOICE -> XG	016 096 Cimbalom	
+Yamaha	P-250	VOICE -> XG	025 096 Ukulele	
+Yamaha	P-250	VOICE -> XG	026 096 Mandolin	
+Yamaha	P-250	VOICE -> XG	036 096 SynFretl	
+Yamaha	P-250	VOICE -> XG	039 096 Hammer	
+Yamaha	P-250	VOICE -> XG	082 096 Seq Ana.	
+Yamaha	P-250	VOICE -> XG	101 096 Smokey	
+Yamaha	P-250	VOICE -> XG	102 096 BelChoir	
+Yamaha	P-250	VOICE -> XG	105 096 Tambra	
+Yamaha	P-250	VOICE -> XG	106 096 Rabab	
+Yamaha	P-250	VOICE -> XG	108 096 Taisho-k	
+Yamaha	P-250	VOICE -> XG	112 096 Pungi	
+Yamaha	P-250	VOICE -> XG	113 096 Bonang	
+Yamaha	P-250	VOICE -> XG	116 096 Castanet	
+Yamaha	P-250	VOICE -> XG	117 096 Gr.Cassa	
+Yamaha	P-250	VOICE -> XG	013 097 Balimba	
+Yamaha	P-250	VOICE -> XG	015 097 Carillon	
+Yamaha	P-250	VOICE -> XG	016 097 Santur	
+Yamaha	P-250	VOICE -> XG	036 097 SmthFrtl	
+Yamaha	P-250	VOICE -> XG	105 097 Tamboura	
+Yamaha	P-250	VOICE -> XG	106 097 Gopichnt	
+Yamaha	P-250	VOICE -> XG	108 097 Kanoon	
+Yamaha	P-250	VOICE -> XG	112 097 Hichriki	
+Yamaha	P-250	VOICE -> XG	113 097 Altair	
+Yamaha	P-250	VOICE -> XG	115 097 GlasPerc	
+Yamaha	P-250	VOICE -> XG	013 098 Log Drum	
+Yamaha	P-250	VOICE -> XG	106 098 Oud	
+Yamaha	P-250	VOICE -> XG	113 098 Gamelan	
+Yamaha	P-250	VOICE -> XG	115 098 ThaiBell	
+Yamaha	P-250	VOICE -> XG	113 099 S.Gamlan	
+Yamaha	P-250	VOICE -> XG	113 100 Rama Cym	
+Yamaha	P-250	VOICE -> XG	113 101 AsianBel	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 001 StandKit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 002 StndKit2	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 009 Room Kit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 017 Rock Kit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 025 ElctrKit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 026 AnalgKit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 028 DanceKit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 033 Jazz Kit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 041 BrushKit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	127 049 SymphKit	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	126 001 SFXKit 1	
+Yamaha	P-250	VOICE -> XG -> Drum Kit	126 002 SFXKit 2	
+Yamaha	P-250	VOICE -> XG -> SFX	001 CuttngNz	
+Yamaha	P-250	VOICE -> XG -> SFX	002 CttngNz2	
+Yamaha	P-250	VOICE -> XG -> SFX	004 Str Slap	
+Yamaha	P-250	VOICE -> XG -> SFX	017 Fl.KClik	
+Yamaha	P-250	VOICE -> XG -> SFX	033 Shower	
+Yamaha	P-250	VOICE -> XG -> SFX	034 Thunder	
+Yamaha	P-250	VOICE -> XG -> SFX	035 Wind	
+Yamaha	P-250	VOICE -> XG -> SFX	036 Stream	
+Yamaha	P-250	VOICE -> XG -> SFX	037 Bubble	
+Yamaha	P-250	VOICE -> XG -> SFX	038 Feed	
+Yamaha	P-250	VOICE -> XG -> SFX	049 Dog	
+Yamaha	P-250	VOICE -> XG -> SFX	050 Horse	
+Yamaha	P-250	VOICE -> XG -> SFX	051 Tweet 2	
+Yamaha	P-250	VOICE -> XG -> SFX	055 Ghost	
+Yamaha	P-250	VOICE -> XG -> SFX	056 Maou	
+Yamaha	P-250	VOICE -> XG -> SFX	065 PhonCall	
+Yamaha	P-250	VOICE -> XG -> SFX	066 DoorSqek	
+Yamaha	P-250	VOICE -> XG -> SFX	067 DoorSlam	
+Yamaha	P-250	VOICE -> XG -> SFX	068 ScratchC	
+Yamaha	P-250	VOICE -> XG -> SFX	069 ScratchS	
+Yamaha	P-250	VOICE -> XG -> SFX	070 WindChim	
+Yamaha	P-250	VOICE -> XG -> SFX	071 Telphon2	
+Yamaha	P-250	VOICE -> XG -> SFX	081 CarEIgnt	
+Yamaha	P-250	VOICE -> XG -> SFX	082 CarTSqel	
+Yamaha	P-250	VOICE -> XG -> SFX	083 Car Pass	
+Yamaha	P-250	VOICE -> XG -> SFX	084 CarCrash	
+Yamaha	P-250	VOICE -> XG -> SFX	085 Siren	
+Yamaha	P-250	VOICE -> XG -> SFX	086 Train	
+Yamaha	P-250	VOICE -> XG -> SFX	087 JetPlane	
+Yamaha	P-250	VOICE -> XG -> SFX	088 Starship	
+Yamaha	P-250	VOICE -> XG -> SFX	089 Burst	
+Yamaha	P-250	VOICE -> XG -> SFX	090 Coaster	
+Yamaha	P-250	VOICE -> XG -> SFX	091 Submarin	
+Yamaha	P-250	VOICE -> XG -> SFX	097 Laugh	
+Yamaha	P-250	VOICE -> XG -> SFX	098 Scream	
+Yamaha	P-250	VOICE -> XG -> SFX	099 Punch	
+Yamaha	P-250	VOICE -> XG -> SFX	100 Heart	
+Yamaha	P-250	VOICE -> XG -> SFX	101 Footstep	
+Yamaha	P-250	VOICE -> XG -> SFX	113 MchinGun	
+Yamaha	P-250	VOICE -> XG -> SFX	114 LaserGun	
+Yamaha	P-250	VOICE -> XG -> SFX	115 Xplosion	
+Yamaha	P-250	VOICE -> XG -> SFX	116 Firework	
+Yamaha	P-250	PERFORMANCE	A01 Piano+Pad	
+Yamaha	P-250	PERFORMANCE	A02 Piano+E.Piano	
+Yamaha	P-250	PERFORMANCE	A03 Piano+DX E.P.1	
+Yamaha	P-250	PERFORMANCE	A04 Piano+DX E.P.2	
+Yamaha	P-250	PERFORMANCE	A05 Piano+SoftStr	
+Yamaha	P-250	PERFORMANCE	A06 HonkyTonk Piano	
+Yamaha	P-250	PERFORMANCE	A07 E.Piano+Pad	
+Yamaha	P-250	PERFORMANCE	A08 E.Piano+DX E.P.	
+Yamaha	P-250	PERFORMANCE	A09 E.Piano+SlowStr	
+Yamaha	P-250	PERFORMANCE	A10 E.Piano+Vintage E.P.	
+Yamaha	P-250	PERFORMANCE	A11 DX E.P.+SoftStr	
+Yamaha	P-250	PERFORMANCE	A12 DX E.P.+SynthPiano	
+Yamaha	P-250	PERFORMANCE	A13 PipeOrgan+Choir	
+Yamaha	P-250	PERFORMANCE	A14 Strings+Choir	
+Yamaha	P-250	PERFORMANCE	A15 Orchestral Harp	
+Yamaha	P-250	PERFORMANCE	A16 PolySynth Pad	
+Yamaha	P-250	PERFORMANCE	B01 WoodBass/GrandPiano	
+Yamaha	P-250	PERFORMANCE	B02 WoodBass/NylonGuitar	
+Yamaha	P-250	PERFORMANCE	B03 WoodBass/VibraPhone	
+Yamaha	P-250	PERFORMANCE	B04 Bass+Cym/JazzOrgan	
+Yamaha	P-250	PERFORMANCE	B05 E.Bass/PhaserE.P.	
+Yamaha	P-250	PERFORMANCE	B06 Bass+Cym/Scat	
+Yamaha	P-250	PERFORMANCE	B07 Organ Upper/Lower	
+Yamaha	P-250	PERFORMANCE	B08 E.Piano/GrandPiano	
+Yamaha	P-250	PERFORMANCE	B09 JazzOrg/GrandPiano	
+Yamaha	P-250	PERFORMANCE	B10 SynBass/SynBrass	
+Yamaha	P-250	PERFORMANCE	B11 Delay E.Piano	
+Yamaha	P-250	PERFORMANCE	B12 Room Piano	
+Yamaha	P-250	PERFORMANCE	B13 Old piano	
+Yamaha	P-250	PERFORMANCE	B14 Baroque Ensemble	
+Yamaha	P-250	PERFORMANCE	B15 AOR Split	
+Yamaha	P-250	PERFORMANCE	B16 Drum Kit	
