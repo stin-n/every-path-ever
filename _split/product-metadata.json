@@ -1,0 +1,94 @@
+{
+	"ableton": {
+		"live_10": {
+			"company": "Ableton",
+			"product_names": [
+				"Live 10 Core Library"
+			],
+			"formats": [
+				"DAW"
+			],
+			"tsv_path": "/ABLETON/LIVE/LIVE_10.tsv",
+			"release_date": "February 6, 2018",
+			"description": "The factory library that comes with the Ableton Live 10 DAW.",
+			"notes": "Does not include samples that belong to a multisampled instrument.",
+			"contributors": [
+				"Voxtricity"
+			],
+			"todo": "add multisample instruments"
+		},
+
+		"live_11": {
+			"company": "Ableton",
+			"product_names": [
+				"Live 11 Core Library"
+			],
+			"formats": [
+				"DAW"
+			],
+			"tsv_path": "/ABLETON/LIVE/LIVE_11.tsv",
+			"release_date": "February 23, 2021",
+			"description": "The factory library that comes with the Ableton Live 11 DAW.",
+			"notes": "Many instruments and samples are renamed versions of samples from Live 10. Instrument changes must be documented. A breakdown of sample changes can be found here: https://help.ableton.com/hc/en-us/articles/360020126339-Sample-changes-to-the-Core-Library-in-Live-11",
+			"contributors": [
+				"Voxtricity"
+			],
+			"todo": "add multisample instruments"
+		},
+
+		"live_12": {
+			"company": "Ableton",
+			"product_names": [
+				"Live 12 Core Library"
+			],
+			"formats": [
+				"DAW"
+			],
+			"tsv_path": "/ABLETON/LIVE/LIVE_12.tsv",
+			"release_date": "March 5, 2024",
+			"description": "The factory library that comes with the Ableton Live 12 DAW.",
+			"notes": "Only new or changed sound sources are listed even though all old sounds are still present.",
+			"contributors": [
+				"Voxtricity"
+			],
+			"todo": "list everything instead of just new sounds"
+		},
+
+		"chop_and_swing": {
+			"company": "Ableton",
+			"product_names": [
+				"Chop and Swing"
+			],
+			"formats": [
+				"Ableton Sound Pack"
+			],
+			"tsv_path": "/ABLETON/CHOP_AND_SWING.tsv",
+			"release_date": "2018",
+			"description": "A sound pack for the Ableton Live DAW, with samples provided by MSX Audio, MVP Loops, Sample Magic, Touch Loops, The Drum Broker, and Jeremy Toy.",
+			"notes": "",
+			"contributors": [
+				"Voxtricity"
+			],
+			"todo": ""
+		}
+	},
+	"template_company": {
+		"template_product": {
+			"company": "company name",
+			"product_names": [
+				"product name 1"
+			],
+			"formats": [
+				"format 1"
+			],
+			"tsv_path": "/path/to/tsv",
+			"release_date": "January 1st, 1970",
+			"description": "Product description.",
+			"notes": "Notes.",
+			"contributors": [
+				"contributor 1"
+			],
+			"todo": "fill out"
+		}
+	}
+}
