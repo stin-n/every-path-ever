@@ -8,8 +8,13 @@
 			"formats": [
 				"DAW"
 			],
+			"version_names": [
+				""
+			],
 			"tsv_path": "/ABLETON/LIVE/LIVE_10.tsv",
-			"release_date": "February 6, 2018",
+			"release_dates": [
+				"February 6, 2018"
+			],
 			"description": "The factory library that comes with the Ableton Live 10 DAW.",
 			"notes": "Does not include samples that belong to a multisampled instrument.",
 			"contributors": [
@@ -26,8 +31,13 @@
 			"formats": [
 				"DAW"
 			],
+			"version_names": [
+				""
+			],
 			"tsv_path": "/ABLETON/LIVE/LIVE_11.tsv",
-			"release_date": "February 23, 2021",
+			"release_dates": [
+				"February 23, 2021"
+			],
 			"description": "The factory library that comes with the Ableton Live 11 DAW.",
 			"notes": "Many instruments and samples are renamed versions of samples from Live 10. Instrument changes must be documented. A breakdown of sample changes can be found here: https://help.ableton.com/hc/en-us/articles/360020126339-Sample-changes-to-the-Core-Library-in-Live-11",
 			"contributors": [
@@ -44,8 +54,13 @@
 			"formats": [
 				"DAW"
 			],
+			"version_names": [
+				""
+			],
 			"tsv_path": "/ABLETON/LIVE/LIVE_12.tsv",
-			"release_date": "March 5, 2024",
+			"release_dates": [
+				"March 5, 2024"
+			],
 			"description": "The factory library that comes with the Ableton Live 12 DAW.",
 			"notes": "Only new or changed sound sources are listed even though all old sounds are still present.",
 			"contributors": [
@@ -60,14 +75,2074 @@
 				"Chop and Swing"
 			],
 			"formats": [
-				"Ableton Sound Pack"
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
 			],
 			"tsv_path": "/ABLETON/CHOP_AND_SWING.tsv",
-			"release_date": "2018",
-			"description": "A sound pack for the Ableton Live DAW, with samples provided by MSX Audio, MVP Loops, Sample Magic, Touch Loops, The Drum Broker, and Jeremy Toy.",
-			"notes": "",
+			"release_dates": [
+				"2018"
+			],
+			"description": "A sound pack for the Ableton Live DAW. Samples provided by MSX Audio, MVP Loops, Sample Magic, Touch Loops, The Drum Broker, and Jeremy Toy.",
+			"notes": "Included with Push 3, Live 12 Intro, Standard and Suite.",
 			"contributors": [
 				"Voxtricity"
+			],
+			"todo": ""
+		},
+		"skitter_and_step": {
+			"company": "Ableton",
+			"product_names": [
+				"Skitter and Step"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/ABLETON/SKITTER_AND_STEP.tsv",
+			"release_dates": [
+				"2018"
+			],
+			"description": "A sound pack for the Ableton Live DAW. Samples provided by Samplephonics, Sample Magic, MSX Audio, Cluster Sound, Touch Loops, Uppercussion, The Drum Broker and UNDRGRND Sounds.",
+			"notes": "Included with Push 3.",
+			"contributors": [
+				"Voxtricity"
+			],
+			"todo": "add multisample instruments"
+		},
+		"drive_and_glow": {
+			"company": "Ableton",
+			"product_names": [
+				"Drive and Glow"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/ABLETON/DRIVE_AND_GLOW.tsv",
+			"release_dates": [
+				"2018"
+			],
+			"description": "A sound pack for the Ableton Live DAW. Samples provided by Sample Magic, Touch Loops, Cluster Sound, MVP Loops, MSX Audio, Samplephonics, Uppercussion and Jeremy Toy.",
+			"notes": "Included with Push 3.",
+			"contributors": [
+				"Voxtricity"
+			],
+			"todo": "add multisample instruments"
+		},
+		"build_and_drop": {
+			"company": "Ableton",
+			"product_names": [
+				"Build and Drop"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/ABLETON/BUILD_AND_DROP.tsv",
+			"release_dates": [
+				"2018"
+			],
+			"description": "A sound pack for the Ableton Live DAW. Samples provided by Cluster Sound, MVP Loops, Florian Meindl, Samplephonics, Sonic Faction and Uppercussion.",
+			"notes": "Included with Push 3.",
+			"contributors": [
+				"Voxtricity"
+			],
+			"todo": "add multisample instruments"
+		}
+	},
+	"air_music": {
+		"boom": {
+			"company": "AIR Music Technology",
+			"product_names": [
+				"Boom"
+			],
+			"formats": [
+				"AAX",
+				"AU",
+				"VST2",
+				"VST3"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AIR_MUSIC/BOOM.tsv",
+			"release_dates": [
+				"?"
+			],
+			"description": "A software instrument plugin. Contains various retro drum machine sounds.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"db33": {
+			"company": "AIR Music Technology",
+			"product_names": [
+				"DB-33"
+			],
+			"formats": [
+				"AAX",
+				"AU",
+				"VST2",
+				"VST3"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AIR_MUSIC/DB33.tsv",
+			"release_dates": [
+				"December 2008 or before"
+			],
+			"description": "A software instrument plugin. Recreations of vintage organs like the Hammond B3, as well as rotary-speaker cabinets.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"vacuum": {
+			"company": "AIR Music Technology",
+			"product_names": [
+				"Vacuum"
+			],
+			"formats": [
+				"AAX",
+				"AU",
+				"VST2",
+				"VST3"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AIR_MUSIC/VACUUM.tsv",
+			"release_dates": [
+				"?"
+			],
+			"description": "A software instrument plugin. Vintage monophonic synthesizer with Vacuum Tube Synthesis.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"velvet": {
+			"company": "AIR Music Technology",
+			"product_names": [
+				"Velvet"
+			],
+			"formats": [
+				"AAX",
+				"AU",
+				"VST2",
+				"VST3"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AIR_MUSIC/VELVET.tsv",
+			"release_dates": [
+				"October 2006"
+			],
+			"description": "A software instrument plugin. Contains emulations of various electric pianos from Fender, Wurlitzer, and Hohner.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"xpand": {
+			"company": "AIR Music Technology",
+			"product_names": [
+				"Xpand!"
+			],
+			"formats": [
+				"RTAS"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AIR_MUSIC/XPAND.tsv",
+			"release_dates": [
+				"2006"
+			],
+			"description": "A software instrument plugin. 4-part multitimbral ROMpler.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"xpand2": {
+			"company": "AIR Music Technology",
+			"product_names": [
+				"Xpand!2"
+			],
+			"formats": [
+				"AAX",
+				"AU",
+				"VST2",
+				"VST3"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AIR_MUSIC/XPAND2.tsv",
+			"release_dates": [
+				"2008"
+			],
+			"description": "A software instrument plugin. 4-part multitimbral ROMpler. Contains all patches and parts from Xpand!.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		}
+	},
+	"akai": {
+		"s1000_library": {
+			"company": "AKAI",
+			"product_names": [
+				"S1000 Library"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/S1000.tsv",
+			"release_dates": [
+				"1988"
+			],
+			"description": "CD-ROM for the AKAI S1000. Has content from the floppy disk library: SL1001-1109, LSW001-008, SWM1-10, WS1-10, SE1001-1010, and AK2001-2037.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"s1100_library": {
+			"company": "AKAI",
+			"product_names": [
+				"S1100 Library"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/S1100.tsv",
+			"release_dates": [
+				"1990"
+			],
+			"description": "CD-ROM for the AKAI S1100. Has content from the floppy disk library: SH1101-1200, SL1120-1156.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"s3000_library": {
+			"company": "AKAI",
+			"product_names": [
+				"S3000 Library"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/S3000.tsv",
+			"release_dates": [
+				"February 1993"
+			],
+			"description": "CD-ROM for the AKAI S3000. Has content from the floppy disk library: SL3001-3128, WS3001-3013, SE3001-3010, SWM3001-3019, SCD001, HOW3001-3017.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cd3000_library": {
+			"company": "AKAI",
+			"product_names": [
+				"CD3000 Library"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CD3000.tsv",
+			"release_dates": [
+				"September 1993"
+			],
+			"description": "CD-ROM factory library for the AKAI CD3000.",
+			"notes": "Came included with the AKAI CD3000.",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol1xl": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 1 XL - Complete S3000 & CD3000 Library"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL1XL.tsv",
+			"release_dates": [
+				"1993~1995"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains most of the S3000 and CD3000 Libraries.",
+			"notes": "Missing some samples from the original libraries (e.g. MIX 10-SN).",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol2": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 2 - Complete S1000/S1100 Library"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL2.tsv",
+			"release_dates": [
+				"1993~1995"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains most of the S1000 and S1100 Libraries.",
+			"notes": "Missing some volumes from the original libraries (e.g. LSW001-008).",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol3": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 3 - Drum Kit Collection"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL3.tsv",
+			"release_dates": [
+				"1995"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains various drum sounds.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol4": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 4 - Rhythm Loop Collection"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL4.tsv",
+			"release_dates": [
+				"1995~1996"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains various drums, loops, and record scratches.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol5": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 5 - Percussion Collection"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL5.tsv",
+			"release_dates": [
+				"1995~1997"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains various percussion sounds.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol6": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 6 - Sound Effects Collection"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL6.tsv",
+			"release_dates": [
+				"1996"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains various sound effects.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol7": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 7 - New Keyboard Collection (for S3000 XL)"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL7.tsv",
+			"release_dates": [
+				"1996~1997"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains various pianos, synths, mallets, strings etc.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"cdrom_library_vol8": {
+			"company": "AKAI",
+			"product_names": [
+				"CD-ROM Sound Library Vol. 8 - General MIDI Sets"
+			],
+			"formats": [
+				"AKAI"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/AKAI/CDROM_SOUND_LIBRARY/VOL8.tsv",
+			"release_dates": [
+				"1997"
+			],
+			"description": "CD-ROM library for AKAI samplers. Contains 5 different sets of General MIDI sounds, along with GS-level sound effects and drum kits.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		}
+	},
+	"amg_hitmusic": {
+		"kleptomania_cdda": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Coldcut - Kleptomania!"
+			],
+			"formats": [
+				"CDDA"
+			],
+			"version_names": [
+				"CDDA"
+			],
+			"tsv_path": "/AMG_HITMUSIC/KLEPTOMANIA/CDDA.tsv",
+			"release_dates": [
+				"February 1992"
+			],
+			"description": "A sample CD produced by Coldcut.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": "add timestamps"
+		},
+		"kleptomania_cdrom": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Coldcut - Kleptomania!"
+			],
+			"formats": [
+				"CD-ROM/WAV"
+			],
+			"version_names": [
+				"CD-ROM (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/KLEPTOMANIA/CDROM.tsv",
+			"release_dates": [
+				"1998"
+			],
+			"description": "A sample CD-ROM produced by Coldcut.",
+			"notes": "Missing some samples from the CDDA version.",
+			"contributors": [
+				"stin"
+			],
+			"todo": "figure out proper names for the STR&HITS samples (the readme is a mess)"
+		},
+		"kleptomania_samplesnow_wav": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Coldcut - Kleptomania!"
+			],
+			"formats": [
+				"WAV"
+			],
+			"version_names": [
+				"Samples-Now (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/KLEPTOMANIA/SAMPLESNOW_WAV.tsv",
+			"release_dates": [
+				"2007 or before"
+			],
+			"description": "The modern version of Kleptomania sold on Samples-Now.",
+			"notes": "Missing some samples from the CDDA version.",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"skiptomyloops_cdda": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Norman Cook - Skip to my Loops"
+			],
+			"formats": [
+				"CDDA"
+			],
+			"version_names": [
+				"CDDA"
+			],
+			"tsv_path": "/AMG_HITMUSIC/SKIPTOMYLOOPS/CDDA.tsv",
+			"release_dates": [
+				"December 1992 or before"
+			],
+			"description": "A sample CD produced by Norman Cook/Fatboy Slim.",
+			"notes": "",
+			"contributors": [
+				"Colou"
+			],
+			"todo": ""
+		},
+		"skiptomyloops_cdrom": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Norman Cook - Skip to my Loops"
+			],
+			"formats": [
+				"CD-ROM/WAV"
+			],
+			"version_names": [
+				"CD-ROM (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/SKIPTOMYLOOPS/CDROM.tsv",
+			"release_dates": [
+				"December 1998"
+			],
+			"description": "A sample CD-ROM produced by Norman Cook/Fatboy Slim.",
+			"notes": "Missing some samples from the CDDA version.",
+			"contributors": [
+				"Colou",
+				"stin"
+			],
+			"todo": ""
+		},
+		"skiptomyloops_samplesnow_wav": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Norman Cook - Skip to my Loops"
+			],
+			"formats": [
+				"WAV"
+			],
+			"version_names": [
+				"Samples-Now (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/SKIPTOMYLOOPS/SAMPLESNOW_WAV.tsv",
+			"release_dates": [
+				"2007 or before"
+			],
+			"description": "The modern version of Skip to my Loops sold on Samples-Now.",
+			"notes": "Missing some samples from the CDDA version.",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"remix_cdda": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Megabass REMIX!"
+			],
+			"formats": [
+				"CDDA"
+			],
+			"version_names": [
+				"CDDA"
+			],
+			"tsv_path": "/AMG_HITMUSIC/REMIX/CDDA.tsv",
+			"release_dates": [
+				"1993 or before"
+			],
+			"description": "A sample CD produced by Megabass.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"remix_samplesnow_wav": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"Megabass REMIX!"
+			],
+			"formats": [
+				"WAV"
+			],
+			"version_names": [
+				"Samples-Now (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/REMIX/SAMPLESNOW_WAV.tsv",
+			"release_dates": [
+				"2007 or before"
+			],
+			"description": "The modern version of REMIX! sold on Samples-Now.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"artofsampling_cdda": {
+			"company": "AMG & Hit Music",
+			"product_names": [
+				"JJ Jeczalik's Art of Sampling"
+			],
+			"formats": [
+				"CDDA"
+			],
+			"version_names": [
+				"CDDA"
+			],
+			"tsv_path": "/AMG_HITMUSIC/ARTOFSAMPLING_CDDA.tsv",
+			"release_dates": [
+				"February 1993"
+			],
+			"description": "A sample CD produced by JJ Jeczalik.",
+			"notes": "",
+			"contributors": [
+				"Colou"
+			],
+			"todo": ""
+		},
+		"remix2_cdda": {
+			"company": "AMG",
+			"product_names": [
+				"REMIX! II - First Among Sequels"
+			],
+			"formats": [
+				"CDDA"
+			],
+			"version_names": [
+				"CDDA"
+			],
+			"tsv_path": "/AMG_HITMUSIC/REMIX2/CDDA.tsv",
+			"release_dates": [
+				"June/July 1994"
+			],
+			"description": "A sample CD produced by Megabass.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"remix2_samplesnow_wav": {
+			"company": "AMG",
+			"product_names": [
+				"REMIX! II - First Among Sequels"
+			],
+			"formats": [
+				"WAV"
+			],
+			"version_names": [
+				"Samples-Now (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/REMIX2/SAMPLESNOW_WAV.tsv",
+			"release_dates": [
+				"2007 or before"
+			],
+			"description": "The modern version of REMIX! II sold on Samples-Now.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"160db_cdda": {
+			"company": "AMG",
+			"product_names": [
+				"160dB: The Drum&Bass Interface"
+			],
+			"formats": [
+				"CDDA"
+			],
+			"version_names": [
+				"CDDA"
+			],
+			"tsv_path": "/AMG_HITMUSIC/160DB/CDDA.tsv",
+			"release_dates": [
+				"1998"
+			],
+			"description": "A sample CD produced by N-Jay.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"160db_samplesnow_wav": {
+			"company": "AMG",
+			"product_names": [
+				"160dB: The Drum&Bass Interface"
+			],
+			"formats": [
+				"WAV"
+			],
+			"version_names": [
+				"Samples-Now (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/160DB/SAMPLESNOW_WAV.tsv",
+			"release_dates": [
+				"2007 or before"
+			],
+			"description": "The modern version of 160dB sold on Samples-Now.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"260db_cdda": {
+			"company": "AMG",
+			"product_names": [
+				"260dB: The Drum&Bass Interface"
+			],
+			"formats": [
+				"CDDA"
+			],
+			"version_names": [
+				"CDDA"
+			],
+			"tsv_path": "/AMG_HITMUSIC/260DB/CDDA.tsv",
+			"release_dates": [
+				"1998"
+			],
+			"description": "A sample CD produced by N-Jay.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"260db_samplesnow_wav": {
+			"company": "AMG",
+			"product_names": [
+				"260dB: The Drum&Bass Interface"
+			],
+			"formats": [
+				"WAV"
+			],
+			"version_names": [
+				"Samples-Now (WAV)"
+			],
+			"tsv_path": "/AMG_HITMUSIC/260DB/SAMPLESNOW_WAV.tsv",
+			"release_dates": [
+				"2007 or before"
+			],
+			"description": "The modern version of 260dB sold on Samples-Now.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"kickassbrass_exs": {
+			"company": "AMG",
+			"product_names": [
+				"Kick-Ass Brass!"
+			],
+			"formats": [
+				"EXS24"
+			],
+			"version_names": [
+				"EXS24"
+			],
+			"tsv_path": "/AMG_HITMUSIC/260DB/SAMPLESNOW_WAV.tsv",
+			"release_dates": [
+				"October 2002"
+			],
+			"description": "A sample CD-ROM for the Emagic EXS24 software sampler.",
+			"notes": "",
+			"contributors": [
+				"ashy"
+			],
+			"todo": ""
+		}
+	},
+	"apple_emagic": {
+		"alchemy_logic11": {
+			"company": "Apple",
+			"product_names": [
+				"Alchemy"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 11"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ALCHEMY_LOGIC11.tsv",
+			"release_dates": [
+				"May 13, 2024"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 11.",
+			"notes": "",
+			"contributors": [
+				"stin"
+			],
+			"todo": ""
+		},
+		"efm1_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"EFM1"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EFM1/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"efm1_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"EFM1"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EFM1/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es_e_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"ES E"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_E/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"es_e_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"ES E"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_E/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es_e_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"ES E"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_E/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es_m_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"ES M"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_M/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"es_m_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"ES M"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_M/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es_m_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"ES M"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_M/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es_p_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"ES P"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_P/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"es_p_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"ES P"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_P/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es_p_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"ES P"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES_P/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es1_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"ES1"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES1/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"es1_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"ES1"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES1/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es1_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"ES1"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES1/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es2_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"ES2"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES2/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"es2_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"ES2"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES2/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"es2_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"ES2"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ES2/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evb3_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"EVB3"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVB3/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"evb3_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"EVB3"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVB3/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evb3_logicpro8": {
+			"company": "Apple",
+			"product_names": [
+				"EVB3"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVB3/LOGICPRO8.tsv",
+			"release_dates": [
+				"September 2007"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evb3_logicpro9": {
+			"company": "Apple",
+			"product_names": [
+				"EVB3"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVB3/LOGICPRO9.tsv",
+			"release_dates": [
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evd6_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"EVD6"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVD6/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"evd6_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"EVD6"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVD6/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evd6_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"EVD6"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVD6/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evoc_20_ps_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"EVOC 20 PolySynth"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVOC_20_PS/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"evoc_20_ps_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"EVOC 20 PS"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVOC_20_PS/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evoc_20_ps_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"EVOC 20 PS"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVOC_20_PS/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evp88_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"EVP88"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVP88/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"evp88_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"EVP88"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVP88/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"evp88_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"EVP88"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EVP88/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"exs24_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"EXS24"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EXS24/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software sampler plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"exs24_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"EXS24"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/EXS24/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software sampler plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"jampack1": {
+			"company": "Apple",
+			"product_names": [
+				"Jam Pack 1"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/JAMPACK1_WIP.tsv",
+			"release_dates": [
+				"January 6, 2004"
+			],
+			"description": "A sound pack for Logic Pro.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman (or DreamFreeze idr)"
+			],
+			"todo": "add instruments"
+		},
+		"jampack2": {
+			"company": "Apple",
+			"product_names": [
+				"Jam Pack 2: Remix Tools"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/JAMPACK2_WIP.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A sound pack for Logic Pro.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman (or DreamFreeze idr)"
+			],
+			"todo": "add instruments"
+		},
+		"jampack3": {
+			"company": "Apple",
+			"product_names": [
+				"Jam Pack 3: Rhythm Section"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/JAMPACK3_WIP.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A sound pack for Logic Pro.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman (or DreamFreeze idr)"
+			],
+			"todo": "add instruments"
+		},
+		"jampack4": {
+			"company": "Apple",
+			"product_names": [
+				"Jam Pack 4: Symphony Orchestra"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/JAMPACK4_WIP.tsv",
+			"release_dates": [
+				"January 22, 2005"
+			],
+			"description": "A sound pack for Logic Pro.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman (or DreamFreeze idr)"
+			],
+			"todo": "add instruments"
+		},
+		"jampack5": {
+			"company": "Apple",
+			"product_names": [
+				"Jam Pack 5: World Music"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/JAMPACK5_WIP.tsv",
+			"release_dates": [
+				"January 18, 2006"
+			],
+			"description": "A sound pack for Logic Pro.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman (or DreamFreeze idr)"
+			],
+			"todo": "add instruments"
+		},
+		"jampackvoices": {
+			"company": "Apple",
+			"product_names": [
+				"Jam Pack Voices"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/JAMPACKVOICES_WIP.tsv",
+			"release_dates": [
+				"August 2007"
+			],
+			"description": "A sound pack for Logic Pro.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman (or DreamFreeze idr)"
+			],
+			"todo": "add instruments"
+		},
+		"klopfgeist_logicplatinum5": {
+			"company": "Emagic",
+			"product_names": [
+				"KlopfGeist"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Platinum 5"
+			],
+			"tsv_path": "/APPLE_EMAGIC/KLOPFGEIST/LOGICPLATINUM5.tsv",
+			"release_dates": [
+				"2002"
+			],
+			"description": "A stock software instrument plugin in Logic Platinum 5.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
+			],
+			"todo": ""
+		},
+		"klopfgeist_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"KlopfGeist"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/KLOPFGEIST/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"klopfgeist_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"Klopfgeist"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/KLOPFGEIST/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"Logic Pro 7"
+			],
+			"formats": [
+				"DAW"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/LOGICPRO/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "The factory channel-strip presets that come with Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"logicpro8": {
+			"company": "Apple",
+			"product_names": [
+				"Logic Pro 8"
+			],
+			"formats": [
+				"DAW"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/LOGICPRO/LOGICPRO8.tsv",
+			"release_dates": [
+				"September 2007"
+			],
+			"description": "The factory channel-strip presets that come with Logic Pro 8.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"logicpro9": {
+			"company": "Apple",
+			"product_names": [
+				"Logic Pro 9"
+			],
+			"formats": [
+				"DAW"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/APPLE_EMAGIC/LOGICPRO/LOGICPRO9.tsv",
+			"release_dates": [
+				"July 2009"
+			],
+			"description": "The factory channel-strip presets that come with Logic Pro 9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"loops_for_garageband_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"Loops"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/LOOPS_FOR_GARAGEBAND/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "Factory loops that come with Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"loops_for_garageband_logicpro9": {
+			"company": "Apple",
+			"product_names": [
+				"Loops"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/LOOPS_FOR_GARAGEBAND/LOGICPRO9.tsv",
+			"release_dates": [
+				"July 2009"
+			],
+			"description": "Factory loops that come with Logic Pro 9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"loops_for_garageband_logicpro11": {
+			"company": "Apple",
+			"product_names": [
+				"Loops"
+			],
+			"formats": [
+				"DAW Sound Pack"
+			],
+			"version_names": [
+				"Logic Pro 11"
+			],
+			"tsv_path": "/APPLE_EMAGIC/LOOPS_FOR_GARAGEBAND/LOGICPRO11.tsv",
+			"release_dates": [
+				"May 13, 2024"
+			],
+			"description": "Factory loops that come with Logic Pro 11.",
+			"notes": "",
+			"contributors": [
+				"DreamFreeze"
+			],
+			"todo": ""
+		},
+		"sculpture_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"Sculpture"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/SCULPTURE/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"sculpture_logicpro8_9": {
+			"company": "Apple",
+			"product_names": [
+				"Sculpture"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8",
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/SCULPTURE/LOGICPRO8_9.tsv",
+			"release_dates": [
+				"September 2007",
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8/9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"ultrabeat_logicpro7": {
+			"company": "Apple",
+			"product_names": [
+				"Ultrabeat"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 7"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ULTRABEAT/LOGICPRO7.tsv",
+			"release_dates": [
+				"September 29, 2004"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 7.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"ultrabeat_logicpro8": {
+			"company": "Apple",
+			"product_names": [
+				"Ultrabeat"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 8"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ULTRABEAT/LOGICPRO8.tsv",
+			"release_dates": [
+				"September 2007"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 8.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		},
+		"ultrabeat_logicpro9": {
+			"company": "Apple",
+			"product_names": [
+				"Ultrabeat"
+			],
+			"formats": [
+				"DAW Plugin"
+			],
+			"version_names": [
+				"Logic Pro 9"
+			],
+			"tsv_path": "/APPLE_EMAGIC/ULTRABEAT/LOGICPRO9.tsv",
+			"release_dates": [
+				"July 2009"
+			],
+			"description": "A stock software instrument plugin in Logic Pro 9.",
+			"notes": "",
+			"contributors": [
+				"Doubleuman"
+			],
+			"todo": ""
+		}
+	},
+	"arturia": {
+		"modular_v3": {
+			"company": "Arturia",
+			"product_names": [
+				"Modular V3"
+			],
+			"formats": [
+				"AAX",
+				"AU",
+				"NKS",
+				"Standalone",
+				"VST3"
+			],
+			"version_names": [
+				""
+			],
+			"tsv_path": "/ARTURIA/MODULAR_V3.tsv",
+			"release_dates": [
+				"?"
+			],
+			"description": "A software instrument plugin. Emulation of the Moog Modular.",
+			"notes": "",
+			"contributors": [
+				"zephyr"
 			],
 			"todo": ""
 		}
@@ -81,14 +2156,19 @@
 			"formats": [
 				"format 1"
 			],
+			"version_names": [
+				""
+			],
 			"tsv_path": "/path/to/tsv",
-			"release_date": "January 1st, 1970",
+			"release_dates": [
+				"January 1st, 1970"
+			],
 			"description": "Product description.",
 			"notes": "Notes.",
 			"contributors": [
 				"contributor 1"
 			],
-			"todo": "fill out"
+			"todo": "anything and everything"
 		}
 	}
 }
