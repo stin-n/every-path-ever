@@ -15,6 +15,7 @@ rootDir = f"..{os.sep}_split"
 path = ""
 thinge = {}
 destJson = {}
+prevRootCom = ""
 
 # read all tsv files
 for (root,dirs,files) in os.walk(rootDir,topdown=True):
@@ -66,18 +67,19 @@ for (root,dirs,files) in os.walk(rootDir,topdown=True):
 					"company": companyName,
 					"product_names": [productName],
 					"formats": ["FILL IN"],
-					"version_names": [],
+					"version_names": [""],
 					"tsv_path": tsvPathTrimmed,
 					"release_dates": ["?"],
 					"description": "FILL IN",
 					"notes": "",
-					"contributors": ["stin"],
+					"contributors": ["FILL IN"],
 					"todo": ""
 				}
 			}
 		}
-		#print(type(thinge))
-		destJson |= thinge[rootCom]
+		destJson[rootCom] = thinge[rootCom]
+		destJson[rootCom] |= thinge[rootCom]
+		print(json.dumps(destJson, indent=4))
 
-with open("product-metadata.json", mode="w", encoding="utf-8") as outJson:
-	json.dump(destJson, outJson, indent=4)
+#with open("product-metadata.json", mode="w", encoding="utf-8") as outJson:
+#	json.dump(destJson, outJson, indent=4)
