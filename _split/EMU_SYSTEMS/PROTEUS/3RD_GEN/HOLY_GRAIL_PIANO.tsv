@@ -126,43 +126,43 @@ E-MU Systems	Holy Grail Piano ROM	GRAIL Bank 0	124 sfx:Submerged
 E-MU Systems	Holy Grail Piano ROM	GRAIL Bank 0	125 sfx:Future Now	
 E-MU Systems	Holy Grail Piano ROM	GRAIL Bank 0	126 sfx:MeteorShower	
 E-MU Systems	Holy Grail Piano ROM	GRAIL Bank 0	127 sfx:Mojave Dawn	
-E-MU Systems	Holy Grail Piano ROM	Instruments	000 :None	
-E-MU Systems	Holy Grail Piano ROM	Instruments	001 pno:mf Piano	
-E-MU Systems	Holy Grail Piano ROM	Instruments	002 pno:mf Split 2	
-E-MU Systems	Holy Grail Piano ROM	Instruments	003 pno:mf Split 3	
-E-MU Systems	Holy Grail Piano ROM	Instruments	004 pno:mf Mono 1	
-E-MU Systems	Holy Grail Piano ROM	Instruments	005 pno:mf Mono 2	
-E-MU Systems	Holy Grail Piano ROM	Instruments	006 pno:ff Piano	
-E-MU Systems	Holy Grail Piano ROM	Instruments	007 pno:ff Split 2	
-E-MU Systems	Holy Grail Piano ROM	Instruments	008 pno:ff Split 3	
-E-MU Systems	Holy Grail Piano ROM	Instruments	009 pno:ff Mono 1	
-E-MU Systems	Holy Grail Piano ROM	Instruments	010 pno:ff Mono 2	
-E-MU Systems	Holy Grail Piano ROM	Instruments	011 pno:HammerOn/Off	
-E-MU Systems	Holy Grail Piano ROM	Instruments	012 pno:Hammer On	
-E-MU Systems	Holy Grail Piano ROM	Instruments	013 pno:Hammer Off	
-E-MU Systems	Holy Grail Piano ROM	Instruments	014 pno:Piano Action	
-E-MU Systems	Holy Grail Piano ROM	Instruments	015 pno:Action+Highs	
-E-MU Systems	Holy Grail Piano ROM	Instruments	016 pno:Pedal Stomp	
-E-MU Systems	Holy Grail Piano ROM	Instruments	017 pno:SusPed Model	
-E-MU Systems	Holy Grail Piano ROM	Instruments	018 pno:Piano Magic	
-E-MU Systems	Holy Grail Piano ROM	Instruments	019 pno:Mono Magic	
-E-MU Systems	Holy Grail Piano ROM	Instruments	020 pno:Highest Keys	
-E-MU Systems	Holy Grail Piano ROM	Instruments	021 pno:Mono HiNotes	
-E-MU Systems	Holy Grail Piano ROM	Instruments	022 pno:Pedal FX 1	
-E-MU Systems	Holy Grail Piano ROM	Instruments	023 pno:Pedal FX 2	
-E-MU Systems	Holy Grail Piano ROM	Instruments	024 pno:Pedal FX 3	
-E-MU Systems	Holy Grail Piano ROM	Instruments	025 pno:Pedal FX 4	
-E-MU Systems	Holy Grail Piano ROM	Instruments	026 pno:Pedal FX 5	
-E-MU Systems	Holy Grail Piano ROM	Instruments	027 pno:Pedal FX 6	
-E-MU Systems	Holy Grail Piano ROM	Instruments	028 pno:Pedal FX 7	
-E-MU Systems	Holy Grail Piano ROM	Instruments	029 pno:Pedal FX 8	
-E-MU Systems	Holy Grail Piano ROM	Instruments	030 pno:Pedal FX 9	
-E-MU Systems	Holy Grail Piano ROM	Instruments	031 pno:Pedal FX 10	
-E-MU Systems	Holy Grail Piano ROM	Instruments	032 pno:Pedal FX 11	
-E-MU Systems	Holy Grail Piano ROM	Instruments	033 pno:Pedal FX 12	
-E-MU Systems	Holy Grail Piano ROM	Instruments	034 pno:Hammer FX	
-E-MU Systems	Holy Grail Piano ROM	Instruments	035 pno:Sustain FX	
-E-MU Systems	Holy Grail Piano ROM	Instruments	036 pno:TackPianoFX1	
-E-MU Systems	Holy Grail Piano ROM	Instruments	037 pno:TackPianoFX2	
-E-MU Systems	Holy Grail Piano ROM	Instruments	038 pno:TackPianoFX3	
-E-MU Systems	Holy Grail Piano ROM	Instruments	039 pno:TackPianoFX4	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	000    :None	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	001 pno:mf Piano	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	002 pno:mf Split 2	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	003 pno:mf Split 3	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	004 pno:mf Mono 1	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	005 pno:mf Mono 2	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	006 pno:ff Piano	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	007 pno:ff Split 2	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	008 pno:ff Split 3	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	009 pno:ff Mono 1	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	010 pno:ff Mono 2	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	011 pno:HammerOn/Off	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	012 pno:Hammer On	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	013 pno:Hammer Off	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	014 pno:Piano Action	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	015 pno:Action+Highs	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	016 pno:Pedal Stomp	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	017 pno:SusPed Model	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	018 pno:Piano Magic	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	019 pno:Mono Magic	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	020 pno:Highest Keys	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	021 pno:Mono HiNotes	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	022 pno:Pedal FX 1	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	023 pno:Pedal FX 2	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	024 pno:Pedal FX 3	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	025 pno:Pedal FX 4	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	026 pno:Pedal FX 5	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	027 pno:Pedal FX 6	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	028 pno:Pedal FX 7	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	029 pno:Pedal FX 8	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	030 pno:Pedal FX 9	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	031 pno:Pedal FX 10	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	032 pno:Pedal FX 11	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	033 pno:Pedal FX 12	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	034 pno:Hammer FX	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	035 pno:Sustain FX	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	036 pno:TackPianoFX1	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	037 pno:TackPianoFX2	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	038 pno:TackPianoFX3	
+E-MU Systems	Holy Grail Piano ROM	Instruments -> GRAIL	039 pno:TackPianoFX4	

@@ -253,63 +253,63 @@ E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	123 sfx:Pulse Orch
 E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	124 sfx:Way Alt Ork	
 E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	125 sfx:Orch Efx 1	
 E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	126 sfx:Orch Efx 2	
-E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	127 :A.O. V1.0	
-E-MU Systems	Advanced Orchestra ROM	Instruments	000 :None	
-E-MU Systems	Advanced Orchestra ROM	Instruments	001 str:Vibrato f	
-E-MU Systems	Advanced Orchestra ROM	Instruments	002 str:Vibrato mp	
-E-MU Systems	Advanced Orchestra ROM	Instruments	003 str:Soft Sustain	
-E-MU Systems	Advanced Orchestra ROM	Instruments	004 str:Tremolo ff	
-E-MU Systems	Advanced Orchestra ROM	Instruments	005 str:Tremolo mp	
-E-MU Systems	Advanced Orchestra ROM	Instruments	006 str:Sordino	
-E-MU Systems	Advanced Orchestra ROM	Instruments	007 str:Staccato	
-E-MU Systems	Advanced Orchestra ROM	Instruments	008 str:Pizzicato	
-E-MU Systems	Advanced Orchestra ROM	Instruments	009 str:Vi Col Legno	
-E-MU Systems	Advanced Orchestra ROM	Instruments	010 str:Va Col Legno	
-E-MU Systems	Advanced Orchestra ROM	Instruments	011 brs:Sustained ff	
-E-MU Systems	Advanced Orchestra ROM	Instruments	012 brs:Staccato f	
-E-MU Systems	Advanced Orchestra ROM	Instruments	013 brs:Staccato mp	
-E-MU Systems	Advanced Orchestra ROM	Instruments	014 wnd:Sustained ff	
-E-MU Systems	Advanced Orchestra ROM	Instruments	015 wnd:Staccato f	
-E-MU Systems	Advanced Orchestra ROM	Instruments	016 wnd:Staccato mp	
-E-MU Systems	Advanced Orchestra ROM	Instruments	017 prc:Orchestra	
-E-MU Systems	Advanced Orchestra ROM	Instruments	018 prc:Tmple Blocks	
-E-MU Systems	Advanced Orchestra ROM	Instruments	019 prc:Cowbell f 3G	
-E-MU Systems	Advanced Orchestra ROM	Instruments	020 prc:Cowbell f C5	
-E-MU Systems	Advanced Orchestra ROM	Instruments	021 prc:Cowbell p 3G	
-E-MU Systems	Advanced Orchestra ROM	Instruments	022 prc:Cowbell p C5	
-E-MU Systems	Advanced Orchestra ROM	Instruments	023 prc:Clave A#5	
-E-MU Systems	Advanced Orchestra ROM	Instruments	024 prc:Clave B5	
-E-MU Systems	Advanced Orchestra ROM	Instruments	025 prc:Windchimes	
-E-MU Systems	Advanced Orchestra ROM	Instruments	026 prc:Orch P2K V1	
-E-MU Systems	Advanced Orchestra ROM	Instruments	027 prc:Orch P2K V2	
-E-MU Systems	Advanced Orchestra ROM	Instruments	028 prc:Orch P2K V3	
-E-MU Systems	Advanced Orchestra ROM	Instruments	029 prc:Timpani V1	
-E-MU Systems	Advanced Orchestra ROM	Instruments	030 prc:Timpani V2	
-E-MU Systems	Advanced Orchestra ROM	Instruments	031 prc:Cymbals V1	
-E-MU Systems	Advanced Orchestra ROM	Instruments	032 prc:Cymbals V2	
-E-MU Systems	Advanced Orchestra ROM	Instruments	033 prc:Snare V1	
-E-MU Systems	Advanced Orchestra ROM	Instruments	034 prc:Snare V2	
-E-MU Systems	Advanced Orchestra ROM	Instruments	035 prc:Snare V3	
-E-MU Systems	Advanced Orchestra ROM	Instruments	036 prc:Snare V4	
-E-MU Systems	Advanced Orchestra ROM	Instruments	037 prc:Gran Cssa V1	
-E-MU Systems	Advanced Orchestra ROM	Instruments	038 prc:Gran Cssa V2	
-E-MU Systems	Advanced Orchestra ROM	Instruments	039 prc:Gran Cssa V3	
-E-MU Systems	Advanced Orchestra ROM	Instruments	040 prc:Gran Cssa V4	
-E-MU Systems	Advanced Orchestra ROM	Instruments	041 prc:Tam Tam V1	
-E-MU Systems	Advanced Orchestra ROM	Instruments	042 prc:Tam Tam V2	
-E-MU Systems	Advanced Orchestra ROM	Instruments	043 prc:Orch E4 V01	
-E-MU Systems	Advanced Orchestra ROM	Instruments	044 prc:Orch E4 V02	
-E-MU Systems	Advanced Orchestra ROM	Instruments	045 prc:Orch E4 V03	
-E-MU Systems	Advanced Orchestra ROM	Instruments	046 prc:Orch E4 V04	
-E-MU Systems	Advanced Orchestra ROM	Instruments	047 prc:Orch E4 V05	
-E-MU Systems	Advanced Orchestra ROM	Instruments	048 prc:Orch E4 V06	
-E-MU Systems	Advanced Orchestra ROM	Instruments	049 prc:Orch E4 V07	
-E-MU Systems	Advanced Orchestra ROM	Instruments	050 prc:Orch E4 V08	
-E-MU Systems	Advanced Orchestra ROM	Instruments	051 prc:Orch E4 V09	
-E-MU Systems	Advanced Orchestra ROM	Instruments	052 prc:Orch E4 V10	
-E-MU Systems	Advanced Orchestra ROM	Instruments	053 prc:Orch E4 V11	
-E-MU Systems	Advanced Orchestra ROM	Instruments	054 prc:Orch E4 V12	
-E-MU Systems	Advanced Orchestra ROM	Instruments	055 prc:Orch E4 V13	
-E-MU Systems	Advanced Orchestra ROM	Instruments	056 prc:Orch E4 V14	
-E-MU Systems	Advanced Orchestra ROM	Instruments	057 prc:Orch E4 V15	
-E-MU Systems	Advanced Orchestra ROM	Instruments	058 prc:Orch E4 V16	
+E-MU Systems	Advanced Orchestra ROM	AOrch Bank 1	127    :A.O. V1.0	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	000    :None	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	001 str:Vibrato f	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	002 str:Vibrato mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	003 str:Soft Sustain	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	004 str:Tremolo ff	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	005 str:Tremolo mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	006 str:Sordino	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	007 str:Staccato	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	008 str:Pizzicato	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	009 str:Vi Col Legno	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	010 str:Va Col Legno	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	011 brs:Sustained ff	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	012 brs:Staccato f	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	013 brs:Staccato mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	014 wnd:Sustained ff	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	015 wnd:Staccato f	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	016 wnd:Staccato mp	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	017 prc:Orchestra	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	018 prc:Tmple Blocks	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	019 prc:Cowbell f 3G	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	020 prc:Cowbell f C5	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	021 prc:Cowbell p 3G	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	022 prc:Cowbell p C5	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	023 prc:Clave A#5	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	024 prc:Clave B5	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	025 prc:Windchimes	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	026 prc:Orch P2K V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	027 prc:Orch P2K V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	028 prc:Orch P2K V3	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	029 prc:Timpani V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	030 prc:Timpani V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	031 prc:Cymbals V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	032 prc:Cymbals V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	033 prc:Snare V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	034 prc:Snare V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	035 prc:Snare V3	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	036 prc:Snare V4	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	037 prc:Gran Cssa V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	038 prc:Gran Cssa V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	039 prc:Gran Cssa V3	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	040 prc:Gran Cssa V4	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	041 prc:Tam Tam V1	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	042 prc:Tam Tam V2	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	043 prc:Orch E4 V01	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	044 prc:Orch E4 V02	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	045 prc:Orch E4 V03	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	046 prc:Orch E4 V04	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	047 prc:Orch E4 V05	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	048 prc:Orch E4 V06	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	049 prc:Orch E4 V07	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	050 prc:Orch E4 V08	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	051 prc:Orch E4 V09	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	052 prc:Orch E4 V10	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	053 prc:Orch E4 V11	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	054 prc:Orch E4 V12	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	055 prc:Orch E4 V13	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	056 prc:Orch E4 V14	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	057 prc:Orch E4 V15	
+E-MU Systems	Advanced Orchestra ROM	Instruments -> AOrch	058 prc:Orch E4 V16	

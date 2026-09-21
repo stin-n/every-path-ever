@@ -509,4 +509,1104 @@ E-MU Systems	MP-7	MP-7 Bank 3	123 key:Love Phase
 E-MU Systems	MP-7	MP-7 Bank 3	124 key:NerveOrgan	
 E-MU Systems	MP-7	MP-7 Bank 3	125 key:ReBeckTines	
 E-MU Systems	MP-7	MP-7 Bank 3	126 key:Mutten Org	
-E-MU Systems	MP-7	MP-7 Bank 3	127 :Default v1.0	
+E-MU Systems	MP-7	MP-7 Bank 3	127    :Default v1.0	
+E-MU Systems	MP-7	Instruments -> MP-7	0000    :None	
+E-MU Systems	MP-7	Instruments -> MP-7	0001 bas:The Deepest	
+E-MU Systems	MP-7	Instruments -> MP-7	0002 bas:Hummertime	
+E-MU Systems	MP-7	Instruments -> MP-7	0003 bas:WoofaWrekka	
+E-MU Systems	MP-7	Instruments -> MP-7	0004 bas:Hella Boom	
+E-MU Systems	MP-7	Instruments -> MP-7	0005 bas:Decision'99	
+E-MU Systems	MP-7	Instruments -> MP-7	0006 bas:Acid 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0007 bas:Acid 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0008 bas:Crandle	
+E-MU Systems	MP-7	Instruments -> MP-7	0009 bas:Frog Factory	
+E-MU Systems	MP-7	Instruments -> MP-7	0010 bas:Talk2MeBaby	
+E-MU Systems	MP-7	Instruments -> MP-7	0011 bas:Soulified	
+E-MU Systems	MP-7	Instruments -> MP-7	0012 bas:Speakeasy	
+E-MU Systems	MP-7	Instruments -> MP-7	0013 bas:Warm Welcome	
+E-MU Systems	MP-7	Instruments -> MP-7	0014 bas:Belly-Button	
+E-MU Systems	MP-7	Instruments -> MP-7	0015 bas:KeyONate	
+E-MU Systems	MP-7	Instruments -> MP-7	0016 bas:TheOtherMarc	
+E-MU Systems	MP-7	Instruments -> MP-7	0017 bas:Closer To It	
+E-MU Systems	MP-7	Instruments -> MP-7	0018 bas:Fish Fry	
+E-MU Systems	MP-7	Instruments -> MP-7	0019 bas:Prophet	
+E-MU Systems	MP-7	Instruments -> MP-7	0020 bas:In Theory	
+E-MU Systems	MP-7	Instruments -> MP-7	0021 bas:Persistence	
+E-MU Systems	MP-7	Instruments -> MP-7	0022 bas:Funk Pop 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0023 bas:Funk Pop2	
+E-MU Systems	MP-7	Instruments -> MP-7	0024 bas:Funk Slap	
+E-MU Systems	MP-7	Instruments -> MP-7	0025 bas:SlapPopSwtch	
+E-MU Systems	MP-7	Instruments -> MP-7	0026 bas:Funk Finger	
+E-MU Systems	MP-7	Instruments -> MP-7	0027 bas:Funk Hollow	
+E-MU Systems	MP-7	Instruments -> MP-7	0028 bas:Funk Pick	
+E-MU Systems	MP-7	Instruments -> MP-7	0029 bas:Funk Wave 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0030 bas:Funk Wave 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0031 bas:Accidental	
+E-MU Systems	MP-7	Instruments -> MP-7	0032 bas:Finger Bass	
+E-MU Systems	MP-7	Instruments -> MP-7	0033 bas:Bagg	
+E-MU Systems	MP-7	Instruments -> MP-7	0034 bas:Destroyer	
+E-MU Systems	MP-7	Instruments -> MP-7	0035 bas:Blipp	
+E-MU Systems	MP-7	Instruments -> MP-7	0036 bas:Echo Hitter	
+E-MU Systems	MP-7	Instruments -> MP-7	0037 bas:DubbyDoRite	
+E-MU Systems	MP-7	Instruments -> MP-7	0038 bas:Dub 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0039 bas:GrittyStanda	
+E-MU Systems	MP-7	Instruments -> MP-7	0040 bas:Gritty Pulla	
+E-MU Systems	MP-7	Instruments -> MP-7	0041 bas:Krafty 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0042 bas:Krafty 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0043 bas:Swing Hitter	
+E-MU Systems	MP-7	Instruments -> MP-7	0044 bas:Technoid	
+E-MU Systems	MP-7	Instruments -> MP-7	0045 bas:Bender Hit	
+E-MU Systems	MP-7	Instruments -> MP-7	0046 bas:Synth Boom	
+E-MU Systems	MP-7	Instruments -> MP-7	0047 bas:PluckySynth	
+E-MU Systems	MP-7	Instruments -> MP-7	0048 bas:HarpOneShot1	
+E-MU Systems	MP-7	Instruments -> MP-7	0049 bas:HarpOneShot2	
+E-MU Systems	MP-7	Instruments -> MP-7	0050 bas:HarpOneShot3	
+E-MU Systems	MP-7	Instruments -> MP-7	0051 bas:Upright One	
+E-MU Systems	MP-7	Instruments -> MP-7	0052 bas:SP Stand-Up	
+E-MU Systems	MP-7	Instruments -> MP-7	0053 bas:Bass Slide	
+E-MU Systems	MP-7	Instruments -> MP-7	0054 bas:FX F#0-B0	
+E-MU Systems	MP-7	Instruments -> MP-7	0055 gtr:All Wahs	
+E-MU Systems	MP-7	Instruments -> MP-7	0056 gtr:Crybaby Wah1	
+E-MU Systems	MP-7	Instruments -> MP-7	0057 gtr:Crybaby Wah2	
+E-MU Systems	MP-7	Instruments -> MP-7	0058 gtr:5strkchuck83	
+E-MU Systems	MP-7	Instruments -> MP-7	0059 gtr:Wow Wacka 83	
+E-MU Systems	MP-7	Instruments -> MP-7	0060 gtr:WackaGruv283	
+E-MU Systems	MP-7	Instruments -> MP-7	0061 gtr:Wah Jan 83	
+E-MU Systems	MP-7	Instruments -> MP-7	0062 gtr:Wacka 96bpm	
+E-MU Systems	MP-7	Instruments -> MP-7	0063 gtr:Wah 96 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0064 gtr:Wah 96 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0065 gtr:CoolWaRif113	
+E-MU Systems	MP-7	Instruments -> MP-7	0066 gtr:WACKA Do 113	
+E-MU Systems	MP-7	Instruments -> MP-7	0067 gtr:113 Wackaloo	
+E-MU Systems	MP-7	Instruments -> MP-7	0068 gtr:Wah Coming	
+E-MU Systems	MP-7	Instruments -> MP-7	0069 gtr:Chickenpickr	
+E-MU Systems	MP-7	Instruments -> MP-7	0070 gtr:Chickjacked	
+E-MU Systems	MP-7	Instruments -> MP-7	0071 gtr:Chucka Run	
+E-MU Systems	MP-7	Instruments -> MP-7	0072 gtr:ExcitableWah	
+E-MU Systems	MP-7	Instruments -> MP-7	0073 gtr:Hendrix Wah	
+E-MU Systems	MP-7	Instruments -> MP-7	0074 gtr:LikethisLik	
+E-MU Systems	MP-7	Instruments -> MP-7	0075 gtr:Lil' Chopper	
+E-MU Systems	MP-7	Instruments -> MP-7	0076 gtr:Lil' Chukka	
+E-MU Systems	MP-7	Instruments -> MP-7	0077 gtr:Lil Wah Run	
+E-MU Systems	MP-7	Instruments -> MP-7	0078 gtr:Oddlilhitter	
+E-MU Systems	MP-7	Instruments -> MP-7	0079 gtr:Oh YEahWah	
+E-MU Systems	MP-7	Instruments -> MP-7	0080 gtr:Versa Wa	
+E-MU Systems	MP-7	Instruments -> MP-7	0081 gtr:Wah LikDis	
+E-MU Systems	MP-7	Instruments -> MP-7	0082 gtr:Wah Not?	
+E-MU Systems	MP-7	Instruments -> MP-7	0083 gtr:Wah Scale 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0084 gtr:Wah Scale 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0085 gtr:Wah Scale 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0086 gtr:Wah Scale 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0087 gtr:Wah Scale 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0088 gtr:Wah Scale 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0089 gtr:Wah Scale 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0090 gtr:Wah Scaler	
+E-MU Systems	MP-7	Instruments -> MP-7	0091 gtr:Wah Scaler 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0092 gtr:WahSurprised	
+E-MU Systems	MP-7	Instruments -> MP-7	0093 gtr:Wah Upper	
+E-MU Systems	MP-7	Instruments -> MP-7	0094 gtr:Walk On Waka	
+E-MU Systems	MP-7	Instruments -> MP-7	0095 gtr:Walker Wah	
+E-MU Systems	MP-7	Instruments -> MP-7	0096 gtr:Wuckit	
+E-MU Systems	MP-7	Instruments -> MP-7	0097 gtr:Funky Likka	
+E-MU Systems	MP-7	Instruments -> MP-7	0098 gtr:Squawk Hit	
+E-MU Systems	MP-7	Instruments -> MP-7	0099 gtr:Vinyl Mood	
+E-MU Systems	MP-7	Instruments -> MP-7	0100 gtr:1 Note Mute	
+E-MU Systems	MP-7	Instruments -> MP-7	0101 gtr:RapNylonWave	
+E-MU Systems	MP-7	Instruments -> MP-7	0102 gtr:R&B NylonWav	
+E-MU Systems	MP-7	Instruments -> MP-7	0103 gtr:EffectsD0-B0	
+E-MU Systems	MP-7	Instruments -> MP-7	0104 gtr:Happy Strum	
+E-MU Systems	MP-7	Instruments -> MP-7	0105 gtr:Sexy Slide 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0106 gtr:Sexy Slide 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0107 gtr:2StrokeStrum	
+E-MU Systems	MP-7	Instruments -> MP-7	0108 gtr:Fast Slider	
+E-MU Systems	MP-7	Instruments -> MP-7	0109 gtr:Fine Slider	
+E-MU Systems	MP-7	Instruments -> MP-7	0110 gtr:Nln Strum Dn	
+E-MU Systems	MP-7	Instruments -> MP-7	0111 gtr:Gritty Slide	
+E-MU Systems	MP-7	Instruments -> MP-7	0112 gtr:Knock 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0113 gtr:Knock 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0114 gtr:Squeak 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0115 gtr:Squeak 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0116 gtr:General Elec	
+E-MU Systems	MP-7	Instruments -> MP-7	0117 gtr:Strat 1 Shot	
+E-MU Systems	MP-7	Instruments -> MP-7	0118 gtr:NotherElWave	
+E-MU Systems	MP-7	Instruments -> MP-7	0119 gtr:Dis One Notr	
+E-MU Systems	MP-7	Instruments -> MP-7	0120 gtr:Funk Pop	
+E-MU Systems	MP-7	Instruments -> MP-7	0121 gtr:Pop 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0122 gtr:Chord Bed	
+E-MU Systems	MP-7	Instruments -> MP-7	0123 gtr:Krackly Kord	
+E-MU Systems	MP-7	Instruments -> MP-7	0124 gtr:Amp Noise	
+E-MU Systems	MP-7	Instruments -> MP-7	0125 gtr:Amp Ped	
+E-MU Systems	MP-7	Instruments -> MP-7	0127 gtr:All Burners	
+E-MU Systems	MP-7	Instruments -> MP-7	0128 gtr:Hardcore	
+E-MU Systems	MP-7	Instruments -> MP-7	0129 gtr:Psycho Noise	
+E-MU Systems	MP-7	Instruments -> MP-7	0130 gtr:Fuzz Tone	
+E-MU Systems	MP-7	Instruments -> MP-7	0131 gtr:Slicer	
+E-MU Systems	MP-7	Instruments -> MP-7	0132 gtr:Dissed Hit	
+E-MU Systems	MP-7	Instruments -> MP-7	0133 gtr:Doooom	
+E-MU Systems	MP-7	Instruments -> MP-7	0134 pad:Drone 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0135 pad:Drone 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0136 pad:Drone 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0137 pad:Sirens	
+E-MU Systems	MP-7	Instruments -> MP-7	0138 hit:Guit n Hat	
+E-MU Systems	MP-7	Instruments -> MP-7	0139 hit:Wah Kicker	
+E-MU Systems	MP-7	Instruments -> MP-7	0140 hit:Satisfying	
+E-MU Systems	MP-7	Instruments -> MP-7	0141 hit:SP12OrgChord	
+E-MU Systems	MP-7	Instruments -> MP-7	0142 hit:Weird Gtr	
+E-MU Systems	MP-7	Instruments -> MP-7	0143 led:DeepThoughts	
+E-MU Systems	MP-7	Instruments -> MP-7	0144 led:Fantastic70s	
+E-MU Systems	MP-7	Instruments -> MP-7	0145 led:Guitlet Wave	
+E-MU Systems	MP-7	Instruments -> MP-7	0146 syn:Synthomatic	
+E-MU Systems	MP-7	Instruments -> MP-7	0147 led:Transformed	
+E-MU Systems	MP-7	Instruments -> MP-7	0148 brs:Caliente!	
+E-MU Systems	MP-7	Instruments -> MP-7	0149 hit:Tpt Solo	
+E-MU Systems	MP-7	Instruments -> MP-7	0150 led:Hoodwormed	
+E-MU Systems	MP-7	Instruments -> MP-7	0151 led:Yearning 2 B	
+E-MU Systems	MP-7	Instruments -> MP-7	0152 led:ReedOPlenty	
+E-MU Systems	MP-7	Instruments -> MP-7	0153 led:AmberVioleta	
+E-MU Systems	MP-7	Instruments -> MP-7	0154 led:Stevie Rockz	
+E-MU Systems	MP-7	Instruments -> MP-7	0155 pad:Mr. Clean	
+E-MU Systems	MP-7	Instruments -> MP-7	0156 sfx:Shield	
+E-MU Systems	MP-7	Instruments -> MP-7	0157 sfx:Deadly Cycle	
+E-MU Systems	MP-7	Instruments -> MP-7	0158 sfx:Reaper	
+E-MU Systems	MP-7	Instruments -> MP-7	0159 vox:Atseeyeah	
+E-MU Systems	MP-7	Instruments -> MP-7	0160 pad:Pulsar	
+E-MU Systems	MP-7	Instruments -> MP-7	0161 gtr:1ShotElectra	
+E-MU Systems	MP-7	Instruments -> MP-7	0162 brs:CarnavalHits	
+E-MU Systems	MP-7	Instruments -> MP-7	0163 brs:Carnaval 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0164 brs:Carnaval 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0165 brs:Carnaval 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0166 brs:Carnaval 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0167 brs:Carnaval 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0168 hit:Spicy Brass	
+E-MU Systems	MP-7	Instruments -> MP-7	0169 sfx:Worry Pad	
+E-MU Systems	MP-7	Instruments -> MP-7	0170 str:Orcha Chord	
+E-MU Systems	MP-7	Instruments -> MP-7	0171 hit:DeathStrike	
+E-MU Systems	MP-7	Instruments -> MP-7	0172 hit:Sweetness 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0173 hit:Sweetness 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0174 hit:QuirkyDrmBed	
+E-MU Systems	MP-7	Instruments -> MP-7	0175 hit:Intro Beat	
+E-MU Systems	MP-7	Instruments -> MP-7	0176 hit:Knock U Out!	
+E-MU Systems	MP-7	Instruments -> MP-7	0177 hit:Blip	
+E-MU Systems	MP-7	Instruments -> MP-7	0178 hit:Caprice	
+E-MU Systems	MP-7	Instruments -> MP-7	0179 hit:Sax Line	
+E-MU Systems	MP-7	Instruments -> MP-7	0180 gtr:Owp Hit	
+E-MU Systems	MP-7	Instruments -> MP-7	0181 hit:Bottom 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0182 hit:Bottom 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0183 hit:Nice Under	
+E-MU Systems	MP-7	Instruments -> MP-7	0184 hit:Nice Under 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0185 hit:Righteous	
+E-MU Systems	MP-7	Instruments -> MP-7	0186 sfx:Cop Tone 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0187 sfx:Cop Tone 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0188 sfx:Beep Tone 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0189 sfx:Beep Tone 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0190 sfx:ComputerBeep	
+E-MU Systems	MP-7	Instruments -> MP-7	0191 sfx:Ping Beep	
+E-MU Systems	MP-7	Instruments -> MP-7	0192 hit:Key Kord min	
+E-MU Systems	MP-7	Instruments -> MP-7	0193 hit:X	
+E-MU Systems	MP-7	Instruments -> MP-7	0194 hit:Honk	
+E-MU Systems	MP-7	Instruments -> MP-7	0195 sfx:Dial 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0196 sfx:Dial 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0197 sfx:Dial 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0198 sfx:Dial 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0199 sfx:Dial 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0200 sfx:Dial 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0201 sfx:Dial 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0202 hit:Annoy	
+E-MU Systems	MP-7	Instruments -> MP-7	0203 hit:Orchit	
+E-MU Systems	MP-7	Instruments -> MP-7	0204 brs:Waver Stab	
+E-MU Systems	MP-7	Instruments -> MP-7	0205 brs:40's Horn	
+E-MU Systems	MP-7	Instruments -> MP-7	0206 sfx:Bat	
+E-MU Systems	MP-7	Instruments -> MP-7	0207 hit:Bass Note	
+E-MU Systems	MP-7	Instruments -> MP-7	0208 hit:Hatthang	
+E-MU Systems	MP-7	Instruments -> MP-7	0209 sfx:AmusemntCrwd	
+E-MU Systems	MP-7	Instruments -> MP-7	0210 hit:SynChord	
+E-MU Systems	MP-7	Instruments -> MP-7	0211 hit:Synthetic	
+E-MU Systems	MP-7	Instruments -> MP-7	0212 hit:Padlove	
+E-MU Systems	MP-7	Instruments -> MP-7	0213 hit:8 Bit Fright	
+E-MU Systems	MP-7	Instruments -> MP-7	0214 hit:Synth Ditty	
+E-MU Systems	MP-7	Instruments -> MP-7	0215 hit:House Chrd ?	
+E-MU Systems	MP-7	Instruments -> MP-7	0216 hit:HornStabber	
+E-MU Systems	MP-7	Instruments -> MP-7	0217 brs:Stabber	
+E-MU Systems	MP-7	Instruments -> MP-7	0218 sfx:JungleWiggly	
+E-MU Systems	MP-7	Instruments -> MP-7	0219 sfx:Wet Tripper	
+E-MU Systems	MP-7	Instruments -> MP-7	0220 hit:Dum Dum 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0221 hit:Dum Dum 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0222 hit:Jungle	
+E-MU Systems	MP-7	Instruments -> MP-7	0223 hit:Bongo Fury	
+E-MU Systems	MP-7	Instruments -> MP-7	0224 hit:Drop Off	
+E-MU Systems	MP-7	Instruments -> MP-7	0225 syn:2 Step	
+E-MU Systems	MP-7	Instruments -> MP-7	0226 hit:the Snap	
+E-MU Systems	MP-7	Instruments -> MP-7	0227 sfx:HookReverse	
+E-MU Systems	MP-7	Instruments -> MP-7	0228 brs:Tasty Lick	
+E-MU Systems	MP-7	Instruments -> MP-7	0229 brs:Next Tasty 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0230 brs:NotherTasty	
+E-MU Systems	MP-7	Instruments -> MP-7	0231 brs:Next Tasty 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0232 syn:Flutey	
+E-MU Systems	MP-7	Instruments -> MP-7	0233 hit:Brass Attack	
+E-MU Systems	MP-7	Instruments -> MP-7	0234 gtr:Single Next	
+E-MU Systems	MP-7	Instruments -> MP-7	0235 brs:Falling	
+E-MU Systems	MP-7	Instruments -> MP-7	0236 brs:Sfz	
+E-MU Systems	MP-7	Instruments -> MP-7	0237 syn:Grinder	
+E-MU Systems	MP-7	Instruments -> MP-7	0238 hit:HardSynStab1	
+E-MU Systems	MP-7	Instruments -> MP-7	0239 hit:HardSynStab2	
+E-MU Systems	MP-7	Instruments -> MP-7	0240 brs:Quirky Hit	
+E-MU Systems	MP-7	Instruments -> MP-7	0241 hit:StressRelief	
+E-MU Systems	MP-7	Instruments -> MP-7	0242 hit:Korn	
+E-MU Systems	MP-7	Instruments -> MP-7	0243 syn:Wheeeeper	
+E-MU Systems	MP-7	Instruments -> MP-7	0244 hit:It's A...	
+E-MU Systems	MP-7	Instruments -> MP-7	0245 hit:It's A nothr	
+E-MU Systems	MP-7	Instruments -> MP-7	0246 hit:Rap Zapper	
+E-MU Systems	MP-7	Instruments -> MP-7	0247 hit:Uplifter	
+E-MU Systems	MP-7	Instruments -> MP-7	0248 hit:Good'Nuff	
+E-MU Systems	MP-7	Instruments -> MP-7	0249 hit:Laser Strike	
+E-MU Systems	MP-7	Instruments -> MP-7	0250 hit:Wild Horns	
+E-MU Systems	MP-7	Instruments -> MP-7	0251 hit:Cluster	
+E-MU Systems	MP-7	Instruments -> MP-7	0252 hit:To the Point	
+E-MU Systems	MP-7	Instruments -> MP-7	0253 hit:Tentative	
+E-MU Systems	MP-7	Instruments -> MP-7	0254 hit:Mood Swing	
+E-MU Systems	MP-7	Instruments -> MP-7	0255 syn:Sea Story	
+E-MU Systems	MP-7	Instruments -> MP-7	0256 str:Fade Hit	
+E-MU Systems	MP-7	Instruments -> MP-7	0257 hit:Sentimental	
+E-MU Systems	MP-7	Instruments -> MP-7	0258 hit:DeD RINGER	
+E-MU Systems	MP-7	Instruments -> MP-7	0259 hit:Chord Ends	
+E-MU Systems	MP-7	Instruments -> MP-7	0260 hit:Monster	
+E-MU Systems	MP-7	Instruments -> MP-7	0261 hit:SP Super	
+E-MU Systems	MP-7	Instruments -> MP-7	0262 hit:With 2 Tts	
+E-MU Systems	MP-7	Instruments -> MP-7	0263 hit:Splashy	
+E-MU Systems	MP-7	Instruments -> MP-7	0264 str:SP Suspense	
+E-MU Systems	MP-7	Instruments -> MP-7	0265 hit:Weird Nylon	
+E-MU Systems	MP-7	Instruments -> MP-7	0266 hit:Sp Reversal	
+E-MU Systems	MP-7	Instruments -> MP-7	0267 gtr:Mood Riff	
+E-MU Systems	MP-7	Instruments -> MP-7	0268 syn:BrassProphet	
+E-MU Systems	MP-7	Instruments -> MP-7	0269 pad:Plucked Gold	
+E-MU Systems	MP-7	Instruments -> MP-7	0270 syn:Winny	
+E-MU Systems	MP-7	Instruments -> MP-7	0271 syn:P5 Sync	
+E-MU Systems	MP-7	Instruments -> MP-7	0272 wav:Sinusoid	
+E-MU Systems	MP-7	Instruments -> MP-7	0273 wav:Sine /\ 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0274 wav:SineInvrt/\2	
+E-MU Systems	MP-7	Instruments -> MP-7	0275 wav:Sine /\ 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0276 wav:SineInvrt/\3	
+E-MU Systems	MP-7	Instruments -> MP-7	0277 wav:Sawtooth	
+E-MU Systems	MP-7	Instruments -> MP-7	0278 wav:Square	
+E-MU Systems	MP-7	Instruments -> MP-7	0279 wav:Triangle	
+E-MU Systems	MP-7	Instruments -> MP-7	0280 key:010 El Tine	
+E-MU Systems	MP-7	Instruments -> MP-7	0281 key:1 Note Mello	
+E-MU Systems	MP-7	Instruments -> MP-7	0282 key:Nother1Noter	
+E-MU Systems	MP-7	Instruments -> MP-7	0283 key:010 FuzzTine	
+E-MU Systems	MP-7	Instruments -> MP-7	0284 key:Res 1 Shot	
+E-MU Systems	MP-7	Instruments -> MP-7	0285 key:Chords/Hits	
+E-MU Systems	MP-7	Instruments -> MP-7	0286 key:KoolOrgKord1	
+E-MU Systems	MP-7	Instruments -> MP-7	0287 key:Kool Kord 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0288 key:Rhodes FX 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0289 key:WindownLetGo	
+E-MU Systems	MP-7	Instruments -> MP-7	0290 key:Loop da Loop	
+E-MU Systems	MP-7	Instruments -> MP-7	0291 key:Growl Drop	
+E-MU Systems	MP-7	Instruments -> MP-7	0292 key:Org Roll 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0293 key:Harpsinote	
+E-MU Systems	MP-7	Instruments -> MP-7	0294 hit:DanceKey1	
+E-MU Systems	MP-7	Instruments -> MP-7	0295 hit:DanceKey2	
+E-MU Systems	MP-7	Instruments -> MP-7	0296 hit:DanceKey3	
+E-MU Systems	MP-7	Instruments -> MP-7	0297 hit:DanceKey4	
+E-MU Systems	MP-7	Instruments -> MP-7	0298 hit:DanceKey5	
+E-MU Systems	MP-7	Instruments -> MP-7	0299 hit:Organ	
+E-MU Systems	MP-7	Instruments -> MP-7	0300 hit:Maj Org	
+E-MU Systems	MP-7	Instruments -> MP-7	0301 hit:DirtyTine	
+E-MU Systems	MP-7	Instruments -> MP-7	0302 hit:Piano Lick	
+E-MU Systems	MP-7	Instruments -> MP-7	0303 hit:In Concert	
+E-MU Systems	MP-7	Instruments -> MP-7	0304 key:Kool Kord	
+E-MU Systems	MP-7	Instruments -> MP-7	0305 key:Nother 'No	
+E-MU Systems	MP-7	Instruments -> MP-7	0306 key:Perc Organ	
+E-MU Systems	MP-7	Instruments -> MP-7	0307 str:Interrupted	
+E-MU Systems	MP-7	Instruments -> MP-7	0308 str:Section Pizz	
+E-MU Systems	MP-7	Instruments -> MP-7	0309 str:Orch Harp	
+E-MU Systems	MP-7	Instruments -> MP-7	0310 str:Hybrid Synth	
+E-MU Systems	MP-7	Instruments -> MP-7	0311 str:Sctn Legato	
+E-MU Systems	MP-7	Instruments -> MP-7	0312 str:Synthetic	
+E-MU Systems	MP-7	Instruments -> MP-7	0313 str:MoodChrdStab	
+E-MU Systems	MP-7	Instruments -> MP-7	0314 str:Mood Stab 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0315 str:Harp Gliss	
+E-MU Systems	MP-7	Instruments -> MP-7	0316 str:Screenplay	
+E-MU Systems	MP-7	Instruments -> MP-7	0317 str:Sp Loooopy	
+E-MU Systems	MP-7	Instruments -> MP-7	0318 hit:Brass Balls	
+E-MU Systems	MP-7	Instruments -> MP-7	0319 str:Hip Hop Pizz	
+E-MU Systems	MP-7	Instruments -> MP-7	0320 str:Big PluckHit	
+E-MU Systems	MP-7	Instruments -> MP-7	0321 str:Rap OrchRiff	
+E-MU Systems	MP-7	Instruments -> MP-7	0322 str:Heartbreaker	
+E-MU Systems	MP-7	Instruments -> MP-7	0323 vox:TB Ooh! 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0324 vox:TB Ooh! 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0325 vox:Talk Box Ooh	
+E-MU Systems	MP-7	Instruments -> MP-7	0326 vox:Talk Box Aha	
+E-MU Systems	MP-7	Instruments -> MP-7	0327 vox:Freak!	
+E-MU Systems	MP-7	Instruments -> MP-7	0328 vox:TBLet'sDance	
+E-MU Systems	MP-7	Instruments -> MP-7	0329 vox:Booms!	
+E-MU Systems	MP-7	Instruments -> MP-7	0330 vox:Doit!	
+E-MU Systems	MP-7	Instruments -> MP-7	0331 vox:Oh Yeahs!	
+E-MU Systems	MP-7	Instruments -> MP-7	0332 vox:Dan Cher 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0333 vox:Dan Cher 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0334 vox:Funky 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0335 vox:Funky 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0336 vox:All Vowels	
+E-MU Systems	MP-7	Instruments -> MP-7	0337 vox:AllNTPVowels	
+E-MU Systems	MP-7	Instruments -> MP-7	0338 vox:VowelEachOct	
+E-MU Systems	MP-7	Instruments -> MP-7	0339 vox:Vowel Train	
+E-MU Systems	MP-7	Instruments -> MP-7	0340 vox:Vowel Train2	
+E-MU Systems	MP-7	Instruments -> MP-7	0341 vox:Vocoder	
+E-MU Systems	MP-7	Instruments -> MP-7	0342 vox:All Men	
+E-MU Systems	MP-7	Instruments -> MP-7	0343 vox:All Femmes	
+E-MU Systems	MP-7	Instruments -> MP-7	0344 vox:Owwwwwwww	
+E-MU Systems	MP-7	Instruments -> MP-7	0345 vox:Screamer	
+E-MU Systems	MP-7	Instruments -> MP-7	0346 vox:YahWailer	
+E-MU Systems	MP-7	Instruments -> MP-7	0347 vox:Wassup???	
+E-MU Systems	MP-7	Instruments -> MP-7	0348 vox:Techno Yeah	
+E-MU Systems	MP-7	Instruments -> MP-7	0349 vox:Scratch Talk	
+E-MU Systems	MP-7	Instruments -> MP-7	0350 hit:Scratch Box	
+E-MU Systems	MP-7	Instruments -> MP-7	0351 vox:Podge	
+E-MU Systems	MP-7	Instruments -> MP-7	0352 syn:Vox Pad	
+E-MU Systems	MP-7	Instruments -> MP-7	0353 vox:TB Pad 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0354 vox:TB Pad 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0355 vox:Talk Brush	
+E-MU Systems	MP-7	Instruments -> MP-7	0356 gtr:DistantCry	
+E-MU Systems	MP-7	Instruments -> MP-7	0357 gtr:Heavy	
+E-MU Systems	MP-7	Instruments -> MP-7	0358 syn:Vox Roller	
+E-MU Systems	MP-7	Instruments -> MP-7	0359 vox:TB Boom 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0360 vox:TB Boom 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0361 vox:TB Boom 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0362 vox:TB Boom 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0363 vox:TB Boom 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0364 vox:TB Boom 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0365 vox:TB Do It 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0366 vox:TB Do It 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0367 vox:TB Do It 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0368 vox:TB Do It 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0369 vox:TB Do It 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0370 vox:TB Oh Yeah 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0371 vox:TB Oh Yeah 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0372 vox:TB Oh Yeah 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0373 vox:TB Oh Yeah 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0374 vox:TB Oh Yeah 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0375 vox:TB Oh Yeah 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0376 vox:TB Oh Yeah 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0377 vox:TB Vowel A	
+E-MU Systems	MP-7	Instruments -> MP-7	0378 vox:TB Vowel E	
+E-MU Systems	MP-7	Instruments -> MP-7	0379 vox:TB Vowel I	
+E-MU Systems	MP-7	Instruments -> MP-7	0380 vox:TB Vowel O	
+E-MU Systems	MP-7	Instruments -> MP-7	0381 vox:TB Vowel U	
+E-MU Systems	MP-7	Instruments -> MP-7	0382 vox:TB Vowel Ah	
+E-MU Systems	MP-7	Instruments -> MP-7	0383 vox:TB Vowel Eh	
+E-MU Systems	MP-7	Instruments -> MP-7	0384 vox:TB Vowel Uh	
+E-MU Systems	MP-7	Instruments -> MP-7	0385 vox:TB Vowel Oo	
+E-MU Systems	MP-7	Instruments -> MP-7	0386 vox:Gina Ew 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0387 vox:Gina Ew 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0388 vox:Earth Lisa	
+E-MU Systems	MP-7	Instruments -> MP-7	0389 vox:Male 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0390 vox:Male 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0391 vox:Male 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0392 vox:Male 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0393 vox:Male 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0394 vox:Male 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0395 vox:Male 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0396 vox:Male 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0397 vox:Male 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0398 vox:Male 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0399 vox:Femme 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0400 vox:Femme 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0401 vox:Femme 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0402 vox:Femme 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0403 vox:Femme 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0404 vox:Femme 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0405 vox:Femme 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0406 vox:Femme 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0407 vox:Femme 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0408 vox:Femme 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0409 vox:Femme 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0410 vox:Femme 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0411 vox:Femme 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0412 key:Farfisa Low	
+E-MU Systems	MP-7	Instruments -> MP-7	0413 key:Farfisa	
+E-MU Systems	MP-7	Instruments -> MP-7	0414 key:Vox Organ	
+E-MU Systems	MP-7	Instruments -> MP-7	0415 key:Organ 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0416 key:Organ 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0417 key:Org Day	
+E-MU Systems	MP-7	Instruments -> MP-7	0418 key:Org Nod	
+E-MU Systems	MP-7	Instruments -> MP-7	0419 key:Org Lite	
+E-MU Systems	MP-7	Instruments -> MP-7	0420 key:Disco Organ	
+E-MU Systems	MP-7	Instruments -> MP-7	0421 key:DX Organ	
+E-MU Systems	MP-7	Instruments -> MP-7	0422 key:JX Organ	
+E-MU Systems	MP-7	Instruments -> MP-7	0423 led:Full Force	
+E-MU Systems	MP-7	Instruments -> MP-7	0424 syn:Brite Brass	
+E-MU Systems	MP-7	Instruments -> MP-7	0425 syn:Muted Brass	
+E-MU Systems	MP-7	Instruments -> MP-7	0426 syn:Classic 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0427 syn:Classic 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0428 syn:EdgyVeryEdgy	
+E-MU Systems	MP-7	Instruments -> MP-7	0429 syn:Tone Wall	
+E-MU Systems	MP-7	Instruments -> MP-7	0430 syn:Jungle Lead	
+E-MU Systems	MP-7	Instruments -> MP-7	0431 led:Wormy 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0432 led:Wormy 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0433 led:Wormy 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0434 led:H20	
+E-MU Systems	MP-7	Instruments -> MP-7	0435 syn:Wave Cutter	
+E-MU Systems	MP-7	Instruments -> MP-7	0436 syn:Rail to Rail	
+E-MU Systems	MP-7	Instruments -> MP-7	0437 key:Klavin It	
+E-MU Systems	MP-7	Instruments -> MP-7	0438 key:Klav Love	
+E-MU Systems	MP-7	Instruments -> MP-7	0439 key:Klav Love b	
+E-MU Systems	MP-7	Instruments -> MP-7	0440 syn:Buzz Wave	
+E-MU Systems	MP-7	Instruments -> MP-7	0441 prc:All Kicks 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0442 prc:All Kicks 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0443 prc:Kicks2 Tuned	
+E-MU Systems	MP-7	Instruments -> MP-7	0444 prc:All Snares 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0445 prc:All Snares 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0446 prc:All Snares 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0447 prc:KikSnarePlc1	
+E-MU Systems	MP-7	Instruments -> MP-7	0448 prc:All Hats 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0449 prc:All Hats 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0450 prc:All Cymbals	
+E-MU Systems	MP-7	Instruments -> MP-7	0451 prc:Rainstick	
+E-MU Systems	MP-7	Instruments -> MP-7	0452 prc:Whirlybird	
+E-MU Systems	MP-7	Instruments -> MP-7	0453 prc:All Stix	
+E-MU Systems	MP-7	Instruments -> MP-7	0454 prc:All Bongos	
+E-MU Systems	MP-7	Instruments -> MP-7	0455 prc:AllClaps&Snp	
+E-MU Systems	MP-7	Instruments -> MP-7	0456 prc:All Claves	
+E-MU Systems	MP-7	Instruments -> MP-7	0457 prc:All Toms	
+E-MU Systems	MP-7	Instruments -> MP-7	0458 prc:All Bells	
+E-MU Systems	MP-7	Instruments -> MP-7	0459 prc:All Fills	
+E-MU Systems	MP-7	Instruments -> MP-7	0460 prc:All Shakers	
+E-MU Systems	MP-7	Instruments -> MP-7	0461 scr:AllScratches	
+E-MU Systems	MP-7	Instruments -> MP-7	0462 prc:All Misc	
+E-MU Systems	MP-7	Instruments -> MP-7	0463 sfx:ScaryBastard	
+E-MU Systems	MP-7	Instruments -> MP-7	0464 prc:Sci Fi Toy 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0465 prc:Sci Fi Toy 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0466 prc:Thumpiano	
+E-MU Systems	MP-7	Instruments -> MP-7	0467 scr:Scratch Map	
+E-MU Systems	MP-7	Instruments -> MP-7	0468 scr:Scratch Talk	
+E-MU Systems	MP-7	Instruments -> MP-7	0469 scr:Rodeo Roper	
+E-MU Systems	MP-7	Instruments -> MP-7	0470 scr:ChipmunkRap	
+E-MU Systems	MP-7	Instruments -> MP-7	0471 scr:StuttrSteppr	
+E-MU Systems	MP-7	Instruments -> MP-7	0472 scr:Whale Backer	
+E-MU Systems	MP-7	Instruments -> MP-7	0473 scr:Nother Drop	
+E-MU Systems	MP-7	Instruments -> MP-7	0474 scr:Hiccup	
+E-MU Systems	MP-7	Instruments -> MP-7	0475 scr:Rotator	
+E-MU Systems	MP-7	Instruments -> MP-7	0476 scr:Hard Drop	
+E-MU Systems	MP-7	Instruments -> MP-7	0477 prc:Shaker Loop	
+E-MU Systems	MP-7	Instruments -> MP-7	0478 prc:St Flexi 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0479 prc:Flexi 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0480 prc:Flexi 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0481 prc:Flexi 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0482 prc:Flexi 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0483 kit:Lily GM1	
+E-MU Systems	MP-7	Instruments -> MP-7	0484 kit:Lily GM2	
+E-MU Systems	MP-7	Instruments -> MP-7	0485 kit:Lily GM3	
+E-MU Systems	MP-7	Instruments -> MP-7	0486 kit:Lily GM4	
+E-MU Systems	MP-7	Instruments -> MP-7	0487 kit:Lily GM5	
+E-MU Systems	MP-7	Instruments -> MP-7	0488 kit:Funky GM One	
+E-MU Systems	MP-7	Instruments -> MP-7	0489 kit:Funky GM 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0490 kit:Funky GM 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0491 kit:Funky 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0492 kit:Funky 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0493 kit:Funky 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0494 prc:Kick 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0495 prc:Kick 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0496 prc:Kick 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0497 prc:Kick 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0498 prc:Kick 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0499 prc:Kick 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0500 prc:Kick 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0501 prc:Kick 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0502 prc:Kick 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0503 prc:Kick 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0504 prc:Kick 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0505 prc:Kick 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0506 prc:Kick 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0507 prc:Kick 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0508 prc:Kick 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0509 prc:Kick 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0510 prc:Kick 17	
+E-MU Systems	MP-7	Instruments -> MP-7	0511 prc:Kick 18	
+E-MU Systems	MP-7	Instruments -> MP-7	0512 prc:Kick 19	
+E-MU Systems	MP-7	Instruments -> MP-7	0513 prc:Kick 20	
+E-MU Systems	MP-7	Instruments -> MP-7	0514 prc:Kick 21	
+E-MU Systems	MP-7	Instruments -> MP-7	0515 prc:Kick 22	
+E-MU Systems	MP-7	Instruments -> MP-7	0516 prc:Kick 23	
+E-MU Systems	MP-7	Instruments -> MP-7	0517 prc:Kick 24	
+E-MU Systems	MP-7	Instruments -> MP-7	0518 prc:Kick 25	
+E-MU Systems	MP-7	Instruments -> MP-7	0519 prc:Kick 26	
+E-MU Systems	MP-7	Instruments -> MP-7	0520 prc:Kick 27	
+E-MU Systems	MP-7	Instruments -> MP-7	0521 prc:Kick 28	
+E-MU Systems	MP-7	Instruments -> MP-7	0522 prc:Kick 29	
+E-MU Systems	MP-7	Instruments -> MP-7	0523 prc:Kick 30	
+E-MU Systems	MP-7	Instruments -> MP-7	0524 prc:Kick 31	
+E-MU Systems	MP-7	Instruments -> MP-7	0525 prc:Kick 32	
+E-MU Systems	MP-7	Instruments -> MP-7	0526 prc:Kick 33	
+E-MU Systems	MP-7	Instruments -> MP-7	0527 prc:Kick 34	
+E-MU Systems	MP-7	Instruments -> MP-7	0528 prc:Kick 35	
+E-MU Systems	MP-7	Instruments -> MP-7	0529 prc:Kick 36	
+E-MU Systems	MP-7	Instruments -> MP-7	0530 prc:Kick 37	
+E-MU Systems	MP-7	Instruments -> MP-7	0531 prc:Kick 38	
+E-MU Systems	MP-7	Instruments -> MP-7	0532 prc:Kick 39	
+E-MU Systems	MP-7	Instruments -> MP-7	0533 prc:Kick 40	
+E-MU Systems	MP-7	Instruments -> MP-7	0534 prc:Kick 41	
+E-MU Systems	MP-7	Instruments -> MP-7	0535 prc:Kick 42	
+E-MU Systems	MP-7	Instruments -> MP-7	0536 prc:Kick 43	
+E-MU Systems	MP-7	Instruments -> MP-7	0537 prc:Kick 44	
+E-MU Systems	MP-7	Instruments -> MP-7	0538 prc:Kick 45	
+E-MU Systems	MP-7	Instruments -> MP-7	0539 prc:Kick 46	
+E-MU Systems	MP-7	Instruments -> MP-7	0540 prc:Kick 47	
+E-MU Systems	MP-7	Instruments -> MP-7	0541 prc:Kick 48	
+E-MU Systems	MP-7	Instruments -> MP-7	0542 prc:Kick 49	
+E-MU Systems	MP-7	Instruments -> MP-7	0543 prc:Kick 50	
+E-MU Systems	MP-7	Instruments -> MP-7	0544 prc:Kick 51	
+E-MU Systems	MP-7	Instruments -> MP-7	0545 prc:Kick 52	
+E-MU Systems	MP-7	Instruments -> MP-7	0546 prc:Kick 53	
+E-MU Systems	MP-7	Instruments -> MP-7	0547 prc:Kick 54	
+E-MU Systems	MP-7	Instruments -> MP-7	0548 prc:Kick 55	
+E-MU Systems	MP-7	Instruments -> MP-7	0549 prc:Kick 56	
+E-MU Systems	MP-7	Instruments -> MP-7	0550 prc:Kick 57	
+E-MU Systems	MP-7	Instruments -> MP-7	0551 prc:Kick 58	
+E-MU Systems	MP-7	Instruments -> MP-7	0552 prc:Kick 59	
+E-MU Systems	MP-7	Instruments -> MP-7	0553 prc:Kick 60	
+E-MU Systems	MP-7	Instruments -> MP-7	0554 prc:Kick 61	
+E-MU Systems	MP-7	Instruments -> MP-7	0555 prc:Kick 62	
+E-MU Systems	MP-7	Instruments -> MP-7	0556 prc:Kick 63	
+E-MU Systems	MP-7	Instruments -> MP-7	0557 prc:Kick 64	
+E-MU Systems	MP-7	Instruments -> MP-7	0558 prc:Kick 65	
+E-MU Systems	MP-7	Instruments -> MP-7	0559 prc:Kick 66	
+E-MU Systems	MP-7	Instruments -> MP-7	0560 prc:Kick 67	
+E-MU Systems	MP-7	Instruments -> MP-7	0561 prc:Kick 68	
+E-MU Systems	MP-7	Instruments -> MP-7	0562 prc:Kick 69	
+E-MU Systems	MP-7	Instruments -> MP-7	0563 prc:Kick 70	
+E-MU Systems	MP-7	Instruments -> MP-7	0564 prc:Kick 71	
+E-MU Systems	MP-7	Instruments -> MP-7	0565 prc:Kick 72	
+E-MU Systems	MP-7	Instruments -> MP-7	0566 prc:Kick 73	
+E-MU Systems	MP-7	Instruments -> MP-7	0567 prc:Kick 74	
+E-MU Systems	MP-7	Instruments -> MP-7	0568 key:Tine Chord 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0569 key:Tine Chord 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0570 key:Tine Chord 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0571 key:Tine Chord 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0572 key:Tine Chord 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0573 key:Tine Chord 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0574 key:Tine Chord 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0575 key:Tine Hit 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0576 key:Tine Hit 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0577 key:Tine Hit 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0578 key:Tine Hit 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0579 key:Tine Hit 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0580 key:Tine Hit 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0581 key:Tine Hit 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0582 prc:Snare 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0583 prc:Snare 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0584 prc:Snare 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0585 prc:Snare 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0586 prc:Snare 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0587 prc:Snare 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0588 prc:Snare 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0589 prc:Snare 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0590 prc:Snare 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0591 prc:Snare 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0592 prc:Snare 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0593 prc:Snare 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0594 prc:Snare 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0595 prc:Snare 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0596 prc:Snare 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0597 prc:Snare 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0598 prc:Snare 17	
+E-MU Systems	MP-7	Instruments -> MP-7	0599 prc:Snare 18	
+E-MU Systems	MP-7	Instruments -> MP-7	0600 prc:Snare 19	
+E-MU Systems	MP-7	Instruments -> MP-7	0601 prc:Snare 20	
+E-MU Systems	MP-7	Instruments -> MP-7	0602 prc:Snare 21	
+E-MU Systems	MP-7	Instruments -> MP-7	0603 prc:Snare 22	
+E-MU Systems	MP-7	Instruments -> MP-7	0604 prc:Snare 23	
+E-MU Systems	MP-7	Instruments -> MP-7	0605 prc:Snare 24	
+E-MU Systems	MP-7	Instruments -> MP-7	0606 prc:Snare 25	
+E-MU Systems	MP-7	Instruments -> MP-7	0607 prc:Snare 26	
+E-MU Systems	MP-7	Instruments -> MP-7	0608 prc:Snare 27	
+E-MU Systems	MP-7	Instruments -> MP-7	0609 prc:Snare 28	
+E-MU Systems	MP-7	Instruments -> MP-7	0610 prc:Snare 29	
+E-MU Systems	MP-7	Instruments -> MP-7	0611 prc:Snare 30	
+E-MU Systems	MP-7	Instruments -> MP-7	0612 prc:Snare 31	
+E-MU Systems	MP-7	Instruments -> MP-7	0613 prc:Snare 32	
+E-MU Systems	MP-7	Instruments -> MP-7	0614 prc:Snare 33	
+E-MU Systems	MP-7	Instruments -> MP-7	0615 prc:Snare 34	
+E-MU Systems	MP-7	Instruments -> MP-7	0616 prc:Snare 35	
+E-MU Systems	MP-7	Instruments -> MP-7	0617 prc:Snare 36	
+E-MU Systems	MP-7	Instruments -> MP-7	0618 prc:Snare 37	
+E-MU Systems	MP-7	Instruments -> MP-7	0619 prc:Snare 38	
+E-MU Systems	MP-7	Instruments -> MP-7	0620 prc:Snare 39	
+E-MU Systems	MP-7	Instruments -> MP-7	0621 prc:Snare 40	
+E-MU Systems	MP-7	Instruments -> MP-7	0622 prc:Snare 41	
+E-MU Systems	MP-7	Instruments -> MP-7	0623 prc:Snare 42	
+E-MU Systems	MP-7	Instruments -> MP-7	0624 prc:Snare 43	
+E-MU Systems	MP-7	Instruments -> MP-7	0625 prc:Snare 44	
+E-MU Systems	MP-7	Instruments -> MP-7	0626 prc:Snare 45	
+E-MU Systems	MP-7	Instruments -> MP-7	0627 prc:Snare 46	
+E-MU Systems	MP-7	Instruments -> MP-7	0628 prc:Snare 47	
+E-MU Systems	MP-7	Instruments -> MP-7	0629 prc:Snare 48	
+E-MU Systems	MP-7	Instruments -> MP-7	0630 prc:Snare 49	
+E-MU Systems	MP-7	Instruments -> MP-7	0631 prc:Snare 50	
+E-MU Systems	MP-7	Instruments -> MP-7	0632 prc:Snare 51	
+E-MU Systems	MP-7	Instruments -> MP-7	0633 prc:Snare 52	
+E-MU Systems	MP-7	Instruments -> MP-7	0634 prc:Snare 53	
+E-MU Systems	MP-7	Instruments -> MP-7	0635 prc:Snare 54	
+E-MU Systems	MP-7	Instruments -> MP-7	0636 prc:Snare 55	
+E-MU Systems	MP-7	Instruments -> MP-7	0637 prc:Snare 56	
+E-MU Systems	MP-7	Instruments -> MP-7	0638 prc:Snare 57	
+E-MU Systems	MP-7	Instruments -> MP-7	0639 prc:Snare 58	
+E-MU Systems	MP-7	Instruments -> MP-7	0640 prc:Snare 59	
+E-MU Systems	MP-7	Instruments -> MP-7	0641 prc:Snare 60	
+E-MU Systems	MP-7	Instruments -> MP-7	0642 prc:Snare 61	
+E-MU Systems	MP-7	Instruments -> MP-7	0643 prc:Snare 62	
+E-MU Systems	MP-7	Instruments -> MP-7	0644 prc:Snare 63	
+E-MU Systems	MP-7	Instruments -> MP-7	0645 prc:Snare 64	
+E-MU Systems	MP-7	Instruments -> MP-7	0646 prc:Snare 65	
+E-MU Systems	MP-7	Instruments -> MP-7	0647 prc:Snare 66	
+E-MU Systems	MP-7	Instruments -> MP-7	0648 prc:Snare 67	
+E-MU Systems	MP-7	Instruments -> MP-7	0649 prc:Snare 68	
+E-MU Systems	MP-7	Instruments -> MP-7	0650 prc:Snare 69	
+E-MU Systems	MP-7	Instruments -> MP-7	0651 prc:Snare 70	
+E-MU Systems	MP-7	Instruments -> MP-7	0652 prc:Snare 71	
+E-MU Systems	MP-7	Instruments -> MP-7	0653 prc:Snare 72	
+E-MU Systems	MP-7	Instruments -> MP-7	0654 prc:Snare 73	
+E-MU Systems	MP-7	Instruments -> MP-7	0655 prc:Snare 74	
+E-MU Systems	MP-7	Instruments -> MP-7	0656 prc:Snare 75	
+E-MU Systems	MP-7	Instruments -> MP-7	0657 prc:Snare 76	
+E-MU Systems	MP-7	Instruments -> MP-7	0658 prc:Snare 77	
+E-MU Systems	MP-7	Instruments -> MP-7	0659 prc:Snare 78	
+E-MU Systems	MP-7	Instruments -> MP-7	0660 prc:Snare 79	
+E-MU Systems	MP-7	Instruments -> MP-7	0661 prc:Snare 80	
+E-MU Systems	MP-7	Instruments -> MP-7	0662 prc:Snare 81	
+E-MU Systems	MP-7	Instruments -> MP-7	0663 prc:Snare 82	
+E-MU Systems	MP-7	Instruments -> MP-7	0664 prc:Snare 83	
+E-MU Systems	MP-7	Instruments -> MP-7	0665 prc:Snare 84	
+E-MU Systems	MP-7	Instruments -> MP-7	0666 prc:Snare 85	
+E-MU Systems	MP-7	Instruments -> MP-7	0667 prc:Snare 86	
+E-MU Systems	MP-7	Instruments -> MP-7	0668 prc:Snare 87	
+E-MU Systems	MP-7	Instruments -> MP-7	0669 prc:Snare 88	
+E-MU Systems	MP-7	Instruments -> MP-7	0670 prc:Snare 89	
+E-MU Systems	MP-7	Instruments -> MP-7	0671 prc:Snare 90	
+E-MU Systems	MP-7	Instruments -> MP-7	0672 prc:Snare 91	
+E-MU Systems	MP-7	Instruments -> MP-7	0673 prc:Snare 92	
+E-MU Systems	MP-7	Instruments -> MP-7	0674 prc:Snare 93	
+E-MU Systems	MP-7	Instruments -> MP-7	0675 prc:Snare 94	
+E-MU Systems	MP-7	Instruments -> MP-7	0676 prc:Snare 95	
+E-MU Systems	MP-7	Instruments -> MP-7	0677 prc:Snare 96	
+E-MU Systems	MP-7	Instruments -> MP-7	0678 prc:Snare 97	
+E-MU Systems	MP-7	Instruments -> MP-7	0679 prc:Snare 98	
+E-MU Systems	MP-7	Instruments -> MP-7	0680 prc:Snare 99	
+E-MU Systems	MP-7	Instruments -> MP-7	0681 prc:Snare 100	
+E-MU Systems	MP-7	Instruments -> MP-7	0682 prc:Snare 101	
+E-MU Systems	MP-7	Instruments -> MP-7	0683 prc:Snare 102	
+E-MU Systems	MP-7	Instruments -> MP-7	0684 prc:Snare 103	
+E-MU Systems	MP-7	Instruments -> MP-7	0685 prc:Snare 104	
+E-MU Systems	MP-7	Instruments -> MP-7	0686 prc:Snare 105	
+E-MU Systems	MP-7	Instruments -> MP-7	0687 prc:Snare 106	
+E-MU Systems	MP-7	Instruments -> MP-7	0688 prc:Snare 107	
+E-MU Systems	MP-7	Instruments -> MP-7	0689 prc:Snare 108	
+E-MU Systems	MP-7	Instruments -> MP-7	0690 prc:Snare 109	
+E-MU Systems	MP-7	Instruments -> MP-7	0691 prc:Snare 110	
+E-MU Systems	MP-7	Instruments -> MP-7	0692 prc:Snare 111	
+E-MU Systems	MP-7	Instruments -> MP-7	0693 prc:Snare 112	
+E-MU Systems	MP-7	Instruments -> MP-7	0694 prc:Snare 113	
+E-MU Systems	MP-7	Instruments -> MP-7	0695 prc:Snare 114	
+E-MU Systems	MP-7	Instruments -> MP-7	0696 prc:Snare 115	
+E-MU Systems	MP-7	Instruments -> MP-7	0697 prc:Snare 116	
+E-MU Systems	MP-7	Instruments -> MP-7	0698 prc:Snare 117	
+E-MU Systems	MP-7	Instruments -> MP-7	0699 prc:Snare 118	
+E-MU Systems	MP-7	Instruments -> MP-7	0700 prc:Snare 119	
+E-MU Systems	MP-7	Instruments -> MP-7	0701 prc:Snare 120	
+E-MU Systems	MP-7	Instruments -> MP-7	0702 prc:Snare 121	
+E-MU Systems	MP-7	Instruments -> MP-7	0703 prc:Snare 122	
+E-MU Systems	MP-7	Instruments -> MP-7	0704 prc:Snare 123	
+E-MU Systems	MP-7	Instruments -> MP-7	0705 prc:Snare 124	
+E-MU Systems	MP-7	Instruments -> MP-7	0706 prc:Snare 125	
+E-MU Systems	MP-7	Instruments -> MP-7	0707 prc:Snare 126	
+E-MU Systems	MP-7	Instruments -> MP-7	0708 prc:Snare 127	
+E-MU Systems	MP-7	Instruments -> MP-7	0709 prc:Snare 128	
+E-MU Systems	MP-7	Instruments -> MP-7	0710 prc:Snare 129	
+E-MU Systems	MP-7	Instruments -> MP-7	0711 prc:Snare 130	
+E-MU Systems	MP-7	Instruments -> MP-7	0712 prc:Snare 131	
+E-MU Systems	MP-7	Instruments -> MP-7	0713 prc:Snare 132	
+E-MU Systems	MP-7	Instruments -> MP-7	0714 prc:Snare 133	
+E-MU Systems	MP-7	Instruments -> MP-7	0715 prc:Snare 134	
+E-MU Systems	MP-7	Instruments -> MP-7	0716 prc:Snare 135	
+E-MU Systems	MP-7	Instruments -> MP-7	0717 prc:Snare 136	
+E-MU Systems	MP-7	Instruments -> MP-7	0718 prc:Snare 137	
+E-MU Systems	MP-7	Instruments -> MP-7	0719 prc:Snare 138	
+E-MU Systems	MP-7	Instruments -> MP-7	0720 prc:Snare 139	
+E-MU Systems	MP-7	Instruments -> MP-7	0721 prc:Snare 140	
+E-MU Systems	MP-7	Instruments -> MP-7	0722 prc:Snare 141	
+E-MU Systems	MP-7	Instruments -> MP-7	0723 prc:Snare 142	
+E-MU Systems	MP-7	Instruments -> MP-7	0724 prc:Snare 143	
+E-MU Systems	MP-7	Instruments -> MP-7	0725 prc:Snare 144	
+E-MU Systems	MP-7	Instruments -> MP-7	0726 prc:Snare 145	
+E-MU Systems	MP-7	Instruments -> MP-7	0727 prc:Snare 146	
+E-MU Systems	MP-7	Instruments -> MP-7	0728 prc:Snare 147	
+E-MU Systems	MP-7	Instruments -> MP-7	0729 prc:Snare 148	
+E-MU Systems	MP-7	Instruments -> MP-7	0730 prc:Snare 149	
+E-MU Systems	MP-7	Instruments -> MP-7	0731 prc:Snare 150	
+E-MU Systems	MP-7	Instruments -> MP-7	0732 prc:Snare 151	
+E-MU Systems	MP-7	Instruments -> MP-7	0733 prc:Snare 152	
+E-MU Systems	MP-7	Instruments -> MP-7	0734 prc:Snare 153	
+E-MU Systems	MP-7	Instruments -> MP-7	0735 prc:Snare 154	
+E-MU Systems	MP-7	Instruments -> MP-7	0736 prc:Snare 155	
+E-MU Systems	MP-7	Instruments -> MP-7	0737 prc:Snare 156	
+E-MU Systems	MP-7	Instruments -> MP-7	0738 prc:Snare 157	
+E-MU Systems	MP-7	Instruments -> MP-7	0739 prc:Snare 158	
+E-MU Systems	MP-7	Instruments -> MP-7	0740 prc:Snare 159	
+E-MU Systems	MP-7	Instruments -> MP-7	0741 prc:Snare 160	
+E-MU Systems	MP-7	Instruments -> MP-7	0742 prc:Snare 161	
+E-MU Systems	MP-7	Instruments -> MP-7	0743 prc:Snare 162	
+E-MU Systems	MP-7	Instruments -> MP-7	0744 prc:Snare 163	
+E-MU Systems	MP-7	Instruments -> MP-7	0745 prc:Snare 164	
+E-MU Systems	MP-7	Instruments -> MP-7	0746 prc:Snare 165	
+E-MU Systems	MP-7	Instruments -> MP-7	0747 prc:Snare 166	
+E-MU Systems	MP-7	Instruments -> MP-7	0748 prc:Snare 167	
+E-MU Systems	MP-7	Instruments -> MP-7	0749 prc:Snare 168	
+E-MU Systems	MP-7	Instruments -> MP-7	0750 kit:Nu Soul	
+E-MU Systems	MP-7	Instruments -> MP-7	0751 kit:80s+Drm&Bass	
+E-MU Systems	MP-7	Instruments -> MP-7	0752 kit:Electronica1	
+E-MU Systems	MP-7	Instruments -> MP-7	0753 kit:Dub Reggae	
+E-MU Systems	MP-7	Instruments -> MP-7	0754 kit:DarkBeats	
+E-MU Systems	MP-7	Instruments -> MP-7	0755 kit:DarkBeats2	
+E-MU Systems	MP-7	Instruments -> MP-7	0756 kit:LoFi Kit	
+E-MU Systems	MP-7	Instruments -> MP-7	0757 kit:Nu Metal	
+E-MU Systems	MP-7	Instruments -> MP-7	0758 hit:All Hits 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0759 rom:Thru Memory	
+E-MU Systems	MP-7	Instruments -> MP-7	0760 rom:Vowels	
+E-MU Systems	MP-7	Instruments -> MP-7	0761 hit:All Hits 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0762 kit:1NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0763 kit:1NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0764 kit:2NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0765 kit:2NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0766 kit:3NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0767 kit:3NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0768 kit:4NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0769 kit:4NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0770 kit:5NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0771 kit:5NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0772 kit:6NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0773 kit:6NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0774 kit:7NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0775 kit:7NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0776 kit:8NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0777 kit:8NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0778 kit:9NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0779 kit:9NoKickSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0780 kit:10NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0781 kit:10NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0782 kit:11NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0783 kit:11NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0784 kit:12NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0785 kit:12NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0786 kit:13NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0787 kit:13NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0788 kit:14NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0789 kit:14NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0790 kit:15NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0791 kit:15NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0792 kit:16NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0793 kit:16NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0794 kit:17NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0795 kit:17NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0796 kit:18NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0797 kit:18NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0798 kit:19NoHats	
+E-MU Systems	MP-7	Instruments -> MP-7	0799 kit:19NoKikSnare	
+E-MU Systems	MP-7	Instruments -> MP-7	0800 gtr:Scrape 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0801 gtr:Strum Up	
+E-MU Systems	MP-7	Instruments -> MP-7	0802 gtr:Strum Down	
+E-MU Systems	MP-7	Instruments -> MP-7	0803 gtr:Bonk	
+E-MU Systems	MP-7	Instruments -> MP-7	0804 gtr:Chop	
+E-MU Systems	MP-7	Instruments -> MP-7	0805 gtr:Pick Noise	
+E-MU Systems	MP-7	Instruments -> MP-7	0806 vox:All Talkbox	
+E-MU Systems	MP-7	Instruments -> MP-7	0807 str:StackedLegs	
+E-MU Systems	MP-7	Instruments -> MP-7	0808 prc:Hat 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0809 prc:Hat 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0810 prc:Hat 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0811 prc:Hat 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0812 prc:Hat 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0813 prc:Hat 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0814 prc:Hat 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0815 prc:Hat 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0816 prc:Hat 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0817 prc:Hat 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0818 prc:Hat 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0819 prc:Hat 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0820 prc:Hat 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0821 prc:Hat 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0822 prc:Hat 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0823 prc:Hat 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0824 prc:Hat 17	
+E-MU Systems	MP-7	Instruments -> MP-7	0825 prc:Hat 18	
+E-MU Systems	MP-7	Instruments -> MP-7	0826 prc:Hat 19	
+E-MU Systems	MP-7	Instruments -> MP-7	0827 prc:Hat 20	
+E-MU Systems	MP-7	Instruments -> MP-7	0828 prc:Hat 21	
+E-MU Systems	MP-7	Instruments -> MP-7	0829 prc:Hat 22	
+E-MU Systems	MP-7	Instruments -> MP-7	0830 prc:Hat 23	
+E-MU Systems	MP-7	Instruments -> MP-7	0831 prc:Hat 24	
+E-MU Systems	MP-7	Instruments -> MP-7	0832 prc:Hat 25	
+E-MU Systems	MP-7	Instruments -> MP-7	0833 prc:Hat 26	
+E-MU Systems	MP-7	Instruments -> MP-7	0834 prc:Hat 27	
+E-MU Systems	MP-7	Instruments -> MP-7	0835 prc:Hat 28	
+E-MU Systems	MP-7	Instruments -> MP-7	0836 prc:Hat 29	
+E-MU Systems	MP-7	Instruments -> MP-7	0837 prc:Hat 30	
+E-MU Systems	MP-7	Instruments -> MP-7	0838 prc:Hat 31	
+E-MU Systems	MP-7	Instruments -> MP-7	0839 prc:Hat 32	
+E-MU Systems	MP-7	Instruments -> MP-7	0840 prc:Hat 33	
+E-MU Systems	MP-7	Instruments -> MP-7	0841 prc:Hat 34	
+E-MU Systems	MP-7	Instruments -> MP-7	0842 prc:Hat 35	
+E-MU Systems	MP-7	Instruments -> MP-7	0843 prc:Hat 36	
+E-MU Systems	MP-7	Instruments -> MP-7	0844 prc:Hat 37	
+E-MU Systems	MP-7	Instruments -> MP-7	0845 prc:Hat 38	
+E-MU Systems	MP-7	Instruments -> MP-7	0846 prc:Hat 39	
+E-MU Systems	MP-7	Instruments -> MP-7	0847 prc:Hat 40	
+E-MU Systems	MP-7	Instruments -> MP-7	0848 prc:Hat 41	
+E-MU Systems	MP-7	Instruments -> MP-7	0849 prc:Hat 42	
+E-MU Systems	MP-7	Instruments -> MP-7	0850 prc:Hat 43	
+E-MU Systems	MP-7	Instruments -> MP-7	0851 prc:Hat 44	
+E-MU Systems	MP-7	Instruments -> MP-7	0852 prc:Hat 45	
+E-MU Systems	MP-7	Instruments -> MP-7	0853 prc:Hat 46	
+E-MU Systems	MP-7	Instruments -> MP-7	0854 prc:Hat 47	
+E-MU Systems	MP-7	Instruments -> MP-7	0855 prc:Hat 48	
+E-MU Systems	MP-7	Instruments -> MP-7	0856 prc:Hat 49	
+E-MU Systems	MP-7	Instruments -> MP-7	0857 prc:Hat 50	
+E-MU Systems	MP-7	Instruments -> MP-7	0858 prc:Hat 51	
+E-MU Systems	MP-7	Instruments -> MP-7	0859 prc:Hat 52	
+E-MU Systems	MP-7	Instruments -> MP-7	0860 prc:Hat 53	
+E-MU Systems	MP-7	Instruments -> MP-7	0861 prc:Hat 54	
+E-MU Systems	MP-7	Instruments -> MP-7	0862 prc:Hat 55	
+E-MU Systems	MP-7	Instruments -> MP-7	0863 prc:Hat 56	
+E-MU Systems	MP-7	Instruments -> MP-7	0864 prc:Hat 57	
+E-MU Systems	MP-7	Instruments -> MP-7	0865 prc:Hat 58	
+E-MU Systems	MP-7	Instruments -> MP-7	0866 prc:Hat 59	
+E-MU Systems	MP-7	Instruments -> MP-7	0867 prc:Hat 60	
+E-MU Systems	MP-7	Instruments -> MP-7	0868 prc:Hat 61	
+E-MU Systems	MP-7	Instruments -> MP-7	0869 prc:Hat 62	
+E-MU Systems	MP-7	Instruments -> MP-7	0870 prc:Hat 63	
+E-MU Systems	MP-7	Instruments -> MP-7	0871 prc:Hat 64	
+E-MU Systems	MP-7	Instruments -> MP-7	0872 prc:Hat 65	
+E-MU Systems	MP-7	Instruments -> MP-7	0873 prc:Hat 66	
+E-MU Systems	MP-7	Instruments -> MP-7	0874 prc:Hat 67	
+E-MU Systems	MP-7	Instruments -> MP-7	0875 prc:Hat 68	
+E-MU Systems	MP-7	Instruments -> MP-7	0876 prc:Hat 69	
+E-MU Systems	MP-7	Instruments -> MP-7	0877 prc:Hat 70	
+E-MU Systems	MP-7	Instruments -> MP-7	0878 prc:Hat 71	
+E-MU Systems	MP-7	Instruments -> MP-7	0879 prc:Hat 72	
+E-MU Systems	MP-7	Instruments -> MP-7	0880 prc:Hat 73	
+E-MU Systems	MP-7	Instruments -> MP-7	0881 prc:Hat 74	
+E-MU Systems	MP-7	Instruments -> MP-7	0882 prc:Hat 75	
+E-MU Systems	MP-7	Instruments -> MP-7	0883 prc:Hat 76	
+E-MU Systems	MP-7	Instruments -> MP-7	0884 prc:Hat 77	
+E-MU Systems	MP-7	Instruments -> MP-7	0885 prc:Cymbal 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0886 prc:Cymbal 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0887 prc:Cymbal 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0888 prc:Cymbal 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0889 prc:Cymbal 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0890 prc:Cymbal 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0891 prc:Cymbal 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0892 prc:Cymbal 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0893 prc:Cymbal 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0894 prc:Cymbal 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0895 prc:Cymbal 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0896 prc:Cymbal 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0897 prc:Cymbal 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0898 prc:Cymbal 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0899 prc:Cymbal 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0900 prc:Cymbal 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0901 prc:Cymbal 17	
+E-MU Systems	MP-7	Instruments -> MP-7	0902 prc:Cymbal 18	
+E-MU Systems	MP-7	Instruments -> MP-7	0903 prc:Cymbal 19	
+E-MU Systems	MP-7	Instruments -> MP-7	0904 prc:Cymbal 20	
+E-MU Systems	MP-7	Instruments -> MP-7	0905 prc:Bongo 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0906 prc:Bongo 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0907 prc:Bongo 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0908 prc:Bongo 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0909 prc:Bongo 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0910 prc:Bongo 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0911 prc:Bongo 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0912 prc:Bongo 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0913 prc:Bongo 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0914 prc:Bongo 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0915 prc:Bongo 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0916 prc:Bongo 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0917 prc:Bongo 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0918 prc:Bongo 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0919 prc:Bongo 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0920 prc:Bongo 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0921 prc:Bongo 17	
+E-MU Systems	MP-7	Instruments -> MP-7	0922 prc:Claps&Snp 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0923 prc:Claps&Snp 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0924 prc:Claps&Snp 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0925 prc:Claps&Snp 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0926 prc:Claps&Snp 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0927 prc:Claps&Snp 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0928 prc:Claps&Snp 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0929 prc:Claps&Snp 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0930 prc:Claps&Snp 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0931 prc:Claps&Snp 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0932 prc:Claps&Snp 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0933 prc:Claps&Snp 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0934 prc:Claps&Snp 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0935 prc:Claps&Snp 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0936 prc:Clave 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0937 prc:Clave 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0938 prc:Clave 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0939 prc:Clave 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0940 prc:Clave 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0941 prc:Clave 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0942 prc:Clave 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0943 prc:Clave 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0944 prc:Clave 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0945 prc:Clave 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0946 prc:Clave 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0947 prc:Clave 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0948 prc:Clave 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0949 prc:Clave 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0950 prc:Clave 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0951 prc:Clave 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0952 prc:Clave 17	
+E-MU Systems	MP-7	Instruments -> MP-7	0953 prc:Tom 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0954 prc:Tom 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0955 prc:Tom 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0956 prc:Tom 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0957 prc:Tom 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0958 prc:Tom 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0959 prc:Tom 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0960 prc:Tom 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0961 prc:Tom 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0962 prc:Tom 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0963 prc:Tom 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0964 prc:Tom 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0965 prc:Tom 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0966 prc:Tom 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0967 prc:Tom 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0968 prc:Tom 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0969 prc:Tom 17	
+E-MU Systems	MP-7	Instruments -> MP-7	0970 prc:Tom 18	
+E-MU Systems	MP-7	Instruments -> MP-7	0971 prc:Tom 19	
+E-MU Systems	MP-7	Instruments -> MP-7	0972 prc:Tom 20	
+E-MU Systems	MP-7	Instruments -> MP-7	0973 prc:Tom 21	
+E-MU Systems	MP-7	Instruments -> MP-7	0974 prc:Tom 22	
+E-MU Systems	MP-7	Instruments -> MP-7	0975 prc:Bell 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0976 prc:Bell 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0977 prc:Bell 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0978 prc:Bell 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0979 prc:Bell 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0980 prc:Bell 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0981 prc:Bell 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0982 prc:Bell 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0983 prc:Bell 9	
+E-MU Systems	MP-7	Instruments -> MP-7	0984 prc:Bell 10	
+E-MU Systems	MP-7	Instruments -> MP-7	0985 prc:Bell 11	
+E-MU Systems	MP-7	Instruments -> MP-7	0986 prc:Bell 12	
+E-MU Systems	MP-7	Instruments -> MP-7	0987 prc:Bell 13	
+E-MU Systems	MP-7	Instruments -> MP-7	0988 prc:Bell 14	
+E-MU Systems	MP-7	Instruments -> MP-7	0989 prc:Bell 15	
+E-MU Systems	MP-7	Instruments -> MP-7	0990 prc:Bell 16	
+E-MU Systems	MP-7	Instruments -> MP-7	0991 prc:Fill Etc 1	
+E-MU Systems	MP-7	Instruments -> MP-7	0992 prc:Fill Etc 2	
+E-MU Systems	MP-7	Instruments -> MP-7	0993 prc:Fill Etc 3	
+E-MU Systems	MP-7	Instruments -> MP-7	0994 prc:Fill Etc 4	
+E-MU Systems	MP-7	Instruments -> MP-7	0995 prc:Fill Etc 5	
+E-MU Systems	MP-7	Instruments -> MP-7	0996 prc:Fill Etc 6	
+E-MU Systems	MP-7	Instruments -> MP-7	0997 prc:Fill Etc 7	
+E-MU Systems	MP-7	Instruments -> MP-7	0998 prc:Fill Etc 8	
+E-MU Systems	MP-7	Instruments -> MP-7	0999 prc:Fill Etc 9	
+E-MU Systems	MP-7	Instruments -> MP-7	1000 prc:Fill Etc 10	
+E-MU Systems	MP-7	Instruments -> MP-7	1001 prc:Fill Etc 11	
+E-MU Systems	MP-7	Instruments -> MP-7	1002 prc:Shaker 1	
+E-MU Systems	MP-7	Instruments -> MP-7	1003 prc:Shaker 2	
+E-MU Systems	MP-7	Instruments -> MP-7	1004 prc:Shaker 3	
+E-MU Systems	MP-7	Instruments -> MP-7	1005 prc:Shaker 4	
+E-MU Systems	MP-7	Instruments -> MP-7	1006 prc:Shaker 5	
+E-MU Systems	MP-7	Instruments -> MP-7	1007 prc:Shaker 6	
+E-MU Systems	MP-7	Instruments -> MP-7	1008 prc:Shaker 7	
+E-MU Systems	MP-7	Instruments -> MP-7	1009 prc:Shaker 8	
+E-MU Systems	MP-7	Instruments -> MP-7	1010 prc:Shaker 9	
+E-MU Systems	MP-7	Instruments -> MP-7	1011 prc:Shaker 10	
+E-MU Systems	MP-7	Instruments -> MP-7	1012 prc:Shaker 11	
+E-MU Systems	MP-7	Instruments -> MP-7	1013 prc:Shaker 12	
+E-MU Systems	MP-7	Instruments -> MP-7	1014 prc:Shaker 13	
+E-MU Systems	MP-7	Instruments -> MP-7	1015 prc:Shaker 14	
+E-MU Systems	MP-7	Instruments -> MP-7	1016 prc:Shaker 15	
+E-MU Systems	MP-7	Instruments -> MP-7	1017 prc:Shaker 16	
+E-MU Systems	MP-7	Instruments -> MP-7	1018 prc:Shaker 17	
+E-MU Systems	MP-7	Instruments -> MP-7	1019 prc:Shaker 18	
+E-MU Systems	MP-7	Instruments -> MP-7	1020 prc:Shaker 19	
+E-MU Systems	MP-7	Instruments -> MP-7	1021 prc:Shaker 20	
+E-MU Systems	MP-7	Instruments -> MP-7	1022 prc:Shaker 21	
+E-MU Systems	MP-7	Instruments -> MP-7	1023 prc:Shaker 22	
+E-MU Systems	MP-7	Instruments -> MP-7	1024 prc:Shaker 23	
+E-MU Systems	MP-7	Instruments -> MP-7	1025 prc:Shaker 24	
+E-MU Systems	MP-7	Instruments -> MP-7	1026 prc:Shaker 25	
+E-MU Systems	MP-7	Instruments -> MP-7	1027 prc:Shaker 26	
+E-MU Systems	MP-7	Instruments -> MP-7	1028 prc:Shaker 27	
+E-MU Systems	MP-7	Instruments -> MP-7	1029 prc:Shaker 28	
+E-MU Systems	MP-7	Instruments -> MP-7	1030 prc:Shaker 29	
+E-MU Systems	MP-7	Instruments -> MP-7	1031 prc:Misc 1	
+E-MU Systems	MP-7	Instruments -> MP-7	1032 prc:Misc 2	
+E-MU Systems	MP-7	Instruments -> MP-7	1033 prc:Misc 3	
+E-MU Systems	MP-7	Instruments -> MP-7	1034 prc:Misc 4	
+E-MU Systems	MP-7	Instruments -> MP-7	1035 prc:Misc 5	
+E-MU Systems	MP-7	Instruments -> MP-7	1036 prc:Misc 6	
+E-MU Systems	MP-7	Instruments -> MP-7	1037 prc:Misc 7	
+E-MU Systems	MP-7	Instruments -> MP-7	1038 prc:Misc 8	
+E-MU Systems	MP-7	Instruments -> MP-7	1039 prc:Misc 9	
+E-MU Systems	MP-7	Instruments -> MP-7	1040 prc:Misc 10	
+E-MU Systems	MP-7	Instruments -> MP-7	1041 prc:Misc 11	
+E-MU Systems	MP-7	Instruments -> MP-7	1042 prc:Misc 12	
+E-MU Systems	MP-7	Instruments -> MP-7	1043 prc:Misc 13	
+E-MU Systems	MP-7	Instruments -> MP-7	1044 prc:Misc 14	
+E-MU Systems	MP-7	Instruments -> MP-7	1045 prc:Misc 15	
+E-MU Systems	MP-7	Instruments -> MP-7	1046 prc:Misc 16	
+E-MU Systems	MP-7	Instruments -> MP-7	1047 prc:Misc 17	
+E-MU Systems	MP-7	Instruments -> MP-7	1048 prc:Misc 18	
+E-MU Systems	MP-7	Instruments -> MP-7	1049 prc:Misc 19	
+E-MU Systems	MP-7	Instruments -> MP-7	1050 prc:Misc 20	
+E-MU Systems	MP-7	Instruments -> MP-7	1051 prc:Misc 21	
+E-MU Systems	MP-7	Instruments -> MP-7	1052 prc:Misc 22	
+E-MU Systems	MP-7	Instruments -> MP-7	1053 prc:Misc 23	
+E-MU Systems	MP-7	Instruments -> MP-7	1054 prc:Misc 24	
+E-MU Systems	MP-7	Instruments -> MP-7	1055 prc:Misc 25	
+E-MU Systems	MP-7	Instruments -> MP-7	1056 prc:Misc 26	
+E-MU Systems	MP-7	Instruments -> MP-7	1057 prc:Misc 27	
+E-MU Systems	MP-7	Instruments -> MP-7	1058 prc:Misc 28	
+E-MU Systems	MP-7	Instruments -> MP-7	1059 prc:Misc 29	
+E-MU Systems	MP-7	Instruments -> MP-7	1060 prc:Misc 30	
+E-MU Systems	MP-7	Instruments -> MP-7	1061 prc:Misc 31	
+E-MU Systems	MP-7	Instruments -> MP-7	1062 prc:Misc 32	
+E-MU Systems	MP-7	Instruments -> MP-7	1063 prc:Misc 33	
+E-MU Systems	MP-7	Instruments -> MP-7	1064 prc:Misc 34	
+E-MU Systems	MP-7	Instruments -> MP-7	1065 prc:Misc 35	
+E-MU Systems	MP-7	Instruments -> MP-7	1066 prc:Misc 36	
+E-MU Systems	MP-7	Instruments -> MP-7	1067 prc:Misc 37	
+E-MU Systems	MP-7	Instruments -> MP-7	1068 prc:Misc 38	
+E-MU Systems	MP-7	Instruments -> MP-7	1069 prc:Misc 39	
+E-MU Systems	MP-7	Instruments -> MP-7	1070 prc:Misc 40	
+E-MU Systems	MP-7	Instruments -> MP-7	1071 prc:Misc 41	
+E-MU Systems	MP-7	Instruments -> MP-7	1072 prc:Misc 42	
+E-MU Systems	MP-7	Instruments -> MP-7	1073 prc:Misc 43	
+E-MU Systems	MP-7	Instruments -> MP-7	1074 prc:Misc 44	
+E-MU Systems	MP-7	Instruments -> MP-7	1075 prc:Misc 45	
+E-MU Systems	MP-7	Instruments -> MP-7	1076 prc:Misc 46	
+E-MU Systems	MP-7	Instruments -> MP-7	1077 prc:Misc 47	
+E-MU Systems	MP-7	Instruments -> MP-7	1078 prc:Misc 48	
+E-MU Systems	MP-7	Instruments -> MP-7	1079 prc:Misc 49	
+E-MU Systems	MP-7	Instruments -> MP-7	1080 prc:Misc 50	
+E-MU Systems	MP-7	Instruments -> MP-7	1081 prc:Misc 51	
+E-MU Systems	MP-7	Instruments -> MP-7	1082 prc:Misc 52	
+E-MU Systems	MP-7	Instruments -> MP-7	1083 prc:Misc 53	
+E-MU Systems	MP-7	Instruments -> MP-7	1084 prc:Misc 54	
+E-MU Systems	MP-7	Instruments -> MP-7	1085 prc:Misc 55	
+E-MU Systems	MP-7	Instruments -> MP-7	1086 prc:Misc 56	
+E-MU Systems	MP-7	Instruments -> MP-7	1087 prc:Misc 57	
+E-MU Systems	MP-7	Instruments -> MP-7	1088 prc:Misc 58	
+E-MU Systems	MP-7	Instruments -> MP-7	1089 prc:Misc 59	
+E-MU Systems	MP-7	Instruments -> MP-7	1090 prc:Misc 60	
+E-MU Systems	MP-7	Instruments -> MP-7	1091 prc:Misc 61	
+E-MU Systems	MP-7	Instruments -> MP-7	1092 prc:Misc 62	
+E-MU Systems	MP-7	Instruments -> MP-7	1093 prc:Misc 63	
+E-MU Systems	MP-7	Instruments -> MP-7	1094 prc:Misc 64	
+E-MU Systems	MP-7	Instruments -> MP-7	1095 prc:Misc 65	
+E-MU Systems	MP-7	Instruments -> MP-7	1096 prc:Misc 66	
+E-MU Systems	MP-7	Instruments -> MP-7	1097 prc:Misc 67	
+E-MU Systems	MP-7	Instruments -> MP-7	1098 prc:Misc 68	
+E-MU Systems	MP-7	Instruments -> MP-7	1099 prc:Misc 69	
+E-MU Systems	MP-7	Instruments -> MP-7	1100 prc:Misc 70	

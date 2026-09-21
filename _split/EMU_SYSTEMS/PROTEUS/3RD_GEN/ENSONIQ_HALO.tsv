@@ -1,3 +1,515 @@
+Ensoniq	Halo	QROM Bank 0	000 kb1:PerfectPno 1	
+Ensoniq	Halo	QROM Bank 0	001 kb1:PerfectPno 2	
+Ensoniq	Halo	QROM Bank 0	002 kb1:PerfectPno 3	
+Ensoniq	Halo	QROM Bank 0	003 kb1:PerfectPno 4	
+Ensoniq	Halo	QROM Bank 0	004 kb1:PerfectPno 5	
+Ensoniq	Halo	QROM Bank 0	005 kb1:PerfectPno 6	
+Ensoniq	Halo	QROM Bank 0	006 kb1:PerfectPno 7	
+Ensoniq	Halo	QROM Bank 0	007 kb1:PerfectPno 8	
+Ensoniq	Halo	QROM Bank 0	008 kb1:PerfectPno 9	
+Ensoniq	Halo	QROM Bank 0	009 kb1:PerfectPno10	
+Ensoniq	Halo	QROM Bank 0	010 kb1:PerfectPno11	
+Ensoniq	Halo	QROM Bank 0	011 kb1:PerfPno+EP 1	
+Ensoniq	Halo	QROM Bank 0	012 kb1:PerfPno+EP 2	
+Ensoniq	Halo	QROM Bank 0	013 kb1:PerfPno+EP 3	
+Ensoniq	Halo	QROM Bank 0	014 kb1:PerfPno+Str1	
+Ensoniq	Halo	QROM Bank 0	015 kb1:PerfPno+Str2	
+Ensoniq	Halo	QROM Bank 0	016 kb1:PerfPno+Str3	
+Ensoniq	Halo	QROM Bank 0	017 kb1:Bright Grand	
+Ensoniq	Halo	QROM Bank 0	018 kb1:ConcertGrand	
+Ensoniq	Halo	QROM Bank 0	019 kb1:Dark Piano	
+Ensoniq	Halo	QROM Bank 0	020 kb1:Jazzy Grand	
+Ensoniq	Halo	QROM Bank 0	021 kb1:Grand Room	
+Ensoniq	Halo	QROM Bank 0	022 kb1:Warm Piano	
+Ensoniq	Halo	QROM Bank 0	023 kb2:Tine Love	
+Ensoniq	Halo	QROM Bank 0	024 kb1:Latin Octave	
+Ensoniq	Halo	QROM Bank 0	025 kb2:Wurli	
+Ensoniq	Halo	QROM Bank 0	026 kb4:Classic EP	
+Ensoniq	Halo	QROM Bank 0	027 kb4:ElecPno+Str1	
+Ensoniq	Halo	QROM Bank 0	028 kb4:ElecPno+Str2	
+Ensoniq	Halo	QROM Bank 0	029 kb4:ElecPno+Str3	
+Ensoniq	Halo	QROM Bank 0	030 kb4:ElecPno+Vox	
+Ensoniq	Halo	QROM Bank 0	031 kb4:Hybrid EP 1	
+Ensoniq	Halo	QROM Bank 0	032 kb3:B3 in 3-B	
+Ensoniq	Halo	QROM Bank 0	033 kb3:Percussive	
+Ensoniq	Halo	QROM Bank 0	034 kb3:Jammin Org	
+Ensoniq	Halo	QROM Bank 0	035 kb3:Organized	
+Ensoniq	Halo	QROM Bank 0	036 kb3:Rock Organ 1	
+Ensoniq	Halo	QROM Bank 0	037 kb3:Pop Organ 1	
+Ensoniq	Halo	QROM Bank 0	038 kb3:Muted Organ	
+Ensoniq	Halo	QROM Bank 0	039 kb3:Rock Organ 2	
+Ensoniq	Halo	QROM Bank 0	040 kb3:Jazzy Organ	
+Ensoniq	Halo	QROM Bank 0	041 kb3:Pop Organ 2	
+Ensoniq	Halo	QROM Bank 0	042 kb3:Reedy Organ	
+Ensoniq	Halo	QROM Bank 0	043 kb3:Bright Organ	
+Ensoniq	Halo	QROM Bank 0	044 kb3:Rotary	
+Ensoniq	Halo	QROM Bank 0	045 kb3:Clicky Organ	
+Ensoniq	Halo	QROM Bank 0	046 kb3:Green Organ	
+Ensoniq	Halo	QROM Bank 0	047 kb3:Gimme a Bee	
+Ensoniq	Halo	QROM Bank 0	048 kb3:Gospel	
+Ensoniq	Halo	QROM Bank 0	049 kb3:Pop Pedals	
+Ensoniq	Halo	QROM Bank 0	050 kb3:Drawbars	
+Ensoniq	Halo	QROM Bank 0	051 kb3:Cheezy	
+Ensoniq	Halo	QROM Bank 0	052 kb3:Full-B	
+Ensoniq	Halo	QROM Bank 0	053 kb3:Organ Lite	
+Ensoniq	Halo	QROM Bank 0	054 kb3:Mellow Organ	
+Ensoniq	Halo	QROM Bank 0	055 kb3:PureBell Org	
+Ensoniq	Halo	QROM Bank 0	056 kb3:B Pedals	
+Ensoniq	Halo	QROM Bank 0	057 kb3:CathedralOrg	
+Ensoniq	Halo	QROM Bank 0	058 kb3:Stately Org	
+Ensoniq	Halo	QROM Bank 0	059 kb3:Organ Hall	
+Ensoniq	Halo	QROM Bank 0	060 kb3:Full Pipes	
+Ensoniq	Halo	QROM Bank 0	061 kb3:Recital	
+Ensoniq	Halo	QROM Bank 0	062 kb3:With Pedals	
+Ensoniq	Halo	QROM Bank 0	063 kb3:Reed Stops	
+Ensoniq	Halo	QROM Bank 0	064 kb3:Chapel	
+Ensoniq	Halo	QROM Bank 0	065 kb3:Processional	
+Ensoniq	Halo	QROM Bank 0	066 kb3:Soft Pipes	
+Ensoniq	Halo	QROM Bank 0	067 kb3:Flute Stops	
+Ensoniq	Halo	QROM Bank 0	068 kb3:Chime Organ	
+Ensoniq	Halo	QROM Bank 0	069 kb3:Deep Pedals	
+Ensoniq	Halo	QROM Bank 0	070 kb1:Harpsichord	
+Ensoniq	Halo	QROM Bank 0	071 orc:Harp	
+Ensoniq	Halo	QROM Bank 0	072 orc:New Age Harp	
+Ensoniq	Halo	QROM Bank 0	073 str:Warm Strings	
+Ensoniq	Halo	QROM Bank 0	074 str:Digi Section	
+Ensoniq	Halo	QROM Bank 0	075 str:Pizz Strings	
+Ensoniq	Halo	QROM Bank 0	076 bs1:Upright Bass	
+Ensoniq	Halo	QROM Bank 0	077 bs1:Guitarron	
+Ensoniq	Halo	QROM Bank 0	078 bs1:Fretless 1	
+Ensoniq	Halo	QROM Bank 0	079 bs2:Bs Harmonix1	
+Ensoniq	Halo	QROM Bank 0	080 bs2:Bs Harmonix2	
+Ensoniq	Halo	QROM Bank 0	081 bs2:Finger Bass	
+Ensoniq	Halo	QROM Bank 0	082 bs2:Fretless 2	
+Ensoniq	Halo	QROM Bank 0	083 bs2:Muted Bass1	
+Ensoniq	Halo	QROM Bank 0	084 bs2:Muted Bass2	
+Ensoniq	Halo	QROM Bank 0	085 bs2:P-Bass	
+Ensoniq	Halo	QROM Bank 0	086 bs2:P-Bass Slap	
+Ensoniq	Halo	QROM Bank 0	087 bs2:PickdFretles	
+Ensoniq	Halo	QROM Bank 0	088 bs2:Picked Bass1	
+Ensoniq	Halo	QROM Bank 0	089 bs2:Picked Bass2	
+Ensoniq	Halo	QROM Bank 0	090 bs2:Switch Bass	
+Ensoniq	Halo	QROM Bank 0	091 bs2:Switch Pop 1	
+Ensoniq	Halo	QROM Bank 0	092 bs2:Switch Pop 2	
+Ensoniq	Halo	QROM Bank 0	093 bs3:303 Bass	
+Ensoniq	Halo	QROM Bank 0	094 bs3:Big Bottom	
+Ensoniq	Halo	QROM Bank 0	095 bs3:Dance Bass	
+Ensoniq	Halo	QROM Bank 0	096 bs3:Fat Bottom	
+Ensoniq	Halo	QROM Bank 0	097 bs3:GreasySynBs	
+Ensoniq	Halo	QROM Bank 0	098 bs3:Rap Bass	
+Ensoniq	Halo	QROM Bank 0	099 bs3:Smack Bass	
+Ensoniq	Halo	QROM Bank 0	100 bs5:Harmonix Fun	
+Ensoniq	Halo	QROM Bank 0	101 bs3:Wrapper	
+Ensoniq	Halo	QROM Bank 0	102 brs:Bone+Tpt 1	
+Ensoniq	Halo	QROM Bank 0	103 brs:Bone+Tpt 2	
+Ensoniq	Halo	QROM Bank 0	104 brs:Flugelhorn	
+Ensoniq	Halo	QROM Bank 0	105 brs:Fr.Horn Sect	
+Ensoniq	Halo	QROM Bank 0	106 brs:Muted Tpt	
+Ensoniq	Halo	QROM Bank 0	107 brs:Solo Fr.Horn	
+Ensoniq	Halo	QROM Bank 0	108 brs:Solo Trumpet	
+Ensoniq	Halo	QROM Bank 0	109 brs:Stereo Brass	
+Ensoniq	Halo	QROM Bank 0	110 brs:Trombone	
+Ensoniq	Halo	QROM Bank 0	111 brs:SectionHorns	
+Ensoniq	Halo	QROM Bank 0	112 brs:3 Horns #1	
+Ensoniq	Halo	QROM Bank 0	113 brs:3 Horns #2	
+Ensoniq	Halo	QROM Bank 0	114 wav:Rez Lead	
+Ensoniq	Halo	QROM Bank 0	115 wav:Rez Q	
+Ensoniq	Halo	QROM Bank 0	116 syn:Formant Sync	
+Ensoniq	Halo	QROM Bank 0	117 led:Chatty Lead	
+Ensoniq	Halo	QROM Bank 0	118 sfx:Tape Rewind	
+Ensoniq	Halo	QROM Bank 0	119 sfx:Vinyl Noise	
+Ensoniq	Halo	QROM Bank 0	120 pad:Swept Voices	
+Ensoniq	Halo	QROM Bank 0	121 syn:Big Bell	
+Ensoniq	Halo	QROM Bank 0	122 syn:Coffee	
+Ensoniq	Halo	QROM Bank 0	123 pad:Formant Pad	
+Ensoniq	Halo	QROM Bank 0	124 vox:Cascades	
+Ensoniq	Halo	QROM Bank 0	125 syn:Lush Str-Whl	
+Ensoniq	Halo	QROM Bank 0	126 syn:Sparkles	
+Ensoniq	Halo	QROM Bank 0	127 syn:Step Bells	
+Ensoniq	Halo	QROM Bank 1	000 kb1:Piano 1-GM	
+Ensoniq	Halo	QROM Bank 1	001 kb1:Piano 2-GM	
+Ensoniq	Halo	QROM Bank 1	002 kb1:Piano 3-GM	
+Ensoniq	Halo	QROM Bank 1	003 kb1:HonkyTonk-GM	
+Ensoniq	Halo	QROM Bank 1	004 kb2:ElPiano 1-GM	
+Ensoniq	Halo	QROM Bank 1	005 kb2:ElPiano 2-GM	
+Ensoniq	Halo	QROM Bank 1	006 kb4:Harpsichr-GM	
+Ensoniq	Halo	QROM Bank 1	007 kb4:Clavinet-GM	
+Ensoniq	Halo	QROM Bank 1	008 orc:Celeste-GM	
+Ensoniq	Halo	QROM Bank 1	009 orc:Glocken-GM	
+Ensoniq	Halo	QROM Bank 1	010 kb4:Music Box-GM	
+Ensoniq	Halo	QROM Bank 1	011 orc:Vibraphone-G	
+Ensoniq	Halo	QROM Bank 1	012 orc:Marimba-GM	
+Ensoniq	Halo	QROM Bank 1	013 orc:Xylophone-GM	
+Ensoniq	Halo	QROM Bank 1	014 orc:TubularBl-GM	
+Ensoniq	Halo	QROM Bank 1	015 gtr:Santur-GM	
+Ensoniq	Halo	QROM Bank 1	016 kb3:Organ 1-GM	
+Ensoniq	Halo	QROM Bank 1	017 kb3:Organ 2-GM	
+Ensoniq	Halo	QROM Bank 1	018 kb3:Organ 3-GM	
+Ensoniq	Halo	QROM Bank 1	019 kb3:ChurchOrg-GM	
+Ensoniq	Halo	QROM Bank 1	020 kb3:ReedOrgan-GM	
+Ensoniq	Halo	QROM Bank 1	021 wnd:Accordion-GM	
+Ensoniq	Halo	QROM Bank 1	022 wnd:Harmonica-GM	
+Ensoniq	Halo	QROM Bank 1	023 wnd:Bandoneon-GM	
+Ensoniq	Halo	QROM Bank 1	024 gtr:Nylon Gtr-GM	
+Ensoniq	Halo	QROM Bank 1	025 gtr:Steel Gtr-GM	
+Ensoniq	Halo	QROM Bank 1	026 gtr:Jazz Gtr-GM	
+Ensoniq	Halo	QROM Bank 1	027 gtr:Clean Gtr-GM	
+Ensoniq	Halo	QROM Bank 1	028 gtr:Muted Gtr-GM	
+Ensoniq	Halo	QROM Bank 1	029 gtr:Overdrive-GM	
+Ensoniq	Halo	QROM Bank 1	030 gtr:Distorted-GM	
+Ensoniq	Halo	QROM Bank 1	031 gtr:Harmonix-GM	
+Ensoniq	Halo	QROM Bank 1	032 bs1:Ac Bass-GM	
+Ensoniq	Halo	QROM Bank 1	033 bs2:Finger Bs-GM	
+Ensoniq	Halo	QROM Bank 1	034 bs2:PickBass-GM	
+Ensoniq	Halo	QROM Bank 1	035 bs2:FretlssBs-GM	
+Ensoniq	Halo	QROM Bank 1	036 bs2:SlapBass1-GM	
+Ensoniq	Halo	QROM Bank 1	037 bs2:SlapBass2-GM	
+Ensoniq	Halo	QROM Bank 1	038 bs3:SynBass 1-GM	
+Ensoniq	Halo	QROM Bank 1	039 bs3:SynBass 2-GM	
+Ensoniq	Halo	QROM Bank 1	040 str:Violin-GM	
+Ensoniq	Halo	QROM Bank 1	041 str:Viola-GM	
+Ensoniq	Halo	QROM Bank 1	042 str:Cello-GM	
+Ensoniq	Halo	QROM Bank 1	043 str:ContraBs-GM	
+Ensoniq	Halo	QROM Bank 1	044 str:Trem Str-GM	
+Ensoniq	Halo	QROM Bank 1	045 str:Pizz Str-GM	
+Ensoniq	Halo	QROM Bank 1	046 orc:Harp-GM	
+Ensoniq	Halo	QROM Bank 1	047 orc:Tympani-GM	
+Ensoniq	Halo	QROM Bank 1	048 str:Strings-GM	
+Ensoniq	Halo	QROM Bank 1	049 str:SlowStrng-GM	
+Ensoniq	Halo	QROM Bank 1	050 str:SynStrng1-GM	
+Ensoniq	Halo	QROM Bank 1	051 str:SynStrng2	
+Ensoniq	Halo	QROM Bank 1	052 vox:ChoirAah-GM	
+Ensoniq	Halo	QROM Bank 1	053 vox:Vox Oohs-GM	
+Ensoniq	Halo	QROM Bank 1	054 vox:Syn Vox-GM	
+Ensoniq	Halo	QROM Bank 1	055 orc:Orch Hit-GM	
+Ensoniq	Halo	QROM Bank 1	056 brs:Trumpet-GM	
+Ensoniq	Halo	QROM Bank 1	057 brs:Trombone-GM	
+Ensoniq	Halo	QROM Bank 1	058 brs:Tuba-GM	
+Ensoniq	Halo	QROM Bank 1	059 brs:MutedTrpt-GM	
+Ensoniq	Halo	QROM Bank 1	060 brs:FrenchHrn-GM	
+Ensoniq	Halo	QROM Bank 1	061 brs:Brass 1-GM	
+Ensoniq	Halo	QROM Bank 1	062 brs:SynBrass1-GM	
+Ensoniq	Halo	QROM Bank 1	063 brs:SynBrass2-GM	
+Ensoniq	Halo	QROM Bank 1	064 wnd:Sopr Sax-GM	
+Ensoniq	Halo	QROM Bank 1	065 wnd:Alto Sax-GM	
+Ensoniq	Halo	QROM Bank 1	066 wnd:Tenor Sax-GM	
+Ensoniq	Halo	QROM Bank 1	067 wnd:Bari Sax-GM	
+Ensoniq	Halo	QROM Bank 1	068 wnd:Oboe-GM	
+Ensoniq	Halo	QROM Bank 1	069 wnd:Eng. Horn-GM	
+Ensoniq	Halo	QROM Bank 1	070 wnd:Bassoon-GM	
+Ensoniq	Halo	QROM Bank 1	071 wnd:Clarinet-GM	
+Ensoniq	Halo	QROM Bank 1	072 wnd:Piccolo-GM	
+Ensoniq	Halo	QROM Bank 1	073 wnd:Flute-GM	
+Ensoniq	Halo	QROM Bank 1	074 wnd:Recorder-GM	
+Ensoniq	Halo	QROM Bank 1	075 wnd:Pan Flute-GM	
+Ensoniq	Halo	QROM Bank 1	076 wnd:BottleBlowGM	
+Ensoniq	Halo	QROM Bank 1	077 wnd:ShakuhachiGM	
+Ensoniq	Halo	QROM Bank 1	078 wnd:Whistle-GM	
+Ensoniq	Halo	QROM Bank 1	079 wnd:Ocarina-GM	
+Ensoniq	Halo	QROM Bank 1	080 syn:Square Wv-GM	
+Ensoniq	Halo	QROM Bank 1	081 syn:Saw Wave-GM	
+Ensoniq	Halo	QROM Bank 1	082 syn:SynCaliopeGM	
+Ensoniq	Halo	QROM Bank 1	083 wnd:ChiffLead-GM	
+Ensoniq	Halo	QROM Bank 1	084 str:Charang-GM	
+Ensoniq	Halo	QROM Bank 1	085 vox:Solo Vox-GM	
+Ensoniq	Halo	QROM Bank 1	086 syn:5ths Wave-GM	
+Ensoniq	Halo	QROM Bank 1	087 syn:Bs & Lead-GM	
+Ensoniq	Halo	QROM Bank 1	088 syn:Fantasia-GM	
+Ensoniq	Halo	QROM Bank 1	089 syn:Warm Pad-GM	
+Ensoniq	Halo	QROM Bank 1	090 syn:Poly Syn-GM	
+Ensoniq	Halo	QROM Bank 1	091 syn:Space Vox-GM	
+Ensoniq	Halo	QROM Bank 1	092 syn:BowedGlas-GM	
+Ensoniq	Halo	QROM Bank 1	093 syn:Metal Pad-GM	
+Ensoniq	Halo	QROM Bank 1	094 syn:Halo Pad-GM	
+Ensoniq	Halo	QROM Bank 1	095 syn:Sweep Pad-GM	
+Ensoniq	Halo	QROM Bank 1	096 syn:Ice Rain-GM	
+Ensoniq	Halo	QROM Bank 1	097 syn:SoundTrackGM	
+Ensoniq	Halo	QROM Bank 1	098 syn:Crystal-GM	
+Ensoniq	Halo	QROM Bank 1	099 syn:AtmosphereGM	
+Ensoniq	Halo	QROM Bank 1	100 syn:Briteness-GM	
+Ensoniq	Halo	QROM Bank 1	101 syn:Goblin-GM	
+Ensoniq	Halo	QROM Bank 1	102 syn:Echo Drop-GM	
+Ensoniq	Halo	QROM Bank 1	103 syn:StarTheme-GM	
+Ensoniq	Halo	QROM Bank 1	104 gtr:Sitar-GM	
+Ensoniq	Halo	QROM Bank 1	105 gtr:Banjo-GM	
+Ensoniq	Halo	QROM Bank 1	106 gtr:Shamisen-GM	
+Ensoniq	Halo	QROM Bank 1	107 gtr:Koto-GM	
+Ensoniq	Halo	QROM Bank 1	108 prc:Kalimba-GM	
+Ensoniq	Halo	QROM Bank 1	109 wnd:Bagpipes-GM	
+Ensoniq	Halo	QROM Bank 1	110 str:Fiddle-GM	
+Ensoniq	Halo	QROM Bank 1	111 wnd:Shannai-GM	
+Ensoniq	Halo	QROM Bank 1	112 syn:TinkleBellGM	
+Ensoniq	Halo	QROM Bank 1	113 prc:Agogo-GM	
+Ensoniq	Halo	QROM Bank 1	114 prc:SteelDrum-GM	
+Ensoniq	Halo	QROM Bank 1	115 prc:Woodblock-GM	
+Ensoniq	Halo	QROM Bank 1	116 prc:Taiko-GM	
+Ensoniq	Halo	QROM Bank 1	117 prc:MellowTom-GM	
+Ensoniq	Halo	QROM Bank 1	118 prc:SynthDrum-GM	
+Ensoniq	Halo	QROM Bank 1	119 prd:RevCymbal-GM	
+Ensoniq	Halo	QROM Bank 1	120 gtr:FretNoise-GM	
+Ensoniq	Halo	QROM Bank 1	121 wnd:BreathNse-GM	
+Ensoniq	Halo	QROM Bank 1	122 sfx:Seashore-GM	
+Ensoniq	Halo	QROM Bank 1	123 sfx:Birdsong-GM	
+Ensoniq	Halo	QROM Bank 1	124 sfx:Telephone-GM	
+Ensoniq	Halo	QROM Bank 1	125 sfx:HelicopterGM	
+Ensoniq	Halo	QROM Bank 1	126 sfx:Applause-GM	
+Ensoniq	Halo	QROM Bank 1	127 sfx:Gunshot-GM	
+Ensoniq	Halo	QROM Bank 2	000 syn:Bella	
+Ensoniq	Halo	QROM Bank 2	001 syn:CascadeBell	
+Ensoniq	Halo	QROM Bank 2	002 syn:Chimey	
+Ensoniq	Halo	QROM Bank 2	003 kb1:Tack Grand	
+Ensoniq	Halo	QROM Bank 2	004 kb2:Rock Wurli	
+Ensoniq	Halo	QROM Bank 2	005 syn:DelayBells 1	
+Ensoniq	Halo	QROM Bank 2	006 syn:DelayBells 2	
+Ensoniq	Halo	QROM Bank 2	007 syn:Drone One	
+Ensoniq	Halo	QROM Bank 2	008 syn:Echo Stabber	
+Ensoniq	Halo	QROM Bank 2	009 syn:Frozen Wind	
+Ensoniq	Halo	QROM Bank 2	010 syn:Harpily	
+Ensoniq	Halo	QROM Bank 2	011 led:Lucky	
+Ensoniq	Halo	QROM Bank 2	012 pad:Marscape	
+Ensoniq	Halo	QROM Bank 2	013 syn:Milky Way	
+Ensoniq	Halo	QROM Bank 2	014 syn:Mr.Square	
+Ensoniq	Halo	QROM Bank 2	015 syn:Nebula	
+Ensoniq	Halo	QROM Bank 2	016 pad:Pop Stab Pad	
+Ensoniq	Halo	QROM Bank 2	017 pad:Pulsation	
+Ensoniq	Halo	QROM Bank 2	018 syn:RandmPanBell	
+Ensoniq	Halo	QROM Bank 2	019 syn:SFZ SynBrass	
+Ensoniq	Halo	QROM Bank 2	020 syn:SimpleBell 1	
+Ensoniq	Halo	QROM Bank 2	021 syn:Sitarred	
+Ensoniq	Halo	QROM Bank 2	022 syn:Slow Bells 1	
+Ensoniq	Halo	QROM Bank 2	023 syn:Sneezy	
+Ensoniq	Halo	QROM Bank 2	024 pad:Sweep Time	
+Ensoniq	Halo	QROM Bank 2	025 syn:Swept Voxes	
+Ensoniq	Halo	QROM Bank 2	026 syn:SynBrass 1	
+Ensoniq	Halo	QROM Bank 2	027 syn:Sync Man 1	
+Ensoniq	Halo	QROM Bank 2	028 syn:Tempo Stab 1	
+Ensoniq	Halo	QROM Bank 2	029 syn:Tempo Stab 2	
+Ensoniq	Halo	QROM Bank 2	030 syn:Tempo Filter	
+Ensoniq	Halo	QROM Bank 2	031 pad:Timed Env	
+Ensoniq	Halo	QROM Bank 2	032 syn:Vaporous	
+Ensoniq	Halo	QROM Bank 2	033 syn:Vintg.Filter	
+Ensoniq	Halo	QROM Bank 2	034 syn:Arpy	
+Ensoniq	Halo	QROM Bank 2	035 led:Loose Lead	
+Ensoniq	Halo	QROM Bank 2	036 pad:Wash	
+Ensoniq	Halo	QROM Bank 2	037 syn:WaWaWaWaWaaa	
+Ensoniq	Halo	QROM Bank 2	038 pad:WindyStrings	
+Ensoniq	Halo	QROM Bank 2	039 vox:Air Song	
+Ensoniq	Halo	QROM Bank 2	040 vox:DreamChoir	
+Ensoniq	Halo	QROM Bank 2	041 vox:E I E I O	
+Ensoniq	Halo	QROM Bank 2	042 vox:Ether	
+Ensoniq	Halo	QROM Bank 2	043 vox:Lush Love	
+Ensoniq	Halo	QROM Bank 2	044 vox:Monk's Song	
+Ensoniq	Halo	QROM Bank 2	045 bs1:Fat Upright	
+Ensoniq	Halo	QROM Bank 2	046 bs2:Ana-Fingers1	
+Ensoniq	Halo	QROM Bank 2	047 bs2:Ana-Fingers2	
+Ensoniq	Halo	QROM Bank 2	048 bs2:HybridAcBass	
+Ensoniq	Halo	QROM Bank 2	049 bs2:Picked Bass3	
+Ensoniq	Halo	QROM Bank 2	050 bs2:Q Bass 1	
+Ensoniq	Halo	QROM Bank 2	051 bs3:Dull Thud	
+Ensoniq	Halo	QROM Bank 2	052 bs3:Mono Man	
+Ensoniq	Halo	QROM Bank 2	053 bs3:Snap Bass	
+Ensoniq	Halo	QROM Bank 2	054 bs3:Squarely	
+Ensoniq	Halo	QROM Bank 2	055 bs3:Techno Bs 1	
+Ensoniq	Halo	QROM Bank 2	056 bs3:Techno Bs 2	
+Ensoniq	Halo	QROM Bank 2	057 bs3:Tight Bs 1	
+Ensoniq	Halo	QROM Bank 2	058 bs3:Tri-Angled	
+Ensoniq	Halo	QROM Bank 2	059 bs3:Vel-o-Bass	
+Ensoniq	Halo	QROM Bank 2	060 bs4:1/16 Bass	
+Ensoniq	Halo	QROM Bank 2	061 bs4:Moogie	
+Ensoniq	Halo	QROM Bank 2	062 bs4:Rez FM Bs 1	
+Ensoniq	Halo	QROM Bank 2	063 bs4:Swept FM Bs1	
+Ensoniq	Halo	QROM Bank 2	064 bs5:Fat Dance Bs	
+Ensoniq	Halo	QROM Bank 2	065 bs5:Modern FM	
+Ensoniq	Halo	QROM Bank 2	066 bs5:Old Time	
+Ensoniq	Halo	QROM Bank 2	067 bs5:Splattered	
+Ensoniq	Halo	QROM Bank 2	068 bs5:Veloci-Wow	
+Ensoniq	Halo	QROM Bank 2	069 bs5:Beoww	
+Ensoniq	Halo	QROM Bank 2	070 gtr:12 String	
+Ensoniq	Halo	QROM Bank 2	071 gtr:Coral	
+Ensoniq	Halo	QROM Bank 2	072 gtr:Electric 12	
+Ensoniq	Halo	QROM Bank 2	073 gtr:Ethereal 12	
+Ensoniq	Halo	QROM Bank 2	074 gtr:Rock 5ths	
+Ensoniq	Halo	QROM Bank 2	075 gtr:SpaghettiGtr	
+Ensoniq	Halo	QROM Bank 2	076 gtr:Steel String	
+Ensoniq	Halo	QROM Bank 2	077 gtr:Wakka 1	
+Ensoniq	Halo	QROM Bank 2	078 gtr:Wakka 2	
+Ensoniq	Halo	QROM Bank 2	079 gtr:Wheel Wah	
+Ensoniq	Halo	QROM Bank 2	080 kb1:Moms Old Pno	
+Ensoniq	Halo	QROM Bank 2	081 kb2:Clacky Tines	
+Ensoniq	Halo	QROM Bank 2	082 kb2:E.Pno Pan 1	
+Ensoniq	Halo	QROM Bank 2	083 kb2:El.& Ac.EP1	
+Ensoniq	Halo	QROM Bank 2	084 kb4:Afrika	
+Ensoniq	Halo	QROM Bank 2	085 kb4:Clav, Eh!	
+Ensoniq	Halo	QROM Bank 2	086 kb4:FM Clav	
+Ensoniq	Halo	QROM Bank 2	087 kb4:FM Wurly	
+Ensoniq	Halo	QROM Bank 2	088 kb4:Lucy 2000	
+Ensoniq	Halo	QROM Bank 2	089 kb4:New EP Pad	
+Ensoniq	Halo	QROM Bank 2	090 led:Soloist	
+Ensoniq	Halo	QROM Bank 2	091 led:Rezzy	
+Ensoniq	Halo	QROM Bank 2	092 str:Clouds	
+Ensoniq	Halo	QROM Bank 2	093 pad:Soft & Slow	
+Ensoniq	Halo	QROM Bank 2	094 str:Swept String	
+Ensoniq	Halo	QROM Bank 2	095 wav:Simple Sqr	
+Ensoniq	Halo	QROM Bank 2	096 wnd:Bluesy Harm.	
+Ensoniq	Halo	QROM Bank 2	097 wnd:ChrHarmonica	
+Ensoniq	Halo	QROM Bank 2	098 wnd:Pan Flute 1	
+Ensoniq	Halo	QROM Bank 2	099 wnd:Recorder 1	
+Ensoniq	Halo	QROM Bank 2	100 pad:Lush Sawz	
+Ensoniq	Halo	QROM Bank 2	101 brs:Hybrid Horn1	
+Ensoniq	Halo	QROM Bank 2	102 brs:Jazzy Tpt.	
+Ensoniq	Halo	QROM Bank 2	103 gtr:Funk Muted	
+Ensoniq	Halo	QROM Bank 2	104 gtr:R&B Mute Gtr	
+Ensoniq	Halo	QROM Bank 2	105 vox:Gregorian	
+Ensoniq	Halo	QROM Bank 2	106 syn:Rich Bells 1	
+Ensoniq	Halo	QROM Bank 2	107 kb2:Vintage Clav	
+Ensoniq	Halo	QROM Bank 2	108 kb2:Rez-o-Clav	
+Ensoniq	Halo	QROM Bank 2	109 kb2:FM Klav	
+Ensoniq	Halo	QROM Bank 2	110 kb2:Synth Clav	
+Ensoniq	Halo	QROM Bank 2	111 wav:Simple Bass	
+Ensoniq	Halo	QROM Bank 2	112 pad:Now & Later	
+Ensoniq	Halo	QROM Bank 2	113 syn:Choppy Stab	
+Ensoniq	Halo	QROM Bank 2	114 bs3:FatDarkMono	
+Ensoniq	Halo	QROM Bank 2	115 wnd:BreathyTenor	
+Ensoniq	Halo	QROM Bank 2	116 wnd:Breathy Alto	
+Ensoniq	Halo	QROM Bank 2	117 wnd:Breathy Sop.	
+Ensoniq	Halo	QROM Bank 2	118 wnd:Solo Bassoon	
+Ensoniq	Halo	QROM Bank 2	119 wnd:Solo Oboe	
+Ensoniq	Halo	QROM Bank 2	120 syn:Dance Stab 1	
+Ensoniq	Halo	QROM Bank 2	121 syn:Dance Stab 2	
+Ensoniq	Halo	QROM Bank 2	122 bs3:FatBoy Mono	
+Ensoniq	Halo	QROM Bank 2	123 syn:RepeatOctave	
+Ensoniq	Halo	QROM Bank 2	124 wnd:Alto + Tenor	
+Ensoniq	Halo	QROM Bank 2	125 syn:ReznantVowel	
+Ensoniq	Halo	QROM Bank 2	126 syn:SquareTooth	
+Ensoniq	Halo	QROM Bank 2	127 syn:BlatzdString	
+Ensoniq	Halo	QROM Bank 3	000 kit:Live	
+Ensoniq	Halo	QROM Bank 3	001 kit:Standard	
+Ensoniq	Halo	QROM Bank 3	002 kit:Agressive	
+Ensoniq	Halo	QROM Bank 3	003 kit:Slam Dance	
+Ensoniq	Halo	QROM Bank 3	004 kit:Big Room	
+Ensoniq	Halo	QROM Bank 3	005 kit:Vanilla	
+Ensoniq	Halo	QROM Bank 3	006 kit:Machine	
+Ensoniq	Halo	QROM Bank 3	007 kit:808 Toys	
+Ensoniq	Halo	QROM Bank 3	008 kit:Dance Techno	
+Ensoniq	Halo	QROM Bank 3	009 kit:Kranked	
+Ensoniq	Halo	QROM Bank 3	010 kit:Nice & Plain	
+Ensoniq	Halo	QROM Bank 3	011 kit:Jazzz Brush	
+Ensoniq	Halo	QROM Bank 3	012 kit:Tight	
+Ensoniq	Halo	QROM Bank 3	013 kit:Gated	
+Ensoniq	Halo	QROM Bank 3	014 kit:Loop Maker	
+Ensoniq	Halo	QROM Bank 3	015 kit:Clean	
+Ensoniq	Halo	QROM Bank 3	016 kit:Abrasive	
+Ensoniq	Halo	QROM Bank 3	017 kit:Junky	
+Ensoniq	Halo	QROM Bank 3	018 kit:Trashy	
+Ensoniq	Halo	QROM Bank 3	019 kit:Roomy	
+Ensoniq	Halo	QROM Bank 3	020 kit:Electro	
+Ensoniq	Halo	QROM Bank 3	021 kit:Low Down	
+Ensoniq	Halo	QROM Bank 3	022 kit:Tuned Up	
+Ensoniq	Halo	QROM Bank 3	023 kit:Little Toys	
+Ensoniq	Halo	QROM Bank 3	024 kit:Slash	
+Ensoniq	Halo	QROM Bank 3	025 kit:Wheel Filter	
+Ensoniq	Halo	QROM Bank 3	026 kit:Talkin' Set	
+Ensoniq	Halo	QROM Bank 3	027 kit:Way High	
+Ensoniq	Halo	QROM Bank 3	028 kit:Low Low Low	
+Ensoniq	Halo	QROM Bank 3	029 kit:Basic Kit-E	
+Ensoniq	Halo	QROM Bank 3	030 kit:Studio Kit-E	
+Ensoniq	Halo	QROM Bank 3	031 kit:Pop Kit-E	
+Ensoniq	Halo	QROM Bank 3	032 kit:CountryKit-E	
+Ensoniq	Halo	QROM Bank 3	033 kit:Dance Kit-E	
+Ensoniq	Halo	QROM Bank 3	034 kit:Room Kit-E	
+Ensoniq	Halo	QROM Bank 3	035 kit:Brush Kit-E	
+Ensoniq	Halo	QROM Bank 3	036 kit:Rock Kit-E	
+Ensoniq	Halo	QROM Bank 3	037 kit:Slam Kit-E	
+Ensoniq	Halo	QROM Bank 3	038 kit:Deep Kit-E	
+Ensoniq	Halo	QROM Bank 3	039 kit:Funky Kit-E	
+Ensoniq	Halo	QROM Bank 3	040 kit:Grungy Kit-E	
+Ensoniq	Halo	QROM Bank 3	041 kit:Thin Kit-E	
+Ensoniq	Halo	QROM Bank 3	042 kit:Flange Kit-E	
+Ensoniq	Halo	QROM Bank 3	043 kit:EFX Kit-E	
+Ensoniq	Halo	QROM Bank 3	044 kit:Whack Kit-E	
+Ensoniq	Halo	QROM Bank 3	045 kit:HiPass Kit-E	
+Ensoniq	Halo	QROM Bank 3	046 kit:Un-Kit-E	
+Ensoniq	Halo	QROM Bank 3	047 prc:Kick Drums 1	
+Ensoniq	Halo	QROM Bank 3	048 prc:Kick Drums 2	
+Ensoniq	Halo	QROM Bank 3	049 prc:Kick Drums 3	
+Ensoniq	Halo	QROM Bank 3	050 prc:Snare Drums1	
+Ensoniq	Halo	QROM Bank 3	051 prc:Snare Drums2	
+Ensoniq	Halo	QROM Bank 3	052 prc:Brushes	
+Ensoniq	Halo	QROM Bank 3	053 prc:Cymbals 1	
+Ensoniq	Halo	QROM Bank 3	054 prc:Cymbals 2	
+Ensoniq	Halo	QROM Bank 3	055 prc:Crash Cym 1	
+Ensoniq	Halo	QROM Bank 3	056 prc:Crash Cym 2	
+Ensoniq	Halo	QROM Bank 3	057 prc:Choked Crash	
+Ensoniq	Halo	QROM Bank 3	058 prc:China Crash1	
+Ensoniq	Halo	QROM Bank 3	059 prc:China Crash2	
+Ensoniq	Halo	QROM Bank 3	060 prc:Choked China	
+Ensoniq	Halo	QROM Bank 3	061 prc:All Toms	
+Ensoniq	Halo	QROM Bank 3	062 prc:Big Toms	
+Ensoniq	Halo	QROM Bank 3	063 prc:Live Toms	
+Ensoniq	Halo	QROM Bank 3	064 prc:Dry Toms	
+Ensoniq	Halo	QROM Bank 3	065 prc:Pure Toms	
+Ensoniq	Halo	QROM Bank 3	066 prc:Rock Toms	
+Ensoniq	Halo	QROM Bank 3	067 prc:Percussion 1	
+Ensoniq	Halo	QROM Bank 3	068 prc:Percussion 2	
+Ensoniq	Halo	QROM Bank 3	069 prc:Shakers 1	
+Ensoniq	Halo	QROM Bank 3	070 prc:Shakers 2	
+Ensoniq	Halo	QROM Bank 3	071 prc:Tambourines	
+Ensoniq	Halo	QROM Bank 3	072 prc:Timbales	
+Ensoniq	Halo	QROM Bank 3	073 prc:Cowbells	
+Ensoniq	Halo	QROM Bank 3	074 prc:Congas	
+Ensoniq	Halo	QROM Bank 3	075 prc:Shaker Up-Dn	
+Ensoniq	Halo	QROM Bank 3	076 prc:Tamb Up-Down	
+Ensoniq	Halo	QROM Bank 3	077 prc:Cabasa Up-Dn	
+Ensoniq	Halo	QROM Bank 3	078 prc:Claps	
+Ensoniq	Halo	QROM Bank 3	079 prc:Snaps	
+Ensoniq	Halo	QROM Bank 3	080 prc:Syn Cabasa	
+Ensoniq	Halo	QROM Bank 3	081 prc:Sm TunedGong	
+Ensoniq	Halo	QROM Bank 3	082 prc:OrchBassDrum	
+Ensoniq	Halo	QROM Bank 3	083 prc:Tympani	
+Ensoniq	Halo	QROM Bank 3	084 prc:ShortTympani	
+Ensoniq	Halo	QROM Bank 3	085 prc:Toy Percs	
+Ensoniq	Halo	QROM Bank 3	086 prc:Toy Percs Lo	
+Ensoniq	Halo	QROM Bank 3	087 prc:Rainstick	
+Ensoniq	Halo	QROM Bank 3	088 prc:RainstickHit	
+Ensoniq	Halo	QROM Bank 3	089 prc:Nut Rattle 1	
+Ensoniq	Halo	QROM Bank 3	090 prc:Nut Rattle 2	
+Ensoniq	Halo	QROM Bank 3	091 sfx:Frontier	
+Ensoniq	Halo	QROM Bank 3	092 sfx:Spinvox	
+Ensoniq	Halo	QROM Bank 3	093 sfx:Arctic Winds	
+Ensoniq	Halo	QROM Bank 3	094 sfx:Silly Boids	
+Ensoniq	Halo	QROM Bank 3	095 prc:Tuned Clave	
+Ensoniq	Halo	QROM Bank 3	096 prc:Sleighbell	
+Ensoniq	Halo	QROM Bank 3	097 bpm:TempoClaps 1	
+Ensoniq	Halo	QROM Bank 3	098 bpm:TempoConga 1	
+Ensoniq	Halo	QROM Bank 3	099 bpm:TempoConga 2	
+Ensoniq	Halo	QROM Bank 3	100 bpm:TempoConga 3	
+Ensoniq	Halo	QROM Bank 3	101 bpm:TempoCowbel1	
+Ensoniq	Halo	QROM Bank 3	102 bpm:TempoCowbel2	
+Ensoniq	Halo	QROM Bank 3	103 bpm:TempoShaker1	
+Ensoniq	Halo	QROM Bank 3	104 bpm:TempoShaker2	
+Ensoniq	Halo	QROM Bank 3	105 bpm:TempoShaker3	
+Ensoniq	Halo	QROM Bank 3	106 bpm:TempoShaker4	
+Ensoniq	Halo	QROM Bank 3	107 bpm:TempoShaker5	
+Ensoniq	Halo	QROM Bank 3	108 bpm:TempoTambo 1	
+Ensoniq	Halo	QROM Bank 3	109 sfx:Wind on Mars	
+Ensoniq	Halo	QROM Bank 3	110 prc:Windchimes	
+Ensoniq	Halo	QROM Bank 3	111 hit:Dance Hit 1	
+Ensoniq	Halo	QROM Bank 3	112 hit:Dance Hit 2	
+Ensoniq	Halo	QROM Bank 3	113 hit:Orch Hit 1	
+Ensoniq	Halo	QROM Bank 3	114 hit:Tape Stop!	
+Ensoniq	Halo	QROM Bank 3	115 scr:Scratches	
+Ensoniq	Halo	QROM Bank 3	116 prc:Gong	
+Ensoniq	Halo	QROM Bank 3	117 prc:Jaw Harp	
+Ensoniq	Halo	QROM Bank 3	118 sfx:Synth RezZap	
+Ensoniq	Halo	QROM Bank 3	119 prc:Cactus Loop	
+Ensoniq	Halo	QROM Bank 3	120 prc:Karimbell	
+Ensoniq	Halo	QROM Bank 3	121 prc:Log Drums	
+Ensoniq	Halo	QROM Bank 3	122 prc:Kalimba	
+Ensoniq	Halo	QROM Bank 3	123 prc:Handbells	
+Ensoniq	Halo	QROM Bank 3	124 prc:Bowl Gongs	
+Ensoniq	Halo	QROM Bank 3	125 sfx:Ghosts	
+Ensoniq	Halo	QROM Bank 3	126 sfx:Machinery	
+Ensoniq	Halo	QROM Bank 3	127    :default	
 Ensoniq	Halo	QROM Bank 4	000 jam:Grand Piano	
 Ensoniq	Halo	QROM Bank 4	001 jam:Jammin EP	
 Ensoniq	Halo	QROM Bank 4	002 jam:LA Keys	
@@ -126,3 +638,447 @@ Ensoniq	Halo	QROM Bank 4	124 bpm:She Pad
 Ensoniq	Halo	QROM Bank 4	125 bpm:Sonar	
 Ensoniq	Halo	QROM Bank 4	126 bpm:Deep Blue	
 Ensoniq	Halo	QROM Bank 4	127 bpm:The End	
+Ensoniq	Halo	Instruments -> QROM	000    :None	
+Ensoniq	Halo	Instruments -> QROM	001 pno:PerfectPno 1	
+Ensoniq	Halo	Instruments -> QROM	002 pno:PerfectPno 2	
+Ensoniq	Halo	Instruments -> QROM	003 pno:PerfectPno 3	
+Ensoniq	Halo	Instruments -> QROM	004 pno:PerfectPno 4	
+Ensoniq	Halo	Instruments -> QROM	005 pno:PerfectPno 5	
+Ensoniq	Halo	Instruments -> QROM	006 pno:PerfectPno 6	
+Ensoniq	Halo	Instruments -> QROM	007 pno:PerfectPno 7	
+Ensoniq	Halo	Instruments -> QROM	008 pno:PerfectPno 8	
+Ensoniq	Halo	Instruments -> QROM	009 pno:PerfectPno 9	
+Ensoniq	Halo	Instruments -> QROM	010 pno:Grand Piano1	
+Ensoniq	Halo	Instruments -> QROM	011 pno:Grand Piano2	
+Ensoniq	Halo	Instruments -> QROM	012 pno:Grand Piano3	
+Ensoniq	Halo	Instruments -> QROM	013 pno:Pno HammerUp	
+Ensoniq	Halo	Instruments -> QROM	014 pno:PnoHarpNoise	
+Ensoniq	Halo	Instruments -> QROM	015 pno:Piano Thud	
+Ensoniq	Halo	Instruments -> QROM	016 pno:Celeste	
+Ensoniq	Halo	Instruments -> QROM	017 pno:Harpsichord	
+Ensoniq	Halo	Instruments -> QROM	018 epo:FM EPno A	
+Ensoniq	Halo	Instruments -> QROM	019 epo:FM EPno B	
+Ensoniq	Halo	Instruments -> QROM	020 epo:FM EPno C	
+Ensoniq	Halo	Instruments -> QROM	021 epo:Wurli Lo Vel	
+Ensoniq	Halo	Instruments -> QROM	022 epo:Wurli Hi Vel	
+Ensoniq	Halo	Instruments -> QROM	023 epo:Tine EPno A	
+Ensoniq	Halo	Instruments -> QROM	024 epo:Tine EPno B	
+Ensoniq	Halo	Instruments -> QROM	025 epo:Tine EPno C	
+Ensoniq	Halo	Instruments -> QROM	026 epo:Tine EPno D	
+Ensoniq	Halo	Instruments -> QROM	027 epo:Digi Piano	
+Ensoniq	Halo	Instruments -> QROM	028 org:Church Organ	
+Ensoniq	Halo	Instruments -> QROM	029 org:Perc Organ 1	
+Ensoniq	Halo	Instruments -> QROM	030 org:Perc Organ 2	
+Ensoniq	Halo	Instruments -> QROM	031 org:Org Keyclick	
+Ensoniq	Halo	Instruments -> QROM	032 org:Pipe Organ	
+Ensoniq	Halo	Instruments -> QROM	033 org:Org775305004	
+Ensoniq	Halo	Instruments -> QROM	034 org:Org845351402	
+Ensoniq	Halo	Instruments -> QROM	035 org:Org875434578	
+Ensoniq	Halo	Instruments -> QROM	036 org:Org875645332	
+Ensoniq	Halo	Instruments -> QROM	037 org:Org888000000	
+Ensoniq	Halo	Instruments -> QROM	038 org:Org888808008	
+Ensoniq	Halo	Instruments -> QROM	039 org:Org888856444	
+Ensoniq	Halo	Instruments -> QROM	040 org:Org888880880	
+Ensoniq	Halo	Instruments -> QROM	041 org:Organ Wave 1	
+Ensoniq	Halo	Instruments -> QROM	042 org:Organ Wave 2	
+Ensoniq	Halo	Instruments -> QROM	043 org:Rotary Organ	
+Ensoniq	Halo	Instruments -> QROM	044 org:Reed Organ	
+Ensoniq	Halo	Instruments -> QROM	045 bas:Pick Bass 1	
+Ensoniq	Halo	Instruments -> QROM	046 bas:Pick Bass 2	
+Ensoniq	Halo	Instruments -> QROM	047 bas:Muted Bass	
+Ensoniq	Halo	Instruments -> QROM	048 bas:Slap Bass	
+Ensoniq	Halo	Instruments -> QROM	049 bas:Bs Pop Noise	
+Ensoniq	Halo	Instruments -> QROM	050 bas:Bs Harmonics	
+Ensoniq	Halo	Instruments -> QROM	051 bas:El Bass Tap	
+Ensoniq	Halo	Instruments -> QROM	052 bas:Fretless Bs	
+Ensoniq	Halo	Instruments -> QROM	053 bas:Finger Bs 1	
+Ensoniq	Halo	Instruments -> QROM	054 bas:Finger Bs 2	
+Ensoniq	Halo	Instruments -> QROM	055 bas:Tube Bass	
+Ensoniq	Halo	Instruments -> QROM	056 bas:FM Bass 1	
+Ensoniq	Halo	Instruments -> QROM	057 bas:FM Bass 2	
+Ensoniq	Halo	Instruments -> QROM	058 bas:Analog Bs 1	
+Ensoniq	Halo	Instruments -> QROM	059 bas:Analog Bs 2	
+Ensoniq	Halo	Instruments -> QROM	060 bas:Analog Bs 3	
+Ensoniq	Halo	Instruments -> QROM	061 bas:Standup Bass	
+Ensoniq	Halo	Instruments -> QROM	062 gtr:Elec Gtr 1	
+Ensoniq	Halo	Instruments -> QROM	063 gtr:Elec Gtr 2	
+Ensoniq	Halo	Instruments -> QROM	064 gtr:Fret Noise	
+Ensoniq	Halo	Instruments -> QROM	065 gtr:Goto	
+Ensoniq	Halo	Instruments -> QROM	066 gtr:Dist Guitar	
+Ensoniq	Halo	Instruments -> QROM	067 gtr:Banjo	
+Ensoniq	Halo	Instruments -> QROM	068 gtr:Gtr Harmonix	
+Ensoniq	Halo	Instruments -> QROM	069 gtr:Guitarron	
+Ensoniq	Halo	Instruments -> QROM	070 gtr:Jazz Guitar	
+Ensoniq	Halo	Instruments -> QROM	071 gtr:Muted Guitar	
+Ensoniq	Halo	Instruments -> QROM	072 gtr:Nylon Guitar	
+Ensoniq	Halo	Instruments -> QROM	073 gtr:Shamisen	
+Ensoniq	Halo	Instruments -> QROM	074 gtr:Sitar	
+Ensoniq	Halo	Instruments -> QROM	075 gtr:Steel Guitar	
+Ensoniq	Halo	Instruments -> QROM	076 gtr:FeedbackHarm	
+Ensoniq	Halo	Instruments -> QROM	077 str:Cello	
+Ensoniq	Halo	Instruments -> QROM	078 str:Pizz Strings	
+Ensoniq	Halo	Instruments -> QROM	079 str:String Sect	
+Ensoniq	Halo	Instruments -> QROM	080 str:Violin	
+Ensoniq	Halo	Instruments -> QROM	081 str:Harp	
+Ensoniq	Halo	Instruments -> QROM	082 brs:Trumpet	
+Ensoniq	Halo	Instruments -> QROM	083 brs:Mute Trumpet	
+Ensoniq	Halo	Instruments -> QROM	084 brs:Trombone	
+Ensoniq	Halo	Instruments -> QROM	085 brs:PopBrassSect	
+Ensoniq	Halo	Instruments -> QROM	086 brs:Flugelhorn	
+Ensoniq	Halo	Instruments -> QROM	087 brs:Fr Horn Sect	
+Ensoniq	Halo	Instruments -> QROM	088 brs:Solo Fr Horn	
+Ensoniq	Halo	Instruments -> QROM	089 wnd:Accordion 1	
+Ensoniq	Halo	Instruments -> QROM	090 wnd:Accordion 2	
+Ensoniq	Halo	Instruments -> QROM	091 wnd:Accordion 3	
+Ensoniq	Halo	Instruments -> QROM	092 wnd:Clarinet	
+Ensoniq	Halo	Instruments -> QROM	093 wnd:Alto Sax	
+Ensoniq	Halo	Instruments -> QROM	094 wnd:Bassoon	
+Ensoniq	Halo	Instruments -> QROM	095 wnd:Chiff	
+Ensoniq	Halo	Instruments -> QROM	096 wnd:Chiff Flute	
+Ensoniq	Halo	Instruments -> QROM	097 wnd:Conch Shell	
+Ensoniq	Halo	Instruments -> QROM	098 wnd:English Horn	
+Ensoniq	Halo	Instruments -> QROM	099 wnd:Double Reed	
+Ensoniq	Halo	Instruments -> QROM	100 wnd:Flute	
+Ensoniq	Halo	Instruments -> QROM	101 wnd:Harmonica	
+Ensoniq	Halo	Instruments -> QROM	102 wnd:Ocarina	
+Ensoniq	Halo	Instruments -> QROM	103 wnd:Pan Flute	
+Ensoniq	Halo	Instruments -> QROM	104 wnd:Recorder	
+Ensoniq	Halo	Instruments -> QROM	105 wnd:Sax Air	
+Ensoniq	Halo	Instruments -> QROM	106 wnd:Oboe	
+Ensoniq	Halo	Instruments -> QROM	107 wnd:Soprano Sax	
+Ensoniq	Halo	Instruments -> QROM	108 wnd:Tenor Sax	
+Ensoniq	Halo	Instruments -> QROM	109 vox:Breathy Ooh	
+Ensoniq	Halo	Instruments -> QROM	110 vox:Vocal Oohs	
+Ensoniq	Halo	Instruments -> QROM	111 vox:Vocal Aahs	
+Ensoniq	Halo	Instruments -> QROM	112 vox:SynthVoxAahs	
+Ensoniq	Halo	Instruments -> QROM	113 vox:Vocal Air	
+Ensoniq	Halo	Instruments -> QROM	114 vox:Doo Attack	
+Ensoniq	Halo	Instruments -> QROM	115 vox:Countoffs	
+Ensoniq	Halo	Instruments -> QROM	116 vox:Monsters	
+Ensoniq	Halo	Instruments -> QROM	117 wav:Analog WV 1	
+Ensoniq	Halo	Instruments -> QROM	118 wav:Analog WV 2	
+Ensoniq	Halo	Instruments -> QROM	119 wav:Analog WV 3	
+Ensoniq	Halo	Instruments -> QROM	120 wav:Analog WV 4	
+Ensoniq	Halo	Instruments -> QROM	121 wav:Analog WV 5	
+Ensoniq	Halo	Instruments -> QROM	122 wav:Analog WV 6	
+Ensoniq	Halo	Instruments -> QROM	123 wav:Analog WV 7	
+Ensoniq	Halo	Instruments -> QROM	124 wav:Analog WV 8	
+Ensoniq	Halo	Instruments -> QROM	125 wav:Big Bell	
+Ensoniq	Halo	Instruments -> QROM	126 wav:Big Bell WF	
+Ensoniq	Halo	Instruments -> QROM	127 wav:Doorbell	
+Ensoniq	Halo	Instruments -> QROM	128 wav:E Bass WF 1	
+Ensoniq	Halo	Instruments -> QROM	129 wav:E Bass WF 2	
+Ensoniq	Halo	Instruments -> QROM	130 wav:Sine Wave	
+Ensoniq	Halo	Instruments -> QROM	131 wav:Bell Wave 1	
+Ensoniq	Halo	Instruments -> QROM	132 wav:Bell Wave 2	
+Ensoniq	Halo	Instruments -> QROM	133 wav:Bell Wave 3	
+Ensoniq	Halo	Instruments -> QROM	134 wav:Bell Wave 4	
+Ensoniq	Halo	Instruments -> QROM	135 wav:Bell Wave 5	
+Ensoniq	Halo	Instruments -> QROM	136 wav:Bell Wave 6	
+Ensoniq	Halo	Instruments -> QROM	137 wav:Bell Wave 7	
+Ensoniq	Halo	Instruments -> QROM	138 wav:Digi Wave 1	
+Ensoniq	Halo	Instruments -> QROM	139 wav:Digi Wave 2	
+Ensoniq	Halo	Instruments -> QROM	140 wav:Sawtooth 1	
+Ensoniq	Halo	Instruments -> QROM	141 wav:Sawtooth 2	
+Ensoniq	Halo	Instruments -> QROM	142 wav:Reed WF	
+Ensoniq	Halo	Instruments -> QROM	143 wav:Single Reed	
+Ensoniq	Halo	Instruments -> QROM	144 wav:Wind Chime	
+Ensoniq	Halo	Instruments -> QROM	145 wav:Piano Bs WF	
+Ensoniq	Halo	Instruments -> QROM	146 wav:Piano WF	
+Ensoniq	Halo	Instruments -> QROM	147 wav:Vocal WF 1	
+Ensoniq	Halo	Instruments -> QROM	148 wav:Vocal WF 2	
+Ensoniq	Halo	Instruments -> QROM	149 wav:Vocal WF 3	
+Ensoniq	Halo	Instruments -> QROM	150 wav:Vocal WF 4	
+Ensoniq	Halo	Instruments -> QROM	151 wav:Vocal WF 5	
+Ensoniq	Halo	Instruments -> QROM	152 wav:Vocal WF 6	
+Ensoniq	Halo	Instruments -> QROM	153 wav:TriangleWave	
+Ensoniq	Halo	Instruments -> QROM	154 wav:Square Wave	
+Ensoniq	Halo	Instruments -> QROM	155 wav:Aah Ooh XW	
+Ensoniq	Halo	Instruments -> QROM	156 wav:MoogX XW	
+Ensoniq	Halo	Instruments -> QROM	157 wav:Resonance	
+Ensoniq	Halo	Instruments -> QROM	158 wav:Techno Bs XW	
+Ensoniq	Halo	Instruments -> QROM	159 wav:PulseX XW	
+Ensoniq	Halo	Instruments -> QROM	160 wav:Phase SyncXW	
+Ensoniq	Halo	Instruments -> QROM	161 wav:Rap Bass XW	
+Ensoniq	Halo	Instruments -> QROM	162 wav:Rezz Bs XW	
+Ensoniq	Halo	Instruments -> QROM	163 wav:SoftAnalogXW	
+Ensoniq	Halo	Instruments -> QROM	164 wav:Analog PadXW	
+Ensoniq	Halo	Instruments -> QROM	165 wav:Bell XW 1	
+Ensoniq	Halo	Instruments -> QROM	166 wav:Bell XW 2	
+Ensoniq	Halo	Instruments -> QROM	167 wav:Bell XW 3	
+Ensoniq	Halo	Instruments -> QROM	168 wav:Bell XW 4	
+Ensoniq	Halo	Instruments -> QROM	169 wav:MultiBell XW	
+Ensoniq	Halo	Instruments -> QROM	170 wav:Osc Sync XW1	
+Ensoniq	Halo	Instruments -> QROM	171 wav:Osc Sync XW2	
+Ensoniq	Halo	Instruments -> QROM	172 wav:Tine X	
+Ensoniq	Halo	Instruments -> QROM	173 wav:Tri Sweep XW	
+Ensoniq	Halo	Instruments -> QROM	174 wav:TranswaveZ	
+Ensoniq	Halo	Instruments -> QROM	175 wav:Transwave AA	
+Ensoniq	Halo	Instruments -> QROM	176 wav:Transwave AH	
+Ensoniq	Halo	Instruments -> QROM	177 wav:Transwave EE	
+Ensoniq	Halo	Instruments -> QROM	178 wav:Transwave OH	
+Ensoniq	Halo	Instruments -> QROM	179 wav:Rez Sweep XW	
+Ensoniq	Halo	Instruments -> QROM	180 wav:Organ XW	
+Ensoniq	Halo	Instruments -> QROM	181 wav:MoogX	
+Ensoniq	Halo	Instruments -> QROM	182 wav:Drawbar XW	
+Ensoniq	Halo	Instruments -> QROM	183 wav:Crystal	
+Ensoniq	Halo	Instruments -> QROM	184 syn:FM Clav	
+Ensoniq	Halo	Instruments -> QROM	185 syn:Pad Synth	
+Ensoniq	Halo	Instruments -> QROM	186 syn:Synth Bell	
+Ensoniq	Halo	Instruments -> QROM	187 syn:Synkey Wave	
+Ensoniq	Halo	Instruments -> QROM	188 syn:Synth Brass	
+Ensoniq	Halo	Instruments -> QROM	189 syn:Clavinet	
+Ensoniq	Halo	Instruments -> QROM	190 syn:Moog Lead	
+Ensoniq	Halo	Instruments -> QROM	191 hit:Dance Hit	
+Ensoniq	Halo	Instruments -> QROM	192 hit:Orch Hit	
+Ensoniq	Halo	Instruments -> QROM	193 sfx:Air Loop	
+Ensoniq	Halo	Instruments -> QROM	194 sfx:Applause	
+Ensoniq	Halo	Instruments -> QROM	195 sfx:Bird Song	
+Ensoniq	Halo	Instruments -> QROM	196 sfx:Helicopter	
+Ensoniq	Halo	Instruments -> QROM	197 sfx:Spectrum	
+Ensoniq	Halo	Instruments -> QROM	198 sfx:SurfaceNoise	
+Ensoniq	Halo	Instruments -> QROM	199 sfx:Telephone	
+Ensoniq	Halo	Instruments -> QROM	200 sfx:Synth Kiss	
+Ensoniq	Halo	Instruments -> QROM	201 sfx:Texture	
+Ensoniq	Halo	Instruments -> QROM	202 sfx:Tape Loop	
+Ensoniq	Halo	Instruments -> QROM	203 nse:Noise	
+Ensoniq	Halo	Instruments -> QROM	204 nse:Scratch	
+Ensoniq	Halo	Instruments -> QROM	205 nse:Wakka XW 1	
+Ensoniq	Halo	Instruments -> QROM	206 nse:Wakka XW 2	
+Ensoniq	Halo	Instruments -> QROM	207 prc:Marimba	
+Ensoniq	Halo	Instruments -> QROM	208 prc:Kalimba	
+Ensoniq	Halo	Instruments -> QROM	209 prc:Log Drum	
+Ensoniq	Halo	Instruments -> QROM	210 prc:Handbells	
+Ensoniq	Halo	Instruments -> QROM	211 prc:Glockenspiel	
+Ensoniq	Halo	Instruments -> QROM	212 prc:Gamelan Bell	
+Ensoniq	Halo	Instruments -> QROM	213 prc:Steel Drum	
+Ensoniq	Halo	Instruments -> QROM	214 prc:Vibraphone	
+Ensoniq	Halo	Instruments -> QROM	215 prc:Xylophone	
+Ensoniq	Halo	Instruments -> QROM	216 prc:Tubular Bell	
+Ensoniq	Halo	Instruments -> QROM	217 prc:Sm TunedGong	
+Ensoniq	Halo	Instruments -> QROM	218 prc:Kick Drums 1	
+Ensoniq	Halo	Instruments -> QROM	219 prc:Kick Drums 2	
+Ensoniq	Halo	Instruments -> QROM	220 prc:Kick Drums 3	
+Ensoniq	Halo	Instruments -> QROM	221 prc:Snare Drums1	
+Ensoniq	Halo	Instruments -> QROM	222 prc:Snare Drums2	
+Ensoniq	Halo	Instruments -> QROM	223 prc:Cymbals 1	
+Ensoniq	Halo	Instruments -> QROM	224 prc:Cymbals 2	
+Ensoniq	Halo	Instruments -> QROM	225 prc:Percussion 1	
+Ensoniq	Halo	Instruments -> QROM	226 prc:Percussion 2	
+Ensoniq	Halo	Instruments -> QROM	227 prc:Toy Percs	
+Ensoniq	Halo	Instruments -> QROM	228 prc:Toy Percs Lo	
+Ensoniq	Halo	Instruments -> QROM	229 prc:Toms 1	
+Ensoniq	Halo	Instruments -> QROM	230 prc:Big Toms	
+Ensoniq	Halo	Instruments -> QROM	231 prc:Dry Tom High	
+Ensoniq	Halo	Instruments -> QROM	232 prc:Live Toms	
+Ensoniq	Halo	Instruments -> QROM	233 prc:Pure Toms	
+Ensoniq	Halo	Instruments -> QROM	234 prc:Rock Toms	
+Ensoniq	Halo	Instruments -> QROM	235 prc:Brushes	
+Ensoniq	Halo	Instruments -> QROM	236 prc:Snaps	
+Ensoniq	Halo	Instruments -> QROM	237 prc:Claps	
+Ensoniq	Halo	Instruments -> QROM	238 prc:Congas	
+Ensoniq	Halo	Instruments -> QROM	239 prc:Cowbells	
+Ensoniq	Halo	Instruments -> QROM	240 prc:Timbales	
+Ensoniq	Halo	Instruments -> QROM	241 prc:Shakers 1	
+Ensoniq	Halo	Instruments -> QROM	242 prc:Shakers 2	
+Ensoniq	Halo	Instruments -> QROM	243 prc:Tambourines	
+Ensoniq	Halo	Instruments -> QROM	244 prc:Windchimes	
+Ensoniq	Halo	Instruments -> QROM	245 prc:Rainstick	
+Ensoniq	Halo	Instruments -> QROM	246 prc:RainstickHit	
+Ensoniq	Halo	Instruments -> QROM	247 prc:Sleighbell	
+Ensoniq	Halo	Instruments -> QROM	248 prc:Cactus Loop	
+Ensoniq	Halo	Instruments -> QROM	249 prc:NutRattleHit	
+Ensoniq	Halo	Instruments -> QROM	250 prc:Nut RattleLP	
+Ensoniq	Halo	Instruments -> QROM	251 kit:Kit 1	
+Ensoniq	Halo	Instruments -> QROM	252 kit:Kit 2	
+Ensoniq	Halo	Instruments -> QROM	253 kit:Kit 3	
+Ensoniq	Halo	Instruments -> QROM	254 kit:Kit 4	
+Ensoniq	Halo	Instruments -> QROM	255 kit:Kit 5	
+Ensoniq	Halo	Instruments -> QROM	256 kit:Kit 6	
+Ensoniq	Halo	Instruments -> QROM	257 kit:Kit 7	
+Ensoniq	Halo	Instruments -> QROM	258 kit:Kit 8	
+Ensoniq	Halo	Instruments -> QROM	259 kit:Kit 9	
+Ensoniq	Halo	Instruments -> QROM	260 kit:Kit 10	
+Ensoniq	Halo	Instruments -> QROM	261 kit:Kit 11	
+Ensoniq	Halo	Instruments -> QROM	262 kit:Kit 12	
+Ensoniq	Halo	Instruments -> QROM	263 kit:Kit 13	
+Ensoniq	Halo	Instruments -> QROM	264 kit:Kit 14	
+Ensoniq	Halo	Instruments -> QROM	265 kit:Kit 15	
+Ensoniq	Halo	Instruments -> QROM	266 kit:Kit 16	
+Ensoniq	Halo	Instruments -> QROM	267 kit:Kit 17	
+Ensoniq	Halo	Instruments -> QROM	268 kit:Kit 18	
+Ensoniq	Halo	Instruments -> QROM	269 kit:Kit 19	
+Ensoniq	Halo	Instruments -> QROM	270 kit:Kit 20	
+Ensoniq	Halo	Instruments -> QROM	271 kit:Kit 21	
+Ensoniq	Halo	Instruments -> QROM	272 kit:Kit 22	
+Ensoniq	Halo	Instruments -> QROM	273 kit:Kit 23 E	
+Ensoniq	Halo	Instruments -> QROM	274 kit:Kit 24 E	
+Ensoniq	Halo	Instruments -> QROM	275 kit:Kit 25 E	
+Ensoniq	Halo	Instruments -> QROM	276 kit:Kit 26 E	
+Ensoniq	Halo	Instruments -> QROM	277 kit:Kit 27 E	
+Ensoniq	Halo	Instruments -> QROM	278 kit:Kit 28 E	
+Ensoniq	Halo	Instruments -> QROM	279 kit:Kit 29 E	
+Ensoniq	Halo	Instruments -> QROM	280 prc:Kick 1	
+Ensoniq	Halo	Instruments -> QROM	281 prc:Kick 2	
+Ensoniq	Halo	Instruments -> QROM	282 prc:Kick 3	
+Ensoniq	Halo	Instruments -> QROM	283 prc:Kick 4	
+Ensoniq	Halo	Instruments -> QROM	284 prc:Kick 5	
+Ensoniq	Halo	Instruments -> QROM	285 prc:Kick 6	
+Ensoniq	Halo	Instruments -> QROM	286 prc:Kick 7	
+Ensoniq	Halo	Instruments -> QROM	287 prc:Kick 8	
+Ensoniq	Halo	Instruments -> QROM	288 prc:Kick 9	
+Ensoniq	Halo	Instruments -> QROM	289 prc:Kick 10	
+Ensoniq	Halo	Instruments -> QROM	290 prc:Kick 11	
+Ensoniq	Halo	Instruments -> QROM	291 prc:Kick 12	
+Ensoniq	Halo	Instruments -> QROM	292 prc:Kick 13	
+Ensoniq	Halo	Instruments -> QROM	293 prc:Kick 14	
+Ensoniq	Halo	Instruments -> QROM	294 prc:Kick 15	
+Ensoniq	Halo	Instruments -> QROM	295 prc:Kick 16	
+Ensoniq	Halo	Instruments -> QROM	296 prc:Kick 17	
+Ensoniq	Halo	Instruments -> QROM	297 prc:Kick 18	
+Ensoniq	Halo	Instruments -> QROM	298 prc:Kick 19	
+Ensoniq	Halo	Instruments -> QROM	299 prc:Kick 20	
+Ensoniq	Halo	Instruments -> QROM	300 prc:Kick 21	
+Ensoniq	Halo	Instruments -> QROM	301 prc:Kick 22	
+Ensoniq	Halo	Instruments -> QROM	302 prc:Kick 23	
+Ensoniq	Halo	Instruments -> QROM	303 prc:Orch Bs Drum	
+Ensoniq	Halo	Instruments -> QROM	304 prc:Snare 1	
+Ensoniq	Halo	Instruments -> QROM	305 prc:Snare 2	
+Ensoniq	Halo	Instruments -> QROM	306 prc:Snare 3	
+Ensoniq	Halo	Instruments -> QROM	307 prc:Snare 4	
+Ensoniq	Halo	Instruments -> QROM	308 prc:Snare 5	
+Ensoniq	Halo	Instruments -> QROM	309 prc:Snare 6	
+Ensoniq	Halo	Instruments -> QROM	310 prc:Snare 7	
+Ensoniq	Halo	Instruments -> QROM	311 prc:Snare 8	
+Ensoniq	Halo	Instruments -> QROM	312 prc:Snare 9	
+Ensoniq	Halo	Instruments -> QROM	313 prc:Snare 10	
+Ensoniq	Halo	Instruments -> QROM	314 prc:Snare 11	
+Ensoniq	Halo	Instruments -> QROM	315 prc:Snare 12	
+Ensoniq	Halo	Instruments -> QROM	316 prc:Snare 13	
+Ensoniq	Halo	Instruments -> QROM	317 prc:Snare 14	
+Ensoniq	Halo	Instruments -> QROM	318 prc:Snare 15	
+Ensoniq	Halo	Instruments -> QROM	319 prc:Snare 16	
+Ensoniq	Halo	Instruments -> QROM	320 prc:Snare 17	
+Ensoniq	Halo	Instruments -> QROM	321 prc:Snare 18	
+Ensoniq	Halo	Instruments -> QROM	322 prc:Snare 19	
+Ensoniq	Halo	Instruments -> QROM	323 prc:Snare 20	
+Ensoniq	Halo	Instruments -> QROM	324 prc:Snare 21	
+Ensoniq	Halo	Instruments -> QROM	325 prc:Snare 22	
+Ensoniq	Halo	Instruments -> QROM	326 prc:Snare 23	
+Ensoniq	Halo	Instruments -> QROM	327 prc:Snare 24	
+Ensoniq	Halo	Instruments -> QROM	328 prc:Snare 25	
+Ensoniq	Halo	Instruments -> QROM	329 prc:Snare 26	
+Ensoniq	Halo	Instruments -> QROM	330 prc:Snare 27	
+Ensoniq	Halo	Instruments -> QROM	331 prc:Snare 28	
+Ensoniq	Halo	Instruments -> QROM	332 prc:Snare 29	
+Ensoniq	Halo	Instruments -> QROM	333 prc:Snare 30	
+Ensoniq	Halo	Instruments -> QROM	334 prc:Snare 31	
+Ensoniq	Halo	Instruments -> QROM	335 prc:Snare 32	
+Ensoniq	Halo	Instruments -> QROM	336 prc:Snare 33	
+Ensoniq	Halo	Instruments -> QROM	337 prc:Snare 34	
+Ensoniq	Halo	Instruments -> QROM	338 prc:Snare 35	
+Ensoniq	Halo	Instruments -> QROM	339 prc:Brush 1	
+Ensoniq	Halo	Instruments -> QROM	340 prc:Brush 2	
+Ensoniq	Halo	Instruments -> QROM	341 prc:Brush 3	
+Ensoniq	Halo	Instruments -> QROM	342 prc:Brush 4	
+Ensoniq	Halo	Instruments -> QROM	343 prc:Brush 5	
+Ensoniq	Halo	Instruments -> QROM	344 prc:Brush 5	
+Ensoniq	Halo	Instruments -> QROM	345 prc:Tom 1	
+Ensoniq	Halo	Instruments -> QROM	346 prc:Tom 2	
+Ensoniq	Halo	Instruments -> QROM	347 prc:Tom 3	
+Ensoniq	Halo	Instruments -> QROM	348 prc:Tom 4	
+Ensoniq	Halo	Instruments -> QROM	349 prc:Tom 5	
+Ensoniq	Halo	Instruments -> QROM	350 prc:Tom 6	
+Ensoniq	Halo	Instruments -> QROM	351 prc:Tom 7	
+Ensoniq	Halo	Instruments -> QROM	352 prc:Tom 8	
+Ensoniq	Halo	Instruments -> QROM	353 prc:Tom 9	
+Ensoniq	Halo	Instruments -> QROM	354 prc:Tom 10	
+Ensoniq	Halo	Instruments -> QROM	355 prc:Tom 11	
+Ensoniq	Halo	Instruments -> QROM	356 prc:Tom 12	
+Ensoniq	Halo	Instruments -> QROM	357 prc:Tom 13	
+Ensoniq	Halo	Instruments -> QROM	358 prc:Tom 14	
+Ensoniq	Halo	Instruments -> QROM	359 prc:Tom 15	
+Ensoniq	Halo	Instruments -> QROM	360 prc:Tom 16	
+Ensoniq	Halo	Instruments -> QROM	361 prc:Cymbal 1	
+Ensoniq	Halo	Instruments -> QROM	362 prc:Cymbal 2	
+Ensoniq	Halo	Instruments -> QROM	363 prc:Cymbal 3	
+Ensoniq	Halo	Instruments -> QROM	364 prc:Cymbal 4	
+Ensoniq	Halo	Instruments -> QROM	365 prc:Cymbal 5	
+Ensoniq	Halo	Instruments -> QROM	366 prc:Cymbal 6	
+Ensoniq	Halo	Instruments -> QROM	367 prc:Cymbal 7	
+Ensoniq	Halo	Instruments -> QROM	368 prc:Cymbal 8	
+Ensoniq	Halo	Instruments -> QROM	369 prc:Crash Cym 1	
+Ensoniq	Halo	Instruments -> QROM	370 prc:Crash Cym 2	
+Ensoniq	Halo	Instruments -> QROM	371 prc:Crash Cym 3	
+Ensoniq	Halo	Instruments -> QROM	372 prc:China Cym 1	
+Ensoniq	Halo	Instruments -> QROM	373 prc:China Cym 2	
+Ensoniq	Halo	Instruments -> QROM	374 prc:China Cym 3	
+Ensoniq	Halo	Instruments -> QROM	375 prc:Hat 1	
+Ensoniq	Halo	Instruments -> QROM	376 prc:Hat 2	
+Ensoniq	Halo	Instruments -> QROM	377 prc:Hat 3	
+Ensoniq	Halo	Instruments -> QROM	378 prc:Hat 4	
+Ensoniq	Halo	Instruments -> QROM	379 prc:Hat 5	
+Ensoniq	Halo	Instruments -> QROM	380 prc:Hat 6	
+Ensoniq	Halo	Instruments -> QROM	381 prc:Hat 7	
+Ensoniq	Halo	Instruments -> QROM	382 prc:Hat 8	
+Ensoniq	Halo	Instruments -> QROM	383 prc:Hat 9	
+Ensoniq	Halo	Instruments -> QROM	384 prc:Hat 10	
+Ensoniq	Halo	Instruments -> QROM	385 prc:Hat 11	
+Ensoniq	Halo	Instruments -> QROM	386 prc:Hat 12	
+Ensoniq	Halo	Instruments -> QROM	387 prc:Hat 13	
+Ensoniq	Halo	Instruments -> QROM	388 prc:Hat 14	
+Ensoniq	Halo	Instruments -> QROM	389 prc:Hat 15	
+Ensoniq	Halo	Instruments -> QROM	390 prc:Hat 16	
+Ensoniq	Halo	Instruments -> QROM	391 prc:Hat 17	
+Ensoniq	Halo	Instruments -> QROM	392 prc:Hat 18	
+Ensoniq	Halo	Instruments -> QROM	393 prc:Hat 19	
+Ensoniq	Halo	Instruments -> QROM	394 prc:Conga 1	
+Ensoniq	Halo	Instruments -> QROM	395 prc:Conga 2	
+Ensoniq	Halo	Instruments -> QROM	396 prc:Conga 3	
+Ensoniq	Halo	Instruments -> QROM	397 prc:Conga 4	
+Ensoniq	Halo	Instruments -> QROM	398 prc:Sm TunedGong	
+Ensoniq	Halo	Instruments -> QROM	399 prc:Tambo 1	
+Ensoniq	Halo	Instruments -> QROM	400 prc:Tambo 2	
+Ensoniq	Halo	Instruments -> QROM	401 prc:Tambo 3	
+Ensoniq	Halo	Instruments -> QROM	402 prc:Tambo Up-Dwn	
+Ensoniq	Halo	Instruments -> QROM	403 prc:Shaker 1	
+Ensoniq	Halo	Instruments -> QROM	404 prc:Shaker 2	
+Ensoniq	Halo	Instruments -> QROM	405 prc:Shaker 3	
+Ensoniq	Halo	Instruments -> QROM	406 prc:Shake Up-Dwn	
+Ensoniq	Halo	Instruments -> QROM	407 prc:Cabasa 1	
+Ensoniq	Halo	Instruments -> QROM	408 prc:Cabasa 2	
+Ensoniq	Halo	Instruments -> QROM	409 prc:Cabasa 3	
+Ensoniq	Halo	Instruments -> QROM	410 prc:CabasaUp-Dwn	
+Ensoniq	Halo	Instruments -> QROM	411 prc:Maraca 1	
+Ensoniq	Halo	Instruments -> QROM	412 prc:Maraca 2	
+Ensoniq	Halo	Instruments -> QROM	413 prc:Maraca 3	
+Ensoniq	Halo	Instruments -> QROM	414 prc:Cowbell 1	
+Ensoniq	Halo	Instruments -> QROM	415 prc:Cowbell 2	
+Ensoniq	Halo	Instruments -> QROM	416 prc:Cowbell 3	
+Ensoniq	Halo	Instruments -> QROM	417 prc:Clap 1	
+Ensoniq	Halo	Instruments -> QROM	418 prc:Clap 2	
+Ensoniq	Halo	Instruments -> QROM	419 prc:Clave 1	
+Ensoniq	Halo	Instruments -> QROM	420 prc:Clave 2	
+Ensoniq	Halo	Instruments -> QROM	421 prc:Tuned Clave	
+Ensoniq	Halo	Instruments -> QROM	422 prc:Synth Drum	
+Ensoniq	Halo	Instruments -> QROM	423 prc:Snaps	
+Ensoniq	Halo	Instruments -> QROM	424 prc:Spoons	
+Ensoniq	Halo	Instruments -> QROM	425 prc:Jawharp	
+Ensoniq	Halo	Instruments -> QROM	426 prc:Syn Rim	
+Ensoniq	Halo	Instruments -> QROM	427 prc:Bongo	
+Ensoniq	Halo	Instruments -> QROM	428 prc:Gun	
+Ensoniq	Halo	Instruments -> QROM	429 prc:Taiko	
+Ensoniq	Halo	Instruments -> QROM	430 prc:Timpani 1	
+Ensoniq	Halo	Instruments -> QROM	431 prc:Timpani 2	
+Ensoniq	Halo	Instruments -> QROM	432 prc:Timbale 1	
+Ensoniq	Halo	Instruments -> QROM	433 prc:Timbale 2	
+Ensoniq	Halo	Instruments -> QROM	434 prc:Timbale 3	
+Ensoniq	Halo	Instruments -> QROM	435 prc:Whistle 1	
+Ensoniq	Halo	Instruments -> QROM	436 prc:Whistle 2	
+Ensoniq	Halo	Instruments -> QROM	437 prc:Agogo	
+Ensoniq	Halo	Instruments -> QROM	438 prc:Guiro	
+Ensoniq	Halo	Instruments -> QROM	439 prc:Cuica	
+Ensoniq	Halo	Instruments -> QROM	440 prc:Clink	
+Ensoniq	Halo	Instruments -> QROM	441 prc:Woodblock	
+Ensoniq	Halo	Instruments -> QROM	442 prc:Triangle	
+Ensoniq	Halo	Instruments -> QROM	443 prc:Vibraslap	

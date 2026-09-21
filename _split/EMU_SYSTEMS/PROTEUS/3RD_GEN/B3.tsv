@@ -250,10 +250,10 @@ E-MU Systems	B-3	B-3 Bank 1	120 lnk:Perc2ndDir b
 E-MU Systems	B-3	B-3 Bank 1	121 lnk:Perc3rdDir b	
 E-MU Systems	B-3	B-3 Bank 1	122 lnk:Perc2ndDir c	
 E-MU Systems	B-3	B-3 Bank 1	123 lnk:Perc3rdDir c	
-E-MU Systems	B-3	B-3 Bank 1	124 :default	
-E-MU Systems	B-3	B-3 Bank 1	125 :default	
-E-MU Systems	B-3	B-3 Bank 1	126 :default	
-E-MU Systems	B-3	B-3 Bank 1	127 :default	
+E-MU Systems	B-3	B-3 Bank 1	124    :default	
+E-MU Systems	B-3	B-3 Bank 1	125    :default	
+E-MU Systems	B-3	B-3 Bank 1	126    :default	
+E-MU Systems	B-3	B-3 Bank 1	127    :default	
 E-MU Systems	B-3	B-3 Bank 2	000 var:1st3PlyPerc2	
 E-MU Systems	B-3	B-3 Bank 2	001 var:1st3PlyPerc	
 E-MU Systems	B-3	B-3 Bank 2	002 var:1st4PlyPerc2	
@@ -379,147 +379,147 @@ E-MU Systems	B-3	B-3 Bank 2	121 lnk:Perc3rdPly
 E-MU Systems	B-3	B-3 Bank 2	122 lnk:HarmsAllLnk1	
 E-MU Systems	B-3	B-3 Bank 2	123 lnk:HarmsAllLnk2	
 E-MU Systems	B-3	B-3 Bank 2	124 lnk:Harm Seq Lnk	
-E-MU Systems	B-3	B-3 Bank 2	125 :default	
-E-MU Systems	B-3	B-3 Bank 2	126 :default	
-E-MU Systems	B-3	B-3 Bank 2	127 :default	
-E-MU Systems	B-3	Instruments	000 None	
-E-MU Systems	B-3	Instruments	001 org:1st3 Slow S	
-E-MU Systems	B-3	Instruments	002 org:1st3 Slow M	
-E-MU Systems	B-3	Instruments	003 org:1st3 Fast S	
-E-MU Systems	B-3	Instruments	004 org:1st3 Fast M	
-E-MU Systems	B-3	Instruments	005 org:1st4 Slow S	
-E-MU Systems	B-3	Instruments	006 org:1st4 Slow M	
-E-MU Systems	B-3	Instruments	007 org:1st4 Fast S	
-E-MU Systems	B-3	Instruments	008 org:1st4 Fast M	
-E-MU Systems	B-3	Instruments	009 org:1st4SlowVibM	
-E-MU Systems	B-3	Instruments	010 org:1st4FastVibM	
-E-MU Systems	B-3	Instruments	011 org:16&1SlowVibM	
-E-MU Systems	B-3	Instruments	012 org:0863115.SlwS	
-E-MU Systems	B-3	Instruments	013 org:0863115.SlwM	
-E-MU Systems	B-3	Instruments	014 org:0863115.FstS	
-E-MU Systems	B-3	Instruments	015 org:0863115.FstM	
-E-MU Systems	B-3	Instruments	016 org:08631.SlwVbM	
-E-MU Systems	B-3	Instruments	017 org:AllOutSlow S	
-E-MU Systems	B-3	Instruments	018 org:AllOutSlow M	
-E-MU Systems	B-3	Instruments	019 org:AllOutFast S	
-E-MU Systems	B-3	Instruments	020 org:AllOutFast M	
-E-MU Systems	B-3	Instruments	021 org:AllOutSlwVbS	
-E-MU Systems	B-3	Instruments	022 org:AllOutSlwVbM	
-E-MU Systems	B-3	Instruments	023 org:SlowPedals S	
-E-MU Systems	B-3	Instruments	024 org:16'Slow S Fb	
-E-MU Systems	B-3	Instruments	025 org:16'Slow M Fb	
-E-MU Systems	B-3	Instruments	026 org:5-1/3'SlwSFb	
-E-MU Systems	B-3	Instruments	027 org:5-1/3'SlwMFb	
-E-MU Systems	B-3	Instruments	028 org:8'Slow S Fb	
-E-MU Systems	B-3	Instruments	029 org:8'Slow M Fb	
-E-MU Systems	B-3	Instruments	030 org:4'Slow S Fb	
-E-MU Systems	B-3	Instruments	031 org:4'Slow M Fb	
-E-MU Systems	B-3	Instruments	032 org:2-2/3'SlwSFb	
-E-MU Systems	B-3	Instruments	033 org:2-2/3'SlwMFb	
-E-MU Systems	B-3	Instruments	034 org:2'Slow S Fb	
-E-MU Systems	B-3	Instruments	035 org:2'Slow M Fb	
-E-MU Systems	B-3	Instruments	036 org:1-3/5'SlwSFb	
-E-MU Systems	B-3	Instruments	037 org:1-3/5'SlwMFb	
-E-MU Systems	B-3	Instruments	038 org:1-1/3'SlwSFb	
-E-MU Systems	B-3	Instruments	039 org:1-1/3'SlwMFb	
-E-MU Systems	B-3	Instruments	040 org:1'Slow S Fb	
-E-MU Systems	B-3	Instruments	041 org:1'Slow M Fb	
-E-MU Systems	B-3	Instruments	042 org:16'Fast S Fb	
-E-MU Systems	B-3	Instruments	043 org:16'Fast M Fb	
-E-MU Systems	B-3	Instruments	044 org:5-1/3'FstSFb	
-E-MU Systems	B-3	Instruments	045 org:5-1/3'FstMFb	
-E-MU Systems	B-3	Instruments	046 org:8' Fast S Fb	
-E-MU Systems	B-3	Instruments	047 org:8' Fast M Fb	
-E-MU Systems	B-3	Instruments	048 org:4' Fast S Fb	
-E-MU Systems	B-3	Instruments	049 org:4' Fast M Fb	
-E-MU Systems	B-3	Instruments	050 org:2-2/3'FstSFb	
-E-MU Systems	B-3	Instruments	051 org:2-2/3'FstMFb	
-E-MU Systems	B-3	Instruments	052 org:2'Fast S Fb	
-E-MU Systems	B-3	Instruments	053 org:2'Fast M Fb	
-E-MU Systems	B-3	Instruments	054 org:1-3/5'FstSFb	
-E-MU Systems	B-3	Instruments	055 org:1-3/5'FstMFb	
-E-MU Systems	B-3	Instruments	056 org:1-1/3'FstSFb	
-E-MU Systems	B-3	Instruments	057 org:1-1/3'FstMFb	
-E-MU Systems	B-3	Instruments	058 org:1'Fast S Fb	
-E-MU Systems	B-3	Instruments	059 org:1'Fast M Fb	
-E-MU Systems	B-3	Instruments	060 org:Perc2ndSlwFb	
-E-MU Systems	B-3	Instruments	061 org:Perc3rdSlwFb	
-E-MU Systems	B-3	Instruments	062 org:16'SlowS Fb2	
-E-MU Systems	B-3	Instruments	063 org:16'SlowM Fb2	
-E-MU Systems	B-3	Instruments	064 org:16' Slow S	
-E-MU Systems	B-3	Instruments	065 org:16' Slow M	
-E-MU Systems	B-3	Instruments	066 org:5-1/3' Slow S	
-E-MU Systems	B-3	Instruments	067 org:5-1/3' Slow M	
-E-MU Systems	B-3	Instruments	068 org:8' Slow S	
-E-MU Systems	B-3	Instruments	069 org:8' Slow M	
-E-MU Systems	B-3	Instruments	070 org:4' Slow S	
-E-MU Systems	B-3	Instruments	071 org:4' Slow M	
-E-MU Systems	B-3	Instruments	072 org:2-2/3' Slow S	
-E-MU Systems	B-3	Instruments	073 org:2-2/3' Slow M	
-E-MU Systems	B-3	Instruments	074 org:2' Slow S	
-E-MU Systems	B-3	Instruments	075 org:2' Slow M	
-E-MU Systems	B-3	Instruments	076 org:1-3/5' Slow S	
-E-MU Systems	B-3	Instruments	077 org:1-3/5' Slow M	
-E-MU Systems	B-3	Instruments	078 org:1-1/3' Slow S	
-E-MU Systems	B-3	Instruments	079 org:1-1/3' Slow M	
-E-MU Systems	B-3	Instruments	080 org:1' Slow S	
-E-MU Systems	B-3	Instruments	081 org:1' Slow M	
-E-MU Systems	B-3	Instruments	082 org:16' FastS Fb2	
-E-MU Systems	B-3	Instruments	083 org:16' FastM Fb2	
-E-MU Systems	B-3	Instruments	084 org:16' Fast S	
-E-MU Systems	B-3	Instruments	085 org:16' Fast M	
-E-MU Systems	B-3	Instruments	086 org:5-1/3' Fast S	
-E-MU Systems	B-3	Instruments	087 org:5-1/3' Fast M	
-E-MU Systems	B-3	Instruments	088 org:8' Fast S	
-E-MU Systems	B-3	Instruments	089 org:8' Fast M	
-E-MU Systems	B-3	Instruments	090 org:4' Fast S	
-E-MU Systems	B-3	Instruments	091 org:4' Fast M	
-E-MU Systems	B-3	Instruments	092 org:2-2/3' Fast S	
-E-MU Systems	B-3	Instruments	093 org:2-2/3' Fast M	
-E-MU Systems	B-3	Instruments	094 org:2' Fast S	
-E-MU Systems	B-3	Instruments	095 org:2' Fast M	
-E-MU Systems	B-3	Instruments	096 org:1-3/5' Fast S	
-E-MU Systems	B-3	Instruments	097 org:1-3/5' Fast M	
-E-MU Systems	B-3	Instruments	098 org:1-1/3' Fast S	
-E-MU Systems	B-3	Instruments	099 org:1-1/3' Fast M	
-E-MU Systems	B-3	Instruments	100 org:1' Fast S	
-E-MU Systems	B-3	Instruments	101 org:1' Fast M	
-E-MU Systems	B-3	Instruments	102 org:Perc2ndSlow	
-E-MU Systems	B-3	Instruments	103 org:Perc3rdSlow	
-E-MU Systems	B-3	Instruments	104 org:16' DirectFb	
-E-MU Systems	B-3	Instruments	105 org:5-1/3' Dir Fb	
-E-MU Systems	B-3	Instruments	106 org:8' Direct Fb	
-E-MU Systems	B-3	Instruments	107 org:4' Direct Fb	
-E-MU Systems	B-3	Instruments	108 org:2-1/3' Dir Fb	
-E-MU Systems	B-3	Instruments	109 org:2' Direct Fb	
-E-MU Systems	B-3	Instruments	110 org:1-3/5' Dir Fb	
-E-MU Systems	B-3	Instruments	111 org:1-1/3' Dir Fb	
-E-MU Systems	B-3	Instruments	112 org:1' Direct Fb	
-E-MU Systems	B-3	Instruments	113 org:Perc2ndDirFb	
-E-MU Systems	B-3	Instruments	114 org:Perc3rdDirFb	
-E-MU Systems	B-3	Instruments	115 org:16'DirectFb2	
-E-MU Systems	B-3	Instruments	116 org:16' Direct	
-E-MU Systems	B-3	Instruments	117 org:5-1/3'Direct	
-E-MU Systems	B-3	Instruments	118 org:8' Direct	
-E-MU Systems	B-3	Instruments	119 org:4' Direct	
-E-MU Systems	B-3	Instruments	120 org:2-2/3' Direct	
-E-MU Systems	B-3	Instruments	121 org:2' Direct	
-E-MU Systems	B-3	Instruments	122 org:1-3/5' Direct	
-E-MU Systems	B-3	Instruments	123 org:1-1/3' Direct	
-E-MU Systems	B-3	Instruments	124 org:1' Direct	
-E-MU Systems	B-3	Instruments	125 org:Perc2ndDir	
-E-MU Systems	B-3	Instruments	126 org:Perc3rdDir	
-E-MU Systems	B-3	Instruments	127 org:EFX Master	
-E-MU Systems	B-3	Instruments	128 org:Rotor Pan	
-E-MU Systems	B-3	Instruments	129 org:Generator	
-E-MU Systems	B-3	Instruments	130 org:Volution	
-E-MU Systems	B-3	Instruments	131 org:Harms Vox	
-E-MU Systems	B-3	Instruments	132 org:DenseTexture	
-E-MU Systems	B-3	Instruments	133 org:Drawbar	
-E-MU Systems	B-3	Instruments	134 org:Start Switch	
-E-MU Systems	B-3	Instruments	135 org:Stab	
-E-MU Systems	B-3	Instruments	136 org:Percy 1	
-E-MU Systems	B-3	Instruments	137 org:Percy 2	
-E-MU Systems	B-3	Instruments	138 org:Percy 3	
-E-MU Systems	B-3	Instruments	139 org:Percy 4	
-E-MU Systems	B-3	Instruments	140 org:No-Tone	
+E-MU Systems	B-3	B-3 Bank 2	125    :default	
+E-MU Systems	B-3	B-3 Bank 2	126    :default	
+E-MU Systems	B-3	B-3 Bank 2	127    :default	
+E-MU Systems	B-3	Instruments -> B-3	000 None	
+E-MU Systems	B-3	Instruments -> B-3	001 org:1st3 Slow S	
+E-MU Systems	B-3	Instruments -> B-3	002 org:1st3 Slow M	
+E-MU Systems	B-3	Instruments -> B-3	003 org:1st3 Fast S	
+E-MU Systems	B-3	Instruments -> B-3	004 org:1st3 Fast M	
+E-MU Systems	B-3	Instruments -> B-3	005 org:1st4 Slow S	
+E-MU Systems	B-3	Instruments -> B-3	006 org:1st4 Slow M	
+E-MU Systems	B-3	Instruments -> B-3	007 org:1st4 Fast S	
+E-MU Systems	B-3	Instruments -> B-3	008 org:1st4 Fast M	
+E-MU Systems	B-3	Instruments -> B-3	009 org:1st4SlowVibM	
+E-MU Systems	B-3	Instruments -> B-3	010 org:1st4FastVibM	
+E-MU Systems	B-3	Instruments -> B-3	011 org:16&1SlowVibM	
+E-MU Systems	B-3	Instruments -> B-3	012 org:0863115.SlwS	
+E-MU Systems	B-3	Instruments -> B-3	013 org:0863115.SlwM	
+E-MU Systems	B-3	Instruments -> B-3	014 org:0863115.FstS	
+E-MU Systems	B-3	Instruments -> B-3	015 org:0863115.FstM	
+E-MU Systems	B-3	Instruments -> B-3	016 org:08631.SlwVbM	
+E-MU Systems	B-3	Instruments -> B-3	017 org:AllOutSlow S	
+E-MU Systems	B-3	Instruments -> B-3	018 org:AllOutSlow M	
+E-MU Systems	B-3	Instruments -> B-3	019 org:AllOutFast S	
+E-MU Systems	B-3	Instruments -> B-3	020 org:AllOutFast M	
+E-MU Systems	B-3	Instruments -> B-3	021 org:AllOutSlwVbS	
+E-MU Systems	B-3	Instruments -> B-3	022 org:AllOutSlwVbM	
+E-MU Systems	B-3	Instruments -> B-3	023 org:SlowPedals S	
+E-MU Systems	B-3	Instruments -> B-3	024 org:16'Slow S Fb	
+E-MU Systems	B-3	Instruments -> B-3	025 org:16'Slow M Fb	
+E-MU Systems	B-3	Instruments -> B-3	026 org:5-1/3'SlwSFb	
+E-MU Systems	B-3	Instruments -> B-3	027 org:5-1/3'SlwMFb	
+E-MU Systems	B-3	Instruments -> B-3	028 org:8'Slow S Fb	
+E-MU Systems	B-3	Instruments -> B-3	029 org:8'Slow M Fb	
+E-MU Systems	B-3	Instruments -> B-3	030 org:4'Slow S Fb	
+E-MU Systems	B-3	Instruments -> B-3	031 org:4'Slow M Fb	
+E-MU Systems	B-3	Instruments -> B-3	032 org:2-2/3'SlwSFb	
+E-MU Systems	B-3	Instruments -> B-3	033 org:2-2/3'SlwMFb	
+E-MU Systems	B-3	Instruments -> B-3	034 org:2'Slow S Fb	
+E-MU Systems	B-3	Instruments -> B-3	035 org:2'Slow M Fb	
+E-MU Systems	B-3	Instruments -> B-3	036 org:1-3/5'SlwSFb	
+E-MU Systems	B-3	Instruments -> B-3	037 org:1-3/5'SlwMFb	
+E-MU Systems	B-3	Instruments -> B-3	038 org:1-1/3'SlwSFb	
+E-MU Systems	B-3	Instruments -> B-3	039 org:1-1/3'SlwMFb	
+E-MU Systems	B-3	Instruments -> B-3	040 org:1'Slow S Fb	
+E-MU Systems	B-3	Instruments -> B-3	041 org:1'Slow M Fb	
+E-MU Systems	B-3	Instruments -> B-3	042 org:16'Fast S Fb	
+E-MU Systems	B-3	Instruments -> B-3	043 org:16'Fast M Fb	
+E-MU Systems	B-3	Instruments -> B-3	044 org:5-1/3'FstSFb	
+E-MU Systems	B-3	Instruments -> B-3	045 org:5-1/3'FstMFb	
+E-MU Systems	B-3	Instruments -> B-3	046 org:8' Fast S Fb	
+E-MU Systems	B-3	Instruments -> B-3	047 org:8' Fast M Fb	
+E-MU Systems	B-3	Instruments -> B-3	048 org:4' Fast S Fb	
+E-MU Systems	B-3	Instruments -> B-3	049 org:4' Fast M Fb	
+E-MU Systems	B-3	Instruments -> B-3	050 org:2-2/3'FstSFb	
+E-MU Systems	B-3	Instruments -> B-3	051 org:2-2/3'FstMFb	
+E-MU Systems	B-3	Instruments -> B-3	052 org:2'Fast S Fb	
+E-MU Systems	B-3	Instruments -> B-3	053 org:2'Fast M Fb	
+E-MU Systems	B-3	Instruments -> B-3	054 org:1-3/5'FstSFb	
+E-MU Systems	B-3	Instruments -> B-3	055 org:1-3/5'FstMFb	
+E-MU Systems	B-3	Instruments -> B-3	056 org:1-1/3'FstSFb	
+E-MU Systems	B-3	Instruments -> B-3	057 org:1-1/3'FstMFb	
+E-MU Systems	B-3	Instruments -> B-3	058 org:1'Fast S Fb	
+E-MU Systems	B-3	Instruments -> B-3	059 org:1'Fast M Fb	
+E-MU Systems	B-3	Instruments -> B-3	060 org:Perc2ndSlwFb	
+E-MU Systems	B-3	Instruments -> B-3	061 org:Perc3rdSlwFb	
+E-MU Systems	B-3	Instruments -> B-3	062 org:16'SlowS Fb2	
+E-MU Systems	B-3	Instruments -> B-3	063 org:16'SlowM Fb2	
+E-MU Systems	B-3	Instruments -> B-3	064 org:16' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	065 org:16' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	066 org:5-1/3' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	067 org:5-1/3' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	068 org:8' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	069 org:8' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	070 org:4' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	071 org:4' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	072 org:2-2/3' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	073 org:2-2/3' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	074 org:2' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	075 org:2' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	076 org:1-3/5' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	077 org:1-3/5' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	078 org:1-1/3' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	079 org:1-1/3' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	080 org:1' Slow S	
+E-MU Systems	B-3	Instruments -> B-3	081 org:1' Slow M	
+E-MU Systems	B-3	Instruments -> B-3	082 org:16' FastS Fb2	
+E-MU Systems	B-3	Instruments -> B-3	083 org:16' FastM Fb2	
+E-MU Systems	B-3	Instruments -> B-3	084 org:16' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	085 org:16' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	086 org:5-1/3' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	087 org:5-1/3' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	088 org:8' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	089 org:8' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	090 org:4' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	091 org:4' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	092 org:2-2/3' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	093 org:2-2/3' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	094 org:2' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	095 org:2' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	096 org:1-3/5' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	097 org:1-3/5' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	098 org:1-1/3' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	099 org:1-1/3' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	100 org:1' Fast S	
+E-MU Systems	B-3	Instruments -> B-3	101 org:1' Fast M	
+E-MU Systems	B-3	Instruments -> B-3	102 org:Perc2ndSlow	
+E-MU Systems	B-3	Instruments -> B-3	103 org:Perc3rdSlow	
+E-MU Systems	B-3	Instruments -> B-3	104 org:16' DirectFb	
+E-MU Systems	B-3	Instruments -> B-3	105 org:5-1/3' Dir Fb	
+E-MU Systems	B-3	Instruments -> B-3	106 org:8' Direct Fb	
+E-MU Systems	B-3	Instruments -> B-3	107 org:4' Direct Fb	
+E-MU Systems	B-3	Instruments -> B-3	108 org:2-1/3' Dir Fb	
+E-MU Systems	B-3	Instruments -> B-3	109 org:2' Direct Fb	
+E-MU Systems	B-3	Instruments -> B-3	110 org:1-3/5' Dir Fb	
+E-MU Systems	B-3	Instruments -> B-3	111 org:1-1/3' Dir Fb	
+E-MU Systems	B-3	Instruments -> B-3	112 org:1' Direct Fb	
+E-MU Systems	B-3	Instruments -> B-3	113 org:Perc2ndDirFb	
+E-MU Systems	B-3	Instruments -> B-3	114 org:Perc3rdDirFb	
+E-MU Systems	B-3	Instruments -> B-3	115 org:16'DirectFb2	
+E-MU Systems	B-3	Instruments -> B-3	116 org:16' Direct	
+E-MU Systems	B-3	Instruments -> B-3	117 org:5-1/3'Direct	
+E-MU Systems	B-3	Instruments -> B-3	118 org:8' Direct	
+E-MU Systems	B-3	Instruments -> B-3	119 org:4' Direct	
+E-MU Systems	B-3	Instruments -> B-3	120 org:2-2/3' Direct	
+E-MU Systems	B-3	Instruments -> B-3	121 org:2' Direct	
+E-MU Systems	B-3	Instruments -> B-3	122 org:1-3/5' Direct	
+E-MU Systems	B-3	Instruments -> B-3	123 org:1-1/3' Direct	
+E-MU Systems	B-3	Instruments -> B-3	124 org:1' Direct	
+E-MU Systems	B-3	Instruments -> B-3	125 org:Perc2ndDir	
+E-MU Systems	B-3	Instruments -> B-3	126 org:Perc3rdDir	
+E-MU Systems	B-3	Instruments -> B-3	127 org:EFX Master	
+E-MU Systems	B-3	Instruments -> B-3	128 org:Rotor Pan	
+E-MU Systems	B-3	Instruments -> B-3	129 org:Generator	
+E-MU Systems	B-3	Instruments -> B-3	130 org:Volution	
+E-MU Systems	B-3	Instruments -> B-3	131 org:Harms Vox	
+E-MU Systems	B-3	Instruments -> B-3	132 org:DenseTexture	
+E-MU Systems	B-3	Instruments -> B-3	133 org:Drawbar	
+E-MU Systems	B-3	Instruments -> B-3	134 org:Start Switch	
+E-MU Systems	B-3	Instruments -> B-3	135 org:Stab	
+E-MU Systems	B-3	Instruments -> B-3	136 org:Percy 1	
+E-MU Systems	B-3	Instruments -> B-3	137 org:Percy 2	
+E-MU Systems	B-3	Instruments -> B-3	138 org:Percy 3	
+E-MU Systems	B-3	Instruments -> B-3	139 org:Percy 4	
+E-MU Systems	B-3	Instruments -> B-3	140 org:No-Tone	

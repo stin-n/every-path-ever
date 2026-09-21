@@ -381,7 +381,7 @@ E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH1 Bank 2	123 sfx:Orion
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH1 Bank 2	124 prc:Timberell	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH1 Bank 2	125 prc:Childbells	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH1 Bank 2	126 lnk:VelTmpDm1Lnk	
-E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH1 Bank 2	127 :V2K 1.2	
+E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH1 Bank 2	127    :V2K 1.2	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH2 Bank 0	000 wnd:All Winds	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH2 Bank 0	001 wnd:Reed Group1	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH2 Bank 0	002 wnd:Reed Group2	
@@ -510,7 +510,7 @@ E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH2 Bank 0	124 brs:Dyna-Tuba
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH2 Bank 0	125 brs:Tuba 2	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH2 Bank 0	126 brs:Velo Tuba	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	ORCH2 Bank 0	127 brs:Tuba p/mf/ff	
-E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	000 ::None	
+E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	000    ::None	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	001 vln:16 Leg Hall	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	002 vln:16LegHall L	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	003 vln:16LegHall R	
@@ -592,7 +592,7 @@ E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	078 wav:Exit
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	079 wav:Noise IP	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	080 wav:Pink Noise	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH1	081 wav:White Noise	
-E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH2	000 :None	
+E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH2	000    :None	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH2	001 wnd:Piccolo p	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH2	002 wnd:Piccolo mf	
 E-MU Systems	Virtuoso 2000 / Proteus Orchestra	Instruments -> ORCH2	003 wnd:Piccolo Hall	

@@ -510,408 +510,408 @@ E-MU Systems	Protozoa ROM	P/123 Bank 3	124 P/3:Vodan Drums
 E-MU Systems	Protozoa ROM	P/123 Bank 3	125 P/3:Bass	
 E-MU Systems	Protozoa ROM	P/123 Bank 3	126 P/3:Jungle Book	
 E-MU Systems	Protozoa ROM	P/123 Bank 3	127 P/3:Balithang	
-E-MU Systems	Protozoa ROM	Instruments	000 :None	
-E-MU Systems	Protozoa ROM	Instruments	001 pno:Piano	
-E-MU Systems	Protozoa ROM	Instruments	002 pno:Piano Pad	
-E-MU Systems	Protozoa ROM	Instruments	003 pno:Loose Piano	
-E-MU Systems	Protozoa ROM	Instruments	004 pno:Tight Piano	
-E-MU Systems	Protozoa ROM	Instruments	005 str:Strings	
-E-MU Systems	Protozoa ROM	Instruments	006 str:Long String	
-E-MU Systems	Protozoa ROM	Instruments	007 str:Slow String	
-E-MU Systems	Protozoa ROM	Instruments	008 str:Dark String	
-E-MU Systems	Protozoa ROM	Instruments	009 vox:Voices	
-E-MU Systems	Protozoa ROM	Instruments	010 vox:Slow Voices	
-E-MU Systems	Protozoa ROM	Instruments	011 vox:Dark Choir	
-E-MU Systems	Protozoa ROM	Instruments	012 wnd:Synth Flute	
-E-MU Systems	Protozoa ROM	Instruments	013 wnd:Soft Flute	
-E-MU Systems	Protozoa ROM	Instruments	014 wnd:Alto Sax	
-E-MU Systems	Protozoa ROM	Instruments	015 wnd:Tenor Sax	
-E-MU Systems	Protozoa ROM	Instruments	016 wnd:Baritone Sax	
-E-MU Systems	Protozoa ROM	Instruments	017 wnd:Dark Sax	
-E-MU Systems	Protozoa ROM	Instruments	018 brs:Trumpet Sft	
-E-MU Systems	Protozoa ROM	Instruments	019 brs:Dark TrumS	
-E-MU Systems	Protozoa ROM	Instruments	020 brs:Trumpet Hrd	
-E-MU Systems	Protozoa ROM	Instruments	021 brs:Dark TrumpH	
-E-MU Systems	Protozoa ROM	Instruments	022 brs:Horn Falls	
-E-MU Systems	Protozoa ROM	Instruments	023 brs:Trombone 1	
-E-MU Systems	Protozoa ROM	Instruments	024 brs:Trombone 2	
-E-MU Systems	Protozoa ROM	Instruments	025 brs:French Horn	
-E-MU Systems	Protozoa ROM	Instruments	026 brs:Brass 1	
-E-MU Systems	Protozoa ROM	Instruments	027 brs:Brass 2	
-E-MU Systems	Protozoa ROM	Instruments	028 brs:Brass 3	
-E-MU Systems	Protozoa ROM	Instruments	029 brs:Trom / Sax	
-E-MU Systems	Protozoa ROM	Instruments	030 gtr:Guitar Mute	
-E-MU Systems	Protozoa ROM	Instruments	031 gtr:El. Guitar	
-E-MU Systems	Protozoa ROM	Instruments	032 gtr:Ac. Guitar	
-E-MU Systems	Protozoa ROM	Instruments	033 bas:Rock Bass	
-E-MU Systems	Protozoa ROM	Instruments	034 bas:Stone Bass	
-E-MU Systems	Protozoa ROM	Instruments	035 bas:Flint Bass	
-E-MU Systems	Protozoa ROM	Instruments	036 bas:Funk Slap	
-E-MU Systems	Protozoa ROM	Instruments	037 bas:Funk Pop	
-E-MU Systems	Protozoa ROM	Instruments	038 bas:Harmonics	
-E-MU Systems	Protozoa ROM	Instruments	039 bas:Rock/Harms	
-E-MU Systems	Protozoa ROM	Instruments	040 bas:Stone/Harms	
-E-MU Systems	Protozoa ROM	Instruments	041 bas:Nose Bass	
-E-MU Systems	Protozoa ROM	Instruments	042 bas:Bass Syn 1	
-E-MU Systems	Protozoa ROM	Instruments	043 bas:Bass Syn 2	
-E-MU Systems	Protozoa ROM	Instruments	044 pad:Synth Pad	
-E-MU Systems	Protozoa ROM	Instruments	045 pad:Med Env Pad	
-E-MU Systems	Protozoa ROM	Instruments	046 pad:Lng Env Pad	
-E-MU Systems	Protozoa ROM	Instruments	047 pad:Dark Synth	
-E-MU Systems	Protozoa ROM	Instruments	048 org:Perc. Organ	
-E-MU Systems	Protozoa ROM	Instruments	049 prc:Marimba	
-E-MU Systems	Protozoa ROM	Instruments	050 prc:Vibraphone	
-E-MU Systems	Protozoa ROM	Instruments	051 kit:All Perc. B	
-E-MU Systems	Protozoa ROM	Instruments	052 kit:All Perc.UB	
-E-MU Systems	Protozoa ROM	Instruments	053 kit:Standard 1	
-E-MU Systems	Protozoa ROM	Instruments	054 kit:Standard 2	
-E-MU Systems	Protozoa ROM	Instruments	055 kit:Standard 3	
-E-MU Systems	Protozoa ROM	Instruments	056 prc:Kicks	
-E-MU Systems	Protozoa ROM	Instruments	057 prc:Snares	
-E-MU Systems	Protozoa ROM	Instruments	058 prc:Toms	
-E-MU Systems	Protozoa ROM	Instruments	059 prc:Cymbals	
-E-MU Systems	Protozoa ROM	Instruments	060 kit:Latin Drums	
-E-MU Systems	Protozoa ROM	Instruments	061 kit:Latin Perc.	
-E-MU Systems	Protozoa ROM	Instruments	062 prc:AGoGo	
-E-MU Systems	Protozoa ROM	Instruments	063 prc:Woodblock	
-E-MU Systems	Protozoa ROM	Instruments	064 prc:Conga	
-E-MU Systems	Protozoa ROM	Instruments	065 prc:Timbal	
-E-MU Systems	Protozoa ROM	Instruments	066 prc:Ride	
-E-MU Systems	Protozoa ROM	Instruments	067 kit:Perc FX 1	
-E-MU Systems	Protozoa ROM	Instruments	068 kit:Perc FX 2	
-E-MU Systems	Protozoa ROM	Instruments	069 prc:Metal	
-E-MU Systems	Protozoa ROM	Instruments	070 vox:StrayVoice1	
-E-MU Systems	Protozoa ROM	Instruments	071 vox:StrayVoice2	
-E-MU Systems	Protozoa ROM	Instruments	072 vox:StrayVoice3	
-E-MU Systems	Protozoa ROM	Instruments	073 vox:StrayVoice4	
-E-MU Systems	Protozoa ROM	Instruments	074 str:SynthStrng1	
-E-MU Systems	Protozoa ROM	Instruments	075 str:SynthStrng2	
-E-MU Systems	Protozoa ROM	Instruments	076 sfx:Animals	
-E-MU Systems	Protozoa ROM	Instruments	077 wnd:Reed	
-E-MU Systems	Protozoa ROM	Instruments	078 gtr:Pluck 1	
-E-MU Systems	Protozoa ROM	Instruments	079 gtr:Pluck 2	
-E-MU Systems	Protozoa ROM	Instruments	080 prc:Mallet 1	
-E-MU Systems	Protozoa ROM	Instruments	081 prc:Mallet 2	
-E-MU Systems	Protozoa ROM	Instruments	082 str:Arco Basses	
-E-MU Systems	Protozoa ROM	Instruments	083 str:Arco Celli	
-E-MU Systems	Protozoa ROM	Instruments	084 str:Arco Violas	
-E-MU Systems	Protozoa ROM	Instruments	085 str:ArcoViolins	
-E-MU Systems	Protozoa ROM	Instruments	086 str:Dark Basses	
-E-MU Systems	Protozoa ROM	Instruments	087 str:Dark Celli	
-E-MU Systems	Protozoa ROM	Instruments	088 str:Dark Violas	
-E-MU Systems	Protozoa ROM	Instruments	089 str:DarkViolins	
-E-MU Systems	Protozoa ROM	Instruments	090 str:Low Tremolo	
-E-MU Systems	Protozoa ROM	Instruments	091 str:HighTremolo	
-E-MU Systems	Protozoa ROM	Instruments	092 str:Tremolande	
-E-MU Systems	Protozoa ROM	Instruments	093 str:Strings 1	
-E-MU Systems	Protozoa ROM	Instruments	094 str:Strings 2	
-E-MU Systems	Protozoa ROM	Instruments	095 str:Strings 3	
-E-MU Systems	Protozoa ROM	Instruments	096 str:Solo Cello	
-E-MU Systems	Protozoa ROM	Instruments	097 str:Solo Viola	
-E-MU Systems	Protozoa ROM	Instruments	098 str:Solo Violin	
-E-MU Systems	Protozoa ROM	Instruments	099 str:Quartet 1	
-E-MU Systems	Protozoa ROM	Instruments	100 str:Quartet 2	
-E-MU Systems	Protozoa ROM	Instruments	101 str:Quartet 3	
-E-MU Systems	Protozoa ROM	Instruments	102 str:Quartet 4	
-E-MU Systems	Protozoa ROM	Instruments	103 str:Gambambo	
-E-MU Systems	Protozoa ROM	Instruments	104 str:Pizz Basses	
-E-MU Systems	Protozoa ROM	Instruments	105 str:Pizz Celli	
-E-MU Systems	Protozoa ROM	Instruments	106 str:Pizz Violas	
-E-MU Systems	Protozoa ROM	Instruments	107 str:Pizz Violin	
-E-MU Systems	Protozoa ROM	Instruments	108 str:Pizzicombo	
-E-MU Systems	Protozoa ROM	Instruments	109 wnd:Flute w/Vib	
-E-MU Systems	Protozoa ROM	Instruments	110 wnd:Flute noVib	
-E-MU Systems	Protozoa ROM	Instruments	111 wnd:Alt. Flute	
-E-MU Systems	Protozoa ROM	Instruments	112 wnd:Piccolo	
-E-MU Systems	Protozoa ROM	Instruments	113 wnd:Bass Clar.	
-E-MU Systems	Protozoa ROM	Instruments	114 wnd:Clarinet	
-E-MU Systems	Protozoa ROM	Instruments	115 wnd:B.Clar/Clar	
-E-MU Systems	Protozoa ROM	Instruments	116 wnd:Cntrbassoon	
-E-MU Systems	Protozoa ROM	Instruments	117 wnd:Bassoon	
-E-MU Systems	Protozoa ROM	Instruments	118 wnd:EnglishHorn	
-E-MU Systems	Protozoa ROM	Instruments	119 wnd:Oboe w/Vib	
-E-MU Systems	Protozoa ROM	Instruments	120 wnd:Oboe noVib	
-E-MU Systems	Protozoa ROM	Instruments	121 wnd:Alt. Oboe	
-E-MU Systems	Protozoa ROM	Instruments	122 wnd:Woodwinds	
-E-MU Systems	Protozoa ROM	Instruments	123 brs:Hi Trombone	
-E-MU Systems	Protozoa ROM	Instruments	124 brs:Lo Trombone	
-E-MU Systems	Protozoa ROM	Instruments	125 brs:mf Trumpet	
-E-MU Systems	Protozoa ROM	Instruments	126 brs:ff Trumpet	
-E-MU Systems	Protozoa ROM	Instruments	127 brs:Harmon Mute	
-E-MU Systems	Protozoa ROM	Instruments	128 brs:mf Fr. Horn	
-E-MU Systems	Protozoa ROM	Instruments	129 brs:ff Fr. Horn	
-E-MU Systems	Protozoa ROM	Instruments	130 brs:Tuba	
-E-MU Systems	Protozoa ROM	Instruments	131 brs:ff Brass	
-E-MU Systems	Protozoa ROM	Instruments	132 brs:mf Brass	
-E-MU Systems	Protozoa ROM	Instruments	133 str:Harp	
-E-MU Systems	Protozoa ROM	Instruments	134 prc:Xylophone	
-E-MU Systems	Protozoa ROM	Instruments	135 prc:Celesta	
-E-MU Systems	Protozoa ROM	Instruments	136 prc:Triangle	
-E-MU Systems	Protozoa ROM	Instruments	137 prc:Bass Drum	
-E-MU Systems	Protozoa ROM	Instruments	138 prc:Snare Drum+	
-E-MU Systems	Protozoa ROM	Instruments	139 prc:Piatti	
-E-MU Systems	Protozoa ROM	Instruments	140 prc:TempleBlock	
-E-MU Systems	Protozoa ROM	Instruments	141 prc:Glockenspiel	
-E-MU Systems	Protozoa ROM	Instruments	142 kit:Percussion1	
-E-MU Systems	Protozoa ROM	Instruments	143 kit:Percussion2	
-E-MU Systems	Protozoa ROM	Instruments	144 kit:Low Perc 2	
-E-MU Systems	Protozoa ROM	Instruments	145 kit:High Perc 2	
-E-MU Systems	Protozoa ROM	Instruments	146 prc:Tubular Bell	
-E-MU Systems	Protozoa ROM	Instruments	147 prc:Timpani	
-E-MU Systems	Protozoa ROM	Instruments	148 prc:Timp./T.Bell	
-E-MU Systems	Protozoa ROM	Instruments	149 prc:Tambourine	
-E-MU Systems	Protozoa ROM	Instruments	150 prc:Tam Tam	
-E-MU Systems	Protozoa ROM	Instruments	151 kit:Percussion3	
-E-MU Systems	Protozoa ROM	Instruments	152 sfx:Special FX	
-E-MU Systems	Protozoa ROM	Instruments	153 bas:Filter Bass	
-E-MU Systems	Protozoa ROM	Instruments	154 bas:UprightPizz	
-E-MU Systems	Protozoa ROM	Instruments	155 gtr:NylonPluck1	
-E-MU Systems	Protozoa ROM	Instruments	156 gtr:NylonPluck2	
-E-MU Systems	Protozoa ROM	Instruments	157 bas:PluckedBass	
-E-MU Systems	Protozoa ROM	Instruments	158 eth:Renaissance	
-E-MU Systems	Protozoa ROM	Instruments	159 eth:East Indian	
-E-MU Systems	Protozoa ROM	Instruments	160 eth:Folk America	
-E-MU Systems	Protozoa ROM	Instruments	161 eth:Down Under	
-E-MU Systems	Protozoa ROM	Instruments	162 str:Troubador	
-E-MU Systems	Protozoa ROM	Instruments	163 str:Irish Harp	
-E-MU Systems	Protozoa ROM	Instruments	164 str:Dulcimer	
-E-MU Systems	Protozoa ROM	Instruments	165 eth:Koto	
-E-MU Systems	Protozoa ROM	Instruments	166 gtr:Banjo	
-E-MU Systems	Protozoa ROM	Instruments	167 eth:Hi Tar	
-E-MU Systems	Protozoa ROM	Instruments	168 gtr:Guitar	
-E-MU Systems	Protozoa ROM	Instruments	169 eth:Sitar	
-E-MU Systems	Protozoa ROM	Instruments	170 eth:Tambouras	
-E-MU Systems	Protozoa ROM	Instruments	171 eth:Psaltry	
-E-MU Systems	Protozoa ROM	Instruments	172 sfx:Waterphone1	
-E-MU Systems	Protozoa ROM	Instruments	173 sfx:Waterphone2	
-E-MU Systems	Protozoa ROM	Instruments	174 bas:Pizz Bass	
-E-MU Systems	Protozoa ROM	Instruments	175 eth:Tam/Sitar	
-E-MU Systems	Protozoa ROM	Instruments	176 red:Accordion	
-E-MU Systems	Protozoa ROM	Instruments	177 red:Harmonica	
-E-MU Systems	Protozoa ROM	Instruments	178 red:VbHarmonica	
-E-MU Systems	Protozoa ROM	Instruments	179 eth:Mizmars	
-E-MU Systems	Protozoa ROM	Instruments	180 eth:Shenai	
-E-MU Systems	Protozoa ROM	Instruments	181 wnd:PenWhistle	
-E-MU Systems	Protozoa ROM	Instruments	182 wnd:Ocarina	
-E-MU Systems	Protozoa ROM	Instruments	183 eth:Shofar A	
-E-MU Systems	Protozoa ROM	Instruments	184 eth:Shofar B	
-E-MU Systems	Protozoa ROM	Instruments	185 eth:Shofars	
-E-MU Systems	Protozoa ROM	Instruments	186 eth:Siku	
-E-MU Systems	Protozoa ROM	Instruments	187 eth:Shakuhachi	
-E-MU Systems	Protozoa ROM	Instruments	188 eth:Ney Flute	
-E-MU Systems	Protozoa ROM	Instruments	189 eth:BagpipeDrone	
-E-MU Systems	Protozoa ROM	Instruments	190 eth:Chanter A	
-E-MU Systems	Protozoa ROM	Instruments	191 eth:Chanter B	
-E-MU Systems	Protozoa ROM	Instruments	192 eth:Dron/ChantA	
-E-MU Systems	Protozoa ROM	Instruments	193 eth:Dron/ChantB	
-E-MU Systems	Protozoa ROM	Instruments	194 eth:Roarr/Catch	
-E-MU Systems	Protozoa ROM	Instruments	195 eth:Bull Roarer	
-E-MU Systems	Protozoa ROM	Instruments	196 eth:SpiritCtchr	
-E-MU Systems	Protozoa ROM	Instruments	197 eth:Didjeridu	
-E-MU Systems	Protozoa ROM	Instruments	198 eth:Didjeridu A	
-E-MU Systems	Protozoa ROM	Instruments	199 eth:Didjeridu B	
-E-MU Systems	Protozoa ROM	Instruments	200 eth:Didjeridu C	
-E-MU Systems	Protozoa ROM	Instruments	201 eth:Jews Harp	
-E-MU Systems	Protozoa ROM	Instruments	202 eth:Jews Harp A	
-E-MU Systems	Protozoa ROM	Instruments	203 eth:Jews Harp B	
-E-MU Systems	Protozoa ROM	Instruments	204 eth:Jews Harp C	
-E-MU Systems	Protozoa ROM	Instruments	205 eth:Jews Harp D	
-E-MU Systems	Protozoa ROM	Instruments	206 brs:Trombone	
-E-MU Systems	Protozoa ROM	Instruments	207 brs:FrenchHornP3	
-E-MU Systems	Protozoa ROM	Instruments	208 brs:Trumpet	
-E-MU Systems	Protozoa ROM	Instruments	209 kit:MidEastDrum	
-E-MU Systems	Protozoa ROM	Instruments	210 kit:Udu Drum	
-E-MU Systems	Protozoa ROM	Instruments	211 kit:Bata Drums	
-E-MU Systems	Protozoa ROM	Instruments	212 kit:The Tabla	
-E-MU Systems	Protozoa ROM	Instruments	213 kit:Wood Drum	
-E-MU Systems	Protozoa ROM	Instruments	214 prc:Gamelan	
-E-MU Systems	Protozoa ROM	Instruments	215 prc:BonangKenon	
-E-MU Systems	Protozoa ROM	Instruments	216 prc:KenongBnang	
-E-MU Systems	Protozoa ROM	Instruments	217 prc:SeribuPulua	
-E-MU Systems	Protozoa ROM	Instruments	218 prc:Surdo Drum	
-E-MU Systems	Protozoa ROM	Instruments	219 prc:Maracas	
-E-MU Systems	Protozoa ROM	Instruments	220 prc:Plexitones	
-E-MU Systems	Protozoa ROM	Instruments	221 kit:Traps	
-E-MU Systems	Protozoa ROM	Instruments	222 kit:All Perc 1	
-E-MU Systems	Protozoa ROM	Instruments	223 kit:All Perc 1P	
-E-MU Systems	Protozoa ROM	Instruments	224 kit:All Perc 2	
-E-MU Systems	Protozoa ROM	Instruments	225 prc:Snare Drum	
-E-MU Systems	Protozoa ROM	Instruments	226 prc:Kick Drum	
-E-MU Systems	Protozoa ROM	Instruments	227 prc:Hihat Clsed	
-E-MU Systems	Protozoa ROM	Instruments	228 prc:Hihat Open	
-E-MU Systems	Protozoa ROM	Instruments	229 prc:Woodblock P3	
-E-MU Systems	Protozoa ROM	Instruments	230 prc:Steel Drum	
-E-MU Systems	Protozoa ROM	Instruments	231 prc:Castanet	
-E-MU Systems	Protozoa ROM	Instruments	232 prc:Buzz/Lkmbe	
-E-MU Systems	Protozoa ROM	Instruments	233 prc:Likembe	
-E-MU Systems	Protozoa ROM	Instruments	234 prc:LikembeBuzz	
-E-MU Systems	Protozoa ROM	Instruments	235 prc:Surdo Open	
-E-MU Systems	Protozoa ROM	Instruments	236 prc:Surdo Mute	
-E-MU Systems	Protozoa ROM	Instruments	237 prc:Deff Slap	
-E-MU Systems	Protozoa ROM	Instruments	238 prc:Deff Mute	
-E-MU Systems	Protozoa ROM	Instruments	239 prc:Bendir	
-E-MU Systems	Protozoa ROM	Instruments	240 prc:Req Open	
-E-MU Systems	Protozoa ROM	Instruments	241 prc:Req Slap	
-E-MU Systems	Protozoa ROM	Instruments	242 prc:Maraca A	
-E-MU Systems	Protozoa ROM	Instruments	243 prc:Maraca B	
-E-MU Systems	Protozoa ROM	Instruments	244 prc:Maraca C	
-E-MU Systems	Protozoa ROM	Instruments	245 prc:Maraca D	
-E-MU Systems	Protozoa ROM	Instruments	246 prc:Udu Tone	
-E-MU Systems	Protozoa ROM	Instruments	247 prc:Udu Release	
-E-MU Systems	Protozoa ROM	Instruments	248 prc:Udu Finger	
-E-MU Systems	Protozoa ROM	Instruments	249 prc:Udu Slap	
-E-MU Systems	Protozoa ROM	Instruments	250 prc:BatalpuTone	
-E-MU Systems	Protozoa ROM	Instruments	251 prc:BatalpuSlap	
-E-MU Systems	Protozoa ROM	Instruments	252 prc:BataEnuTone	
-E-MU Systems	Protozoa ROM	Instruments	253 prc:Bata HiTone	
-E-MU Systems	Protozoa ROM	Instruments	254 prc:Bata HiMute	
-E-MU Systems	Protozoa ROM	Instruments	255 prc:Bata HiSlap	
-E-MU Systems	Protozoa ROM	Instruments	256 prc:Crickets	
-E-MU Systems	Protozoa ROM	Instruments	257 prc:Baya Tone	
-E-MU Systems	Protozoa ROM	Instruments	258 prc:Baya Slap	
-E-MU Systems	Protozoa ROM	Instruments	259 prc:Baya Hit	
-E-MU Systems	Protozoa ROM	Instruments	260 prc:Tabla Tone	
-E-MU Systems	Protozoa ROM	Instruments	261 prc:Tabla MuteA	
-E-MU Systems	Protozoa ROM	Instruments	262 prc:Tabla MuteB	
-E-MU Systems	Protozoa ROM	Instruments	263 prc:Tabla MuteC	
-E-MU Systems	Protozoa ROM	Instruments	264 prc:Tabla Open	
-E-MU Systems	Protozoa ROM	Instruments	265 prc:China Gong	
-E-MU Systems	Protozoa ROM	Instruments	266 prc:Nepal Cymbal	
-E-MU Systems	Protozoa ROM	Instruments	267 prc:Tibetan Bowl	
-E-MU Systems	Protozoa ROM	Instruments	268 prc:Crotales	
-E-MU Systems	Protozoa ROM	Instruments	269 prc:Bonang	
-E-MU Systems	Protozoa ROM	Instruments	270 prc:Kenong	
-E-MU Systems	Protozoa ROM	Instruments	271 prc:Saron	
-E-MU Systems	Protozoa ROM	Instruments	272 prc:Suwuk Gong	
-E-MU Systems	Protozoa ROM	Instruments	273 prc:ClapprStick	
-E-MU Systems	Protozoa ROM	Instruments	274 prc:RoseWd Bass	
-E-MU Systems	Protozoa ROM	Instruments	275 prc:RoseWd Tick	
-E-MU Systems	Protozoa ROM	Instruments	276 prc:RoseWd Harm	
-E-MU Systems	Protozoa ROM	Instruments	277 prc:RoseWd Fngr	
-E-MU Systems	Protozoa ROM	Instruments	278 prc:Tanz Shaker	
-E-MU Systems	Protozoa ROM	Instruments	279 prc:Hula Stick	
-E-MU Systems	Protozoa ROM	Instruments	280 prc:Log Drum	
-E-MU Systems	Protozoa ROM	Instruments	281 prc:Plexi-Tone	
-E-MU Systems	Protozoa ROM	Instruments	282 prc:Plexi-SlapA	
-E-MU Systems	Protozoa ROM	Instruments	283 prc:Plexi-SlapB	
-E-MU Systems	Protozoa ROM	Instruments	284 prc:Plexi-SlapC	
-E-MU Systems	Protozoa ROM	Instruments	285 prc:AsianGongs1	
-E-MU Systems	Protozoa ROM	Instruments	286 prc:AsianGongs2	
-E-MU Systems	Protozoa ROM	Instruments	287 prc:Suwak Wave	
-E-MU Systems	Protozoa ROM	Instruments	288 kit:SavannahLand	
-E-MU Systems	Protozoa ROM	Instruments	289 sfx:Swamp Thing	
-E-MU Systems	Protozoa ROM	Instruments	290 sfx:Bugs 1	
-E-MU Systems	Protozoa ROM	Instruments	291 sfx:Bugs 2	
-E-MU Systems	Protozoa ROM	Instruments	292 sfx:Bugs 3	
-E-MU Systems	Protozoa ROM	Instruments	293 sfx:Bugs 4	
-E-MU Systems	Protozoa ROM	Instruments	294 sfx:Bugs 5	
-E-MU Systems	Protozoa ROM	Instruments	295 sfx:Bugs 6	
-E-MU Systems	Protozoa ROM	Instruments	296 sfx:Crickets	
-E-MU Systems	Protozoa ROM	Instruments	297 sfx:Woodpecker1	
-E-MU Systems	Protozoa ROM	Instruments	298 sfx:Woodpecker2	
-E-MU Systems	Protozoa ROM	Instruments	299 sfx:Frogz	
-E-MU Systems	Protozoa ROM	Instruments	300 sfx:Tribe 1	
-E-MU Systems	Protozoa ROM	Instruments	301 sfx:Tribe 2	
-E-MU Systems	Protozoa ROM	Instruments	302 wav:Oct 1 Sine	
-E-MU Systems	Protozoa ROM	Instruments	303 wav:Oct 2 All	
-E-MU Systems	Protozoa ROM	Instruments	304 wav:Oct 3 All	
-E-MU Systems	Protozoa ROM	Instruments	305 wav:Oct 4 All	
-E-MU Systems	Protozoa ROM	Instruments	306 wav:Oct 5 All	
-E-MU Systems	Protozoa ROM	Instruments	307 wav:Oct 6 All	
-E-MU Systems	Protozoa ROM	Instruments	308 wav:Oct 7 All	
-E-MU Systems	Protozoa ROM	Instruments	309 wav:Oct 2 Odd	
-E-MU Systems	Protozoa ROM	Instruments	310 wav:Oct 3 Odd	
-E-MU Systems	Protozoa ROM	Instruments	311 wav:Oct 4 Odd	
-E-MU Systems	Protozoa ROM	Instruments	312 wav:Oct 5 Odd	
-E-MU Systems	Protozoa ROM	Instruments	313 wav:Oct 6 Odd	
-E-MU Systems	Protozoa ROM	Instruments	314 wav:Oct 7 Odd	
-E-MU Systems	Protozoa ROM	Instruments	315 wav:Oct 2 Even	
-E-MU Systems	Protozoa ROM	Instruments	316 wav:Oct 3 Even	
-E-MU Systems	Protozoa ROM	Instruments	317 wav:Oct 4 Even	
-E-MU Systems	Protozoa ROM	Instruments	318 wav:Oct 5 Even	
-E-MU Systems	Protozoa ROM	Instruments	319 wav:Oct 6 Even	
-E-MU Systems	Protozoa ROM	Instruments	320 wav:Oct 7 Even	
-E-MU Systems	Protozoa ROM	Instruments	321 wav:Low Odds	
-E-MU Systems	Protozoa ROM	Instruments	322 wav:Low Evens	
-E-MU Systems	Protozoa ROM	Instruments	323 wav:FourOctaves	
-E-MU Systems	Protozoa ROM	Instruments	324 wav:Synth Cyc 1	
-E-MU Systems	Protozoa ROM	Instruments	325 wav:Synth Cyc 2	
-E-MU Systems	Protozoa ROM	Instruments	326 wav:Synth Cyc 3	
-E-MU Systems	Protozoa ROM	Instruments	327 wav:Synth Cyc 4	
-E-MU Systems	Protozoa ROM	Instruments	328 wav:Fund Gone 1	
-E-MU Systems	Protozoa ROM	Instruments	329 wav:Fund Gone 2	
-E-MU Systems	Protozoa ROM	Instruments	330 wav:Bite Cyc	
-E-MU Systems	Protozoa ROM	Instruments	331 wav:Buzzy Cyc 1	
-E-MU Systems	Protozoa ROM	Instruments	332 wav:Metlphone 1	
-E-MU Systems	Protozoa ROM	Instruments	333 wav:Metlphone 2	
-E-MU Systems	Protozoa ROM	Instruments	334 wav:Metlphone 3	
-E-MU Systems	Protozoa ROM	Instruments	335 wav:Metlphone 4	
-E-MU Systems	Protozoa ROM	Instruments	336 wav:Duck Cyc 1	
-E-MU Systems	Protozoa ROM	Instruments	337 wav:Duck Cyc 2	
-E-MU Systems	Protozoa ROM	Instruments	338 wav:Duck Cyc 3	
-E-MU Systems	Protozoa ROM	Instruments	339 wav:Wind Cyc 1	
-E-MU Systems	Protozoa ROM	Instruments	340 wav:Wind Cyc 2	
-E-MU Systems	Protozoa ROM	Instruments	341 wav:Wind Cyc 3	
-E-MU Systems	Protozoa ROM	Instruments	342 wav:Wind Cyc 4	
-E-MU Systems	Protozoa ROM	Instruments	343 wav:Organ Cyc 1	
-E-MU Systems	Protozoa ROM	Instruments	344 wav:Organ Cyc 2	
-E-MU Systems	Protozoa ROM	Instruments	345 sfx:Noise	
-E-MU Systems	Protozoa ROM	Instruments	346 sfx:Dark Noise	
-E-MU Systems	Protozoa ROM	Instruments	347 wav:Sine Wave	
-E-MU Systems	Protozoa ROM	Instruments	348 wav:Triangle	
-E-MU Systems	Protozoa ROM	Instruments	349 wav:Tri Wave	
-E-MU Systems	Protozoa ROM	Instruments	350 wav:Square	
-E-MU Systems	Protozoa ROM	Instruments	351 wav:Square Wave	
-E-MU Systems	Protozoa ROM	Instruments	352 wav:Pulse 33%	
-E-MU Systems	Protozoa ROM	Instruments	353 wav:Pulse 25%	
-E-MU Systems	Protozoa ROM	Instruments	354 wav:Pulse 10%	
-E-MU Systems	Protozoa ROM	Instruments	355 wav:Sawtooth	
-E-MU Systems	Protozoa ROM	Instruments	356 wav:SawOddGone	
-E-MU Systems	Protozoa ROM	Instruments	357 wav:Ramp	
-E-MU Systems	Protozoa ROM	Instruments	358 wav:RampEveOnly	
-E-MU Systems	Protozoa ROM	Instruments	359 wav:Vio Essence	
-E-MU Systems	Protozoa ROM	Instruments	360 wav:Buzzoon	
-E-MU Systems	Protozoa ROM	Instruments	361 wav:Brassy Wave	
-E-MU Systems	Protozoa ROM	Instruments	362 wav:Reedy Buzz	
-E-MU Systems	Protozoa ROM	Instruments	363 wav:Growl Wave	
-E-MU Systems	Protozoa ROM	Instruments	364 wav:HarpsiWave	
-E-MU Systems	Protozoa ROM	Instruments	365 wav:Fuzzy Gruzz	
-E-MU Systems	Protozoa ROM	Instruments	366 wav:Power 5ths	
-E-MU Systems	Protozoa ROM	Instruments	367 wav:Filt Saw	
-E-MU Systems	Protozoa ROM	Instruments	368 wav:Ice Bell	
-E-MU Systems	Protozoa ROM	Instruments	369 wav:Bronze Age	
-E-MU Systems	Protozoa ROM	Instruments	370 wav:Iron Plate	
-E-MU Systems	Protozoa ROM	Instruments	371 wav:Aluminum	
-E-MU Systems	Protozoa ROM	Instruments	372 wav:Lead Beam	
-E-MU Systems	Protozoa ROM	Instruments	373 wav:SteelXtract	
-E-MU Systems	Protozoa ROM	Instruments	374 wav:WinterGlass	
-E-MU Systems	Protozoa ROM	Instruments	375 wav:TwnBellWash	
-E-MU Systems	Protozoa ROM	Instruments	376 wav:Orch Bells	
-E-MU Systems	Protozoa ROM	Instruments	377 wav:Tubular SE	
-E-MU Systems	Protozoa ROM	Instruments	378 wav:SoftBellWave	
-E-MU Systems	Protozoa ROM	Instruments	379 wav:Swirly	
-E-MU Systems	Protozoa ROM	Instruments	380 wav:Tack Attack	
-E-MU Systems	Protozoa ROM	Instruments	381 wav:ShimmerWave	
-E-MU Systems	Protozoa ROM	Instruments	382 wav:Moog Lead	
-E-MU Systems	Protozoa ROM	Instruments	383 wav:B3 SE	
-E-MU Systems	Protozoa ROM	Instruments	384 wav:Mild Tone	
-E-MU Systems	Protozoa ROM	Instruments	385 wav:Piper	
-E-MU Systems	Protozoa ROM	Instruments	386 wav:Ah Wave	
-E-MU Systems	Protozoa ROM	Instruments	387 wav:Vocal Wave	
-E-MU Systems	Protozoa ROM	Instruments	388 wav:Fuzzy Clav	
-E-MU Systems	Protozoa ROM	Instruments	389 wav:Electrhode	
-E-MU Systems	Protozoa ROM	Instruments	390 wav:Whine 1	
-E-MU Systems	Protozoa ROM	Instruments	391 wav:Whine 2	
-E-MU Systems	Protozoa ROM	Instruments	392 wav:Metal Drone	
-E-MU Systems	Protozoa ROM	Instruments	393 wav:Silver Race	
-E-MU Systems	Protozoa ROM	Instruments	394 wav:MetalAttack	
-E-MU Systems	Protozoa ROM	Instruments	395 kit:GM Drums 1	
-E-MU Systems	Protozoa ROM	Instruments	396 kit:GM Drums 2	
-E-MU Systems	Protozoa ROM	Instruments	397 kit:GM Drums 3	
-E-MU Systems	Protozoa ROM	Instruments	398 kit:GM Drums 4	
-E-MU Systems	Protozoa ROM	Instruments	399 kit:GM 1 No Hats	
-E-MU Systems	Protozoa ROM	Instruments	400 kit:GM 2 No Hats	
-E-MU Systems	Protozoa ROM	Instruments	401 kit:GM 3 No Hats	
-E-MU Systems	Protozoa ROM	Instruments	402 kit:GM 4 No Hats	
-E-MU Systems	Protozoa ROM	Instruments	403 kit:GM Hi Hats 1	
-E-MU Systems	Protozoa ROM	Instruments	404 kit:GM Hi Hats 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	000    :None	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	001 pno:Piano	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	002 pno:Piano Pad	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	003 pno:Loose Piano	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	004 pno:Tight Piano	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	005 str:Strings	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	006 str:Long String	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	007 str:Slow String	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	008 str:Dark String	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	009 vox:Voices	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	010 vox:Slow Voices	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	011 vox:Dark Choir	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	012 wnd:Synth Flute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	013 wnd:Soft Flute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	014 wnd:Alto Sax	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	015 wnd:Tenor Sax	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	016 wnd:Baritone Sax	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	017 wnd:Dark Sax	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	018 brs:Trumpet Sft	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	019 brs:Dark TrumS	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	020 brs:Trumpet Hrd	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	021 brs:Dark TrumpH	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	022 brs:Horn Falls	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	023 brs:Trombone 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	024 brs:Trombone 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	025 brs:French Horn	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	026 brs:Brass 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	027 brs:Brass 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	028 brs:Brass 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	029 brs:Trom / Sax	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	030 gtr:Guitar Mute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	031 gtr:El. Guitar	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	032 gtr:Ac. Guitar	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	033 bas:Rock Bass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	034 bas:Stone Bass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	035 bas:Flint Bass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	036 bas:Funk Slap	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	037 bas:Funk Pop	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	038 bas:Harmonics	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	039 bas:Rock/Harms	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	040 bas:Stone/Harms	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	041 bas:Nose Bass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	042 bas:Bass Syn 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	043 bas:Bass Syn 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	044 pad:Synth Pad	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	045 pad:Med Env Pad	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	046 pad:Lng Env Pad	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	047 pad:Dark Synth	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	048 org:Perc. Organ	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	049 prc:Marimba	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	050 prc:Vibraphone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	051 kit:All Perc. B	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	052 kit:All Perc.UB	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	053 kit:Standard 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	054 kit:Standard 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	055 kit:Standard 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	056 prc:Kicks	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	057 prc:Snares	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	058 prc:Toms	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	059 prc:Cymbals	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	060 kit:Latin Drums	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	061 kit:Latin Perc.	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	062 prc:AGoGo	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	063 prc:Woodblock	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	064 prc:Conga	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	065 prc:Timbal	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	066 prc:Ride	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	067 kit:Perc FX 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	068 kit:Perc FX 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	069 prc:Metal	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	070 vox:StrayVoice1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	071 vox:StrayVoice2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	072 vox:StrayVoice3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	073 vox:StrayVoice4	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	074 str:SynthStrng1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	075 str:SynthStrng2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	076 sfx:Animals	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	077 wnd:Reed	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	078 gtr:Pluck 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	079 gtr:Pluck 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	080 prc:Mallet 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	081 prc:Mallet 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	082 str:Arco Basses	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	083 str:Arco Celli	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	084 str:Arco Violas	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	085 str:ArcoViolins	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	086 str:Dark Basses	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	087 str:Dark Celli	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	088 str:Dark Violas	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	089 str:DarkViolins	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	090 str:Low Tremolo	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	091 str:HighTremolo	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	092 str:Tremolande	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	093 str:Strings 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	094 str:Strings 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	095 str:Strings 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	096 str:Solo Cello	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	097 str:Solo Viola	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	098 str:Solo Violin	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	099 str:Quartet 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	100 str:Quartet 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	101 str:Quartet 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	102 str:Quartet 4	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	103 str:Gambambo	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	104 str:Pizz Basses	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	105 str:Pizz Celli	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	106 str:Pizz Violas	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	107 str:Pizz Violin	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	108 str:Pizzicombo	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	109 wnd:Flute w/Vib	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	110 wnd:Flute noVib	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	111 wnd:Alt. Flute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	112 wnd:Piccolo	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	113 wnd:Bass Clar.	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	114 wnd:Clarinet	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	115 wnd:B.Clar/Clar	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	116 wnd:Cntrbassoon	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	117 wnd:Bassoon	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	118 wnd:EnglishHorn	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	119 wnd:Oboe w/Vib	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	120 wnd:Oboe noVib	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	121 wnd:Alt. Oboe	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	122 wnd:Woodwinds	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	123 brs:Hi Trombone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	124 brs:Lo Trombone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	125 brs:mf Trumpet	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	126 brs:ff Trumpet	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	127 brs:Harmon Mute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	128 brs:mf Fr. Horn	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	129 brs:ff Fr. Horn	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	130 brs:Tuba	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	131 brs:ff Brass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	132 brs:mf Brass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	133 str:Harp	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	134 prc:Xylophone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	135 prc:Celesta	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	136 prc:Triangle	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	137 prc:Bass Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	138 prc:Snare Drum+	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	139 prc:Piatti	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	140 prc:TempleBlock	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	141 prc:Glockenspiel	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	142 kit:Percussion1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	143 kit:Percussion2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	144 kit:Low Perc 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	145 kit:High Perc 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	146 prc:Tubular Bell	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	147 prc:Timpani	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	148 prc:Timp./T.Bell	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	149 prc:Tambourine	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	150 prc:Tam Tam	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	151 kit:Percussion3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	152 sfx:Special FX	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	153 bas:Filter Bass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	154 bas:UprightPizz	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	155 gtr:NylonPluck1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	156 gtr:NylonPluck2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	157 bas:PluckedBass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	158 eth:Renaissance	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	159 eth:East Indian	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	160 eth:Folk America	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	161 eth:Down Under	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	162 str:Troubador	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	163 str:Irish Harp	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	164 str:Dulcimer	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	165 eth:Koto	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	166 gtr:Banjo	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	167 eth:Hi Tar	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	168 gtr:Guitar	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	169 eth:Sitar	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	170 eth:Tambouras	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	171 eth:Psaltry	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	172 sfx:Waterphone1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	173 sfx:Waterphone2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	174 bas:Pizz Bass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	175 eth:Tam/Sitar	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	176 red:Accordion	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	177 red:Harmonica	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	178 red:VbHarmonica	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	179 eth:Mizmars	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	180 eth:Shenai	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	181 wnd:PenWhistle	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	182 wnd:Ocarina	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	183 eth:Shofar A	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	184 eth:Shofar B	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	185 eth:Shofars	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	186 eth:Siku	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	187 eth:Shakuhachi	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	188 eth:Ney Flute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	189 eth:BagpipeDrone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	190 eth:Chanter A	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	191 eth:Chanter B	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	192 eth:Dron/ChantA	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	193 eth:Dron/ChantB	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	194 eth:Roarr/Catch	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	195 eth:Bull Roarer	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	196 eth:SpiritCtchr	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	197 eth:Didjeridu	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	198 eth:Didjeridu A	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	199 eth:Didjeridu B	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	200 eth:Didjeridu C	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	201 eth:Jews Harp	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	202 eth:Jews Harp A	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	203 eth:Jews Harp B	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	204 eth:Jews Harp C	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	205 eth:Jews Harp D	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	206 brs:Trombone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	207 brs:FrenchHornP3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	208 brs:Trumpet	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	209 kit:MidEastDrum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	210 kit:Udu Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	211 kit:Bata Drums	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	212 kit:The Tabla	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	213 kit:Wood Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	214 prc:Gamelan	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	215 prc:BonangKenon	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	216 prc:KenongBnang	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	217 prc:SeribuPulua	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	218 prc:Surdo Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	219 prc:Maracas	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	220 prc:Plexitones	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	221 kit:Traps	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	222 kit:All Perc 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	223 kit:All Perc 1P	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	224 kit:All Perc 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	225 prc:Snare Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	226 prc:Kick Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	227 prc:Hihat Clsed	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	228 prc:Hihat Open	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	229 prc:Woodblock P3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	230 prc:Steel Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	231 prc:Castanet	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	232 prc:Buzz/Lkmbe	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	233 prc:Likembe	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	234 prc:LikembeBuzz	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	235 prc:Surdo Open	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	236 prc:Surdo Mute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	237 prc:Deff Slap	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	238 prc:Deff Mute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	239 prc:Bendir	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	240 prc:Req Open	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	241 prc:Req Slap	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	242 prc:Maraca A	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	243 prc:Maraca B	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	244 prc:Maraca C	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	245 prc:Maraca D	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	246 prc:Udu Tone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	247 prc:Udu Release	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	248 prc:Udu Finger	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	249 prc:Udu Slap	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	250 prc:BatalpuTone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	251 prc:BatalpuSlap	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	252 prc:BataEnuTone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	253 prc:Bata HiTone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	254 prc:Bata HiMute	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	255 prc:Bata HiSlap	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	256 prc:Crickets	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	257 prc:Baya Tone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	258 prc:Baya Slap	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	259 prc:Baya Hit	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	260 prc:Tabla Tone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	261 prc:Tabla MuteA	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	262 prc:Tabla MuteB	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	263 prc:Tabla MuteC	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	264 prc:Tabla Open	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	265 prc:China Gong	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	266 prc:Nepal Cymbal	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	267 prc:Tibetan Bowl	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	268 prc:Crotales	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	269 prc:Bonang	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	270 prc:Kenong	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	271 prc:Saron	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	272 prc:Suwuk Gong	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	273 prc:ClapprStick	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	274 prc:RoseWd Bass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	275 prc:RoseWd Tick	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	276 prc:RoseWd Harm	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	277 prc:RoseWd Fngr	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	278 prc:Tanz Shaker	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	279 prc:Hula Stick	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	280 prc:Log Drum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	281 prc:Plexi-Tone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	282 prc:Plexi-SlapA	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	283 prc:Plexi-SlapB	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	284 prc:Plexi-SlapC	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	285 prc:AsianGongs1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	286 prc:AsianGongs2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	287 prc:Suwak Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	288 kit:SavannahLand	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	289 sfx:Swamp Thing	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	290 sfx:Bugs 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	291 sfx:Bugs 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	292 sfx:Bugs 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	293 sfx:Bugs 4	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	294 sfx:Bugs 5	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	295 sfx:Bugs 6	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	296 sfx:Crickets	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	297 sfx:Woodpecker1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	298 sfx:Woodpecker2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	299 sfx:Frogz	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	300 sfx:Tribe 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	301 sfx:Tribe 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	302 wav:Oct 1 Sine	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	303 wav:Oct 2 All	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	304 wav:Oct 3 All	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	305 wav:Oct 4 All	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	306 wav:Oct 5 All	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	307 wav:Oct 6 All	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	308 wav:Oct 7 All	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	309 wav:Oct 2 Odd	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	310 wav:Oct 3 Odd	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	311 wav:Oct 4 Odd	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	312 wav:Oct 5 Odd	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	313 wav:Oct 6 Odd	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	314 wav:Oct 7 Odd	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	315 wav:Oct 2 Even	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	316 wav:Oct 3 Even	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	317 wav:Oct 4 Even	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	318 wav:Oct 5 Even	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	319 wav:Oct 6 Even	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	320 wav:Oct 7 Even	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	321 wav:Low Odds	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	322 wav:Low Evens	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	323 wav:FourOctaves	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	324 wav:Synth Cyc 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	325 wav:Synth Cyc 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	326 wav:Synth Cyc 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	327 wav:Synth Cyc 4	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	328 wav:Fund Gone 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	329 wav:Fund Gone 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	330 wav:Bite Cyc	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	331 wav:Buzzy Cyc 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	332 wav:Metlphone 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	333 wav:Metlphone 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	334 wav:Metlphone 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	335 wav:Metlphone 4	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	336 wav:Duck Cyc 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	337 wav:Duck Cyc 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	338 wav:Duck Cyc 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	339 wav:Wind Cyc 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	340 wav:Wind Cyc 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	341 wav:Wind Cyc 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	342 wav:Wind Cyc 4	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	343 wav:Organ Cyc 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	344 wav:Organ Cyc 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	345 sfx:Noise	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	346 sfx:Dark Noise	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	347 wav:Sine Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	348 wav:Triangle	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	349 wav:Tri Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	350 wav:Square	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	351 wav:Square Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	352 wav:Pulse 33%	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	353 wav:Pulse 25%	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	354 wav:Pulse 10%	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	355 wav:Sawtooth	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	356 wav:SawOddGone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	357 wav:Ramp	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	358 wav:RampEveOnly	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	359 wav:Vio Essence	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	360 wav:Buzzoon	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	361 wav:Brassy Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	362 wav:Reedy Buzz	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	363 wav:Growl Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	364 wav:HarpsiWave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	365 wav:Fuzzy Gruzz	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	366 wav:Power 5ths	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	367 wav:Filt Saw	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	368 wav:Ice Bell	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	369 wav:Bronze Age	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	370 wav:Iron Plate	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	371 wav:Aluminum	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	372 wav:Lead Beam	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	373 wav:SteelXtract	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	374 wav:WinterGlass	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	375 wav:TwnBellWash	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	376 wav:Orch Bells	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	377 wav:Tubular SE	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	378 wav:SoftBellWave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	379 wav:Swirly	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	380 wav:Tack Attack	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	381 wav:ShimmerWave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	382 wav:Moog Lead	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	383 wav:B3 SE	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	384 wav:Mild Tone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	385 wav:Piper	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	386 wav:Ah Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	387 wav:Vocal Wave	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	388 wav:Fuzzy Clav	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	389 wav:Electrhode	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	390 wav:Whine 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	391 wav:Whine 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	392 wav:Metal Drone	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	393 wav:Silver Race	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	394 wav:MetalAttack	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	395 kit:GM Drums 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	396 kit:GM Drums 2	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	397 kit:GM Drums 3	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	398 kit:GM Drums 4	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	399 kit:GM 1 No Hats	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	400 kit:GM 2 No Hats	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	401 kit:GM 3 No Hats	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	402 kit:GM 4 No Hats	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	403 kit:GM Hi Hats 1	
+E-MU Systems	Protozoa ROM	Instruments -> P/123	404 kit:GM Hi Hats 2	
