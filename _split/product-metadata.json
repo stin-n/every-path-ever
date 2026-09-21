@@ -2038,7 +2038,7 @@
             ],
             "todo": ""
         },
-        "logicpro_logicpro7": {
+        "logicpro7": {
             "company": "Apple",
             "product_names": [
                 "Logic Pro 7"
@@ -2062,7 +2062,7 @@
             ],
             "todo": ""
         },
-        "logicpro_logicpro8": {
+        "logicpro8": {
             "company": "Apple",
             "product_names": [
                 "Logic Pro 8"
@@ -2086,7 +2086,7 @@
             ],
             "todo": ""
         },
-        "logicpro_logicpro9": {
+        "logicpro9": {
             "company": "Apple",
             "product_names": [
                 "Logic Pro 9"
