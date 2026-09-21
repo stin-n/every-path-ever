@@ -509,7 +509,7 @@ E-MU Systems	Orbit-3	TeCnO Bank 3	123 led:Dance Diva
 E-MU Systems	Orbit-3	TeCnO Bank 3	124 led:Rodin's Knee	
 E-MU Systems	Orbit-3	TeCnO Bank 3	125 sfx:Freak Out	
 E-MU Systems	Orbit-3	TeCnO Bank 3	126 snd:by Rob Papen	
-E-MU Systems	Orbit-3	TeCnO Bank 3	127 :TemplateV2.0	
+E-MU Systems	Orbit-3	TeCnO Bank 3	127    :TemplateV2.0	
 E-MU Systems	Orbit-3	BEAT Bank 0	000 bts:Beat Garden	
 E-MU Systems	Orbit-3	BEAT Bank 0	001 bas:Beat Square	
 E-MU Systems	Orbit-3	BEAT Bank 0	002 syn:Tulip Bells	
@@ -1021,8 +1021,8 @@ E-MU Systems	Orbit-3	BEAT Bank 3	123 arp:Hi Tech Tree
 E-MU Systems	Orbit-3	BEAT Bank 3	124 syn:RnB Bell III	
 E-MU Systems	Orbit-3	BEAT Bank 3	125 sfx:NovaZembla 3	
 E-MU Systems	Orbit-3	BEAT Bank 3	126 vox:OrganVocals	
-E-MU Systems	Orbit-3	BEAT Bank 3	127 :TemplateV1.0	
-E-MU Systems	Orbit-3	Instruments -> TeCnO	000 ::None	
+E-MU Systems	Orbit-3	BEAT Bank 3	127    :TemplateV1.0	
+E-MU Systems	Orbit-3	Instruments -> TeCnO	000    ::None	
 E-MU Systems	Orbit-3	Instruments -> TeCnO	001 hit:C minor #1	
 E-MU Systems	Orbit-3	Instruments -> TeCnO	002 hit:C Major #1	
 E-MU Systems	Orbit-3	Instruments -> TeCnO	003 hit:C minor #2	
@@ -1632,7 +1632,7 @@ E-MU Systems	Orbit-3	Instruments -> TeCnO	606 prc:New Claps St
 E-MU Systems	Orbit-3	Instruments -> TeCnO	607 prc:New Claps	
 E-MU Systems	Orbit-3	Instruments -> TeCnO	608 prc:Super Kick	
 E-MU Systems	Orbit-3	Instruments -> TeCnO	609 sfx:VocodaSpectr	
-E-MU Systems	Orbit-3	Instruments -> BEAT	000 :None	
+E-MU Systems	Orbit-3	Instruments -> BEAT	000    :None	
 E-MU Systems	Orbit-3	Instruments -> BEAT	001 bas:JD-Marc01	
 E-MU Systems	Orbit-3	Instruments -> BEAT	002 bas:JD-Marc01cho	
 E-MU Systems	Orbit-3	Instruments -> BEAT	003 bas:JD-Marc01oct	

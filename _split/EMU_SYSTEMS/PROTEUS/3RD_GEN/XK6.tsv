@@ -509,7 +509,7 @@ E-MU Systems	XK-6 Xtreme Keys	XROM Bank 3	123 bel:NordicCalm
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 3	124 bel:Rainbellz	
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 3	125 bel:Agualla Bell	
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 3	126 bel:Capsulate	
-E-MU Systems	XK-6 Xtreme Keys	XROM Bank 3	127 :XL-7 default	
+E-MU Systems	XK-6 Xtreme Keys	XROM Bank 3	127    :XL-7 default	
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 4	000 jam:Gothica	
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 4	001 jam:Edgey	
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 4	002 jam:Xstatic	
@@ -638,3 +638,1214 @@ E-MU Systems	XK-6 Xtreme Keys	XROM Bank 4	124 bts:Euro House
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 4	125 bts:Stadium Btz	
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 4	126 bts:Garage Style	
 E-MU Systems	XK-6 Xtreme Keys	XROM Bank 4	127 bts:Magic Air	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0000    :None	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0001 wav:Sine	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0002 wav:Saw	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0003 wav:Square	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0004 wav:Triangle	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0005 wav:AuditySaw	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0006 wav:AuditySquare	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0007 wav:AudityBlend	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0008 wav:AuditySync 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0009 wav:AuditySync 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0010 wav:AuditySync 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0011 wav:AuditySync 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0012 wav:AuditySync 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0013 wav:AudityPWM 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0014 wav:AudityPWM 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0015 wav:AudityPWM 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0016 wav:Ring Mod 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0017 wav:Ring Mod 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0018 wav:Ring Mod 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0019 wav:Metal Wave	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0020 syn:Jungle Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0021 syn:Metalik	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0022 brs:Lead 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0023 brs:Lead 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0024 syn:AudityLead 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0025 syn:AudityLead 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0026 syn:AudityLead 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0027 syn:AudityLead 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0028 syn:AudityLead 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0029 syn:AudityLead 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0030 syn:AudityLead 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0031 syn:AudityLead 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0032 syn:AudityLead 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0033 syn:AudityLead10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0034 syn:AudityLead11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0035 syn:ClassicLead1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0036 syn:ClassicLead2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0037 syn:ClassicLead3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0038 syn:ClassicLead4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0039 syn:Digi Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0040 syn:Synth 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0041 syn:Synth 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0042 syn:Synth 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0043 syn:Synth 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0044 syn:Synth 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0045 syn:Synth 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0046 syn:Synth 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0047 syn:Synth 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0048 syn:Synth 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0049 syn:Synth 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0050 syn:Synth 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0051 syn:Synth 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0052 syn:Synth 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0053 syn:Synth 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0054 bas:Audity 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0055 bas:Audity 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0056 bas:Audity 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0057 bas:Acid 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0058 bas:Acid 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0059 bas:Acid 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0060 bas:Acid 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0061 bas:Acid 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0062 bas:Acid 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0063 bas:Acid 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0064 bas:Acid 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0065 bas:Acid 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0066 bas:Acid 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0067 bas:Hybrid 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0068 bas:Hybrid 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0069 bas:Hybrid 2b	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0070 bas:Dance 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0071 bas:Dance 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0072 bas:Mikro	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0073 bas:Shush	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0074 bas:Fuzz	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0075 bas:Flange	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0076 bas:Buzz	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0077 bas:Booty Q 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0078 bas:Booty Q 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0079 bas:Zodiac 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0080 bas:Zodiac 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0081 bas:Prodigal	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0082 bas:Zeek	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0083 bel:Audity 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0084 bel:Audity 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0085 bel:Audity 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0086 bel:Audity 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0087 bel:Audity 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0088 vox:Humana	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0089 vox:Vapor	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0090 vox:Chronic	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0091 vox:Wave 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0092 vox:Wave 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0093 vox:Wave 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0094 vox:Wave 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0095 vox:Wave 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0096 vox:Wave 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0097 nse:White Noise	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0098 nse:Pink Noise	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0099 wal:Audity 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0100 wal:Audity 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0101 wal:Audity 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0102 wal:Audity 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0103 wal:Audity 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0104 wal:Audity 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0105 wal:Audity 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0106 nse:Noise Tunnel	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0107 syn:Air Pipe	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0108 syn:CrystalCavrn	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0109 syn:Sonar	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0110 edg:Audity 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0111 edg:Audity 1b	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0112 edg:Audity 1c	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0113 edg:Audity 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0114 edg:Audity 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0115 sfx:Future World	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0116 syn:Grinder	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0117 syn:Growly	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0118 sfx:Cricket	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0119 sfx:Fuzz Ball	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0120 sfx:Droid Scrape	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0121 sfx:Rez Honk	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0122 hit:Krunchy Hit	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0123 sfx:Turbo	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0124 sfx:Interference	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0125 bas:Bass	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0126 bas:Dis Bass 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0127 bas:Dis Bass 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0128 bas:Dis Bass 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0129 bas:Perc Bass	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0130 sfx:Grind	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0131 sfx:Siren	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0132 sfx:Turbine	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0133 sfx:Alien	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0134 sfx:Laser Rip	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0135 vox:Aud Vox	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0136 scr:Scratch 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0137 scr:Scratch 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0138 scr:Scratch 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0139 scr:Scratch 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0140 prc:Looped 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0141 prc:Looped 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0142 prc:Looped 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0143 prc:Looped 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0144 prc:Looped 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0145 prc:Looped 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0146 prc:Looped 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0147 prc:Looped 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0148 prc:Looped 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0149 prc:Looped 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0150 prc:Looped 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0151 prc:Looped 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0152 prc:Looped 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0153 prc:Looped 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0154 prc:Looped 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0155 prc:Looped 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0156 prc:Looped 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0157 prc:Looped 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0158 prc:Looped 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0159 prc:Looped 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0160 prc:Looped 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0161 prc:Looped 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0162 prc:Looped 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0163 prc:Looped 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0164 prc:Looped 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0165 prc:Looped 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0166 prc:Looped 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0167 prc:Looped 28	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0168 prc:Looped 29	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0169 prc:Looped 30	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0170 prc:Looped 31	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0171 prc:Looped 32	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0172 prc:Looped 33	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0173 prc:Looped 34	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0174 prc:Looped 35	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0175 prc:Looped 36	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0176 prc:Looped 37	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0177 prc:Looped 38	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0178 prc:Looped 39	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0179 prc:Looped 40	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0180 prc:Looped 41	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0181 prc:Looped 42	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0182 prc:Looped 43	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0183 prc:Looped 44	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0184 prc:Looped 45	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0185 prc:Looped 46	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0186 prc:Looped 47	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0187 prc:Looped 48	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0188 prc:Looped 49	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0189 prc:Looped 50	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0190 prc:Looped 51	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0191 prc:Looped 52	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0192 prc:1 Shot 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0193 prc:1 Shot 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0194 prc:1 Shot 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0195 prc:1 Shot 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0196 prc:1 Shot 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0197 prc:1 Shot 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0198 prc:1 Shot 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0199 prc:1 Shot 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0200 prc:1 Shot 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0201 prc:1 Shot 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0202 prc:1 Shot 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0203 prc:1 Shot 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0204 prc:1 Shot 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0205 prc:1 Shot 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0206 prc:1 Shot 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0207 prc:1 Shot 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0208 prc:1 Shot 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0209 prc:1 Shot 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0210 prc:1 Shot 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0211 prc:1 Shot 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0212 prc:1 Shot 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0213 prc:1 Shot 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0214 prc:1 Shot 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0215 prc:1 Shot 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0216 prc:1 Shot 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0217 prc:1 Shot 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0218 prc:1 Shot 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0219 prc:1 Shot 28	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0220 prc:1 Shot 29	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0221 prc:1 Shot 30	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0222 prc:1 Shot 31	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0223 prc:1 Shot 32	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0224 prc:1 Shot 33	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0225 prc:1 Shot 34	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0226 prc:1 Shot 35	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0227 prc:1 Shot 36	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0228 prc:1 Shot 37	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0229 prc:1 Shot 38	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0230 prc:1 Shot 39	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0231 prc:1 Shot 40	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0232 prc:1 Shot 41	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0233 prc:1 Shot 42	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0234 prc:1 Shot 43	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0235 prc:1 Shot 44	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0236 prc:1 Shot 45	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0237 prc:1 Shot 46	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0238 prc:1 Shot 47	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0239 prc:1 Shot 48	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0240 prc:1 Shot 49	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0241 prc:1 Shot 50	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0242 prc:1 Shot 51	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0243 prc:1 Shot 52	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0244 prc:1 Shot 53	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0245 prc:1 Shot 54	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0246 prc:1 Shot 55	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0247 prc:1 Shot 56	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0248 prc:1 Shot 57	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0249 prc:1 Shot 58	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0250 prc:1 Shot 59	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0251 prc:1 Shot 60	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0252 prc:1 Shot 61	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0253 prc:1 Shot 62	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0254 prc:1 Shot 63	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0255 prc:1 Shot 64	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0256 prc:1 Shot 65	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0257 prc:1 Shot 66	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0258 prc:1 Shot 67	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0259 prc:1 Shot 68	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0260 prc:1 Shot 69	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0261 prc:1 Shot 70	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0262 prc:1 Shot 71	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0263 prc:1 Shot 72	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0264 prc:1 Shot 73	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0265 prc:1 Shot 74	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0266 prc:1 Shot 75	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0267 prc:1 Shot 76	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0268 prc:1 Shot 77	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0269 prc:1 Shot 78	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0270 prc:1 Shot 79	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0271 prc:1 Shot 80	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0272 prc:1 Shot 81	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0273 scr:Scratches	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0274 kit:El Perc 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0275 kit:El 1 Looped	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0276 kit:Env Loops 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0277 kit:El Perc 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0278 kit:El 2 Looped	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0279 kit:Env Loops 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0280 kit:Hybrid Perc	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0281 kit:WarehousePrc	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0282 kit:Acoustic A	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0283 kit:AcKick+Snare	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0284 kit:Acoustic A+B	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0285 kit:Hardcore 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0286 kit:Hardcore 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0287 kit:Hardcore 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0288 bas:Hum	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0289 bas:Below Sub	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0290 bas:Super Sub	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0291 bas:SE Sub 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0292 bas:SE Sub 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0293 bas:SE Sub 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0294 bas:SE Sub 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0295 bas:SE Sub 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0296 bas:SE Sub 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0297 bas:SE Sub 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0298 bas:Hit	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0299 bas:Subtle	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0300 bas:Mem Moog	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0301 bas:Lowness	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0302 bas:Ice	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0303 bas:Analow	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0304 bas:Moog Tri	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0305 bas:Moog Sub	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0306 bas:Moogy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0307 bas:Fat Sun	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0308 bas:Analog	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0309 bas:Q 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0310 bas:Q 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0311 bas:Q 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0312 bas:Planet	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0313 bas:2600	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0314 bas:Synth 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0315 bas:Synth 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0316 bas:Synth 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0317 bas:Synth 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0318 bas:Synth 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0319 bas:Synth 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0320 bas:Synth 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0321 bas:Synth 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0322 bas:Synth 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0323 bas:Synth 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0324 bas:TB 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0325 bas:TB 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0326 bas:TB 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0327 bas:TB 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0328 bas:CZ101	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0329 bas:PPG	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0330 bas:Mini 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0331 bas:Mini 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0332 bas:Mini 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0333 bas:Mini 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0334 bas:Saw	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0335 bas:Ultimate 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0336 bas:Ultimate 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0337 bas:Micro Moog	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0338 bas:DB9 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0339 bas:DB9 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0340 bas:Phlappy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0341 bas:Power Q	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0342 bas:Big Sync	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0343 bas:Buzzer	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0344 bas:Saw Sync	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0345 bas:Pocket	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0346 bas:Q Attack Sub	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0347 bas:Sonics	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0348 bas:Perco	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0349 bas:Not So Mini	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0350 bas:Spitt	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0351 bas:Tap	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0352 bas:Juno Sub	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0353 bas:Complex Sub	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0354 bas:Full Octave	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0355 bas:Deep Pocket	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0356 bas:JP4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0357 bas:Synth Hits	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0358 bas:DX 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0359 bas:DX 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0360 bas:DX 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0361 bas:EP 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0362 bas:EP 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0363 bas:EP 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0364 bas:Home 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0365 bas:Home 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0366 bas:Street	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0367 bas:Pure	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0368 bas:Fing&Harms 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0369 bas:Fing&Harms 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0370 bas:All Purpose	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0371 bas:Standard	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0372 bas:Fretless 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0373 bas:Fretless 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0374 bas:Fretless 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0375 bas:Fretless 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0376 bas:Upright 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0377 bas:Upright 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0378 bas:Slap 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0379 bas:Slap 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0380 bas:Gruzzy Pop	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0381 bas:Pop Slide 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0382 bas:Pop Slide 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0383 bas:Pop Slide 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0384 bas:Pop Slide 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0385 bas:Funk Hits	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0386 bas:Organ 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0387 bas:Organ 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0388 gtr:Mutes	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0389 gtr:Power 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0390 gtr:Power 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0391 gtr:Power Hit	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0392 gtr:Synth Axe	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0393 gtr:Hits	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0394 key:Pipe Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0395 key:DrawbarOrgan	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0396 key:Perc Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0397 key:Org Day	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0398 key:Disco Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0399 key:DX Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0400 key:JX Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0401 key:Tone Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0402 key:Simple Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0403 key:Org Lite	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0404 key:Org Nod	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0405 key:Full Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0406 key:Synth Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0407 key:BreathyOrgan	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0408 key:Dance Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0409 key:Farfisa 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0410 key:Farfisa 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0411 key:Vox Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0412 key:Synth Cheeze	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0413 key:Organ Hits 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0414 key:Organ Hits 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0415 key:Tine EP	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0416 key:Pretty EP	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0417 key:Classic EP	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0418 key:FM EP 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0419 key:FM EP 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0420 key:EP Hits	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0421 key:Clavinet	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0422 key:Piano Wave	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0423 wav:Xylo Pad	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0424 wav:Pure H20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0425 wav:Log Hit	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0426 wav:Pluck Tone	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0427 wav:Hollow Deep	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0428 wav:Bell Synth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0429 wav:Syn Tone	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0430 wav:Perc Axe	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0431 wav:Whine	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0432 wav:CZ101 Digi	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0433 wav:CZ Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0434 wav:CZ Echo Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0435 wav:Wild Synth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0436 wav:Spacey Keys	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0437 wav:Digi Buzz	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0438 wav:Rast Keys	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0439 wav:ARP Sync	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0440 wav:Narrow Synth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0441 wav:Fat Attack	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0442 wav:ARP Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0443 wav:Synthetic	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0444 wav:Overtone	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0445 wav:Buzz Saw	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0446 wav:Blipper	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0447 wav:Full Synth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0448 wav:Bass Synth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0449 wav:Mini Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0450 wav:Sawtooth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0451 wav:M12 Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0452 wav:Sync Wave 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0453 wav:Sync Wave 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0454 wav:Sync Wave 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0455 wav:Sync Wave 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0456 wav:Sync Wave 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0457 wav:Sync Wave 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0458 wav:Pop Square	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0459 wav:Juno Square	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0460 wav:SquareAttack	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0461 wav:Square Lead	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0462 wav:SquareChorus	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0463 wav:Sinusoid	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0464 wav:Worm Lead 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0465 wav:Worm Lead 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0466 wav:Worm Lead 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0467 wav:Worm Lead 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0468 wav:Worm Lead 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0469 wav:Worm Lead 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0470 wnd:Harmonica	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0471 wnd:Synth Flute	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0472 syn:Soft Synth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0473 syn:Hi String	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0474 syn:OBX Saws	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0475 syn:Big Planet	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0476 syn:JP6 Pad	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0477 syn:Saw Sweep	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0478 syn:Juno Pulse	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0479 syn:CZ Synstring	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0480 syn:Ensemble	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0481 syn:Rezzy Wave	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0482 syn:Heavy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0483 syn:Rezzy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0484 syn:Hi Octaves	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0485 pad:Dreemy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0486 pad:Phat	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0487 pad:Tekno	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0488 pad:Life	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0489 pad:Classic	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0490 pad:Dreamer	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0491 pad:Paddy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0492 pad:Dance Chord	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0493 pad:Zoom	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0494 pad:Keyngdom	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0495 pad:Oddd Organ	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0496 pad:Mood Strings	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0497 brs:Brazz	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0498 brs:Synthy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0499 brs:P5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0500 brs:Bari Wave	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0501 brs:Sax Wave	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0502 brs:Mute Trumpet	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0503 brs:Trumpet FX 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0504 brs:Trumpet FX 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0505 brs:Cool Loops	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0506 brs:Sax Riff	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0507 brs:Boink	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0508 brs:Classic Hit	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0509 brs:Hits 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0510 brs:Hits 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0511 vox:Jax Breath	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0512 vox:Synth	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0513 vox:Orch	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0514 vox:Soul Oohs	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0515 vox:CMI Breath	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0516 vox:Breathy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0517 vox:Tarzana	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0518 vox:Gothic	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0519 vox:Oow	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0520 hit:Vox 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0521 hit:Vox 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0522 hit:Strings	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0523 hit:All Dance 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0524 hit:All Dance 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0525 sfx:Sound Track	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0526 sfx:Music Crowd	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0527 sfx:Lawn Mower	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0528 sfx:Riff Trip	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0529 sfx:Cyber Pan	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0530 sfx:Groove Thing	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0531 sfx:Science	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0532 sfx:Under Pad FM	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0533 sfx:Sci Fi	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0534 sfx:Synth Siren	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0535 nse:Metal	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0536 nse:Vinyl 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0537 nse:Vinyl 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0538 nse:Vinyl 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0539 nse:Vinyl 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0540 nse:Pink	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0541 nse:White	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0542 scr:Scratches 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0543 scr:Scratches 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0544 prc:Kicks 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0545 prc:Kicks 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0546 prc:Snares 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0547 prc:Snares 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0548 prc:Toms 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0549 prc:Toms 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0550 prc:Timbales 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0551 prc:Timbales 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0552 prc:Congas etc 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0553 prc:Congas etc 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0554 prc:Hats 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0555 prc:Hats 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0556 prc:Cymbals 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0557 prc:Cymbals 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0558 prc:Shakers	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0559 prc:Maracas	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0560 prc:Bells 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0561 prc:Bells 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0562 prc:Blocks 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0563 prc:Blocks 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0564 prc:Tams 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0565 prc:Tams 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0566 prc:Claps 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0567 prc:Claps 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0568 prc:Snaps	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0569 prc:Clave	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0570 prc:Vibraslap	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0571 prc:Guiro	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0572 prc:Cowbell	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0573 prc:Agogos	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0574 prc:Misc 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0575 prc:Misc 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0576 kit:1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0577 kit:2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0578 kit:3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0579 kit:4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0580 kit:5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0581 kit:6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0582 kit:7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0583 kit:8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0584 kit:9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0585 kit:10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0586 kit:11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0587 kit:12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0588 kit:13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0589 kit:14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0590 kit:15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0591 kit:16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0592 kit:GM Dance	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0593 hit:Dance 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0594 hit:Dance 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0595 hit:Dance 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0596 hit:Dance 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0597 hit:Dance 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0598 hit:Dance 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0599 hit:Dance 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0600 hit:Dance 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0601 hit:Dance 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0602 hit:Dance 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0603 hit:Dance 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0604 hit:Dance 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0605 hit:Dance 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0606 hit:Dance 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0607 hit:Dance 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0608 hit:Dance 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0609 hit:Dance 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0610 hit:Dance 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0611 hit:Dance 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0612 hit:Dance 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0613 hit:Dance 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0614 hit:Dance 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0615 hit:Dance 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0616 hit:Dance 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0617 hit:Dance 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0618 hit:Dance 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0619 hit:Dance 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0620 hit:Organ 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0621 hit:Organ 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0622 hit:Organ 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0623 hit:Organ 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0624 hit:Organ 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0625 hit:Organ 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0626 hit:UnisonString	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0627 hit:Unison Brass	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0628 hit:Brass 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0629 hit:Brass 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0630 hit:Brass 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0631 hit:Brass 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0632 hit:Brass 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0633 hit:Brass 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0634 hit:Brass 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0635 hit:Brass 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0636 hit:Brass 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0637 hit:Brass 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0638 hit:Brass 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0639 hit:Brass 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0640 hit:Brass 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0641 hit:Brass 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0642 hit:Brass 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0643 hit:Brass 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0644 hit:Brass 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0645 hit:Brass 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0646 hit:Brass 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0647 hit:Brass 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0648 hit:Trumpet FX 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0649 hit:Trumpet FX 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0650 hit:Trumpet FX 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0651 hit:Trumpet FX 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0652 hit:Trumpet FX 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0653 hit:Sax FX 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0654 hit:Sax FX 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0655 hit:Sax FX 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0656 hit:Blipp	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0657 hit:Buzz Blip	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0658 hit:Game	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0659 hit:Disssss	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0660 hit:Siren Loop	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0661 hit:Bell	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0662 hit:Klank	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0663 hit:Metal	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0664 hit:Slinky Q	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0665 hit:Space Whip	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0666 hit:Short Quack	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0667 hit:Quack Ahhh	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0668 hit:Bowser Bark	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0669 hit:Chiffin	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0670 hit:CMI Hot Air	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0671 hit:L9000 Noise	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0672 hit:Comon Vox	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0673 hit:Odd Vox	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0674 hit:Mmm Hmm	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0675 hit:Ah Hah	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0676 hit:EP Roll 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0677 hit:EP Roll 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0678 hit:EP Roll 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0679 hit:EP Fog	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0680 hit:Fat Low Syn	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0681 hit:Bass Stab 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0682 hit:Bass Stab 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0683 hit:Gtr Hi Chuck	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0684 hit:Gtr UpStroke	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0685 hit:Gtr Scratch1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0686 hit:Gtr Scratch2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0687 hit:KleanGtrChuk	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0688 hit:Gtr Jangle	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0689 hit:Gtr Riff 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0690 hit:Gtr Riff 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0691 hit:Gtr Riff 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0692 hit:Gtr FunkyHit	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0693 hit:Another Gtr	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0694 hit:Jazz Riff 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0695 hit:Jazz Riff 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0696 hit:Jazz Riff 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0697 hit:GtrSlideRiff	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0698 hit:Gtr PopSlide	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0699 hit:Guitar Pop	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0700 hit:Chord Chuck	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0701 hit:Guitar Slide	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0702 hit:Sad Guitar	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0703 hit:Gtr Wawa 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0704 hit:Gtr Wawa 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0705 hit:Gtr Wawa 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0706 hit:Gtr Wawa 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0707 hit:Gtr Wawa 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0708 hit:Gtr Wawa 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0709 hit:Heavy Guitar	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0710 hit:HeavyGtrDive	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0711 hit:Drum Stab	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0712 hit:Guit On It	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0713 hit:Jazz Short	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0714 hit:Blamp	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0715 hit:Bass Slide	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0716 hit:Hip Hop	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0717 scr:Drum Stall	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0718 scr:Stalled	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0719 scr:Wind Down 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0720 scr:Wind Down 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0721 scr:Ripped	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0722 scr:Space Wiggle	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0723 scr:Sqweal Rev	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0724 scr:Draggit	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0725 scr:MC	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0726 scr:Fun	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0727 scr:SSSSystem 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0728 scr:SSSSystem 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0729 scr:Here	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0730 scr:On It	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0731 scr:Diss	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0732 scr:Bow Wow	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0733 scr:Diva Scratch	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0734 scr:Organ Blip	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0735 scr:Classic Tape	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0736 scr:Out!	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0737 scr:Punch It	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0738 scr:Ork	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0739 scr:Tape Stop	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0740 scr:Zip	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0741 scr:Tape Pull	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0742 scr:Wild	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0743 scr:Up	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0744 scr:Away	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0745 scr:Frenzy	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0746 scr:Kick 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0747 scr:Kick 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0748 scr:Snare	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0749 scr:Tite	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0750 scr:Wazzup?	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0751 scr:Barker	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0752 scr:Plunger	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0753 scr:Skipper	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0754 scr:Fast	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0755 prc:Kick 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0756 prc:Kick 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0757 prc:Kick 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0758 prc:Kick 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0759 prc:Kick 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0760 prc:Kick 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0761 prc:Kick 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0762 prc:Kick 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0763 prc:Kick 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0764 prc:Kick 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0765 prc:Kick 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0766 prc:Kick 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0767 prc:Kick 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0768 prc:Kick 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0769 prc:Kick 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0770 prc:Kick 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0771 prc:Kick 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0772 prc:Kick 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0773 prc:Kick 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0774 prc:Kick 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0775 prc:Kick 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0776 prc:Kick 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0777 prc:Kick 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0778 prc:Kick 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0779 prc:Kick 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0780 prc:Kick 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0781 prc:Kick 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0782 prc:Kick 28	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0783 prc:Kick 29	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0784 prc:Kick 30	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0785 prc:Kick 31	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0786 prc:Kick 32	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0787 prc:Kick 33	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0788 prc:Kick 34	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0789 prc:Kick 35	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0790 prc:Kick 36	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0791 prc:Kick 37	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0792 prc:Kick 38	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0793 prc:Kick 39	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0794 prc:Kick 40	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0795 prc:Kick 41	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0796 prc:Kick 42	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0797 prc:Kick 43	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0798 prc:Kick 44	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0799 prc:Kick 45	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0800 prc:Kick 46	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0801 prc:Kick 47	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0802 prc:Kick 48	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0803 prc:Kick 49	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0804 prc:Kick 50	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0805 prc:Kick 51	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0806 prc:Kick 52	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0807 prc:Kick 53	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0808 prc:Kick 54	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0809 prc:Kick 55	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0810 prc:Kick 56	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0811 prc:Kick 57	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0812 prc:Snare 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0813 prc:Snare 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0814 prc:Snare 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0815 prc:Snare 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0816 prc:Snare 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0817 prc:Snare 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0818 prc:Snare 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0819 prc:Snare 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0820 prc:Snare 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0821 prc:Snare 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0822 prc:Snare 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0823 prc:Snare 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0824 prc:Snare 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0825 prc:Snare 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0826 prc:Snare 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0827 prc:Snare 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0828 prc:Snare 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0829 prc:Snare 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0830 prc:Snare 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0831 prc:Snare 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0832 prc:Snare 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0833 prc:Snare 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0834 prc:Snare 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0835 prc:Snare 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0836 prc:Snare 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0837 prc:Snare 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0838 prc:Snare 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0839 prc:Snare 28	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0840 prc:Snare 29	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0841 prc:Snare 30	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0842 prc:Snare 31	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0843 prc:Snare 32	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0844 prc:Snare 33	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0845 prc:Snare 34	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0846 prc:Snare 35	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0847 prc:Snare 36	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0848 prc:Snare 37	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0849 prc:Snare 38	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0850 prc:Snare 39	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0851 prc:Snare 40	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0852 prc:Snare 41	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0853 prc:Snare 42	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0854 prc:Snare 43	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0855 prc:Snare 44	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0856 prc:Snare 45	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0857 prc:Snare 46	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0858 prc:Snare 47	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0859 prc:Snare 48	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0860 prc:Snare 49	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0861 prc:Snare 50	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0862 prc:Snare 51	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0863 prc:Snare 52	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0864 prc:Snare 53	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0865 prc:Snare 54	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0866 prc:Snare 55	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0867 prc:Snare 56	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0868 prc:Snare 57	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0869 prc:Snare 58	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0870 prc:Snare 59	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0871 prc:Snare 60	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0872 prc:Snare 61	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0873 prc:Snare 62	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0874 prc:Snare 63	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0875 prc:Snare 64	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0876 prc:Snare 65	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0877 prc:Snare 66	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0878 prc:Snare 67	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0879 prc:Snare 68	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0880 prc:Snare 69	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0881 prc:Snare 70	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0882 prc:Snare 71	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0883 prc:Snare 72	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0884 prc:Snare 73	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0885 prc:Snare 74	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0886 prc:Snare 75	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0887 prc:Snare 76	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0888 prc:Snare 77	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0889 prc:Snare 78	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0890 prc:Snare 79	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0891 prc:Snare 80	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0892 prc:Snare 81	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0893 prc:Snare 82	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0894 prc:Snare 83	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0895 prc:Snare 84	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0896 prc:Snare 85	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0897 prc:Snare 86	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0898 prc:Snare 87	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0899 prc:Snare 88	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0900 prc:Snare 89	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0901 prc:Snare 90	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0902 prc:Snare 91	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0903 prc:Snare 92	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0904 prc:Snare 93	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0905 prc:Snare 94	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0906 prc:Snare 95	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0907 prc:Snare 96	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0908 prc:Snare 97	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0909 prc:Snare 98	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0910 prc:Snare 99	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0911 prc:Snare 100	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0912 prc:Snare 101	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0913 prc:Snare 102	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0914 prc:Snare 103	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0915 prc:Snare 104	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0916 prc:Snare 105	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0917 prc:Snare 106	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0918 prc:Tom 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0919 prc:Tom 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0920 prc:Tom 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0921 prc:Tom 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0922 prc:Tom 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0923 prc:Tom 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0924 prc:Tom 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0925 prc:Tom 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0926 prc:Tom 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0927 prc:Tom 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0928 prc:Tom 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0929 prc:Tom 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0930 prc:Tom 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0931 prc:Tom 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0932 prc:Tom 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0933 prc:Tom 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0934 prc:Tom 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0935 prc:Tom 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0936 prc:Tom 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0937 prc:Tom 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0938 prc:Tom 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0939 prc:Tom 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0940 prc:Tom 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0941 prc:Tom 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0942 prc:Tom 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0943 prc:Tom 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0944 prc:Timbale 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0945 prc:Timbale 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0946 prc:Timbale 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0947 prc:Timbale 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0948 prc:Timbale 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0949 prc:Timbale 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0950 prc:Conga 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0951 prc:Conga 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0952 prc:Conga 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0953 prc:Conga 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0954 prc:Conga 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0955 prc:Conga 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0956 prc:Conga 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0957 prc:Conga 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0958 prc:Conga 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0959 prc:Conga 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0960 prc:Bongo 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0961 prc:Bongo 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0962 prc:Bongo 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0963 prc:Bongo 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0964 prc:Bongo 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0965 prc:Bongo 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0966 prc:Bongo 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0967 prc:Hat 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0968 prc:Hat 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0969 prc:Hat 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0970 prc:Hat 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0971 prc:Hat 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0972 prc:Hat 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0973 prc:Hat 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0974 prc:Hat 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0975 prc:Hat 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0976 prc:Hat 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0977 prc:Hat 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0978 prc:Hat 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0979 prc:Hat 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0980 prc:Hat 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0981 prc:Hat 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0982 prc:Hat 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0983 prc:Hat 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0984 prc:Hat 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0985 prc:Hat 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0986 prc:Hat 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0987 prc:Hat 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0988 prc:Hat 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0989 prc:Hat 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0990 prc:Hat 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0991 prc:Hat 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0992 prc:Hat 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0993 prc:Hat 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0994 prc:Hat 28	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0995 prc:Hat 29	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0996 prc:Hat 30	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0997 prc:Hat 31	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0998 prc:Hat 32	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	0999 prc:Hat 33	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1000 prc:Hat 34	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1001 prc:Hat 35	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1002 prc:Hat 36	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1003 prc:Hat 37	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1004 prc:Hat 38	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1005 prc:Hat 39	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1006 prc:Hat 40	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1007 prc:Hat 41	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1008 prc:Hat 42	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1009 prc:Hat 43	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1010 prc:Hat 44	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1011 prc:Hat 45	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1012 prc:Hat 46	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1013 prc:Hat 47	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1014 prc:Hat 48	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1015 prc:Hat 49	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1016 prc:Hat 50	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1017 prc:Hat 51	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1018 prc:Hat 52	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1019 prc:Hat 53	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1020 prc:Hat 54	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1021 prc:Hat 55	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1022 prc:Hat 56	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1023 prc:Hat 57	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1024 prc:Hat 58	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1025 prc:Hat 59	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1026 prc:Hat 60	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1027 prc:Hat 61	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1028 prc:Hat 62	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1029 prc:Hat 63	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1030 prc:Hat 64	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1031 prc:Hat 65	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1032 prc:Hat 66	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1033 prc:Hat 67	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1034 prc:Hat 68	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1035 prc:Hat 69	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1036 prc:Hat 70	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1037 prc:Hat 71	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1038 prc:Hat 72	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1039 prc:Hat 73	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1040 prc:Hat 74	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1041 prc:Hat 75	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1042 prc:Hat 76	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1043 prc:Hat 77	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1044 prc:Hat 78	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1045 prc:Cymbal 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1046 prc:Cymbal 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1047 prc:Cymbal 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1048 prc:Cymbal 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1049 prc:Cymbal 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1050 prc:Cymbal 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1051 prc:Cymbal 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1052 prc:Cymbal 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1053 prc:Cymbal 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1054 prc:Cymbal 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1055 prc:Cymbal 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1056 prc:Cymbal 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1057 prc:Cymbal 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1058 prc:Cymbal 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1059 prc:Cymbal 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1060 prc:Cymbal 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1061 prc:Cymbal 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1062 prc:Cymbal 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1063 prc:Shaker 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1064 prc:Shaker 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1065 prc:Shaker 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1066 prc:Shaker 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1067 prc:Shaker 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1068 prc:Shaker 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1069 prc:Shaker 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1070 prc:Shaker 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1071 prc:Shaker 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1072 prc:Shaker 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1073 prc:Shaker 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1074 prc:Shaker 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1075 prc:Shaker 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1076 prc:Shaker 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1077 prc:Shaker 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1078 prc:Shaker 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1079 prc:Shaker 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1080 prc:Shaker 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1081 prc:Shaker 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1082 prc:Shaker 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1083 prc:Shaker 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1084 prc:Shaker 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1085 prc:Shaker 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1086 prc:Shaker 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1087 prc:Shaker 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1088 prc:Shaker 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1089 prc:Shaker 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1090 prc:Vibraslap	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1091 prc:Flexitone	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1092 prc:Bell Tree	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1093 prc:Slay Bells	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1094 prc:Bell 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1095 prc:Bell 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1096 prc:Bell 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1097 prc:Bell 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1098 prc:Bell 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1099 prc:Bell 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1100 prc:Bell 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1101 prc:Bell 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1102 prc:Bell 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1103 prc:Bell 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1104 prc:Bell 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1105 prc:Bell 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1106 prc:Bell 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1107 prc:Bell 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1108 prc:Bell 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1109 prc:Bell 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1110 prc:Bell 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1111 prc:Bell 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1112 prc:Bell 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1113 prc:Bell 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1114 prc:Bell 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1115 prc:Bell 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1116 prc:Bell 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1117 prc:Bell 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1118 prc:Bell 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1119 prc:Bell 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1120 prc:Bell 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1121 prc:Bell 28	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1122 prc:Bell 29	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1123 prc:Bell 30	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1124 prc:Bell 31	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1125 prc:Block 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1126 prc:Block 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1127 prc:Block 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1128 prc:Block 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1129 prc:Block 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1130 prc:Block 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1131 prc:Block 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1132 prc:Block 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1133 prc:Block 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1134 prc:Block 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1135 prc:Block 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1136 prc:Block 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1137 prc:Tam 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1138 prc:Tam 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1139 prc:Tam 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1140 prc:Tam 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1141 prc:Tam 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1142 prc:Tam 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1143 prc:Tam 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1144 prc:Tam 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1145 prc:Clap 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1146 prc:Clap 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1147 prc:Clap 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1148 prc:Clap 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1149 prc:Clap 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1150 prc:Clap 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1151 prc:Clap 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1152 prc:Clap 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1153 prc:Clap 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1154 prc:Clap 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1155 prc:Clap 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1156 prc:Clap 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1157 prc:Clap 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1158 prc:Clap 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1159 prc:Clap 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1160 prc:Clap 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1161 prc:Clap 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1162 prc:Snap 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1163 prc:Snap 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1164 prc:Snap 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1165 prc:Snap 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1166 prc:Snap 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1167 prc:Snap 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1168 prc:Misc 1	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1169 prc:Misc 2	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1170 prc:Misc 3	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1171 prc:Misc 4	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1172 prc:Misc 5	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1173 prc:Misc 6	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1174 prc:Misc 7	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1175 prc:Misc 8	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1176 prc:Misc 9	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1177 prc:Misc 10	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1178 prc:Misc 11	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1179 prc:Misc 12	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1180 prc:Misc 13	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1181 prc:Misc 14	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1182 prc:Misc 15	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1183 prc:Misc 16	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1184 prc:Misc 17	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1185 prc:Misc 18	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1186 prc:Misc 19	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1187 prc:Misc 20	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1188 prc:Misc 21	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1189 prc:Misc 22	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1190 prc:Misc 23	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1191 prc:Misc 24	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1192 prc:Misc 25	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1193 prc:Misc 26	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1194 prc:Misc 27	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1195 prc:Misc 28	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1196 prc:Misc 29	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1197 prc:Misc 30	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1198 prc:Misc 31	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1199 prc:Misc 32	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1200 prc:Misc 33	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1201 prc:Misc 34	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1202 prc:Misc 35	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1203 prc:Misc 36	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1204 prc:Misc 37	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1205 prc:Misc 38	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1206 prc:Misc 39	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1207 prc:Misc 40	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1208 prc:Misc 41	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1209 prc:Misc 42	
+E-MU Systems	XK-6 Xtreme Keys	Instruments -> XROM	1210 prc:Misc 43	

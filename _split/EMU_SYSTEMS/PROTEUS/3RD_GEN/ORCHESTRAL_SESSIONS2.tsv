@@ -253,8 +253,8 @@ E-MU Systems	Orchestral Sessions Vol. 2 ROM	ORCH2 Bank 1	123 hrp:Bell Harp
 E-MU Systems	Orchestral Sessions Vol. 2 ROM	ORCH2 Bank 1	124 sfx:VisionQuest	
 E-MU Systems	Orchestral Sessions Vol. 2 ROM	ORCH2 Bank 1	125 sfx:Darthwaves	
 E-MU Systems	Orchestral Sessions Vol. 2 ROM	ORCH2 Bank 1	126 lnk:PtchdTimpLnk	
-E-MU Systems	Orchestral Sessions Vol. 2 ROM	ORCH2 Bank 1	127 :V2KRom2 V1.0	
-E-MU Systems	Orchestral Sessions Vol. 2 ROM	Instruments -> ORCH2	000 :None	
+E-MU Systems	Orchestral Sessions Vol. 2 ROM	ORCH2 Bank 1	127    :V2KRom2 V1.0	
+E-MU Systems	Orchestral Sessions Vol. 2 ROM	Instruments -> ORCH2	000    :None	
 E-MU Systems	Orchestral Sessions Vol. 2 ROM	Instruments -> ORCH2	001 wnd:Piccolo p	
 E-MU Systems	Orchestral Sessions Vol. 2 ROM	Instruments -> ORCH2	002 wnd:Piccolo mf	
 E-MU Systems	Orchestral Sessions Vol. 2 ROM	Instruments -> ORCH2	003 wnd:Piccolo Hall	

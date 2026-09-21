@@ -510,810 +510,810 @@ E-MU Systems	PX-7	DRUM Bank 3	124 lnk:GM 2
 E-MU Systems	PX-7	DRUM Bank 3	125 zzz:timebase	
 E-MU Systems	PX-7	DRUM Bank 3	126 zzz:blank	
 E-MU Systems	PX-7	DRUM Bank 3	127 zzz:defaultv1.0	
-E-MU Systems	PX-7	Instruments	000 :None	
-E-MU Systems	PX-7	Instruments	001 plr:AcousticKits	
-E-MU Systems	PX-7	Instruments	002 plr:Synth Kits	
-E-MU Systems	PX-7	Instruments	003 kit:BreadnButter	
-E-MU Systems	PX-7	Instruments	004 kit:Studio	
-E-MU Systems	PX-7	Instruments	005 kit:Funky R&B	
-E-MU Systems	PX-7	Instruments	006 kit:Stadium Rock	
-E-MU Systems	PX-7	Instruments	007 kit:Jazz Brush	
-E-MU Systems	PX-7	Instruments	008 kit:B&B No Hats	
-E-MU Systems	PX-7	Instruments	009 kit:StudioNoHats	
-E-MU Systems	PX-7	Instruments	010 kit:Funky NoHats	
-E-MU Systems	PX-7	Instruments	011 kit:StadiumNoHat	
-E-MU Systems	PX-7	Instruments	012 kit:Brush NoHats	
-E-MU Systems	PX-7	Instruments	013 kit:BnB No GM	
-E-MU Systems	PX-7	Instruments	014 kit:Studio No GM	
-E-MU Systems	PX-7	Instruments	015 kit:Funky No GM	
-E-MU Systems	PX-7	Instruments	016 kit:Stadium NoGM	
-E-MU Systems	PX-7	Instruments	017 kit:Brush No GM	
-E-MU Systems	PX-7	Instruments	018 kit:B&B HOTLayer	
-E-MU Systems	PX-7	Instruments	019 kit:StdioHOTLayr	
-E-MU Systems	PX-7	Instruments	020 kit:FunkyHOTLayr	
-E-MU Systems	PX-7	Instruments	021 kit:Stadium HOT	
-E-MU Systems	PX-7	Instruments	022 kit:JazzHOTLayer	
-E-MU Systems	PX-7	Instruments	023 kit:SP1200	
-E-MU Systems	PX-7	Instruments	024 kit:E2 DRUM	
-E-MU Systems	PX-7	Instruments	025 kit:MS20	
-E-MU Systems	PX-7	Instruments	026 kit:MS20b	
-E-MU Systems	PX-7	Instruments	027 kit:SK-1	
-E-MU Systems	PX-7	Instruments	028 kit:808	
-E-MU Systems	PX-7	Instruments	029 kit:909	
-E-MU Systems	PX-7	Instruments	030 kit:Zero Kit	
-E-MU Systems	PX-7	Instruments	031 kit:1983 Kit	
-E-MU Systems	PX-7	Instruments	032 kit:Hard Kit	
-E-MU Systems	PX-7	Instruments	033 kit:Doom Kit	
-E-MU Systems	PX-7	Instruments	034 kit:Tecno 1	
-E-MU Systems	PX-7	Instruments	035 kit:Tecno 2	
-E-MU Systems	PX-7	Instruments	036 kit:Hip 1	
-E-MU Systems	PX-7	Instruments	037 kit:Hip 2	
-E-MU Systems	PX-7	Instruments	038 kit:Hip 3	
-E-MU Systems	PX-7	Instruments	039 kit:Hip 4	
-E-MU Systems	PX-7	Instruments	040 kit:Hip 5	
-E-MU Systems	PX-7	Instruments	041 kit:Hip 6	
-E-MU Systems	PX-7	Instruments	042 kit:Hip 7	
-E-MU Systems	PX-7	Instruments	043 kit:Hip 2 2	
-E-MU Systems	PX-7	Instruments	044 kit:Hip 2 4	
-E-MU Systems	PX-7	Instruments	045 kit:Hip 2 7	
-E-MU Systems	PX-7	Instruments	046 kit:Hip 2 10	
-E-MU Systems	PX-7	Instruments	047 kit:Forword/Back	
-E-MU Systems	PX-7	Instruments	048 kit:Mouth Jam	
-E-MU Systems	PX-7	Instruments	049 gen:GM Perc Only	
-E-MU Systems	PX-7	Instruments	050 gen:GM No KickB0	
-E-MU Systems	PX-7	Instruments	051 gen:Alt GM Perc	
-E-MU Systems	PX-7	Instruments	052 gen:Alt NoKickB0	
-E-MU Systems	PX-7	Instruments	053 hat:BreadnButter	
-E-MU Systems	PX-7	Instruments	054 hat:Studio	
-E-MU Systems	PX-7	Instruments	055 hat:Studio 2	
-E-MU Systems	PX-7	Instruments	056 hat:Funky R&B	
-E-MU Systems	PX-7	Instruments	057 hat:Stadium Rock	
-E-MU Systems	PX-7	Instruments	058 hat:Jazz Brush	
-E-MU Systems	PX-7	Instruments	059 kik:BreadnButter	
-E-MU Systems	PX-7	Instruments	060 kik:Studio	
-E-MU Systems	PX-7	Instruments	061 kik:Funky R&B	
-E-MU Systems	PX-7	Instruments	062 kik:Stadium Rock	
-E-MU Systems	PX-7	Instruments	063 kik:Jazz	
-E-MU Systems	PX-7	Instruments	064 snr:BreadnButter	
-E-MU Systems	PX-7	Instruments	065 snr:Studio	
-E-MU Systems	PX-7	Instruments	066 snr:Funky R&B	
-E-MU Systems	PX-7	Instruments	067 snr:Stadium Rock	
-E-MU Systems	PX-7	Instruments	068 snr:Jazz Brush	
-E-MU Systems	PX-7	Instruments	069 tom:BreadnButter	
-E-MU Systems	PX-7	Instruments	070 tom:Studio	
-E-MU Systems	PX-7	Instruments	071 tom:Funky R&B	
-E-MU Systems	PX-7	Instruments	072 tom:Stadium Rock	
-E-MU Systems	PX-7	Instruments	073 tom:Brush Jazz	
-E-MU Systems	PX-7	Instruments	074 tom:SynNoSnares	
-E-MU Systems	PX-7	Instruments	075 cym:BreadnButter	
-E-MU Systems	PX-7	Instruments	076 cym:Studio	
-E-MU Systems	PX-7	Instruments	077 cym:Funky R&B	
-E-MU Systems	PX-7	Instruments	078 cym:Stadium Rock	
-E-MU Systems	PX-7	Instruments	079 cym:Brush Jazz	
-E-MU Systems	PX-7	Instruments	080 prc:All Kicks 1	
-E-MU Systems	PX-7	Instruments	081 prc:All Kicks 2	
-E-MU Systems	PX-7	Instruments	082 prc:All Snares 1	
-E-MU Systems	PX-7	Instruments	083 prc:All Snares 2	
-E-MU Systems	PX-7	Instruments	084 prc:All Snares 3	
-E-MU Systems	PX-7	Instruments	085 prc:All Hats 1	
-E-MU Systems	PX-7	Instruments	086 prc:All Hats 2	
-E-MU Systems	PX-7	Instruments	087 prc:All Toms 1	
-E-MU Systems	PX-7	Instruments	088 prc:All Toms 2	
-E-MU Systems	PX-7	Instruments	089 prc:All Cymbals	
-E-MU Systems	PX-7	Instruments	090 prc:Congas etc	
-E-MU Systems	PX-7	Instruments	091 prc:All Shakers	
-E-MU Systems	PX-7	Instruments	092 prc:All Bells	
-E-MU Systems	PX-7	Instruments	093 prc:SnapsClapTam	
-E-MU Systems	PX-7	Instruments	094 prc:AllScratches	
-E-MU Systems	PX-7	Instruments	095 prc:All Misc	
-E-MU Systems	PX-7	Instruments	096 prc:Vibraphone	
-E-MU Systems	PX-7	Instruments	097 prc:Xylophone	
-E-MU Systems	PX-7	Instruments	098 prc:Marimba	
-E-MU Systems	PX-7	Instruments	099 prc:Kalimba	
-E-MU Systems	PX-7	Instruments	100 prc:FM Log Drum	
-E-MU Systems	PX-7	Instruments	101 prc:Taiko	
-E-MU Systems	PX-7	Instruments	102 prc:Bodran	
-E-MU Systems	PX-7	Instruments	103 prc:E2SteelDrums	
-E-MU Systems	PX-7	Instruments	104 prc:Steel Drum	
-E-MU Systems	PX-7	Instruments	105 prc:Eastern	
-E-MU Systems	PX-7	Instruments	106 prc:Rainstick	
-E-MU Systems	PX-7	Instruments	107 prc:Flexitone	
-E-MU Systems	PX-7	Instruments	108 prc:BellTree	
-E-MU Systems	PX-7	Instruments	109 prc:Glock Bell	
-E-MU Systems	PX-7	Instruments	110 prc:Tubular Bell	
-E-MU Systems	PX-7	Instruments	111 bas:Sine Boomer	
-E-MU Systems	PX-7	Instruments	112 bas:Synth Hummer	
-E-MU Systems	PX-7	Instruments	113 bas:Bagg	
-E-MU Systems	PX-7	Instruments	114 bas:Moog	
-E-MU Systems	PX-7	Instruments	115 bas:Finger	
-E-MU Systems	PX-7	Instruments	116 bas:DX EP Bass 2	
-E-MU Systems	PX-7	Instruments	117 bas:FM Bass	
-E-MU Systems	PX-7	Instruments	118 bas:Acoustic	
-E-MU Systems	PX-7	Instruments	119 wav:Sine	
-E-MU Systems	PX-7	Instruments	120 wav:Sine Squared	
-E-MU Systems	PX-7	Instruments	121 wav:Sine InvSqrd	
-E-MU Systems	PX-7	Instruments	122 wav:Sine Cubed	
-E-MU Systems	PX-7	Instruments	123 wav:SineInvCubed	
-E-MU Systems	PX-7	Instruments	124 wav:P10 Saw	
-E-MU Systems	PX-7	Instruments	125 wav:101 Saw	
-E-MU Systems	PX-7	Instruments	126 wav:101 Square	
-E-MU Systems	PX-7	Instruments	127 wav:JX Square	
-E-MU Systems	PX-7	Instruments	128 wav:P10 Triangle	
-E-MU Systems	PX-7	Instruments	129 wav:JX Pulse	
-E-MU Systems	PX-7	Instruments	130 wav:Worm 1	
-E-MU Systems	PX-7	Instruments	131 wav:Worm 2	
-E-MU Systems	PX-7	Instruments	132 wav:Worm 3	
-E-MU Systems	PX-7	Instruments	133 hit:Modern	
-E-MU Systems	PX-7	Instruments	134 hit:Disco String	
-E-MU Systems	PX-7	Instruments	135 hit:Saxx	
-E-MU Systems	PX-7	Instruments	136 hit:Fret	
-E-MU Systems	PX-7	Instruments	137 wnd:Ocarina	
-E-MU Systems	PX-7	Instruments	138 wnd:Bottle Blow	
-E-MU Systems	PX-7	Instruments	139 nse:White Noise	
-E-MU Systems	PX-7	Instruments	140 hat:SP1200	
-E-MU Systems	PX-7	Instruments	141 hat:E2	
-E-MU Systems	PX-7	Instruments	142 hat:MS20	
-E-MU Systems	PX-7	Instruments	143 hat:SK-1	
-E-MU Systems	PX-7	Instruments	144 hat:808	
-E-MU Systems	PX-7	Instruments	145 hat:909	
-E-MU Systems	PX-7	Instruments	146 hat:Tecno	
-E-MU Systems	PX-7	Instruments	147 hat:Hip 1	
-E-MU Systems	PX-7	Instruments	148 hat:Hip 2	
-E-MU Systems	PX-7	Instruments	149 hat:Hip 2 2	
-E-MU Systems	PX-7	Instruments	150 hat:Mouth Jam	
-E-MU Systems	PX-7	Instruments	151 tom:SP1200	
-E-MU Systems	PX-7	Instruments	152 tom:E2	
-E-MU Systems	PX-7	Instruments	153 tom:MS20	
-E-MU Systems	PX-7	Instruments	154 tom:SK-1	
-E-MU Systems	PX-7	Instruments	155 tom:808	
-E-MU Systems	PX-7	Instruments	156 tom:909	
-E-MU Systems	PX-7	Instruments	157 tom:Backwrds	
-E-MU Systems	PX-7	Instruments	158 tom:Mouth Jam	
-E-MU Systems	PX-7	Instruments	159 plr:Kits NoHats1	
-E-MU Systems	PX-7	Instruments	160 plr:Only Hats 1	
-E-MU Systems	PX-7	Instruments	161 plr:Kits NoHats2	
-E-MU Systems	PX-7	Instruments	162 plr:Only Hats 2	
-E-MU Systems	PX-7	Instruments	163 prc:Kick 1	
-E-MU Systems	PX-7	Instruments	164 prc:Kick 2	
-E-MU Systems	PX-7	Instruments	165 prc:Kick 3	
-E-MU Systems	PX-7	Instruments	166 prc:Kick 4	
-E-MU Systems	PX-7	Instruments	167 prc:Kick 5	
-E-MU Systems	PX-7	Instruments	168 prc:Kick 6	
-E-MU Systems	PX-7	Instruments	169 prc:Kick 7	
-E-MU Systems	PX-7	Instruments	170 prc:Kick 8	
-E-MU Systems	PX-7	Instruments	171 prc:Kick 9	
-E-MU Systems	PX-7	Instruments	172 prc:Kick 10	
-E-MU Systems	PX-7	Instruments	173 prc:Kick 11	
-E-MU Systems	PX-7	Instruments	174 prc:Kick 12	
-E-MU Systems	PX-7	Instruments	175 prc:Kick 13	
-E-MU Systems	PX-7	Instruments	176 prc:Kick 14	
-E-MU Systems	PX-7	Instruments	177 prc:Kick 15	
-E-MU Systems	PX-7	Instruments	178 prc:Kick 16	
-E-MU Systems	PX-7	Instruments	179 prc:Kick 17	
-E-MU Systems	PX-7	Instruments	180 prc:Kick 18	
-E-MU Systems	PX-7	Instruments	181 prc:Kick 19	
-E-MU Systems	PX-7	Instruments	182 prc:Kick 20	
-E-MU Systems	PX-7	Instruments	183 prc:Kick 21	
-E-MU Systems	PX-7	Instruments	184 prc:Kick 22	
-E-MU Systems	PX-7	Instruments	185 prc:Kick 23	
-E-MU Systems	PX-7	Instruments	186 prc:Kick 24	
-E-MU Systems	PX-7	Instruments	187 prc:Kick 25	
-E-MU Systems	PX-7	Instruments	188 prc:Kick 26	
-E-MU Systems	PX-7	Instruments	189 prc:Kick 27	
-E-MU Systems	PX-7	Instruments	190 prc:Kick 28	
-E-MU Systems	PX-7	Instruments	191 prc:Kick 29	
-E-MU Systems	PX-7	Instruments	192 prc:Kick 30	
-E-MU Systems	PX-7	Instruments	193 prc:Kick 31	
-E-MU Systems	PX-7	Instruments	194 prc:Kick 32	
-E-MU Systems	PX-7	Instruments	195 prc:Kick 33	
-E-MU Systems	PX-7	Instruments	196 prc:Kick 34	
-E-MU Systems	PX-7	Instruments	197 prc:Kick 35	
-E-MU Systems	PX-7	Instruments	198 prc:Kick 36	
-E-MU Systems	PX-7	Instruments	199 prc:Kick 37	
-E-MU Systems	PX-7	Instruments	200 prc:Kick 38	
-E-MU Systems	PX-7	Instruments	201 prc:Kick 39	
-E-MU Systems	PX-7	Instruments	202 prc:Kick 40	
-E-MU Systems	PX-7	Instruments	203 prc:Kick 41	
-E-MU Systems	PX-7	Instruments	204 prc:Kick 42	
-E-MU Systems	PX-7	Instruments	205 prc:Kick 43	
-E-MU Systems	PX-7	Instruments	206 prc:Kick 44	
-E-MU Systems	PX-7	Instruments	207 prc:Kick 45	
-E-MU Systems	PX-7	Instruments	208 prc:Kick 46	
-E-MU Systems	PX-7	Instruments	209 prc:Kick 47	
-E-MU Systems	PX-7	Instruments	210 prc:Kick 48	
-E-MU Systems	PX-7	Instruments	211 prc:Kick 49	
-E-MU Systems	PX-7	Instruments	212 prc:Kick 50	
-E-MU Systems	PX-7	Instruments	213 prc:Kick 51	
-E-MU Systems	PX-7	Instruments	214 prc:Kick 52	
-E-MU Systems	PX-7	Instruments	215 prc:Kick 53	
-E-MU Systems	PX-7	Instruments	216 prc:Kick 54	
-E-MU Systems	PX-7	Instruments	217 prc:Kick 55	
-E-MU Systems	PX-7	Instruments	218 prc:Kick 56	
-E-MU Systems	PX-7	Instruments	219 prc:Kick 57	
-E-MU Systems	PX-7	Instruments	220 prc:Kick 58	
-E-MU Systems	PX-7	Instruments	221 prc:Kick 59	
-E-MU Systems	PX-7	Instruments	222 prc:Kick 60	
-E-MU Systems	PX-7	Instruments	223 prc:Kick 61	
-E-MU Systems	PX-7	Instruments	224 prc:Kick 62	
-E-MU Systems	PX-7	Instruments	225 prc:Kick 63	
-E-MU Systems	PX-7	Instruments	226 prc:Kick 64	
-E-MU Systems	PX-7	Instruments	227 prc:Kick 65	
-E-MU Systems	PX-7	Instruments	228 prc:Kick 66	
-E-MU Systems	PX-7	Instruments	229 prc:Kick 67	
-E-MU Systems	PX-7	Instruments	230 prc:Kick 68	
-E-MU Systems	PX-7	Instruments	231 prc:Kick 69	
-E-MU Systems	PX-7	Instruments	232 prc:Kick 70	
-E-MU Systems	PX-7	Instruments	233 prc:Kick 71	
-E-MU Systems	PX-7	Instruments	234 prc:Kick 72	
-E-MU Systems	PX-7	Instruments	235 prc:Kick 73	
-E-MU Systems	PX-7	Instruments	236 prc:Kick 74	
-E-MU Systems	PX-7	Instruments	237 prc:Kick 75	
-E-MU Systems	PX-7	Instruments	238 prc:Kick 76	
-E-MU Systems	PX-7	Instruments	239 prc:Kick 77	
-E-MU Systems	PX-7	Instruments	240 prc:Kick 78	
-E-MU Systems	PX-7	Instruments	241 prc:Kick 79	
-E-MU Systems	PX-7	Instruments	242 prc:Kick 80	
-E-MU Systems	PX-7	Instruments	243 prc:Kick 81	
-E-MU Systems	PX-7	Instruments	244 prc:Kick 82	
-E-MU Systems	PX-7	Instruments	245 prc:Kick 83	
-E-MU Systems	PX-7	Instruments	246 prc:Kick 84	
-E-MU Systems	PX-7	Instruments	247 prc:Kick 85	
-E-MU Systems	PX-7	Instruments	248 prc:Kick 86	
-E-MU Systems	PX-7	Instruments	249 prc:Kick 87	
-E-MU Systems	PX-7	Instruments	250 prc:Kick 88	
-E-MU Systems	PX-7	Instruments	251 prc:Kick 89	
-E-MU Systems	PX-7	Instruments	252 prc:Kick 90	
-E-MU Systems	PX-7	Instruments	253 prc:Kick 91	
-E-MU Systems	PX-7	Instruments	254 prc:Kick 92	
-E-MU Systems	PX-7	Instruments	255 prc:Kick 93	
-E-MU Systems	PX-7	Instruments	256 prc:Tympani	
-E-MU Systems	PX-7	Instruments	257 prc:Snare 1	
-E-MU Systems	PX-7	Instruments	258 prc:Snare 2	
-E-MU Systems	PX-7	Instruments	259 prc:Snare 3	
-E-MU Systems	PX-7	Instruments	260 prc:Snare 4	
-E-MU Systems	PX-7	Instruments	261 prc:Snare 5	
-E-MU Systems	PX-7	Instruments	262 prc:Snare 6	
-E-MU Systems	PX-7	Instruments	263 prc:Snare 7	
-E-MU Systems	PX-7	Instruments	264 prc:Snare 8	
-E-MU Systems	PX-7	Instruments	265 prc:Snare 9	
-E-MU Systems	PX-7	Instruments	266 prc:Snare 10	
-E-MU Systems	PX-7	Instruments	267 prc:Snare 11	
-E-MU Systems	PX-7	Instruments	268 prc:Snare 12	
-E-MU Systems	PX-7	Instruments	269 prc:Snare 13	
-E-MU Systems	PX-7	Instruments	270 prc:Snare 14	
-E-MU Systems	PX-7	Instruments	271 prc:Snare 15	
-E-MU Systems	PX-7	Instruments	272 prc:Snare 16	
-E-MU Systems	PX-7	Instruments	273 prc:Snare 17	
-E-MU Systems	PX-7	Instruments	274 prc:Snare 18	
-E-MU Systems	PX-7	Instruments	275 prc:Snare 19	
-E-MU Systems	PX-7	Instruments	276 prc:Snare 20	
-E-MU Systems	PX-7	Instruments	277 prc:Snare 21	
-E-MU Systems	PX-7	Instruments	278 prc:Snare 22	
-E-MU Systems	PX-7	Instruments	279 prc:Snare 23	
-E-MU Systems	PX-7	Instruments	280 prc:Snare 24	
-E-MU Systems	PX-7	Instruments	281 prc:Snare 25	
-E-MU Systems	PX-7	Instruments	282 prc:Snare 26	
-E-MU Systems	PX-7	Instruments	283 prc:Snare 27	
-E-MU Systems	PX-7	Instruments	284 prc:Snare 28	
-E-MU Systems	PX-7	Instruments	285 prc:Snare 29	
-E-MU Systems	PX-7	Instruments	286 prc:Snare 30	
-E-MU Systems	PX-7	Instruments	287 prc:Snare 31	
-E-MU Systems	PX-7	Instruments	288 prc:Snare 32	
-E-MU Systems	PX-7	Instruments	289 prc:Snare 33	
-E-MU Systems	PX-7	Instruments	290 prc:Snare 34	
-E-MU Systems	PX-7	Instruments	291 prc:Snare 35	
-E-MU Systems	PX-7	Instruments	292 prc:Snare 36	
-E-MU Systems	PX-7	Instruments	293 prc:Snare 37	
-E-MU Systems	PX-7	Instruments	294 prc:Snare 38	
-E-MU Systems	PX-7	Instruments	295 prc:Snare 39	
-E-MU Systems	PX-7	Instruments	296 prc:Snare 40	
-E-MU Systems	PX-7	Instruments	297 prc:Snare 41	
-E-MU Systems	PX-7	Instruments	298 prc:Snare 42	
-E-MU Systems	PX-7	Instruments	299 prc:Snare 43	
-E-MU Systems	PX-7	Instruments	300 prc:Snare 44	
-E-MU Systems	PX-7	Instruments	301 prc:Snare 45	
-E-MU Systems	PX-7	Instruments	302 prc:Snare 46	
-E-MU Systems	PX-7	Instruments	303 prc:Snare 47	
-E-MU Systems	PX-7	Instruments	304 prc:Snare 48	
-E-MU Systems	PX-7	Instruments	305 prc:Snare 49	
-E-MU Systems	PX-7	Instruments	306 prc:Snare 50	
-E-MU Systems	PX-7	Instruments	307 prc:Snare 51	
-E-MU Systems	PX-7	Instruments	308 prc:Snare 52	
-E-MU Systems	PX-7	Instruments	309 prc:Snare 53	
-E-MU Systems	PX-7	Instruments	310 prc:Snare 54	
-E-MU Systems	PX-7	Instruments	311 prc:Snare 55	
-E-MU Systems	PX-7	Instruments	312 prc:Snare 56	
-E-MU Systems	PX-7	Instruments	313 prc:Snare 57	
-E-MU Systems	PX-7	Instruments	314 prc:Snare 58	
-E-MU Systems	PX-7	Instruments	315 prc:Snare 59	
-E-MU Systems	PX-7	Instruments	316 prc:Snare 60	
-E-MU Systems	PX-7	Instruments	317 prc:Snare 61	
-E-MU Systems	PX-7	Instruments	318 prc:Snare 62	
-E-MU Systems	PX-7	Instruments	319 prc:Snare 63	
-E-MU Systems	PX-7	Instruments	320 prc:Snare 64	
-E-MU Systems	PX-7	Instruments	321 prc:Snare 65	
-E-MU Systems	PX-7	Instruments	322 prc:Snare 66	
-E-MU Systems	PX-7	Instruments	323 prc:Snare 67	
-E-MU Systems	PX-7	Instruments	324 prc:Snare 68	
-E-MU Systems	PX-7	Instruments	325 prc:Snare 69	
-E-MU Systems	PX-7	Instruments	326 prc:Snare 70	
-E-MU Systems	PX-7	Instruments	327 prc:Snare 71	
-E-MU Systems	PX-7	Instruments	328 prc:Snare 72	
-E-MU Systems	PX-7	Instruments	329 prc:Snare 73	
-E-MU Systems	PX-7	Instruments	330 prc:Snare 74	
-E-MU Systems	PX-7	Instruments	331 prc:Snare 75	
-E-MU Systems	PX-7	Instruments	332 prc:Snare 76	
-E-MU Systems	PX-7	Instruments	333 prc:Snare 77	
-E-MU Systems	PX-7	Instruments	334 prc:Snare 78	
-E-MU Systems	PX-7	Instruments	335 prc:Snare 79	
-E-MU Systems	PX-7	Instruments	336 prc:Snare 80	
-E-MU Systems	PX-7	Instruments	337 prc:Snare 81	
-E-MU Systems	PX-7	Instruments	338 prc:Snare 82	
-E-MU Systems	PX-7	Instruments	339 prc:Snare 83	
-E-MU Systems	PX-7	Instruments	340 prc:Snare 84	
-E-MU Systems	PX-7	Instruments	341 prc:Snare 85	
-E-MU Systems	PX-7	Instruments	342 prc:Snare 86	
-E-MU Systems	PX-7	Instruments	343 prc:Snare 87	
-E-MU Systems	PX-7	Instruments	344 prc:Snare 88	
-E-MU Systems	PX-7	Instruments	345 prc:Snare 89	
-E-MU Systems	PX-7	Instruments	346 prc:Snare 90	
-E-MU Systems	PX-7	Instruments	347 prc:Snare 91	
-E-MU Systems	PX-7	Instruments	348 prc:Snare 92	
-E-MU Systems	PX-7	Instruments	349 prc:Snare 93	
-E-MU Systems	PX-7	Instruments	350 prc:Snare 94	
-E-MU Systems	PX-7	Instruments	351 prc:Snare 95	
-E-MU Systems	PX-7	Instruments	352 prc:Snare 96	
-E-MU Systems	PX-7	Instruments	353 prc:Snare 97	
-E-MU Systems	PX-7	Instruments	354 prc:Snare 98	
-E-MU Systems	PX-7	Instruments	355 prc:Snare 99	
-E-MU Systems	PX-7	Instruments	356 prc:Snare 100	
-E-MU Systems	PX-7	Instruments	357 prc:Snare 101	
-E-MU Systems	PX-7	Instruments	358 prc:Snare 102	
-E-MU Systems	PX-7	Instruments	359 prc:Snare 103	
-E-MU Systems	PX-7	Instruments	360 prc:Snare 104	
-E-MU Systems	PX-7	Instruments	361 prc:Snare 105	
-E-MU Systems	PX-7	Instruments	362 prc:Snare 106	
-E-MU Systems	PX-7	Instruments	363 prc:Snare 107	
-E-MU Systems	PX-7	Instruments	364 prc:Snare 108	
-E-MU Systems	PX-7	Instruments	365 prc:Snare 109	
-E-MU Systems	PX-7	Instruments	366 prc:Snare 110	
-E-MU Systems	PX-7	Instruments	367 prc:Snare 111	
-E-MU Systems	PX-7	Instruments	368 prc:Snare 112	
-E-MU Systems	PX-7	Instruments	369 prc:Snare 113	
-E-MU Systems	PX-7	Instruments	370 prc:Snare 114	
-E-MU Systems	PX-7	Instruments	371 prc:Snare 115	
-E-MU Systems	PX-7	Instruments	372 prc:Snare 116	
-E-MU Systems	PX-7	Instruments	373 prc:Snare 117	
-E-MU Systems	PX-7	Instruments	374 prc:Snare 118	
-E-MU Systems	PX-7	Instruments	375 prc:Snare 119	
-E-MU Systems	PX-7	Instruments	376 prc:Snare 120	
-E-MU Systems	PX-7	Instruments	377 prc:Snare 121	
-E-MU Systems	PX-7	Instruments	378 prc:Snare 122	
-E-MU Systems	PX-7	Instruments	379 prc:Snare 123	
-E-MU Systems	PX-7	Instruments	380 prc:Snare 124	
-E-MU Systems	PX-7	Instruments	381 prc:Snare 125	
-E-MU Systems	PX-7	Instruments	382 prc:Snare 126	
-E-MU Systems	PX-7	Instruments	383 prc:Snare 127	
-E-MU Systems	PX-7	Instruments	384 prc:Snare 128	
-E-MU Systems	PX-7	Instruments	385 prc:Snare 129	
-E-MU Systems	PX-7	Instruments	386 prc:Snare 130	
-E-MU Systems	PX-7	Instruments	387 prc:Tom 1	
-E-MU Systems	PX-7	Instruments	388 prc:Tom 2	
-E-MU Systems	PX-7	Instruments	389 prc:Tom 3	
-E-MU Systems	PX-7	Instruments	390 prc:Tom 4	
-E-MU Systems	PX-7	Instruments	391 prc:Tom 5	
-E-MU Systems	PX-7	Instruments	392 prc:Tom 6	
-E-MU Systems	PX-7	Instruments	393 prc:Tom 7	
-E-MU Systems	PX-7	Instruments	394 prc:Tom 8	
-E-MU Systems	PX-7	Instruments	395 prc:Tom 9	
-E-MU Systems	PX-7	Instruments	396 prc:Tom 10	
-E-MU Systems	PX-7	Instruments	397 prc:Tom 11	
-E-MU Systems	PX-7	Instruments	398 prc:Tom 12	
-E-MU Systems	PX-7	Instruments	399 prc:Tom 13	
-E-MU Systems	PX-7	Instruments	400 prc:Tom 14	
-E-MU Systems	PX-7	Instruments	401 prc:Tom 15	
-E-MU Systems	PX-7	Instruments	402 prc:Tom 16	
-E-MU Systems	PX-7	Instruments	403 prc:Tom 17	
-E-MU Systems	PX-7	Instruments	404 prc:Tom 18	
-E-MU Systems	PX-7	Instruments	405 prc:Tom 19	
-E-MU Systems	PX-7	Instruments	406 prc:Tom 20	
-E-MU Systems	PX-7	Instruments	407 prc:Tom 21	
-E-MU Systems	PX-7	Instruments	408 prc:Tom 22	
-E-MU Systems	PX-7	Instruments	409 prc:Tom 23	
-E-MU Systems	PX-7	Instruments	410 prc:Tom 24	
-E-MU Systems	PX-7	Instruments	411 prc:Tom 25	
-E-MU Systems	PX-7	Instruments	412 prc:Tom 26	
-E-MU Systems	PX-7	Instruments	413 prc:Tom 27	
-E-MU Systems	PX-7	Instruments	414 prc:Tom 28	
-E-MU Systems	PX-7	Instruments	415 prc:Tom 29	
-E-MU Systems	PX-7	Instruments	416 prc:Tom 30	
-E-MU Systems	PX-7	Instruments	417 prc:Tom 31	
-E-MU Systems	PX-7	Instruments	418 prc:Tom 32	
-E-MU Systems	PX-7	Instruments	419 prc:Tom 33	
-E-MU Systems	PX-7	Instruments	420 prc:Tom 34	
-E-MU Systems	PX-7	Instruments	421 prc:Tom 35	
-E-MU Systems	PX-7	Instruments	422 prc:Tom 36	
-E-MU Systems	PX-7	Instruments	423 prc:Tom 37	
-E-MU Systems	PX-7	Instruments	424 prc:Tom 38	
-E-MU Systems	PX-7	Instruments	425 prc:Tom 39	
-E-MU Systems	PX-7	Instruments	426 prc:Tom 40	
-E-MU Systems	PX-7	Instruments	427 prc:Tom 41	
-E-MU Systems	PX-7	Instruments	428 prc:Tom 42	
-E-MU Systems	PX-7	Instruments	429 prc:Tom 43	
-E-MU Systems	PX-7	Instruments	430 prc:Tom 44	
-E-MU Systems	PX-7	Instruments	431 prc:Tom 45	
-E-MU Systems	PX-7	Instruments	432 prc:Tom 46	
-E-MU Systems	PX-7	Instruments	433 prc:Tom 47	
-E-MU Systems	PX-7	Instruments	434 prc:Tom 48	
-E-MU Systems	PX-7	Instruments	435 prc:Tom 50	
-E-MU Systems	PX-7	Instruments	436 prc:Tom 51	
-E-MU Systems	PX-7	Instruments	437 prc:Tom 52	
-E-MU Systems	PX-7	Instruments	438 prc:Tom 53	
-E-MU Systems	PX-7	Instruments	439 prc:Tom 54	
-E-MU Systems	PX-7	Instruments	440 prc:Tom 55	
-E-MU Systems	PX-7	Instruments	441 prc:Tom 56	
-E-MU Systems	PX-7	Instruments	442 prc:Tom 57	
-E-MU Systems	PX-7	Instruments	443 prc:Tom 58	
-E-MU Systems	PX-7	Instruments	444 prc:Tom 59	
-E-MU Systems	PX-7	Instruments	445 prc:Tom 60	
-E-MU Systems	PX-7	Instruments	446 prc:Tom 61	
-E-MU Systems	PX-7	Instruments	447 prc:Tom 62	
-E-MU Systems	PX-7	Instruments	448 prc:Tom 63	
-E-MU Systems	PX-7	Instruments	449 prc:Tom 64	
-E-MU Systems	PX-7	Instruments	450 prc:Hat 1	
-E-MU Systems	PX-7	Instruments	451 prc:Hat 2	
-E-MU Systems	PX-7	Instruments	452 prc:Hat 3	
-E-MU Systems	PX-7	Instruments	453 prc:Hat 4	
-E-MU Systems	PX-7	Instruments	454 prc:Hat 5	
-E-MU Systems	PX-7	Instruments	455 prc:Hat 6	
-E-MU Systems	PX-7	Instruments	456 prc:Hat 7	
-E-MU Systems	PX-7	Instruments	457 prc:Hat 8	
-E-MU Systems	PX-7	Instruments	458 prc:Hat 9	
-E-MU Systems	PX-7	Instruments	459 prc:Hat 10	
-E-MU Systems	PX-7	Instruments	460 prc:Hat 11	
-E-MU Systems	PX-7	Instruments	461 prc:Hat 12	
-E-MU Systems	PX-7	Instruments	462 prc:Hat 13	
-E-MU Systems	PX-7	Instruments	463 prc:Hat 14	
-E-MU Systems	PX-7	Instruments	464 prc:Hat 15	
-E-MU Systems	PX-7	Instruments	465 prc:Hat 16	
-E-MU Systems	PX-7	Instruments	466 prc:Hat 17	
-E-MU Systems	PX-7	Instruments	467 prc:Hat 18	
-E-MU Systems	PX-7	Instruments	468 prc:Hat 19	
-E-MU Systems	PX-7	Instruments	469 prc:Hat 20	
-E-MU Systems	PX-7	Instruments	470 prc:Hat 21	
-E-MU Systems	PX-7	Instruments	471 prc:Hat 22	
-E-MU Systems	PX-7	Instruments	472 prc:Hat 23	
-E-MU Systems	PX-7	Instruments	473 prc:Hat 24	
-E-MU Systems	PX-7	Instruments	474 prc:Hat 25	
-E-MU Systems	PX-7	Instruments	475 prc:Hat 26	
-E-MU Systems	PX-7	Instruments	476 prc:Hat 27	
-E-MU Systems	PX-7	Instruments	477 prc:Hat 28	
-E-MU Systems	PX-7	Instruments	478 prc:Hat 29	
-E-MU Systems	PX-7	Instruments	479 prc:Hat 30	
-E-MU Systems	PX-7	Instruments	480 prc:Hat 31	
-E-MU Systems	PX-7	Instruments	481 prc:Hat 32	
-E-MU Systems	PX-7	Instruments	482 prc:Hat 33	
-E-MU Systems	PX-7	Instruments	483 prc:Hat 34	
-E-MU Systems	PX-7	Instruments	484 prc:Hat 35	
-E-MU Systems	PX-7	Instruments	485 prc:Hat 36	
-E-MU Systems	PX-7	Instruments	486 prc:Hat 37	
-E-MU Systems	PX-7	Instruments	487 prc:Hat 38	
-E-MU Systems	PX-7	Instruments	488 prc:Hat 39	
-E-MU Systems	PX-7	Instruments	489 prc:Hat 40	
-E-MU Systems	PX-7	Instruments	490 prc:Hat 41	
-E-MU Systems	PX-7	Instruments	491 prc:Hat 42	
-E-MU Systems	PX-7	Instruments	492 prc:Hat 43	
-E-MU Systems	PX-7	Instruments	493 prc:Hat 44	
-E-MU Systems	PX-7	Instruments	494 prc:Hat 45	
-E-MU Systems	PX-7	Instruments	495 prc:Hat 46	
-E-MU Systems	PX-7	Instruments	496 prc:Hat 47	
-E-MU Systems	PX-7	Instruments	497 prc:Hat 48	
-E-MU Systems	PX-7	Instruments	498 prc:Hat 49	
-E-MU Systems	PX-7	Instruments	499 prc:Hat 50	
-E-MU Systems	PX-7	Instruments	500 prc:Hat 51	
-E-MU Systems	PX-7	Instruments	501 prc:Hat 52	
-E-MU Systems	PX-7	Instruments	502 prc:Hat 53	
-E-MU Systems	PX-7	Instruments	503 prc:Hat 54	
-E-MU Systems	PX-7	Instruments	504 prc:Hat 55	
-E-MU Systems	PX-7	Instruments	505 prc:Hat 56	
-E-MU Systems	PX-7	Instruments	506 prc:Hat 57	
-E-MU Systems	PX-7	Instruments	507 prc:Hat 58	
-E-MU Systems	PX-7	Instruments	508 prc:Hat 59	
-E-MU Systems	PX-7	Instruments	509 prc:Hat 60	
-E-MU Systems	PX-7	Instruments	510 prc:Hat 61	
-E-MU Systems	PX-7	Instruments	511 prc:Hat 62	
-E-MU Systems	PX-7	Instruments	512 prc:Hat 63	
-E-MU Systems	PX-7	Instruments	513 prc:Hat 64	
-E-MU Systems	PX-7	Instruments	514 prc:Hat 65	
-E-MU Systems	PX-7	Instruments	515 prc:Hat 66	
-E-MU Systems	PX-7	Instruments	516 prc:Hat 67	
-E-MU Systems	PX-7	Instruments	517 prc:Hat 68	
-E-MU Systems	PX-7	Instruments	518 prc:Hat 69	
-E-MU Systems	PX-7	Instruments	519 prc:Hat 70	
-E-MU Systems	PX-7	Instruments	520 prc:Hat 71	
-E-MU Systems	PX-7	Instruments	521 prc:Hat 72	
-E-MU Systems	PX-7	Instruments	522 prc:Hat 73	
-E-MU Systems	PX-7	Instruments	523 prc:Hat 74	
-E-MU Systems	PX-7	Instruments	524 prc:Hat 75	
-E-MU Systems	PX-7	Instruments	525 prc:Hat 76	
-E-MU Systems	PX-7	Instruments	526 prc:Hat 77	
-E-MU Systems	PX-7	Instruments	527 prc:Hat 78	
-E-MU Systems	PX-7	Instruments	528 prc:Hat 79	
-E-MU Systems	PX-7	Instruments	529 prc:Hat 80	
-E-MU Systems	PX-7	Instruments	530 prc:Hat 81	
-E-MU Systems	PX-7	Instruments	531 prc:Hat 82	
-E-MU Systems	PX-7	Instruments	532 prc:Hat 83	
-E-MU Systems	PX-7	Instruments	533 prc:Hat 84	
-E-MU Systems	PX-7	Instruments	534 prc:Hat 85	
-E-MU Systems	PX-7	Instruments	535 prc:Hat 86	
-E-MU Systems	PX-7	Instruments	536 prc:Hat 87	
-E-MU Systems	PX-7	Instruments	537 prc:Cymbal 1	
-E-MU Systems	PX-7	Instruments	538 prc:Cymbal 2	
-E-MU Systems	PX-7	Instruments	539 prc:Cymbal 3	
-E-MU Systems	PX-7	Instruments	540 prc:Cymbal 4	
-E-MU Systems	PX-7	Instruments	541 prc:Cymbal 5	
-E-MU Systems	PX-7	Instruments	542 prc:Cymbal 6	
-E-MU Systems	PX-7	Instruments	543 prc:Cymbal 7	
-E-MU Systems	PX-7	Instruments	544 prc:Cymbal 8	
-E-MU Systems	PX-7	Instruments	545 prc:Cymbal 9	
-E-MU Systems	PX-7	Instruments	546 prc:Cymbal 10	
-E-MU Systems	PX-7	Instruments	547 prc:Cymbal 11	
-E-MU Systems	PX-7	Instruments	548 prc:Cymbal 12	
-E-MU Systems	PX-7	Instruments	549 prc:Cymbal 13	
-E-MU Systems	PX-7	Instruments	550 prc:Cymbal 14	
-E-MU Systems	PX-7	Instruments	551 prc:Cymbal 15	
-E-MU Systems	PX-7	Instruments	552 prc:Cymbal 16	
-E-MU Systems	PX-7	Instruments	553 prc:Cymbal 17	
-E-MU Systems	PX-7	Instruments	554 prc:Cymbal 18	
-E-MU Systems	PX-7	Instruments	555 prc:Cymbal 19	
-E-MU Systems	PX-7	Instruments	556 prc:Cymbal 20	
-E-MU Systems	PX-7	Instruments	557 prc:Cymbal 21	
-E-MU Systems	PX-7	Instruments	558 prc:Cymbal 22	
-E-MU Systems	PX-7	Instruments	559 prc:Cymbal 23	
-E-MU Systems	PX-7	Instruments	560 prc:Cymbal 24	
-E-MU Systems	PX-7	Instruments	561 prc:Cymbal 25	
-E-MU Systems	PX-7	Instruments	562 prc:Cymbal 26	
-E-MU Systems	PX-7	Instruments	563 prc:Cymbal 27	
-E-MU Systems	PX-7	Instruments	564 prc:Cymbal 28	
-E-MU Systems	PX-7	Instruments	565 prc:Cymbal 29	
-E-MU Systems	PX-7	Instruments	566 prc:Cymbal 30	
-E-MU Systems	PX-7	Instruments	567 prc:Cymbal 31	
-E-MU Systems	PX-7	Instruments	568 prc:Cymbal 32	
-E-MU Systems	PX-7	Instruments	569 prc:Cymbal 33	
-E-MU Systems	PX-7	Instruments	570 prc:Cymbal 34	
-E-MU Systems	PX-7	Instruments	571 prc:Cymbal 35	
-E-MU Systems	PX-7	Instruments	572 prc:Cymbal 36	
-E-MU Systems	PX-7	Instruments	573 prc:Cymbal 37	
-E-MU Systems	PX-7	Instruments	574 prc:Conga etc 1	
-E-MU Systems	PX-7	Instruments	575 prc:Conga etc 2	
-E-MU Systems	PX-7	Instruments	576 prc:Conga etc 3	
-E-MU Systems	PX-7	Instruments	577 prc:Conga etc 4	
-E-MU Systems	PX-7	Instruments	578 prc:Conga etc 5	
-E-MU Systems	PX-7	Instruments	579 prc:Conga etc 6	
-E-MU Systems	PX-7	Instruments	580 prc:Conga etc 7	
-E-MU Systems	PX-7	Instruments	581 prc:Conga etc 8	
-E-MU Systems	PX-7	Instruments	582 prc:Conga etc 9	
-E-MU Systems	PX-7	Instruments	583 prc:Conga etc 10	
-E-MU Systems	PX-7	Instruments	584 prc:Conga etc 11	
-E-MU Systems	PX-7	Instruments	585 prc:Conga etc 12	
-E-MU Systems	PX-7	Instruments	586 prc:Conga etc 13	
-E-MU Systems	PX-7	Instruments	587 prc:Conga etc 14	
-E-MU Systems	PX-7	Instruments	588 prc:Conga etc 15	
-E-MU Systems	PX-7	Instruments	589 prc:Conga etc 16	
-E-MU Systems	PX-7	Instruments	590 prc:Conga etc 17	
-E-MU Systems	PX-7	Instruments	591 prc:Conga etc 18	
-E-MU Systems	PX-7	Instruments	592 prc:Conga etc 19	
-E-MU Systems	PX-7	Instruments	593 prc:Conga etc 20	
-E-MU Systems	PX-7	Instruments	594 prc:Conga etc 21	
-E-MU Systems	PX-7	Instruments	595 prc:Conga etc 22	
-E-MU Systems	PX-7	Instruments	596 prc:Conga etc 23	
-E-MU Systems	PX-7	Instruments	597 prc:Conga etc 24	
-E-MU Systems	PX-7	Instruments	598 prc:Conga etc 25	
-E-MU Systems	PX-7	Instruments	599 prc:Conga etc 26	
-E-MU Systems	PX-7	Instruments	600 prc:Conga etc 27	
-E-MU Systems	PX-7	Instruments	601 prc:Conga etc 28	
-E-MU Systems	PX-7	Instruments	602 prc:Shaker 1	
-E-MU Systems	PX-7	Instruments	603 prc:Shaker 2	
-E-MU Systems	PX-7	Instruments	604 prc:Shaker 3	
-E-MU Systems	PX-7	Instruments	605 prc:Shaker 4	
-E-MU Systems	PX-7	Instruments	606 prc:Shaker 5	
-E-MU Systems	PX-7	Instruments	607 prc:Shaker 6	
-E-MU Systems	PX-7	Instruments	608 prc:Shaker 7	
-E-MU Systems	PX-7	Instruments	609 prc:Shaker 8	
-E-MU Systems	PX-7	Instruments	610 prc:Shaker 9	
-E-MU Systems	PX-7	Instruments	611 prc:Shaker 10	
-E-MU Systems	PX-7	Instruments	612 prc:Shaker 11	
-E-MU Systems	PX-7	Instruments	613 prc:Shaker 12	
-E-MU Systems	PX-7	Instruments	614 prc:Shaker 13	
-E-MU Systems	PX-7	Instruments	615 prc:Shaker 14	
-E-MU Systems	PX-7	Instruments	616 prc:Shaker 15	
-E-MU Systems	PX-7	Instruments	617 prc:Shaker 16	
-E-MU Systems	PX-7	Instruments	618 prc:Shaker 17	
-E-MU Systems	PX-7	Instruments	619 prc:Bell 1	
-E-MU Systems	PX-7	Instruments	620 prc:Bell 2	
-E-MU Systems	PX-7	Instruments	621 prc:Bell 3	
-E-MU Systems	PX-7	Instruments	622 prc:Bell 4	
-E-MU Systems	PX-7	Instruments	623 prc:Bell 5	
-E-MU Systems	PX-7	Instruments	624 prc:Bell 6	
-E-MU Systems	PX-7	Instruments	625 prc:Bell 7	
-E-MU Systems	PX-7	Instruments	626 prc:Bell 8	
-E-MU Systems	PX-7	Instruments	627 prc:Bell 9	
-E-MU Systems	PX-7	Instruments	628 prc:Bell 10	
-E-MU Systems	PX-7	Instruments	629 prc:Bell 11	
-E-MU Systems	PX-7	Instruments	630 prc:Bell 12	
-E-MU Systems	PX-7	Instruments	631 prc:Bell 13	
-E-MU Systems	PX-7	Instruments	632 prc:Bell 14	
-E-MU Systems	PX-7	Instruments	633 prc:Bell 15	
-E-MU Systems	PX-7	Instruments	634 prc:Bell 16	
-E-MU Systems	PX-7	Instruments	635 prc:Bell 17	
-E-MU Systems	PX-7	Instruments	636 prc:Bell 18	
-E-MU Systems	PX-7	Instruments	637 prc:Snap etc 1	
-E-MU Systems	PX-7	Instruments	638 prc:Snap etc 2	
-E-MU Systems	PX-7	Instruments	639 prc:Snap etc 3	
-E-MU Systems	PX-7	Instruments	640 prc:Snap etc 4	
-E-MU Systems	PX-7	Instruments	641 prc:Snap etc 5	
-E-MU Systems	PX-7	Instruments	642 prc:Snap etc 6	
-E-MU Systems	PX-7	Instruments	643 prc:Snap etc 7	
-E-MU Systems	PX-7	Instruments	644 prc:Snap etc 8	
-E-MU Systems	PX-7	Instruments	645 prc:Snap etc 9	
-E-MU Systems	PX-7	Instruments	646 prc:Snap etc 10	
-E-MU Systems	PX-7	Instruments	647 prc:Snap etc 11	
-E-MU Systems	PX-7	Instruments	648 prc:Snap etc 12	
-E-MU Systems	PX-7	Instruments	649 prc:Snap etc 13	
-E-MU Systems	PX-7	Instruments	650 prc:Snap etc 14	
-E-MU Systems	PX-7	Instruments	651 prc:Snap etc 15	
-E-MU Systems	PX-7	Instruments	652 prc:Snap etc 16	
-E-MU Systems	PX-7	Instruments	653 prc:Snap etc 17	
-E-MU Systems	PX-7	Instruments	654 prc:Snap etc 18	
-E-MU Systems	PX-7	Instruments	655 prc:Snap etc 19	
-E-MU Systems	PX-7	Instruments	656 prc:Snap etc 20	
-E-MU Systems	PX-7	Instruments	657 prc:Snap etc 21	
-E-MU Systems	PX-7	Instruments	658 prc:Snap etc 22	
-E-MU Systems	PX-7	Instruments	659 prc:Snap etc 23	
-E-MU Systems	PX-7	Instruments	660 prc:Snap etc 24	
-E-MU Systems	PX-7	Instruments	661 prc:Snap etc 25	
-E-MU Systems	PX-7	Instruments	662 prc:Snap etc 26	
-E-MU Systems	PX-7	Instruments	663 prc:Snap etc 27	
-E-MU Systems	PX-7	Instruments	664 prc:Snap etc 28	
-E-MU Systems	PX-7	Instruments	665 prc:Snap etc 29	
-E-MU Systems	PX-7	Instruments	666 prc:Snap etc 30	
-E-MU Systems	PX-7	Instruments	667 prc:Snap etc 31	
-E-MU Systems	PX-7	Instruments	668 prc:Snap etc 32	
-E-MU Systems	PX-7	Instruments	669 prc:Snap etc 33	
-E-MU Systems	PX-7	Instruments	670 prc:Scratch 1	
-E-MU Systems	PX-7	Instruments	671 prc:Scratch 2	
-E-MU Systems	PX-7	Instruments	672 prc:Scratch 3	
-E-MU Systems	PX-7	Instruments	673 prc:Scratch 4	
-E-MU Systems	PX-7	Instruments	674 prc:Scratch 5	
-E-MU Systems	PX-7	Instruments	675 prc:Scratch 6	
-E-MU Systems	PX-7	Instruments	676 prc:Scratch 7	
-E-MU Systems	PX-7	Instruments	677 prc:Scratch 8	
-E-MU Systems	PX-7	Instruments	678 prc:Scratch 9	
-E-MU Systems	PX-7	Instruments	679 prc:Scratch 10	
-E-MU Systems	PX-7	Instruments	680 prc:Misc 1	
-E-MU Systems	PX-7	Instruments	681 prc:Misc 2	
-E-MU Systems	PX-7	Instruments	682 prc:Misc 3	
-E-MU Systems	PX-7	Instruments	683 prc:Misc 4	
-E-MU Systems	PX-7	Instruments	684 prc:Misc 5	
-E-MU Systems	PX-7	Instruments	685 prc:Misc 6	
-E-MU Systems	PX-7	Instruments	686 prc:Misc 7	
-E-MU Systems	PX-7	Instruments	687 prc:Misc 8	
-E-MU Systems	PX-7	Instruments	688 prc:Misc 9	
-E-MU Systems	PX-7	Instruments	689 prc:Misc 10	
-E-MU Systems	PX-7	Instruments	690 prc:Misc 11	
-E-MU Systems	PX-7	Instruments	691 prc:Misc 12	
-E-MU Systems	PX-7	Instruments	692 prc:Misc 13	
-E-MU Systems	PX-7	Instruments	693 prc:Misc 14	
-E-MU Systems	PX-7	Instruments	694 prc:Misc 15	
-E-MU Systems	PX-7	Instruments	695 prc:Misc 16	
-E-MU Systems	PX-7	Instruments	696 prc:Misc 17	
-E-MU Systems	PX-7	Instruments	697 prc:Misc 18	
-E-MU Systems	PX-7	Instruments	698 prc:Misc 19	
-E-MU Systems	PX-7	Instruments	699 prc:Misc 20	
-E-MU Systems	PX-7	Instruments	700 prc:Misc 21	
-E-MU Systems	PX-7	Instruments	701 prc:Misc 22	
-E-MU Systems	PX-7	Instruments	702 prc:Misc 23	
-E-MU Systems	PX-7	Instruments	703 prc:Misc 24	
-E-MU Systems	PX-7	Instruments	704 prc:Misc 25	
-E-MU Systems	PX-7	Instruments	705 prc:Misc 26	
-E-MU Systems	PX-7	Instruments	706 prc:Misc 27	
-E-MU Systems	PX-7	Instruments	707 prc:Misc 28	
-E-MU Systems	PX-7	Instruments	708 plr:Kits2 NoPans	
-E-MU Systems	PX-7	Instruments	709 gen:GM PercNoPan	
-E-MU Systems	PX-7	Instruments	710 gen:Alt GM NoPan	
-E-MU Systems	PX-7	Instruments	711 kit:BnBNoGMNoPan	
-E-MU Systems	PX-7	Instruments	712 kit:Studio NoPan	
-E-MU Systems	PX-7	Instruments	713 kit:Funky No Pan	
-E-MU Systems	PX-7	Instruments	714 kit:StadiumNoPan	
-E-MU Systems	PX-7	Instruments	715 kit:Jazz No Pan	
-E-MU Systems	PX-7	Instruments	716 kit:BnB No GM v2	
-E-MU Systems	PX-7	Instruments	717 kit:StudioNoGMv2	
-E-MU Systems	PX-7	Instruments	718 kit:Funky NoGMv2	
-E-MU Systems	PX-7	Instruments	719 kit:StadiumNoGM2	
-E-MU Systems	PX-7	Instruments	720 hat:BnB v2	
-E-MU Systems	PX-7	Instruments	721 hat:Studio v2	
-E-MU Systems	PX-7	Instruments	722 hat:Funky R&B v2	
-E-MU Systems	PX-7	Instruments	723 hat:Stadium v2	
-E-MU Systems	PX-7	Instruments	724 kit:BrushNoGM v2	
-E-MU Systems	PX-7	Instruments	725 kit:BnB No GM v3	
-E-MU Systems	PX-7	Instruments	726 kit:StudioNoGMv3	
-E-MU Systems	PX-7	Instruments	727 kit:FunkyNoGM v3	
-E-MU Systems	PX-7	Instruments	728 kit:Stadium v3	
-E-MU Systems	PX-7	Instruments	729 kit:BrushNoGM v3	
-E-MU Systems	PX-7	Instruments	730 kit:BrushNoGMv3b	
-E-MU Systems	PX-7	Instruments	731 hat:BnB v3	
-E-MU Systems	PX-7	Instruments	732 hat:Studio v3	
-E-MU Systems	PX-7	Instruments	733 hat:Studio 2 v2	
-E-MU Systems	PX-7	Instruments	734 hat:Funky R&B v3	
-E-MU Systems	PX-7	Instruments	735 hat:Stadium v3	
-E-MU Systems	PX-7	Instruments	736 kit:BrushNoGM v4	
-E-MU Systems	PX-7	Instruments	737 prc:Misc 29	
-E-MU Systems	PX-7	Instruments	738 prc:Hand Drums	
-E-MU Systems	PX-7	Instruments	739 prc:Carnaval 1	
-E-MU Systems	PX-7	Instruments	740 prc:Carnaval 2	
-E-MU Systems	PX-7	Instruments	741 prc:Carnaval 3	
-E-MU Systems	PX-7	Instruments	742 prc:Cymthing	
-E-MU Systems	PX-7	Instruments	743 prc:janisean	
-E-MU Systems	PX-7	Instruments	744 prc:Satellites	
-E-MU Systems	PX-7	Instruments	745 kit:Power EM	
-E-MU Systems	PX-7	Instruments	746 kit:Power NoHat	
-E-MU Systems	PX-7	Instruments	747 hat:Power Hats	
-E-MU Systems	PX-7	Instruments	748 kit:Tribal 1 EM	
-E-MU Systems	PX-7	Instruments	749 kit:Tribal NoHat	
-E-MU Systems	PX-7	Instruments	750 hat:Tribal Hats	
-E-MU Systems	PX-7	Instruments	751 kit:DeepFun EM	
-E-MU Systems	PX-7	Instruments	752 kit:DeepFunNoHat	
-E-MU Systems	PX-7	Instruments	753 hat:DeepFun Hats	
-E-MU Systems	PX-7	Instruments	754 kit:Quazz EM	
-E-MU Systems	PX-7	Instruments	755 kit:Quazz NoHats	
-E-MU Systems	PX-7	Instruments	756 hat:Quazz Hats	
-E-MU Systems	PX-7	Instruments	757 hat:Bonus	
-E-MU Systems	PX-7	Instruments	758 bas:Acoustic v2	
-E-MU Systems	PX-7	Instruments	759 arp:D Arp 1	
-E-MU Systems	PX-7	Instruments	760 arp:D Arp 2	
-E-MU Systems	PX-7	Instruments	761 arp:D Arp 3	
-E-MU Systems	PX-7	Instruments	762 arp:D Arp 4	
-E-MU Systems	PX-7	Instruments	763 arp:D Arp 5	
-E-MU Systems	PX-7	Instruments	764 arp:D Arp 6	
-E-MU Systems	PX-7	Instruments	765 arp:D Arp 7	
-E-MU Systems	PX-7	Instruments	766 arp:D Arp 8	
-E-MU Systems	PX-7	Instruments	767 arp:D Arp 9	
-E-MU Systems	PX-7	Instruments	768 arp:D Arp 10	
-E-MU Systems	PX-7	Instruments	769 arp:D Arp 11	
-E-MU Systems	PX-7	Instruments	770 arp:D Arp 12	
-E-MU Systems	PX-7	Instruments	771 arp:D Arp 13	
-E-MU Systems	PX-7	Instruments	772 arp:D Arp 14	
-E-MU Systems	PX-7	Instruments	773 arp:D Arp 15	
-E-MU Systems	PX-7	Instruments	774 arp:D Arp 16	
-E-MU Systems	PX-7	Instruments	775 arp:D Arp 17	
-E-MU Systems	PX-7	Instruments	776 arp:D Arp 18	
-E-MU Systems	PX-7	Instruments	777 arp:D Arp 19	
-E-MU Systems	PX-7	Instruments	778 arp:D Arp 20	
-E-MU Systems	PX-7	Instruments	779 rom:Play Through	
-E-MU Systems	PX-7	Instruments	780 kit:B&B Clap D#1	
-E-MU Systems	PX-7	Instruments	781 kit:Studio Clap	
-E-MU Systems	PX-7	Instruments	782 kit:Funky Clap	
-E-MU Systems	PX-7	Instruments	783 kit:Stadium Clap	
-E-MU Systems	PX-7	Instruments	784 kit:Brush Clap	
-E-MU Systems	PX-7	Instruments	785 hat:BnB HOT	
-E-MU Systems	PX-7	Instruments	786 hat:Studio HOT	
-E-MU Systems	PX-7	Instruments	787 hat:Funky HOT	
-E-MU Systems	PX-7	Instruments	788 hat:Stadium HOT	
-E-MU Systems	PX-7	Instruments	789 kit:BnB Layer 1	
-E-MU Systems	PX-7	Instruments	790 kit:BnB Layer 2	
-E-MU Systems	PX-7	Instruments	791 kit:BnB Layer 3	
-E-MU Systems	PX-7	Instruments	792 kit:BnB Layer 4	
-E-MU Systems	PX-7	Instruments	793 kit:StudioLayer1	
-E-MU Systems	PX-7	Instruments	794 kit:StudioLayer2	
-E-MU Systems	PX-7	Instruments	795 kit:StudioLayer3	
-E-MU Systems	PX-7	Instruments	796 kit:StudioLayer4	
-E-MU Systems	PX-7	Instruments	797 kit:Funky Layer1	
-E-MU Systems	PX-7	Instruments	798 kit:Funky Layer2	
-E-MU Systems	PX-7	Instruments	799 kit:Funky Layer3	
-E-MU Systems	PX-7	Instruments	800 kit:Funky Layer4	
-E-MU Systems	PX-7	Instruments	801 kit:Stadium Lyr1	
-E-MU Systems	PX-7	Instruments	802 kit:Stadium Lyr2	
-E-MU Systems	PX-7	Instruments	803 kit:Stadium Lyr3	
-E-MU Systems	PX-7	Instruments	804 kit:Brush Layer1	
-E-MU Systems	PX-7	Instruments	805 kit:Brush Layer2	
-E-MU Systems	PX-7	Instruments	806 kit:Brush Layer3	
+E-MU Systems	PX-7	Instruments -> DRUM	000    :None	
+E-MU Systems	PX-7	Instruments -> DRUM	001 plr:AcousticKits	
+E-MU Systems	PX-7	Instruments -> DRUM	002 plr:Synth Kits	
+E-MU Systems	PX-7	Instruments -> DRUM	003 kit:BreadnButter	
+E-MU Systems	PX-7	Instruments -> DRUM	004 kit:Studio	
+E-MU Systems	PX-7	Instruments -> DRUM	005 kit:Funky R&B	
+E-MU Systems	PX-7	Instruments -> DRUM	006 kit:Stadium Rock	
+E-MU Systems	PX-7	Instruments -> DRUM	007 kit:Jazz Brush	
+E-MU Systems	PX-7	Instruments -> DRUM	008 kit:B&B No Hats	
+E-MU Systems	PX-7	Instruments -> DRUM	009 kit:StudioNoHats	
+E-MU Systems	PX-7	Instruments -> DRUM	010 kit:Funky NoHats	
+E-MU Systems	PX-7	Instruments -> DRUM	011 kit:StadiumNoHat	
+E-MU Systems	PX-7	Instruments -> DRUM	012 kit:Brush NoHats	
+E-MU Systems	PX-7	Instruments -> DRUM	013 kit:BnB No GM	
+E-MU Systems	PX-7	Instruments -> DRUM	014 kit:Studio No GM	
+E-MU Systems	PX-7	Instruments -> DRUM	015 kit:Funky No GM	
+E-MU Systems	PX-7	Instruments -> DRUM	016 kit:Stadium NoGM	
+E-MU Systems	PX-7	Instruments -> DRUM	017 kit:Brush No GM	
+E-MU Systems	PX-7	Instruments -> DRUM	018 kit:B&B HOTLayer	
+E-MU Systems	PX-7	Instruments -> DRUM	019 kit:StdioHOTLayr	
+E-MU Systems	PX-7	Instruments -> DRUM	020 kit:FunkyHOTLayr	
+E-MU Systems	PX-7	Instruments -> DRUM	021 kit:Stadium HOT	
+E-MU Systems	PX-7	Instruments -> DRUM	022 kit:JazzHOTLayer	
+E-MU Systems	PX-7	Instruments -> DRUM	023 kit:SP1200	
+E-MU Systems	PX-7	Instruments -> DRUM	024 kit:E2 DRUM	
+E-MU Systems	PX-7	Instruments -> DRUM	025 kit:MS20	
+E-MU Systems	PX-7	Instruments -> DRUM	026 kit:MS20b	
+E-MU Systems	PX-7	Instruments -> DRUM	027 kit:SK-1	
+E-MU Systems	PX-7	Instruments -> DRUM	028 kit:808	
+E-MU Systems	PX-7	Instruments -> DRUM	029 kit:909	
+E-MU Systems	PX-7	Instruments -> DRUM	030 kit:Zero Kit	
+E-MU Systems	PX-7	Instruments -> DRUM	031 kit:1983 Kit	
+E-MU Systems	PX-7	Instruments -> DRUM	032 kit:Hard Kit	
+E-MU Systems	PX-7	Instruments -> DRUM	033 kit:Doom Kit	
+E-MU Systems	PX-7	Instruments -> DRUM	034 kit:Tecno 1	
+E-MU Systems	PX-7	Instruments -> DRUM	035 kit:Tecno 2	
+E-MU Systems	PX-7	Instruments -> DRUM	036 kit:Hip 1	
+E-MU Systems	PX-7	Instruments -> DRUM	037 kit:Hip 2	
+E-MU Systems	PX-7	Instruments -> DRUM	038 kit:Hip 3	
+E-MU Systems	PX-7	Instruments -> DRUM	039 kit:Hip 4	
+E-MU Systems	PX-7	Instruments -> DRUM	040 kit:Hip 5	
+E-MU Systems	PX-7	Instruments -> DRUM	041 kit:Hip 6	
+E-MU Systems	PX-7	Instruments -> DRUM	042 kit:Hip 7	
+E-MU Systems	PX-7	Instruments -> DRUM	043 kit:Hip 2 2	
+E-MU Systems	PX-7	Instruments -> DRUM	044 kit:Hip 2 4	
+E-MU Systems	PX-7	Instruments -> DRUM	045 kit:Hip 2 7	
+E-MU Systems	PX-7	Instruments -> DRUM	046 kit:Hip 2 10	
+E-MU Systems	PX-7	Instruments -> DRUM	047 kit:Forword/Back	
+E-MU Systems	PX-7	Instruments -> DRUM	048 kit:Mouth Jam	
+E-MU Systems	PX-7	Instruments -> DRUM	049 gen:GM Perc Only	
+E-MU Systems	PX-7	Instruments -> DRUM	050 gen:GM No KickB0	
+E-MU Systems	PX-7	Instruments -> DRUM	051 gen:Alt GM Perc	
+E-MU Systems	PX-7	Instruments -> DRUM	052 gen:Alt NoKickB0	
+E-MU Systems	PX-7	Instruments -> DRUM	053 hat:BreadnButter	
+E-MU Systems	PX-7	Instruments -> DRUM	054 hat:Studio	
+E-MU Systems	PX-7	Instruments -> DRUM	055 hat:Studio 2	
+E-MU Systems	PX-7	Instruments -> DRUM	056 hat:Funky R&B	
+E-MU Systems	PX-7	Instruments -> DRUM	057 hat:Stadium Rock	
+E-MU Systems	PX-7	Instruments -> DRUM	058 hat:Jazz Brush	
+E-MU Systems	PX-7	Instruments -> DRUM	059 kik:BreadnButter	
+E-MU Systems	PX-7	Instruments -> DRUM	060 kik:Studio	
+E-MU Systems	PX-7	Instruments -> DRUM	061 kik:Funky R&B	
+E-MU Systems	PX-7	Instruments -> DRUM	062 kik:Stadium Rock	
+E-MU Systems	PX-7	Instruments -> DRUM	063 kik:Jazz	
+E-MU Systems	PX-7	Instruments -> DRUM	064 snr:BreadnButter	
+E-MU Systems	PX-7	Instruments -> DRUM	065 snr:Studio	
+E-MU Systems	PX-7	Instruments -> DRUM	066 snr:Funky R&B	
+E-MU Systems	PX-7	Instruments -> DRUM	067 snr:Stadium Rock	
+E-MU Systems	PX-7	Instruments -> DRUM	068 snr:Jazz Brush	
+E-MU Systems	PX-7	Instruments -> DRUM	069 tom:BreadnButter	
+E-MU Systems	PX-7	Instruments -> DRUM	070 tom:Studio	
+E-MU Systems	PX-7	Instruments -> DRUM	071 tom:Funky R&B	
+E-MU Systems	PX-7	Instruments -> DRUM	072 tom:Stadium Rock	
+E-MU Systems	PX-7	Instruments -> DRUM	073 tom:Brush Jazz	
+E-MU Systems	PX-7	Instruments -> DRUM	074 tom:SynNoSnares	
+E-MU Systems	PX-7	Instruments -> DRUM	075 cym:BreadnButter	
+E-MU Systems	PX-7	Instruments -> DRUM	076 cym:Studio	
+E-MU Systems	PX-7	Instruments -> DRUM	077 cym:Funky R&B	
+E-MU Systems	PX-7	Instruments -> DRUM	078 cym:Stadium Rock	
+E-MU Systems	PX-7	Instruments -> DRUM	079 cym:Brush Jazz	
+E-MU Systems	PX-7	Instruments -> DRUM	080 prc:All Kicks 1	
+E-MU Systems	PX-7	Instruments -> DRUM	081 prc:All Kicks 2	
+E-MU Systems	PX-7	Instruments -> DRUM	082 prc:All Snares 1	
+E-MU Systems	PX-7	Instruments -> DRUM	083 prc:All Snares 2	
+E-MU Systems	PX-7	Instruments -> DRUM	084 prc:All Snares 3	
+E-MU Systems	PX-7	Instruments -> DRUM	085 prc:All Hats 1	
+E-MU Systems	PX-7	Instruments -> DRUM	086 prc:All Hats 2	
+E-MU Systems	PX-7	Instruments -> DRUM	087 prc:All Toms 1	
+E-MU Systems	PX-7	Instruments -> DRUM	088 prc:All Toms 2	
+E-MU Systems	PX-7	Instruments -> DRUM	089 prc:All Cymbals	
+E-MU Systems	PX-7	Instruments -> DRUM	090 prc:Congas etc	
+E-MU Systems	PX-7	Instruments -> DRUM	091 prc:All Shakers	
+E-MU Systems	PX-7	Instruments -> DRUM	092 prc:All Bells	
+E-MU Systems	PX-7	Instruments -> DRUM	093 prc:SnapsClapTam	
+E-MU Systems	PX-7	Instruments -> DRUM	094 prc:AllScratches	
+E-MU Systems	PX-7	Instruments -> DRUM	095 prc:All Misc	
+E-MU Systems	PX-7	Instruments -> DRUM	096 prc:Vibraphone	
+E-MU Systems	PX-7	Instruments -> DRUM	097 prc:Xylophone	
+E-MU Systems	PX-7	Instruments -> DRUM	098 prc:Marimba	
+E-MU Systems	PX-7	Instruments -> DRUM	099 prc:Kalimba	
+E-MU Systems	PX-7	Instruments -> DRUM	100 prc:FM Log Drum	
+E-MU Systems	PX-7	Instruments -> DRUM	101 prc:Taiko	
+E-MU Systems	PX-7	Instruments -> DRUM	102 prc:Bodran	
+E-MU Systems	PX-7	Instruments -> DRUM	103 prc:E2SteelDrums	
+E-MU Systems	PX-7	Instruments -> DRUM	104 prc:Steel Drum	
+E-MU Systems	PX-7	Instruments -> DRUM	105 prc:Eastern	
+E-MU Systems	PX-7	Instruments -> DRUM	106 prc:Rainstick	
+E-MU Systems	PX-7	Instruments -> DRUM	107 prc:Flexitone	
+E-MU Systems	PX-7	Instruments -> DRUM	108 prc:BellTree	
+E-MU Systems	PX-7	Instruments -> DRUM	109 prc:Glock Bell	
+E-MU Systems	PX-7	Instruments -> DRUM	110 prc:Tubular Bell	
+E-MU Systems	PX-7	Instruments -> DRUM	111 bas:Sine Boomer	
+E-MU Systems	PX-7	Instruments -> DRUM	112 bas:Synth Hummer	
+E-MU Systems	PX-7	Instruments -> DRUM	113 bas:Bagg	
+E-MU Systems	PX-7	Instruments -> DRUM	114 bas:Moog	
+E-MU Systems	PX-7	Instruments -> DRUM	115 bas:Finger	
+E-MU Systems	PX-7	Instruments -> DRUM	116 bas:DX EP Bass 2	
+E-MU Systems	PX-7	Instruments -> DRUM	117 bas:FM Bass	
+E-MU Systems	PX-7	Instruments -> DRUM	118 bas:Acoustic	
+E-MU Systems	PX-7	Instruments -> DRUM	119 wav:Sine	
+E-MU Systems	PX-7	Instruments -> DRUM	120 wav:Sine Squared	
+E-MU Systems	PX-7	Instruments -> DRUM	121 wav:Sine InvSqrd	
+E-MU Systems	PX-7	Instruments -> DRUM	122 wav:Sine Cubed	
+E-MU Systems	PX-7	Instruments -> DRUM	123 wav:SineInvCubed	
+E-MU Systems	PX-7	Instruments -> DRUM	124 wav:P10 Saw	
+E-MU Systems	PX-7	Instruments -> DRUM	125 wav:101 Saw	
+E-MU Systems	PX-7	Instruments -> DRUM	126 wav:101 Square	
+E-MU Systems	PX-7	Instruments -> DRUM	127 wav:JX Square	
+E-MU Systems	PX-7	Instruments -> DRUM	128 wav:P10 Triangle	
+E-MU Systems	PX-7	Instruments -> DRUM	129 wav:JX Pulse	
+E-MU Systems	PX-7	Instruments -> DRUM	130 wav:Worm 1	
+E-MU Systems	PX-7	Instruments -> DRUM	131 wav:Worm 2	
+E-MU Systems	PX-7	Instruments -> DRUM	132 wav:Worm 3	
+E-MU Systems	PX-7	Instruments -> DRUM	133 hit:Modern	
+E-MU Systems	PX-7	Instruments -> DRUM	134 hit:Disco String	
+E-MU Systems	PX-7	Instruments -> DRUM	135 hit:Saxx	
+E-MU Systems	PX-7	Instruments -> DRUM	136 hit:Fret	
+E-MU Systems	PX-7	Instruments -> DRUM	137 wnd:Ocarina	
+E-MU Systems	PX-7	Instruments -> DRUM	138 wnd:Bottle Blow	
+E-MU Systems	PX-7	Instruments -> DRUM	139 nse:White Noise	
+E-MU Systems	PX-7	Instruments -> DRUM	140 hat:SP1200	
+E-MU Systems	PX-7	Instruments -> DRUM	141 hat:E2	
+E-MU Systems	PX-7	Instruments -> DRUM	142 hat:MS20	
+E-MU Systems	PX-7	Instruments -> DRUM	143 hat:SK-1	
+E-MU Systems	PX-7	Instruments -> DRUM	144 hat:808	
+E-MU Systems	PX-7	Instruments -> DRUM	145 hat:909	
+E-MU Systems	PX-7	Instruments -> DRUM	146 hat:Tecno	
+E-MU Systems	PX-7	Instruments -> DRUM	147 hat:Hip 1	
+E-MU Systems	PX-7	Instruments -> DRUM	148 hat:Hip 2	
+E-MU Systems	PX-7	Instruments -> DRUM	149 hat:Hip 2 2	
+E-MU Systems	PX-7	Instruments -> DRUM	150 hat:Mouth Jam	
+E-MU Systems	PX-7	Instruments -> DRUM	151 tom:SP1200	
+E-MU Systems	PX-7	Instruments -> DRUM	152 tom:E2	
+E-MU Systems	PX-7	Instruments -> DRUM	153 tom:MS20	
+E-MU Systems	PX-7	Instruments -> DRUM	154 tom:SK-1	
+E-MU Systems	PX-7	Instruments -> DRUM	155 tom:808	
+E-MU Systems	PX-7	Instruments -> DRUM	156 tom:909	
+E-MU Systems	PX-7	Instruments -> DRUM	157 tom:Backwrds	
+E-MU Systems	PX-7	Instruments -> DRUM	158 tom:Mouth Jam	
+E-MU Systems	PX-7	Instruments -> DRUM	159 plr:Kits NoHats1	
+E-MU Systems	PX-7	Instruments -> DRUM	160 plr:Only Hats 1	
+E-MU Systems	PX-7	Instruments -> DRUM	161 plr:Kits NoHats2	
+E-MU Systems	PX-7	Instruments -> DRUM	162 plr:Only Hats 2	
+E-MU Systems	PX-7	Instruments -> DRUM	163 prc:Kick 1	
+E-MU Systems	PX-7	Instruments -> DRUM	164 prc:Kick 2	
+E-MU Systems	PX-7	Instruments -> DRUM	165 prc:Kick 3	
+E-MU Systems	PX-7	Instruments -> DRUM	166 prc:Kick 4	
+E-MU Systems	PX-7	Instruments -> DRUM	167 prc:Kick 5	
+E-MU Systems	PX-7	Instruments -> DRUM	168 prc:Kick 6	
+E-MU Systems	PX-7	Instruments -> DRUM	169 prc:Kick 7	
+E-MU Systems	PX-7	Instruments -> DRUM	170 prc:Kick 8	
+E-MU Systems	PX-7	Instruments -> DRUM	171 prc:Kick 9	
+E-MU Systems	PX-7	Instruments -> DRUM	172 prc:Kick 10	
+E-MU Systems	PX-7	Instruments -> DRUM	173 prc:Kick 11	
+E-MU Systems	PX-7	Instruments -> DRUM	174 prc:Kick 12	
+E-MU Systems	PX-7	Instruments -> DRUM	175 prc:Kick 13	
+E-MU Systems	PX-7	Instruments -> DRUM	176 prc:Kick 14	
+E-MU Systems	PX-7	Instruments -> DRUM	177 prc:Kick 15	
+E-MU Systems	PX-7	Instruments -> DRUM	178 prc:Kick 16	
+E-MU Systems	PX-7	Instruments -> DRUM	179 prc:Kick 17	
+E-MU Systems	PX-7	Instruments -> DRUM	180 prc:Kick 18	
+E-MU Systems	PX-7	Instruments -> DRUM	181 prc:Kick 19	
+E-MU Systems	PX-7	Instruments -> DRUM	182 prc:Kick 20	
+E-MU Systems	PX-7	Instruments -> DRUM	183 prc:Kick 21	
+E-MU Systems	PX-7	Instruments -> DRUM	184 prc:Kick 22	
+E-MU Systems	PX-7	Instruments -> DRUM	185 prc:Kick 23	
+E-MU Systems	PX-7	Instruments -> DRUM	186 prc:Kick 24	
+E-MU Systems	PX-7	Instruments -> DRUM	187 prc:Kick 25	
+E-MU Systems	PX-7	Instruments -> DRUM	188 prc:Kick 26	
+E-MU Systems	PX-7	Instruments -> DRUM	189 prc:Kick 27	
+E-MU Systems	PX-7	Instruments -> DRUM	190 prc:Kick 28	
+E-MU Systems	PX-7	Instruments -> DRUM	191 prc:Kick 29	
+E-MU Systems	PX-7	Instruments -> DRUM	192 prc:Kick 30	
+E-MU Systems	PX-7	Instruments -> DRUM	193 prc:Kick 31	
+E-MU Systems	PX-7	Instruments -> DRUM	194 prc:Kick 32	
+E-MU Systems	PX-7	Instruments -> DRUM	195 prc:Kick 33	
+E-MU Systems	PX-7	Instruments -> DRUM	196 prc:Kick 34	
+E-MU Systems	PX-7	Instruments -> DRUM	197 prc:Kick 35	
+E-MU Systems	PX-7	Instruments -> DRUM	198 prc:Kick 36	
+E-MU Systems	PX-7	Instruments -> DRUM	199 prc:Kick 37	
+E-MU Systems	PX-7	Instruments -> DRUM	200 prc:Kick 38	
+E-MU Systems	PX-7	Instruments -> DRUM	201 prc:Kick 39	
+E-MU Systems	PX-7	Instruments -> DRUM	202 prc:Kick 40	
+E-MU Systems	PX-7	Instruments -> DRUM	203 prc:Kick 41	
+E-MU Systems	PX-7	Instruments -> DRUM	204 prc:Kick 42	
+E-MU Systems	PX-7	Instruments -> DRUM	205 prc:Kick 43	
+E-MU Systems	PX-7	Instruments -> DRUM	206 prc:Kick 44	
+E-MU Systems	PX-7	Instruments -> DRUM	207 prc:Kick 45	
+E-MU Systems	PX-7	Instruments -> DRUM	208 prc:Kick 46	
+E-MU Systems	PX-7	Instruments -> DRUM	209 prc:Kick 47	
+E-MU Systems	PX-7	Instruments -> DRUM	210 prc:Kick 48	
+E-MU Systems	PX-7	Instruments -> DRUM	211 prc:Kick 49	
+E-MU Systems	PX-7	Instruments -> DRUM	212 prc:Kick 50	
+E-MU Systems	PX-7	Instruments -> DRUM	213 prc:Kick 51	
+E-MU Systems	PX-7	Instruments -> DRUM	214 prc:Kick 52	
+E-MU Systems	PX-7	Instruments -> DRUM	215 prc:Kick 53	
+E-MU Systems	PX-7	Instruments -> DRUM	216 prc:Kick 54	
+E-MU Systems	PX-7	Instruments -> DRUM	217 prc:Kick 55	
+E-MU Systems	PX-7	Instruments -> DRUM	218 prc:Kick 56	
+E-MU Systems	PX-7	Instruments -> DRUM	219 prc:Kick 57	
+E-MU Systems	PX-7	Instruments -> DRUM	220 prc:Kick 58	
+E-MU Systems	PX-7	Instruments -> DRUM	221 prc:Kick 59	
+E-MU Systems	PX-7	Instruments -> DRUM	222 prc:Kick 60	
+E-MU Systems	PX-7	Instruments -> DRUM	223 prc:Kick 61	
+E-MU Systems	PX-7	Instruments -> DRUM	224 prc:Kick 62	
+E-MU Systems	PX-7	Instruments -> DRUM	225 prc:Kick 63	
+E-MU Systems	PX-7	Instruments -> DRUM	226 prc:Kick 64	
+E-MU Systems	PX-7	Instruments -> DRUM	227 prc:Kick 65	
+E-MU Systems	PX-7	Instruments -> DRUM	228 prc:Kick 66	
+E-MU Systems	PX-7	Instruments -> DRUM	229 prc:Kick 67	
+E-MU Systems	PX-7	Instruments -> DRUM	230 prc:Kick 68	
+E-MU Systems	PX-7	Instruments -> DRUM	231 prc:Kick 69	
+E-MU Systems	PX-7	Instruments -> DRUM	232 prc:Kick 70	
+E-MU Systems	PX-7	Instruments -> DRUM	233 prc:Kick 71	
+E-MU Systems	PX-7	Instruments -> DRUM	234 prc:Kick 72	
+E-MU Systems	PX-7	Instruments -> DRUM	235 prc:Kick 73	
+E-MU Systems	PX-7	Instruments -> DRUM	236 prc:Kick 74	
+E-MU Systems	PX-7	Instruments -> DRUM	237 prc:Kick 75	
+E-MU Systems	PX-7	Instruments -> DRUM	238 prc:Kick 76	
+E-MU Systems	PX-7	Instruments -> DRUM	239 prc:Kick 77	
+E-MU Systems	PX-7	Instruments -> DRUM	240 prc:Kick 78	
+E-MU Systems	PX-7	Instruments -> DRUM	241 prc:Kick 79	
+E-MU Systems	PX-7	Instruments -> DRUM	242 prc:Kick 80	
+E-MU Systems	PX-7	Instruments -> DRUM	243 prc:Kick 81	
+E-MU Systems	PX-7	Instruments -> DRUM	244 prc:Kick 82	
+E-MU Systems	PX-7	Instruments -> DRUM	245 prc:Kick 83	
+E-MU Systems	PX-7	Instruments -> DRUM	246 prc:Kick 84	
+E-MU Systems	PX-7	Instruments -> DRUM	247 prc:Kick 85	
+E-MU Systems	PX-7	Instruments -> DRUM	248 prc:Kick 86	
+E-MU Systems	PX-7	Instruments -> DRUM	249 prc:Kick 87	
+E-MU Systems	PX-7	Instruments -> DRUM	250 prc:Kick 88	
+E-MU Systems	PX-7	Instruments -> DRUM	251 prc:Kick 89	
+E-MU Systems	PX-7	Instruments -> DRUM	252 prc:Kick 90	
+E-MU Systems	PX-7	Instruments -> DRUM	253 prc:Kick 91	
+E-MU Systems	PX-7	Instruments -> DRUM	254 prc:Kick 92	
+E-MU Systems	PX-7	Instruments -> DRUM	255 prc:Kick 93	
+E-MU Systems	PX-7	Instruments -> DRUM	256 prc:Tympani	
+E-MU Systems	PX-7	Instruments -> DRUM	257 prc:Snare 1	
+E-MU Systems	PX-7	Instruments -> DRUM	258 prc:Snare 2	
+E-MU Systems	PX-7	Instruments -> DRUM	259 prc:Snare 3	
+E-MU Systems	PX-7	Instruments -> DRUM	260 prc:Snare 4	
+E-MU Systems	PX-7	Instruments -> DRUM	261 prc:Snare 5	
+E-MU Systems	PX-7	Instruments -> DRUM	262 prc:Snare 6	
+E-MU Systems	PX-7	Instruments -> DRUM	263 prc:Snare 7	
+E-MU Systems	PX-7	Instruments -> DRUM	264 prc:Snare 8	
+E-MU Systems	PX-7	Instruments -> DRUM	265 prc:Snare 9	
+E-MU Systems	PX-7	Instruments -> DRUM	266 prc:Snare 10	
+E-MU Systems	PX-7	Instruments -> DRUM	267 prc:Snare 11	
+E-MU Systems	PX-7	Instruments -> DRUM	268 prc:Snare 12	
+E-MU Systems	PX-7	Instruments -> DRUM	269 prc:Snare 13	
+E-MU Systems	PX-7	Instruments -> DRUM	270 prc:Snare 14	
+E-MU Systems	PX-7	Instruments -> DRUM	271 prc:Snare 15	
+E-MU Systems	PX-7	Instruments -> DRUM	272 prc:Snare 16	
+E-MU Systems	PX-7	Instruments -> DRUM	273 prc:Snare 17	
+E-MU Systems	PX-7	Instruments -> DRUM	274 prc:Snare 18	
+E-MU Systems	PX-7	Instruments -> DRUM	275 prc:Snare 19	
+E-MU Systems	PX-7	Instruments -> DRUM	276 prc:Snare 20	
+E-MU Systems	PX-7	Instruments -> DRUM	277 prc:Snare 21	
+E-MU Systems	PX-7	Instruments -> DRUM	278 prc:Snare 22	
+E-MU Systems	PX-7	Instruments -> DRUM	279 prc:Snare 23	
+E-MU Systems	PX-7	Instruments -> DRUM	280 prc:Snare 24	
+E-MU Systems	PX-7	Instruments -> DRUM	281 prc:Snare 25	
+E-MU Systems	PX-7	Instruments -> DRUM	282 prc:Snare 26	
+E-MU Systems	PX-7	Instruments -> DRUM	283 prc:Snare 27	
+E-MU Systems	PX-7	Instruments -> DRUM	284 prc:Snare 28	
+E-MU Systems	PX-7	Instruments -> DRUM	285 prc:Snare 29	
+E-MU Systems	PX-7	Instruments -> DRUM	286 prc:Snare 30	
+E-MU Systems	PX-7	Instruments -> DRUM	287 prc:Snare 31	
+E-MU Systems	PX-7	Instruments -> DRUM	288 prc:Snare 32	
+E-MU Systems	PX-7	Instruments -> DRUM	289 prc:Snare 33	
+E-MU Systems	PX-7	Instruments -> DRUM	290 prc:Snare 34	
+E-MU Systems	PX-7	Instruments -> DRUM	291 prc:Snare 35	
+E-MU Systems	PX-7	Instruments -> DRUM	292 prc:Snare 36	
+E-MU Systems	PX-7	Instruments -> DRUM	293 prc:Snare 37	
+E-MU Systems	PX-7	Instruments -> DRUM	294 prc:Snare 38	
+E-MU Systems	PX-7	Instruments -> DRUM	295 prc:Snare 39	
+E-MU Systems	PX-7	Instruments -> DRUM	296 prc:Snare 40	
+E-MU Systems	PX-7	Instruments -> DRUM	297 prc:Snare 41	
+E-MU Systems	PX-7	Instruments -> DRUM	298 prc:Snare 42	
+E-MU Systems	PX-7	Instruments -> DRUM	299 prc:Snare 43	
+E-MU Systems	PX-7	Instruments -> DRUM	300 prc:Snare 44	
+E-MU Systems	PX-7	Instruments -> DRUM	301 prc:Snare 45	
+E-MU Systems	PX-7	Instruments -> DRUM	302 prc:Snare 46	
+E-MU Systems	PX-7	Instruments -> DRUM	303 prc:Snare 47	
+E-MU Systems	PX-7	Instruments -> DRUM	304 prc:Snare 48	
+E-MU Systems	PX-7	Instruments -> DRUM	305 prc:Snare 49	
+E-MU Systems	PX-7	Instruments -> DRUM	306 prc:Snare 50	
+E-MU Systems	PX-7	Instruments -> DRUM	307 prc:Snare 51	
+E-MU Systems	PX-7	Instruments -> DRUM	308 prc:Snare 52	
+E-MU Systems	PX-7	Instruments -> DRUM	309 prc:Snare 53	
+E-MU Systems	PX-7	Instruments -> DRUM	310 prc:Snare 54	
+E-MU Systems	PX-7	Instruments -> DRUM	311 prc:Snare 55	
+E-MU Systems	PX-7	Instruments -> DRUM	312 prc:Snare 56	
+E-MU Systems	PX-7	Instruments -> DRUM	313 prc:Snare 57	
+E-MU Systems	PX-7	Instruments -> DRUM	314 prc:Snare 58	
+E-MU Systems	PX-7	Instruments -> DRUM	315 prc:Snare 59	
+E-MU Systems	PX-7	Instruments -> DRUM	316 prc:Snare 60	
+E-MU Systems	PX-7	Instruments -> DRUM	317 prc:Snare 61	
+E-MU Systems	PX-7	Instruments -> DRUM	318 prc:Snare 62	
+E-MU Systems	PX-7	Instruments -> DRUM	319 prc:Snare 63	
+E-MU Systems	PX-7	Instruments -> DRUM	320 prc:Snare 64	
+E-MU Systems	PX-7	Instruments -> DRUM	321 prc:Snare 65	
+E-MU Systems	PX-7	Instruments -> DRUM	322 prc:Snare 66	
+E-MU Systems	PX-7	Instruments -> DRUM	323 prc:Snare 67	
+E-MU Systems	PX-7	Instruments -> DRUM	324 prc:Snare 68	
+E-MU Systems	PX-7	Instruments -> DRUM	325 prc:Snare 69	
+E-MU Systems	PX-7	Instruments -> DRUM	326 prc:Snare 70	
+E-MU Systems	PX-7	Instruments -> DRUM	327 prc:Snare 71	
+E-MU Systems	PX-7	Instruments -> DRUM	328 prc:Snare 72	
+E-MU Systems	PX-7	Instruments -> DRUM	329 prc:Snare 73	
+E-MU Systems	PX-7	Instruments -> DRUM	330 prc:Snare 74	
+E-MU Systems	PX-7	Instruments -> DRUM	331 prc:Snare 75	
+E-MU Systems	PX-7	Instruments -> DRUM	332 prc:Snare 76	
+E-MU Systems	PX-7	Instruments -> DRUM	333 prc:Snare 77	
+E-MU Systems	PX-7	Instruments -> DRUM	334 prc:Snare 78	
+E-MU Systems	PX-7	Instruments -> DRUM	335 prc:Snare 79	
+E-MU Systems	PX-7	Instruments -> DRUM	336 prc:Snare 80	
+E-MU Systems	PX-7	Instruments -> DRUM	337 prc:Snare 81	
+E-MU Systems	PX-7	Instruments -> DRUM	338 prc:Snare 82	
+E-MU Systems	PX-7	Instruments -> DRUM	339 prc:Snare 83	
+E-MU Systems	PX-7	Instruments -> DRUM	340 prc:Snare 84	
+E-MU Systems	PX-7	Instruments -> DRUM	341 prc:Snare 85	
+E-MU Systems	PX-7	Instruments -> DRUM	342 prc:Snare 86	
+E-MU Systems	PX-7	Instruments -> DRUM	343 prc:Snare 87	
+E-MU Systems	PX-7	Instruments -> DRUM	344 prc:Snare 88	
+E-MU Systems	PX-7	Instruments -> DRUM	345 prc:Snare 89	
+E-MU Systems	PX-7	Instruments -> DRUM	346 prc:Snare 90	
+E-MU Systems	PX-7	Instruments -> DRUM	347 prc:Snare 91	
+E-MU Systems	PX-7	Instruments -> DRUM	348 prc:Snare 92	
+E-MU Systems	PX-7	Instruments -> DRUM	349 prc:Snare 93	
+E-MU Systems	PX-7	Instruments -> DRUM	350 prc:Snare 94	
+E-MU Systems	PX-7	Instruments -> DRUM	351 prc:Snare 95	
+E-MU Systems	PX-7	Instruments -> DRUM	352 prc:Snare 96	
+E-MU Systems	PX-7	Instruments -> DRUM	353 prc:Snare 97	
+E-MU Systems	PX-7	Instruments -> DRUM	354 prc:Snare 98	
+E-MU Systems	PX-7	Instruments -> DRUM	355 prc:Snare 99	
+E-MU Systems	PX-7	Instruments -> DRUM	356 prc:Snare 100	
+E-MU Systems	PX-7	Instruments -> DRUM	357 prc:Snare 101	
+E-MU Systems	PX-7	Instruments -> DRUM	358 prc:Snare 102	
+E-MU Systems	PX-7	Instruments -> DRUM	359 prc:Snare 103	
+E-MU Systems	PX-7	Instruments -> DRUM	360 prc:Snare 104	
+E-MU Systems	PX-7	Instruments -> DRUM	361 prc:Snare 105	
+E-MU Systems	PX-7	Instruments -> DRUM	362 prc:Snare 106	
+E-MU Systems	PX-7	Instruments -> DRUM	363 prc:Snare 107	
+E-MU Systems	PX-7	Instruments -> DRUM	364 prc:Snare 108	
+E-MU Systems	PX-7	Instruments -> DRUM	365 prc:Snare 109	
+E-MU Systems	PX-7	Instruments -> DRUM	366 prc:Snare 110	
+E-MU Systems	PX-7	Instruments -> DRUM	367 prc:Snare 111	
+E-MU Systems	PX-7	Instruments -> DRUM	368 prc:Snare 112	
+E-MU Systems	PX-7	Instruments -> DRUM	369 prc:Snare 113	
+E-MU Systems	PX-7	Instruments -> DRUM	370 prc:Snare 114	
+E-MU Systems	PX-7	Instruments -> DRUM	371 prc:Snare 115	
+E-MU Systems	PX-7	Instruments -> DRUM	372 prc:Snare 116	
+E-MU Systems	PX-7	Instruments -> DRUM	373 prc:Snare 117	
+E-MU Systems	PX-7	Instruments -> DRUM	374 prc:Snare 118	
+E-MU Systems	PX-7	Instruments -> DRUM	375 prc:Snare 119	
+E-MU Systems	PX-7	Instruments -> DRUM	376 prc:Snare 120	
+E-MU Systems	PX-7	Instruments -> DRUM	377 prc:Snare 121	
+E-MU Systems	PX-7	Instruments -> DRUM	378 prc:Snare 122	
+E-MU Systems	PX-7	Instruments -> DRUM	379 prc:Snare 123	
+E-MU Systems	PX-7	Instruments -> DRUM	380 prc:Snare 124	
+E-MU Systems	PX-7	Instruments -> DRUM	381 prc:Snare 125	
+E-MU Systems	PX-7	Instruments -> DRUM	382 prc:Snare 126	
+E-MU Systems	PX-7	Instruments -> DRUM	383 prc:Snare 127	
+E-MU Systems	PX-7	Instruments -> DRUM	384 prc:Snare 128	
+E-MU Systems	PX-7	Instruments -> DRUM	385 prc:Snare 129	
+E-MU Systems	PX-7	Instruments -> DRUM	386 prc:Snare 130	
+E-MU Systems	PX-7	Instruments -> DRUM	387 prc:Tom 1	
+E-MU Systems	PX-7	Instruments -> DRUM	388 prc:Tom 2	
+E-MU Systems	PX-7	Instruments -> DRUM	389 prc:Tom 3	
+E-MU Systems	PX-7	Instruments -> DRUM	390 prc:Tom 4	
+E-MU Systems	PX-7	Instruments -> DRUM	391 prc:Tom 5	
+E-MU Systems	PX-7	Instruments -> DRUM	392 prc:Tom 6	
+E-MU Systems	PX-7	Instruments -> DRUM	393 prc:Tom 7	
+E-MU Systems	PX-7	Instruments -> DRUM	394 prc:Tom 8	
+E-MU Systems	PX-7	Instruments -> DRUM	395 prc:Tom 9	
+E-MU Systems	PX-7	Instruments -> DRUM	396 prc:Tom 10	
+E-MU Systems	PX-7	Instruments -> DRUM	397 prc:Tom 11	
+E-MU Systems	PX-7	Instruments -> DRUM	398 prc:Tom 12	
+E-MU Systems	PX-7	Instruments -> DRUM	399 prc:Tom 13	
+E-MU Systems	PX-7	Instruments -> DRUM	400 prc:Tom 14	
+E-MU Systems	PX-7	Instruments -> DRUM	401 prc:Tom 15	
+E-MU Systems	PX-7	Instruments -> DRUM	402 prc:Tom 16	
+E-MU Systems	PX-7	Instruments -> DRUM	403 prc:Tom 17	
+E-MU Systems	PX-7	Instruments -> DRUM	404 prc:Tom 18	
+E-MU Systems	PX-7	Instruments -> DRUM	405 prc:Tom 19	
+E-MU Systems	PX-7	Instruments -> DRUM	406 prc:Tom 20	
+E-MU Systems	PX-7	Instruments -> DRUM	407 prc:Tom 21	
+E-MU Systems	PX-7	Instruments -> DRUM	408 prc:Tom 22	
+E-MU Systems	PX-7	Instruments -> DRUM	409 prc:Tom 23	
+E-MU Systems	PX-7	Instruments -> DRUM	410 prc:Tom 24	
+E-MU Systems	PX-7	Instruments -> DRUM	411 prc:Tom 25	
+E-MU Systems	PX-7	Instruments -> DRUM	412 prc:Tom 26	
+E-MU Systems	PX-7	Instruments -> DRUM	413 prc:Tom 27	
+E-MU Systems	PX-7	Instruments -> DRUM	414 prc:Tom 28	
+E-MU Systems	PX-7	Instruments -> DRUM	415 prc:Tom 29	
+E-MU Systems	PX-7	Instruments -> DRUM	416 prc:Tom 30	
+E-MU Systems	PX-7	Instruments -> DRUM	417 prc:Tom 31	
+E-MU Systems	PX-7	Instruments -> DRUM	418 prc:Tom 32	
+E-MU Systems	PX-7	Instruments -> DRUM	419 prc:Tom 33	
+E-MU Systems	PX-7	Instruments -> DRUM	420 prc:Tom 34	
+E-MU Systems	PX-7	Instruments -> DRUM	421 prc:Tom 35	
+E-MU Systems	PX-7	Instruments -> DRUM	422 prc:Tom 36	
+E-MU Systems	PX-7	Instruments -> DRUM	423 prc:Tom 37	
+E-MU Systems	PX-7	Instruments -> DRUM	424 prc:Tom 38	
+E-MU Systems	PX-7	Instruments -> DRUM	425 prc:Tom 39	
+E-MU Systems	PX-7	Instruments -> DRUM	426 prc:Tom 40	
+E-MU Systems	PX-7	Instruments -> DRUM	427 prc:Tom 41	
+E-MU Systems	PX-7	Instruments -> DRUM	428 prc:Tom 42	
+E-MU Systems	PX-7	Instruments -> DRUM	429 prc:Tom 43	
+E-MU Systems	PX-7	Instruments -> DRUM	430 prc:Tom 44	
+E-MU Systems	PX-7	Instruments -> DRUM	431 prc:Tom 45	
+E-MU Systems	PX-7	Instruments -> DRUM	432 prc:Tom 46	
+E-MU Systems	PX-7	Instruments -> DRUM	433 prc:Tom 47	
+E-MU Systems	PX-7	Instruments -> DRUM	434 prc:Tom 48	
+E-MU Systems	PX-7	Instruments -> DRUM	435 prc:Tom 50	
+E-MU Systems	PX-7	Instruments -> DRUM	436 prc:Tom 51	
+E-MU Systems	PX-7	Instruments -> DRUM	437 prc:Tom 52	
+E-MU Systems	PX-7	Instruments -> DRUM	438 prc:Tom 53	
+E-MU Systems	PX-7	Instruments -> DRUM	439 prc:Tom 54	
+E-MU Systems	PX-7	Instruments -> DRUM	440 prc:Tom 55	
+E-MU Systems	PX-7	Instruments -> DRUM	441 prc:Tom 56	
+E-MU Systems	PX-7	Instruments -> DRUM	442 prc:Tom 57	
+E-MU Systems	PX-7	Instruments -> DRUM	443 prc:Tom 58	
+E-MU Systems	PX-7	Instruments -> DRUM	444 prc:Tom 59	
+E-MU Systems	PX-7	Instruments -> DRUM	445 prc:Tom 60	
+E-MU Systems	PX-7	Instruments -> DRUM	446 prc:Tom 61	
+E-MU Systems	PX-7	Instruments -> DRUM	447 prc:Tom 62	
+E-MU Systems	PX-7	Instruments -> DRUM	448 prc:Tom 63	
+E-MU Systems	PX-7	Instruments -> DRUM	449 prc:Tom 64	
+E-MU Systems	PX-7	Instruments -> DRUM	450 prc:Hat 1	
+E-MU Systems	PX-7	Instruments -> DRUM	451 prc:Hat 2	
+E-MU Systems	PX-7	Instruments -> DRUM	452 prc:Hat 3	
+E-MU Systems	PX-7	Instruments -> DRUM	453 prc:Hat 4	
+E-MU Systems	PX-7	Instruments -> DRUM	454 prc:Hat 5	
+E-MU Systems	PX-7	Instruments -> DRUM	455 prc:Hat 6	
+E-MU Systems	PX-7	Instruments -> DRUM	456 prc:Hat 7	
+E-MU Systems	PX-7	Instruments -> DRUM	457 prc:Hat 8	
+E-MU Systems	PX-7	Instruments -> DRUM	458 prc:Hat 9	
+E-MU Systems	PX-7	Instruments -> DRUM	459 prc:Hat 10	
+E-MU Systems	PX-7	Instruments -> DRUM	460 prc:Hat 11	
+E-MU Systems	PX-7	Instruments -> DRUM	461 prc:Hat 12	
+E-MU Systems	PX-7	Instruments -> DRUM	462 prc:Hat 13	
+E-MU Systems	PX-7	Instruments -> DRUM	463 prc:Hat 14	
+E-MU Systems	PX-7	Instruments -> DRUM	464 prc:Hat 15	
+E-MU Systems	PX-7	Instruments -> DRUM	465 prc:Hat 16	
+E-MU Systems	PX-7	Instruments -> DRUM	466 prc:Hat 17	
+E-MU Systems	PX-7	Instruments -> DRUM	467 prc:Hat 18	
+E-MU Systems	PX-7	Instruments -> DRUM	468 prc:Hat 19	
+E-MU Systems	PX-7	Instruments -> DRUM	469 prc:Hat 20	
+E-MU Systems	PX-7	Instruments -> DRUM	470 prc:Hat 21	
+E-MU Systems	PX-7	Instruments -> DRUM	471 prc:Hat 22	
+E-MU Systems	PX-7	Instruments -> DRUM	472 prc:Hat 23	
+E-MU Systems	PX-7	Instruments -> DRUM	473 prc:Hat 24	
+E-MU Systems	PX-7	Instruments -> DRUM	474 prc:Hat 25	
+E-MU Systems	PX-7	Instruments -> DRUM	475 prc:Hat 26	
+E-MU Systems	PX-7	Instruments -> DRUM	476 prc:Hat 27	
+E-MU Systems	PX-7	Instruments -> DRUM	477 prc:Hat 28	
+E-MU Systems	PX-7	Instruments -> DRUM	478 prc:Hat 29	
+E-MU Systems	PX-7	Instruments -> DRUM	479 prc:Hat 30	
+E-MU Systems	PX-7	Instruments -> DRUM	480 prc:Hat 31	
+E-MU Systems	PX-7	Instruments -> DRUM	481 prc:Hat 32	
+E-MU Systems	PX-7	Instruments -> DRUM	482 prc:Hat 33	
+E-MU Systems	PX-7	Instruments -> DRUM	483 prc:Hat 34	
+E-MU Systems	PX-7	Instruments -> DRUM	484 prc:Hat 35	
+E-MU Systems	PX-7	Instruments -> DRUM	485 prc:Hat 36	
+E-MU Systems	PX-7	Instruments -> DRUM	486 prc:Hat 37	
+E-MU Systems	PX-7	Instruments -> DRUM	487 prc:Hat 38	
+E-MU Systems	PX-7	Instruments -> DRUM	488 prc:Hat 39	
+E-MU Systems	PX-7	Instruments -> DRUM	489 prc:Hat 40	
+E-MU Systems	PX-7	Instruments -> DRUM	490 prc:Hat 41	
+E-MU Systems	PX-7	Instruments -> DRUM	491 prc:Hat 42	
+E-MU Systems	PX-7	Instruments -> DRUM	492 prc:Hat 43	
+E-MU Systems	PX-7	Instruments -> DRUM	493 prc:Hat 44	
+E-MU Systems	PX-7	Instruments -> DRUM	494 prc:Hat 45	
+E-MU Systems	PX-7	Instruments -> DRUM	495 prc:Hat 46	
+E-MU Systems	PX-7	Instruments -> DRUM	496 prc:Hat 47	
+E-MU Systems	PX-7	Instruments -> DRUM	497 prc:Hat 48	
+E-MU Systems	PX-7	Instruments -> DRUM	498 prc:Hat 49	
+E-MU Systems	PX-7	Instruments -> DRUM	499 prc:Hat 50	
+E-MU Systems	PX-7	Instruments -> DRUM	500 prc:Hat 51	
+E-MU Systems	PX-7	Instruments -> DRUM	501 prc:Hat 52	
+E-MU Systems	PX-7	Instruments -> DRUM	502 prc:Hat 53	
+E-MU Systems	PX-7	Instruments -> DRUM	503 prc:Hat 54	
+E-MU Systems	PX-7	Instruments -> DRUM	504 prc:Hat 55	
+E-MU Systems	PX-7	Instruments -> DRUM	505 prc:Hat 56	
+E-MU Systems	PX-7	Instruments -> DRUM	506 prc:Hat 57	
+E-MU Systems	PX-7	Instruments -> DRUM	507 prc:Hat 58	
+E-MU Systems	PX-7	Instruments -> DRUM	508 prc:Hat 59	
+E-MU Systems	PX-7	Instruments -> DRUM	509 prc:Hat 60	
+E-MU Systems	PX-7	Instruments -> DRUM	510 prc:Hat 61	
+E-MU Systems	PX-7	Instruments -> DRUM	511 prc:Hat 62	
+E-MU Systems	PX-7	Instruments -> DRUM	512 prc:Hat 63	
+E-MU Systems	PX-7	Instruments -> DRUM	513 prc:Hat 64	
+E-MU Systems	PX-7	Instruments -> DRUM	514 prc:Hat 65	
+E-MU Systems	PX-7	Instruments -> DRUM	515 prc:Hat 66	
+E-MU Systems	PX-7	Instruments -> DRUM	516 prc:Hat 67	
+E-MU Systems	PX-7	Instruments -> DRUM	517 prc:Hat 68	
+E-MU Systems	PX-7	Instruments -> DRUM	518 prc:Hat 69	
+E-MU Systems	PX-7	Instruments -> DRUM	519 prc:Hat 70	
+E-MU Systems	PX-7	Instruments -> DRUM	520 prc:Hat 71	
+E-MU Systems	PX-7	Instruments -> DRUM	521 prc:Hat 72	
+E-MU Systems	PX-7	Instruments -> DRUM	522 prc:Hat 73	
+E-MU Systems	PX-7	Instruments -> DRUM	523 prc:Hat 74	
+E-MU Systems	PX-7	Instruments -> DRUM	524 prc:Hat 75	
+E-MU Systems	PX-7	Instruments -> DRUM	525 prc:Hat 76	
+E-MU Systems	PX-7	Instruments -> DRUM	526 prc:Hat 77	
+E-MU Systems	PX-7	Instruments -> DRUM	527 prc:Hat 78	
+E-MU Systems	PX-7	Instruments -> DRUM	528 prc:Hat 79	
+E-MU Systems	PX-7	Instruments -> DRUM	529 prc:Hat 80	
+E-MU Systems	PX-7	Instruments -> DRUM	530 prc:Hat 81	
+E-MU Systems	PX-7	Instruments -> DRUM	531 prc:Hat 82	
+E-MU Systems	PX-7	Instruments -> DRUM	532 prc:Hat 83	
+E-MU Systems	PX-7	Instruments -> DRUM	533 prc:Hat 84	
+E-MU Systems	PX-7	Instruments -> DRUM	534 prc:Hat 85	
+E-MU Systems	PX-7	Instruments -> DRUM	535 prc:Hat 86	
+E-MU Systems	PX-7	Instruments -> DRUM	536 prc:Hat 87	
+E-MU Systems	PX-7	Instruments -> DRUM	537 prc:Cymbal 1	
+E-MU Systems	PX-7	Instruments -> DRUM	538 prc:Cymbal 2	
+E-MU Systems	PX-7	Instruments -> DRUM	539 prc:Cymbal 3	
+E-MU Systems	PX-7	Instruments -> DRUM	540 prc:Cymbal 4	
+E-MU Systems	PX-7	Instruments -> DRUM	541 prc:Cymbal 5	
+E-MU Systems	PX-7	Instruments -> DRUM	542 prc:Cymbal 6	
+E-MU Systems	PX-7	Instruments -> DRUM	543 prc:Cymbal 7	
+E-MU Systems	PX-7	Instruments -> DRUM	544 prc:Cymbal 8	
+E-MU Systems	PX-7	Instruments -> DRUM	545 prc:Cymbal 9	
+E-MU Systems	PX-7	Instruments -> DRUM	546 prc:Cymbal 10	
+E-MU Systems	PX-7	Instruments -> DRUM	547 prc:Cymbal 11	
+E-MU Systems	PX-7	Instruments -> DRUM	548 prc:Cymbal 12	
+E-MU Systems	PX-7	Instruments -> DRUM	549 prc:Cymbal 13	
+E-MU Systems	PX-7	Instruments -> DRUM	550 prc:Cymbal 14	
+E-MU Systems	PX-7	Instruments -> DRUM	551 prc:Cymbal 15	
+E-MU Systems	PX-7	Instruments -> DRUM	552 prc:Cymbal 16	
+E-MU Systems	PX-7	Instruments -> DRUM	553 prc:Cymbal 17	
+E-MU Systems	PX-7	Instruments -> DRUM	554 prc:Cymbal 18	
+E-MU Systems	PX-7	Instruments -> DRUM	555 prc:Cymbal 19	
+E-MU Systems	PX-7	Instruments -> DRUM	556 prc:Cymbal 20	
+E-MU Systems	PX-7	Instruments -> DRUM	557 prc:Cymbal 21	
+E-MU Systems	PX-7	Instruments -> DRUM	558 prc:Cymbal 22	
+E-MU Systems	PX-7	Instruments -> DRUM	559 prc:Cymbal 23	
+E-MU Systems	PX-7	Instruments -> DRUM	560 prc:Cymbal 24	
+E-MU Systems	PX-7	Instruments -> DRUM	561 prc:Cymbal 25	
+E-MU Systems	PX-7	Instruments -> DRUM	562 prc:Cymbal 26	
+E-MU Systems	PX-7	Instruments -> DRUM	563 prc:Cymbal 27	
+E-MU Systems	PX-7	Instruments -> DRUM	564 prc:Cymbal 28	
+E-MU Systems	PX-7	Instruments -> DRUM	565 prc:Cymbal 29	
+E-MU Systems	PX-7	Instruments -> DRUM	566 prc:Cymbal 30	
+E-MU Systems	PX-7	Instruments -> DRUM	567 prc:Cymbal 31	
+E-MU Systems	PX-7	Instruments -> DRUM	568 prc:Cymbal 32	
+E-MU Systems	PX-7	Instruments -> DRUM	569 prc:Cymbal 33	
+E-MU Systems	PX-7	Instruments -> DRUM	570 prc:Cymbal 34	
+E-MU Systems	PX-7	Instruments -> DRUM	571 prc:Cymbal 35	
+E-MU Systems	PX-7	Instruments -> DRUM	572 prc:Cymbal 36	
+E-MU Systems	PX-7	Instruments -> DRUM	573 prc:Cymbal 37	
+E-MU Systems	PX-7	Instruments -> DRUM	574 prc:Conga etc 1	
+E-MU Systems	PX-7	Instruments -> DRUM	575 prc:Conga etc 2	
+E-MU Systems	PX-7	Instruments -> DRUM	576 prc:Conga etc 3	
+E-MU Systems	PX-7	Instruments -> DRUM	577 prc:Conga etc 4	
+E-MU Systems	PX-7	Instruments -> DRUM	578 prc:Conga etc 5	
+E-MU Systems	PX-7	Instruments -> DRUM	579 prc:Conga etc 6	
+E-MU Systems	PX-7	Instruments -> DRUM	580 prc:Conga etc 7	
+E-MU Systems	PX-7	Instruments -> DRUM	581 prc:Conga etc 8	
+E-MU Systems	PX-7	Instruments -> DRUM	582 prc:Conga etc 9	
+E-MU Systems	PX-7	Instruments -> DRUM	583 prc:Conga etc 10	
+E-MU Systems	PX-7	Instruments -> DRUM	584 prc:Conga etc 11	
+E-MU Systems	PX-7	Instruments -> DRUM	585 prc:Conga etc 12	
+E-MU Systems	PX-7	Instruments -> DRUM	586 prc:Conga etc 13	
+E-MU Systems	PX-7	Instruments -> DRUM	587 prc:Conga etc 14	
+E-MU Systems	PX-7	Instruments -> DRUM	588 prc:Conga etc 15	
+E-MU Systems	PX-7	Instruments -> DRUM	589 prc:Conga etc 16	
+E-MU Systems	PX-7	Instruments -> DRUM	590 prc:Conga etc 17	
+E-MU Systems	PX-7	Instruments -> DRUM	591 prc:Conga etc 18	
+E-MU Systems	PX-7	Instruments -> DRUM	592 prc:Conga etc 19	
+E-MU Systems	PX-7	Instruments -> DRUM	593 prc:Conga etc 20	
+E-MU Systems	PX-7	Instruments -> DRUM	594 prc:Conga etc 21	
+E-MU Systems	PX-7	Instruments -> DRUM	595 prc:Conga etc 22	
+E-MU Systems	PX-7	Instruments -> DRUM	596 prc:Conga etc 23	
+E-MU Systems	PX-7	Instruments -> DRUM	597 prc:Conga etc 24	
+E-MU Systems	PX-7	Instruments -> DRUM	598 prc:Conga etc 25	
+E-MU Systems	PX-7	Instruments -> DRUM	599 prc:Conga etc 26	
+E-MU Systems	PX-7	Instruments -> DRUM	600 prc:Conga etc 27	
+E-MU Systems	PX-7	Instruments -> DRUM	601 prc:Conga etc 28	
+E-MU Systems	PX-7	Instruments -> DRUM	602 prc:Shaker 1	
+E-MU Systems	PX-7	Instruments -> DRUM	603 prc:Shaker 2	
+E-MU Systems	PX-7	Instruments -> DRUM	604 prc:Shaker 3	
+E-MU Systems	PX-7	Instruments -> DRUM	605 prc:Shaker 4	
+E-MU Systems	PX-7	Instruments -> DRUM	606 prc:Shaker 5	
+E-MU Systems	PX-7	Instruments -> DRUM	607 prc:Shaker 6	
+E-MU Systems	PX-7	Instruments -> DRUM	608 prc:Shaker 7	
+E-MU Systems	PX-7	Instruments -> DRUM	609 prc:Shaker 8	
+E-MU Systems	PX-7	Instruments -> DRUM	610 prc:Shaker 9	
+E-MU Systems	PX-7	Instruments -> DRUM	611 prc:Shaker 10	
+E-MU Systems	PX-7	Instruments -> DRUM	612 prc:Shaker 11	
+E-MU Systems	PX-7	Instruments -> DRUM	613 prc:Shaker 12	
+E-MU Systems	PX-7	Instruments -> DRUM	614 prc:Shaker 13	
+E-MU Systems	PX-7	Instruments -> DRUM	615 prc:Shaker 14	
+E-MU Systems	PX-7	Instruments -> DRUM	616 prc:Shaker 15	
+E-MU Systems	PX-7	Instruments -> DRUM	617 prc:Shaker 16	
+E-MU Systems	PX-7	Instruments -> DRUM	618 prc:Shaker 17	
+E-MU Systems	PX-7	Instruments -> DRUM	619 prc:Bell 1	
+E-MU Systems	PX-7	Instruments -> DRUM	620 prc:Bell 2	
+E-MU Systems	PX-7	Instruments -> DRUM	621 prc:Bell 3	
+E-MU Systems	PX-7	Instruments -> DRUM	622 prc:Bell 4	
+E-MU Systems	PX-7	Instruments -> DRUM	623 prc:Bell 5	
+E-MU Systems	PX-7	Instruments -> DRUM	624 prc:Bell 6	
+E-MU Systems	PX-7	Instruments -> DRUM	625 prc:Bell 7	
+E-MU Systems	PX-7	Instruments -> DRUM	626 prc:Bell 8	
+E-MU Systems	PX-7	Instruments -> DRUM	627 prc:Bell 9	
+E-MU Systems	PX-7	Instruments -> DRUM	628 prc:Bell 10	
+E-MU Systems	PX-7	Instruments -> DRUM	629 prc:Bell 11	
+E-MU Systems	PX-7	Instruments -> DRUM	630 prc:Bell 12	
+E-MU Systems	PX-7	Instruments -> DRUM	631 prc:Bell 13	
+E-MU Systems	PX-7	Instruments -> DRUM	632 prc:Bell 14	
+E-MU Systems	PX-7	Instruments -> DRUM	633 prc:Bell 15	
+E-MU Systems	PX-7	Instruments -> DRUM	634 prc:Bell 16	
+E-MU Systems	PX-7	Instruments -> DRUM	635 prc:Bell 17	
+E-MU Systems	PX-7	Instruments -> DRUM	636 prc:Bell 18	
+E-MU Systems	PX-7	Instruments -> DRUM	637 prc:Snap etc 1	
+E-MU Systems	PX-7	Instruments -> DRUM	638 prc:Snap etc 2	
+E-MU Systems	PX-7	Instruments -> DRUM	639 prc:Snap etc 3	
+E-MU Systems	PX-7	Instruments -> DRUM	640 prc:Snap etc 4	
+E-MU Systems	PX-7	Instruments -> DRUM	641 prc:Snap etc 5	
+E-MU Systems	PX-7	Instruments -> DRUM	642 prc:Snap etc 6	
+E-MU Systems	PX-7	Instruments -> DRUM	643 prc:Snap etc 7	
+E-MU Systems	PX-7	Instruments -> DRUM	644 prc:Snap etc 8	
+E-MU Systems	PX-7	Instruments -> DRUM	645 prc:Snap etc 9	
+E-MU Systems	PX-7	Instruments -> DRUM	646 prc:Snap etc 10	
+E-MU Systems	PX-7	Instruments -> DRUM	647 prc:Snap etc 11	
+E-MU Systems	PX-7	Instruments -> DRUM	648 prc:Snap etc 12	
+E-MU Systems	PX-7	Instruments -> DRUM	649 prc:Snap etc 13	
+E-MU Systems	PX-7	Instruments -> DRUM	650 prc:Snap etc 14	
+E-MU Systems	PX-7	Instruments -> DRUM	651 prc:Snap etc 15	
+E-MU Systems	PX-7	Instruments -> DRUM	652 prc:Snap etc 16	
+E-MU Systems	PX-7	Instruments -> DRUM	653 prc:Snap etc 17	
+E-MU Systems	PX-7	Instruments -> DRUM	654 prc:Snap etc 18	
+E-MU Systems	PX-7	Instruments -> DRUM	655 prc:Snap etc 19	
+E-MU Systems	PX-7	Instruments -> DRUM	656 prc:Snap etc 20	
+E-MU Systems	PX-7	Instruments -> DRUM	657 prc:Snap etc 21	
+E-MU Systems	PX-7	Instruments -> DRUM	658 prc:Snap etc 22	
+E-MU Systems	PX-7	Instruments -> DRUM	659 prc:Snap etc 23	
+E-MU Systems	PX-7	Instruments -> DRUM	660 prc:Snap etc 24	
+E-MU Systems	PX-7	Instruments -> DRUM	661 prc:Snap etc 25	
+E-MU Systems	PX-7	Instruments -> DRUM	662 prc:Snap etc 26	
+E-MU Systems	PX-7	Instruments -> DRUM	663 prc:Snap etc 27	
+E-MU Systems	PX-7	Instruments -> DRUM	664 prc:Snap etc 28	
+E-MU Systems	PX-7	Instruments -> DRUM	665 prc:Snap etc 29	
+E-MU Systems	PX-7	Instruments -> DRUM	666 prc:Snap etc 30	
+E-MU Systems	PX-7	Instruments -> DRUM	667 prc:Snap etc 31	
+E-MU Systems	PX-7	Instruments -> DRUM	668 prc:Snap etc 32	
+E-MU Systems	PX-7	Instruments -> DRUM	669 prc:Snap etc 33	
+E-MU Systems	PX-7	Instruments -> DRUM	670 prc:Scratch 1	
+E-MU Systems	PX-7	Instruments -> DRUM	671 prc:Scratch 2	
+E-MU Systems	PX-7	Instruments -> DRUM	672 prc:Scratch 3	
+E-MU Systems	PX-7	Instruments -> DRUM	673 prc:Scratch 4	
+E-MU Systems	PX-7	Instruments -> DRUM	674 prc:Scratch 5	
+E-MU Systems	PX-7	Instruments -> DRUM	675 prc:Scratch 6	
+E-MU Systems	PX-7	Instruments -> DRUM	676 prc:Scratch 7	
+E-MU Systems	PX-7	Instruments -> DRUM	677 prc:Scratch 8	
+E-MU Systems	PX-7	Instruments -> DRUM	678 prc:Scratch 9	
+E-MU Systems	PX-7	Instruments -> DRUM	679 prc:Scratch 10	
+E-MU Systems	PX-7	Instruments -> DRUM	680 prc:Misc 1	
+E-MU Systems	PX-7	Instruments -> DRUM	681 prc:Misc 2	
+E-MU Systems	PX-7	Instruments -> DRUM	682 prc:Misc 3	
+E-MU Systems	PX-7	Instruments -> DRUM	683 prc:Misc 4	
+E-MU Systems	PX-7	Instruments -> DRUM	684 prc:Misc 5	
+E-MU Systems	PX-7	Instruments -> DRUM	685 prc:Misc 6	
+E-MU Systems	PX-7	Instruments -> DRUM	686 prc:Misc 7	
+E-MU Systems	PX-7	Instruments -> DRUM	687 prc:Misc 8	
+E-MU Systems	PX-7	Instruments -> DRUM	688 prc:Misc 9	
+E-MU Systems	PX-7	Instruments -> DRUM	689 prc:Misc 10	
+E-MU Systems	PX-7	Instruments -> DRUM	690 prc:Misc 11	
+E-MU Systems	PX-7	Instruments -> DRUM	691 prc:Misc 12	
+E-MU Systems	PX-7	Instruments -> DRUM	692 prc:Misc 13	
+E-MU Systems	PX-7	Instruments -> DRUM	693 prc:Misc 14	
+E-MU Systems	PX-7	Instruments -> DRUM	694 prc:Misc 15	
+E-MU Systems	PX-7	Instruments -> DRUM	695 prc:Misc 16	
+E-MU Systems	PX-7	Instruments -> DRUM	696 prc:Misc 17	
+E-MU Systems	PX-7	Instruments -> DRUM	697 prc:Misc 18	
+E-MU Systems	PX-7	Instruments -> DRUM	698 prc:Misc 19	
+E-MU Systems	PX-7	Instruments -> DRUM	699 prc:Misc 20	
+E-MU Systems	PX-7	Instruments -> DRUM	700 prc:Misc 21	
+E-MU Systems	PX-7	Instruments -> DRUM	701 prc:Misc 22	
+E-MU Systems	PX-7	Instruments -> DRUM	702 prc:Misc 23	
+E-MU Systems	PX-7	Instruments -> DRUM	703 prc:Misc 24	
+E-MU Systems	PX-7	Instruments -> DRUM	704 prc:Misc 25	
+E-MU Systems	PX-7	Instruments -> DRUM	705 prc:Misc 26	
+E-MU Systems	PX-7	Instruments -> DRUM	706 prc:Misc 27	
+E-MU Systems	PX-7	Instruments -> DRUM	707 prc:Misc 28	
+E-MU Systems	PX-7	Instruments -> DRUM	708 plr:Kits2 NoPans	
+E-MU Systems	PX-7	Instruments -> DRUM	709 gen:GM PercNoPan	
+E-MU Systems	PX-7	Instruments -> DRUM	710 gen:Alt GM NoPan	
+E-MU Systems	PX-7	Instruments -> DRUM	711 kit:BnBNoGMNoPan	
+E-MU Systems	PX-7	Instruments -> DRUM	712 kit:Studio NoPan	
+E-MU Systems	PX-7	Instruments -> DRUM	713 kit:Funky No Pan	
+E-MU Systems	PX-7	Instruments -> DRUM	714 kit:StadiumNoPan	
+E-MU Systems	PX-7	Instruments -> DRUM	715 kit:Jazz No Pan	
+E-MU Systems	PX-7	Instruments -> DRUM	716 kit:BnB No GM v2	
+E-MU Systems	PX-7	Instruments -> DRUM	717 kit:StudioNoGMv2	
+E-MU Systems	PX-7	Instruments -> DRUM	718 kit:Funky NoGMv2	
+E-MU Systems	PX-7	Instruments -> DRUM	719 kit:StadiumNoGM2	
+E-MU Systems	PX-7	Instruments -> DRUM	720 hat:BnB v2	
+E-MU Systems	PX-7	Instruments -> DRUM	721 hat:Studio v2	
+E-MU Systems	PX-7	Instruments -> DRUM	722 hat:Funky R&B v2	
+E-MU Systems	PX-7	Instruments -> DRUM	723 hat:Stadium v2	
+E-MU Systems	PX-7	Instruments -> DRUM	724 kit:BrushNoGM v2	
+E-MU Systems	PX-7	Instruments -> DRUM	725 kit:BnB No GM v3	
+E-MU Systems	PX-7	Instruments -> DRUM	726 kit:StudioNoGMv3	
+E-MU Systems	PX-7	Instruments -> DRUM	727 kit:FunkyNoGM v3	
+E-MU Systems	PX-7	Instruments -> DRUM	728 kit:Stadium v3	
+E-MU Systems	PX-7	Instruments -> DRUM	729 kit:BrushNoGM v3	
+E-MU Systems	PX-7	Instruments -> DRUM	730 kit:BrushNoGMv3b	
+E-MU Systems	PX-7	Instruments -> DRUM	731 hat:BnB v3	
+E-MU Systems	PX-7	Instruments -> DRUM	732 hat:Studio v3	
+E-MU Systems	PX-7	Instruments -> DRUM	733 hat:Studio 2 v2	
+E-MU Systems	PX-7	Instruments -> DRUM	734 hat:Funky R&B v3	
+E-MU Systems	PX-7	Instruments -> DRUM	735 hat:Stadium v3	
+E-MU Systems	PX-7	Instruments -> DRUM	736 kit:BrushNoGM v4	
+E-MU Systems	PX-7	Instruments -> DRUM	737 prc:Misc 29	
+E-MU Systems	PX-7	Instruments -> DRUM	738 prc:Hand Drums	
+E-MU Systems	PX-7	Instruments -> DRUM	739 prc:Carnaval 1	
+E-MU Systems	PX-7	Instruments -> DRUM	740 prc:Carnaval 2	
+E-MU Systems	PX-7	Instruments -> DRUM	741 prc:Carnaval 3	
+E-MU Systems	PX-7	Instruments -> DRUM	742 prc:Cymthing	
+E-MU Systems	PX-7	Instruments -> DRUM	743 prc:janisean	
+E-MU Systems	PX-7	Instruments -> DRUM	744 prc:Satellites	
+E-MU Systems	PX-7	Instruments -> DRUM	745 kit:Power EM	
+E-MU Systems	PX-7	Instruments -> DRUM	746 kit:Power NoHat	
+E-MU Systems	PX-7	Instruments -> DRUM	747 hat:Power Hats	
+E-MU Systems	PX-7	Instruments -> DRUM	748 kit:Tribal 1 EM	
+E-MU Systems	PX-7	Instruments -> DRUM	749 kit:Tribal NoHat	
+E-MU Systems	PX-7	Instruments -> DRUM	750 hat:Tribal Hats	
+E-MU Systems	PX-7	Instruments -> DRUM	751 kit:DeepFun EM	
+E-MU Systems	PX-7	Instruments -> DRUM	752 kit:DeepFunNoHat	
+E-MU Systems	PX-7	Instruments -> DRUM	753 hat:DeepFun Hats	
+E-MU Systems	PX-7	Instruments -> DRUM	754 kit:Quazz EM	
+E-MU Systems	PX-7	Instruments -> DRUM	755 kit:Quazz NoHats	
+E-MU Systems	PX-7	Instruments -> DRUM	756 hat:Quazz Hats	
+E-MU Systems	PX-7	Instruments -> DRUM	757 hat:Bonus	
+E-MU Systems	PX-7	Instruments -> DRUM	758 bas:Acoustic v2	
+E-MU Systems	PX-7	Instruments -> DRUM	759 arp:D Arp 1	
+E-MU Systems	PX-7	Instruments -> DRUM	760 arp:D Arp 2	
+E-MU Systems	PX-7	Instruments -> DRUM	761 arp:D Arp 3	
+E-MU Systems	PX-7	Instruments -> DRUM	762 arp:D Arp 4	
+E-MU Systems	PX-7	Instruments -> DRUM	763 arp:D Arp 5	
+E-MU Systems	PX-7	Instruments -> DRUM	764 arp:D Arp 6	
+E-MU Systems	PX-7	Instruments -> DRUM	765 arp:D Arp 7	
+E-MU Systems	PX-7	Instruments -> DRUM	766 arp:D Arp 8	
+E-MU Systems	PX-7	Instruments -> DRUM	767 arp:D Arp 9	
+E-MU Systems	PX-7	Instruments -> DRUM	768 arp:D Arp 10	
+E-MU Systems	PX-7	Instruments -> DRUM	769 arp:D Arp 11	
+E-MU Systems	PX-7	Instruments -> DRUM	770 arp:D Arp 12	
+E-MU Systems	PX-7	Instruments -> DRUM	771 arp:D Arp 13	
+E-MU Systems	PX-7	Instruments -> DRUM	772 arp:D Arp 14	
+E-MU Systems	PX-7	Instruments -> DRUM	773 arp:D Arp 15	
+E-MU Systems	PX-7	Instruments -> DRUM	774 arp:D Arp 16	
+E-MU Systems	PX-7	Instruments -> DRUM	775 arp:D Arp 17	
+E-MU Systems	PX-7	Instruments -> DRUM	776 arp:D Arp 18	
+E-MU Systems	PX-7	Instruments -> DRUM	777 arp:D Arp 19	
+E-MU Systems	PX-7	Instruments -> DRUM	778 arp:D Arp 20	
+E-MU Systems	PX-7	Instruments -> DRUM	779 rom:Play Through	
+E-MU Systems	PX-7	Instruments -> DRUM	780 kit:B&B Clap D#1	
+E-MU Systems	PX-7	Instruments -> DRUM	781 kit:Studio Clap	
+E-MU Systems	PX-7	Instruments -> DRUM	782 kit:Funky Clap	
+E-MU Systems	PX-7	Instruments -> DRUM	783 kit:Stadium Clap	
+E-MU Systems	PX-7	Instruments -> DRUM	784 kit:Brush Clap	
+E-MU Systems	PX-7	Instruments -> DRUM	785 hat:BnB HOT	
+E-MU Systems	PX-7	Instruments -> DRUM	786 hat:Studio HOT	
+E-MU Systems	PX-7	Instruments -> DRUM	787 hat:Funky HOT	
+E-MU Systems	PX-7	Instruments -> DRUM	788 hat:Stadium HOT	
+E-MU Systems	PX-7	Instruments -> DRUM	789 kit:BnB Layer 1	
+E-MU Systems	PX-7	Instruments -> DRUM	790 kit:BnB Layer 2	
+E-MU Systems	PX-7	Instruments -> DRUM	791 kit:BnB Layer 3	
+E-MU Systems	PX-7	Instruments -> DRUM	792 kit:BnB Layer 4	
+E-MU Systems	PX-7	Instruments -> DRUM	793 kit:StudioLayer1	
+E-MU Systems	PX-7	Instruments -> DRUM	794 kit:StudioLayer2	
+E-MU Systems	PX-7	Instruments -> DRUM	795 kit:StudioLayer3	
+E-MU Systems	PX-7	Instruments -> DRUM	796 kit:StudioLayer4	
+E-MU Systems	PX-7	Instruments -> DRUM	797 kit:Funky Layer1	
+E-MU Systems	PX-7	Instruments -> DRUM	798 kit:Funky Layer2	
+E-MU Systems	PX-7	Instruments -> DRUM	799 kit:Funky Layer3	
+E-MU Systems	PX-7	Instruments -> DRUM	800 kit:Funky Layer4	
+E-MU Systems	PX-7	Instruments -> DRUM	801 kit:Stadium Lyr1	
+E-MU Systems	PX-7	Instruments -> DRUM	802 kit:Stadium Lyr2	
+E-MU Systems	PX-7	Instruments -> DRUM	803 kit:Stadium Lyr3	
+E-MU Systems	PX-7	Instruments -> DRUM	804 kit:Brush Layer1	
+E-MU Systems	PX-7	Instruments -> DRUM	805 kit:Brush Layer2	
+E-MU Systems	PX-7	Instruments -> DRUM	806 kit:Brush Layer3	
