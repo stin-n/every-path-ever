@@ -5942,6 +5942,30 @@
             ],
             "todo": "add timestamps"
         },
+        "prosamples_12_phat_phunky_play": {
+            "company": "EastWest",
+            "product_names": [
+                "Phat + Phunky 25th Anniversary Collection"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "PLAY"
+            ],
+            "version_names": [
+                "25th Anniversary Collection"
+            ],
+            "tsv_path": "/EASTWEST/PROSAMPLES/12_PHAT_PHUNKY/PLAY.tsv",
+            "release_dates": [
+                "2014"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
         "quantumleap_brass_akai": {
             "company": "EastWest",
             "product_names": [
