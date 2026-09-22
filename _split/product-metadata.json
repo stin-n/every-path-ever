@@ -5582,6 +5582,102 @@
             ],
             "todo": ""
         },
+        "hollywood_brass": {
+            "company": "EastWest",
+            "product_names": [
+                "Hollywood Brass"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "PLAY"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/EASTWEST/HOLLYWOOD_BRASS.tsv",
+            "release_dates": [
+                "July 18, 2011"
+            ],
+            "notes": "",
+            "contributors": [
+                "HahaLand"
+            ],
+            "todo": ""
+        },
+        "hollywood_orch_percussion": {
+            "company": "EastWest",
+            "product_names": [
+                "Hollywood Orchestral Percussion"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "PLAY"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/EASTWEST/HOLLYWOOD_ORCH_PERCUSSION.tsv",
+            "release_dates": [
+                "October 1, 2014"
+            ],
+            "notes": "",
+            "contributors": [
+                "HahaLand"
+            ],
+            "todo": ""
+        },
+        "hollywood_orch_woodwinds": {
+            "company": "EastWest",
+            "product_names": [
+                "Hollywood Orchestral Woodwinds"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "PLAY"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/EASTWEST/HOLLYWOOD_ORCH_WOODWINDS.tsv",
+            "release_dates": [
+                "July 23, 2012"
+            ],
+            "notes": "",
+            "contributors": [
+                "HahaLand"
+            ],
+            "todo": ""
+        },
+        "hollywood_strings": {
+            "company": "EastWest",
+            "product_names": [
+                "Hollywood Strings"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "PLAY"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/EASTWEST/HOLLYWOOD_STRINGS_WIP.tsv",
+            "release_dates": [
+                "2010"
+            ],
+            "notes": "",
+            "contributors": [
+                "HahaLand"
+            ],
+            "todo": "finish filling out"
+        },
         "ministry_of_rock": {
             "company": "EastWest",
             "product_names": [
