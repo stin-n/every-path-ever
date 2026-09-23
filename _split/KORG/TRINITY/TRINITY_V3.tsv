@@ -255,6 +255,261 @@ KORG	TRINITY V3	Combinations -> Bank B	B125 Real Harp Gliss
 KORG	TRINITY V3	Combinations -> Bank B	B126 BriteModernHarp	
 KORG	TRINITY V3	Combinations -> Bank B	B127 Bonny Loch	
 KORG	TRINITY V3	Programs -> Bank A	A127 TekStep Kit	
+KORG	TRINITY V3	Programs -> Bank A	A000 Tsunami Warning	
+KORG	TRINITY V3	Programs -> Bank A	A001 Acoustic Piano	
+KORG	TRINITY V3	Programs -> Bank A	A002 Alto Sax	
+KORG	TRINITY V3	Programs -> Bank A	A003 Take Voices	
+KORG	TRINITY V3	Programs -> Bank A	A004 Finger Pickin'	
+KORG	TRINITY V3	Programs -> Bank A	A005 VS Bell Boy	
+KORG	TRINITY V3	Programs -> Bank A	A006 Fretless Bass	
+KORG	TRINITY V3	Programs -> Bank A	A007 Stereo Strings	
+KORG	TRINITY V3	Programs -> Bank A	A008 Standard Kit	
+KORG	TRINITY V3	Programs -> Bank A	A009 Ultra Res. Sweep	
+KORG	TRINITY V3	Programs -> Bank A	A010 Velocity Organ	
+KORG	TRINITY V3	Programs -> Bank A	A011 *Tingly* E.Piano	
+KORG	TRINITY V3	Programs -> Bank A	A012 Stereo Brass	
+KORG	TRINITY V3	Programs -> Bank A	A013 Natural Kalimba	
+KORG	TRINITY V3	Programs -> Bank A	A014 RibbonYoHeadOff!	
+KORG	TRINITY V3	Programs -> Bank A	A015 Indian Duet	
+KORG	TRINITY V3	Programs -> Bank A	A016 Planet Of Funk	
+KORG	TRINITY V3	Programs -> Bank A	A017 Dyno-E.Piano	
+KORG	TRINITY V3	Programs -> Bank A	A018 SweetSilverFlute	
+KORG	TRINITY V3	Programs -> Bank A	A019 Breath of Life	
+KORG	TRINITY V3	Programs -> Bank A	A020 Studio Strato	
+KORG	TRINITY V3	Programs -> Bank A	A021 Tubular Vibes	
+KORG	TRINITY V3	Programs -> Bank A	A022 Vinyl Rap Bass	
+KORG	TRINITY V3	Programs -> Bank A	A023 Solo String(SW1)	
+KORG	TRINITY V3	Programs -> Bank A	A024 Lethal Drum Hit	
+KORG	TRINITY V3	Programs -> Bank A	A025 That Heaven Vibe	
+KORG	TRINITY V3	Programs -> Bank A	A026 Rotary Organ	
+KORG	TRINITY V3	Programs -> Bank A	A027 Dreamy E.Piano	
+KORG	TRINITY V3	Programs -> Bank A	A028 Hard Trombone	
+KORG	TRINITY V3	Programs -> Bank A	A029 Mondo'Rimba	
+KORG	TRINITY V3	Programs -> Bank A	A030 Spectrum Lead	
+KORG	TRINITY V3	Programs -> Bank A	A031 Adieu Rainforest	
+KORG	TRINITY V3	Programs -> Bank A	A032 Frozen Crystals	
+KORG	TRINITY V3	Programs -> Bank A	A033 [| 90's Piano |]	
+KORG	TRINITY V3	Programs -> Bank A	A034 Clarinet	
+KORG	TRINITY V3	Programs -> Bank A	A035 Light Choir	
+KORG	TRINITY V3	Programs -> Bank A	A036 Nylon Guitar	
+KORG	TRINITY V3	Programs -> Bank A	A037 Sun Bells	
+KORG	TRINITY V3	Programs -> Bank A	A038 Acoustic Bass	
+KORG	TRINITY V3	Programs -> Bank A	A039 The Symphony	
+KORG	TRINITY V3	Programs -> Bank A	A040 !{Mega-Mix}! Kit	
+KORG	TRINITY V3	Programs -> Bank A	A041 TECHNOphobic	
+KORG	TRINITY V3	Programs -> Bank A	A042 Pipe Tutti	
+KORG	TRINITY V3	Programs -> Bank A	A043 Night Tine EP	
+KORG	TRINITY V3	Programs -> Bank A	A044 Soft Trumpet	
+KORG	TRINITY V3	Programs -> Bank A	A045 Vibraphone	
+KORG	TRINITY V3	Programs -> Bank A	A046 Electric Lead	
+KORG	TRINITY V3	Programs -> Bank A	A047 Mandolin	
+KORG	TRINITY V3	Programs -> Bank A	A048 Moon Walking	
+KORG	TRINITY V3	Programs -> Bank A	A049 Electric Grand	
+KORG	TRINITY V3	Programs -> Bank A	A050 Oboe	
+KORG	TRINITY V3	Programs -> Bank A	A051 Harp Heaven	
+KORG	TRINITY V3	Programs -> Bank A	A052 Lead Guitar/JS-Y	
+KORG	TRINITY V3	Programs -> Bank A	A053 *Bell * Arena*	
+KORG	TRINITY V3	Programs -> Bank A	A054 FM Bass	
+KORG	TRINITY V3	Programs -> Bank A	A055 Solo Violin	
+KORG	TRINITY V3	Programs -> Bank A	A056 Asian Gong	
+KORG	TRINITY V3	Programs -> Bank A	A057 Synth Orchestra	
+KORG	TRINITY V3	Programs -> Bank A	A058 Jazz-Organ 2	
+KORG	TRINITY V3	Programs -> Bank A	A059 Future Synth	
+KORG	TRINITY V3	Programs -> Bank A	A060 Trombone Ens.	
+KORG	TRINITY V3	Programs -> Bank A	A061 Steel Drum	
+KORG	TRINITY V3	Programs -> Bank A	A062 SnoopDoggy Bass	
+KORG	TRINITY V3	Programs -> Bank A	A063 Harp	
+KORG	TRINITY V3	Programs -> Bank A	A064 Dragon's Lair	
+KORG	TRINITY V3	Programs -> Bank A	A065 Clav Control	
+KORG	TRINITY V3	Programs -> Bank A	A066 Soprano Sax	
+KORG	TRINITY V3	Programs -> Bank A	A067 Analog Strings	
+KORG	TRINITY V3	Programs -> Bank A	A068 Power Chord Plus	
+KORG	TRINITY V3	Programs -> Bank A	A069 Ancient Bells	
+KORG	TRINITY V3	Programs -> Bank A	A070 Mono Slap Bass	
+KORG	TRINITY V3	Programs -> Bank A	A071 Modern Strings	
+KORG	TRINITY V3	Programs -> Bank A	A072 Percussion Kit	
+KORG	TRINITY V3	Programs -> Bank A	A073 Synclav Pad	
+KORG	TRINITY V3	Programs -> Bank A	A074 Garage Organ	
+KORG	TRINITY V3	Programs -> Bank A	A075 Akkordeon/SW 1&2	
+KORG	TRINITY V3	Programs -> Bank A	A076 French Horn Ens.	
+KORG	TRINITY V3	Programs -> Bank A	A077 Music Box / SW1	
+KORG	TRINITY V3	Programs -> Bank A	A078 30303 Square	
+KORG	TRINITY V3	Programs -> Bank A	A079 Koto	
+KORG	TRINITY V3	Programs -> Bank A	A080 Hard-Air Hit	
+KORG	TRINITY V3	Programs -> Bank A	A081 20,000 Fathoms	
+KORG	TRINITY V3	Programs -> Bank A	A082 Recorder	
+KORG	TRINITY V3	Programs -> Bank A	A083 Xylospectrum	
+KORG	TRINITY V3	Programs -> Bank A	A084 Tell A Caster	
+KORG	TRINITY V3	Programs -> Bank A	A085 Bell Angels	
+KORG	TRINITY V3	Programs -> Bank A	A086 30303 Mega Bass	
+KORG	TRINITY V3	Programs -> Bank A	A087 Pizzicato Ens.	
+KORG	TRINITY V3	Programs -> Bank A	A088 Jazz/Brush Kits	
+KORG	TRINITY V3	Programs -> Bank A	A089 Analog Power	
+KORG	TRINITY V3	Programs -> Bank A	A090 Super BX-3	
+KORG	TRINITY V3	Programs -> Bank A	A091 Musette / SW 1&2	
+KORG	TRINITY V3	Programs -> Bank A	A092 Mute Trumpet	
+KORG	TRINITY V3	Programs -> Bank A	A093 African Log Drum	
+KORG	TRINITY V3	Programs -> Bank A	A094 Mr. Nightmare	
+KORG	TRINITY V3	Programs -> Bank A	A095 Nylon Harmonics	
+KORG	TRINITY V3	Programs -> Bank A	A096 Shape Shifter	
+KORG	TRINITY V3	Programs -> Bank A	A097 Breathy Layers	
+KORG	TRINITY V3	Programs -> Bank A	A098 Pan Flute	
+KORG	TRINITY V3	Programs -> Bank A	A099 Doo the Vibe Pad	
+KORG	TRINITY V3	Programs -> Bank A	A100 12 String Guitar	
+KORG	TRINITY V3	Programs -> Bank A	A101 Finger Cymbal	
+KORG	TRINITY V3	Programs -> Bank A	A102 Finger Bass	
+KORG	TRINITY V3	Programs -> Bank A	A103 Marcato Strings	
+KORG	TRINITY V3	Programs -> Bank A	A104 BassDrums&Snares	
+KORG	TRINITY V3	Programs -> Bank A	A105 Rezpad	
+KORG	TRINITY V3	Programs -> Bank A	A106 Gospel Organ	
+KORG	TRINITY V3	Programs -> Bank A	A107 Brass Pad	
+KORG	TRINITY V3	Programs -> Bank A	A108 Tuba	
+KORG	TRINITY V3	Programs -> Bank A	A109 Staccato Hit!	
+KORG	TRINITY V3	Programs -> Bank A	A110 Orbiting Probes	
+KORG	TRINITY V3	Programs -> Bank A	A111 Chorus E.Guitar	
+KORG	TRINITY V3	Programs -> Bank A	A112 Insectisuicides	
+KORG	TRINITY V3	Programs -> Bank A	A113 Custom Roads	
+KORG	TRINITY V3	Programs -> Bank A	A114 The Sax Band	
+KORG	TRINITY V3	Programs -> Bank A	A115 Martian Winds	
+KORG	TRINITY V3	Programs -> Bank A	A116 Metal Maniac	
+KORG	TRINITY V3	Programs -> Bank A	A117 Breathy Bells	
+KORG	TRINITY V3	Programs -> Bank A	A118 Monster Bass	
+KORG	TRINITY V3	Programs -> Bank A	A119 Solo Cello	
+KORG	TRINITY V3	Programs -> Bank A	A120 01/W Total Kit	
+KORG	TRINITY V3	Programs -> Bank A	A121 Flutepad	
+KORG	TRINITY V3	Programs -> Bank A	A122 Pipe Positive	
+KORG	TRINITY V3	Programs -> Bank A	A123 Shakuhachi	
+KORG	TRINITY V3	Programs -> Bank A	A124 Velo Orchestra	
+KORG	TRINITY V3	Programs -> Bank A	A125 Pop Bottle	
+KORG	TRINITY V3	Programs -> Bank A	A126 The UFO Appears	
+KORG	TRINITY V3	Programs -> Bank B	B000 Sky Diver...	
+KORG	TRINITY V3	Programs -> Bank B	B001 Compressed Piano	
+KORG	TRINITY V3	Programs -> Bank B	B002 Growling Tenor	
+KORG	TRINITY V3	Programs -> Bank B	B003 Mixed Choir	
+KORG	TRINITY V3	Programs -> Bank B	B004 Steel String Gtr	
+KORG	TRINITY V3	Programs -> Bank B	B005 Ensemble Bell	
+KORG	TRINITY V3	Programs -> Bank B	B006 Jacobass	
+KORG	TRINITY V3	Programs -> Bank B	B007 World Strings	
+KORG	TRINITY V3	Programs -> Bank B	B008 Processed Kit	
+KORG	TRINITY V3	Programs -> Bank B	B009 Mine Sweep	
+KORG	TRINITY V3	Programs -> Bank B	B010 Killer Organ	
+KORG	TRINITY V3	Programs -> Bank B	B011 Phantom Tines	
+KORG	TRINITY V3	Programs -> Bank B	B012 Grando Bando	
+KORG	TRINITY V3	Programs -> Bank B	B013 Xylophone	
+KORG	TRINITY V3	Programs -> Bank B	B014 Monster Lead	
+KORG	TRINITY V3	Programs -> Bank B	B015 Sitar	
+KORG	TRINITY V3	Programs -> Bank B	B016 Hands of Time	
+KORG	TRINITY V3	Programs -> Bank B	B017 Pro-Stage E.P.	
+KORG	TRINITY V3	Programs -> Bank B	B018 Piccolo	
+KORG	TRINITY V3	Programs -> Bank B	B019 BreathyLayerPad	
+KORG	TRINITY V3	Programs -> Bank B	B020 Dynastrat	
+KORG	TRINITY V3	Programs -> Bank B	B021 Tubular Bell	
+KORG	TRINITY V3	Programs -> Bank B	B022 Dark SynBass	
+KORG	TRINITY V3	Programs -> Bank B	B023 Ensemble & Solo	
+KORG	TRINITY V3	Programs -> Bank B	B024 Cyber-Impact/SW1	
+KORG	TRINITY V3	Programs -> Bank B	B025 Solar Ghosts	
+KORG	TRINITY V3	Programs -> Bank B	B026 Perc Rock Organ	
+KORG	TRINITY V3	Programs -> Bank B	B027 *Belliano*	
+KORG	TRINITY V3	Programs -> Bank B	B028 Soft Trombone	
+KORG	TRINITY V3	Programs -> Bank B	B029 Marimba	
+KORG	TRINITY V3	Programs -> Bank B	B030 Syn Pipes	
+KORG	TRINITY V3	Programs -> Bank B	B031 Mandolin Trem	
+KORG	TRINITY V3	Programs -> Bank B	B032 Aurora Borealis	
+KORG	TRINITY V3	Programs -> Bank B	B033 Super Grand	
+KORG	TRINITY V3	Programs -> Bank B	B034 Bass Clarinet	
+KORG	TRINITY V3	Programs -> Bank B	B035 Boys Choir	
+KORG	TRINITY V3	Programs -> Bank B	B036 Dad's JazzGuitar	
+KORG	TRINITY V3	Programs -> Bank B	B037 Pluck Bell	
+KORG	TRINITY V3	Programs -> Bank B	B038 Jazz Bass (SW1)	
+KORG	TRINITY V3	Programs -> Bank B	B039 {Slow Strings}	
+KORG	TRINITY V3	Programs -> Bank B	B040 Psycho Kit	
+KORG	TRINITY V3	Programs -> Bank B	B041 Hit The Beast	
+KORG	TRINITY V3	Programs -> Bank B	B042 Pipe Mixture	
+KORG	TRINITY V3	Programs -> Bank B	B043 MIDI Ensemble	
+KORG	TRINITY V3	Programs -> Bank B	B044 Medium Trumpet	
+KORG	TRINITY V3	Programs -> Bank B	B045 Ribbon Rhythm	
+KORG	TRINITY V3	Programs -> Bank B	B046 Espresso Lead	
+KORG	TRINITY V3	Programs -> Bank B	B047 Hackbrett	
+KORG	TRINITY V3	Programs -> Bank B	B048 Random Dancer	
+KORG	TRINITY V3	Programs -> Bank B	B049 Super Whirly	
+KORG	TRINITY V3	Programs -> Bank B	B050 Bassoon	
+KORG	TRINITY V3	Programs -> Bank B	B051 Super Pad	
+KORG	TRINITY V3	Programs -> Bank B	B052 Stadium Guitar	
+KORG	TRINITY V3	Programs -> Bank B	B053 Solar Motion	
+KORG	TRINITY V3	Programs -> Bank B	B054 Euro 8va Bass	
+KORG	TRINITY V3	Programs -> Bank B	B055 Solo Viola	
+KORG	TRINITY V3	Programs -> Bank B	B056 Timpani	
+KORG	TRINITY V3	Programs -> Bank B	B057 Analog Pad	
+KORG	TRINITY V3	Programs -> Bank B	B058 Jazz-Organ 1	
+KORG	TRINITY V3	Programs -> Bank B	B059 Brite FM Roads	
+KORG	TRINITY V3	Programs -> Bank B	B060 Modern Brass	
+KORG	TRINITY V3	Programs -> Bank B	B061 Balaphone	
+KORG	TRINITY V3	Programs -> Bank B	B062 Square Wave Lead	
+KORG	TRINITY V3	Programs -> Bank B	B063 Bouzouki	
+KORG	TRINITY V3	Programs -> Bank B	B064 Vocal Motion	
+KORG	TRINITY V3	Programs -> Bank B	B065 =Snappy= Clavi	
+KORG	TRINITY V3	Programs -> Bank B	B066 Baritone Sax	
+KORG	TRINITY V3	Programs -> Bank B	B067 Symphonic Pad	
+KORG	TRINITY V3	Programs -> Bank B	B068 Parker Piezo	
+KORG	TRINITY V3	Programs -> Bank B	B069 13 Bells Of Bali	
+KORG	TRINITY V3	Programs -> Bank B	B070 Picked Bass	
+KORG	TRINITY V3	Programs -> Bank B	B071 ClassicalStrings	
+KORG	TRINITY V3	Programs -> Bank B	B072 Orch/Ethnic Kits	
+KORG	TRINITY V3	Programs -> Bank B	B073 Hybrid keys	
+KORG	TRINITY V3	Programs -> Bank B	B074 Big Old JazzOrg	
+KORG	TRINITY V3	Programs -> Bank B	B075 Tango / SW 1&2	
+KORG	TRINITY V3	Programs -> Bank B	B076 Flugelhorn	
+KORG	TRINITY V3	Programs -> Bank B	B077 Glockenspiel	
+KORG	TRINITY V3	Programs -> Bank B	B078 Phat Synth Bass	
+KORG	TRINITY V3	Programs -> Bank B	B079 Shamisen	
+KORG	TRINITY V3	Programs -> Bank B	B080 The Mind	
+KORG	TRINITY V3	Programs -> Bank B	B081 Harpsichord	
+KORG	TRINITY V3	Programs -> Bank B	B082 Tin Flute	
+KORG	TRINITY V3	Programs -> Bank B	B083 Air Thing	
+KORG	TRINITY V3	Programs -> Bank B	B084 ExpressmanShadow	
+KORG	TRINITY V3	Programs -> Bank B	B085 FM Bells	
+KORG	TRINITY V3	Programs -> Bank B	B086 30303 Rez Bass	
+KORG	TRINITY V3	Programs -> Bank B	B087 Solo Pizzicato	
+KORG	TRINITY V3	Programs -> Bank B	B088 Analog/Club Kits	
+KORG	TRINITY V3	Programs -> Bank B	B089 Synpiano	
+KORG	TRINITY V3	Programs -> Bank B	B090 Dark Old BX-3	
+KORG	TRINITY V3	Programs -> Bank B	B091 Jangle heart	
+KORG	TRINITY V3	Programs -> Bank B	B092 Mute Trombone	
+KORG	TRINITY V3	Programs -> Bank B	B093 Wooden Slit Drum	
+KORG	TRINITY V3	Programs -> Bank B	B094 Pipe Reeds	
+KORG	TRINITY V3	Programs -> Bank B	B095 Banjo Andro	
+KORG	TRINITY V3	Programs -> Bank B	B096 ({ Scanners })	
+KORG	TRINITY V3	Programs -> Bank B	B097 Power Piano	
+KORG	TRINITY V3	Programs -> Bank B	B098 Bottle	
+KORG	TRINITY V3	Programs -> Bank B	B099 City of Angels	
+KORG	TRINITY V3	Programs -> Bank B	B100 Funkin' Guitar	
+KORG	TRINITY V3	Programs -> Bank B	B101 Finger Gamelon	
+KORG	TRINITY V3	Programs -> Bank B	B102 Electric Bass	
+KORG	TRINITY V3	Programs -> Bank B	B103 Ribbon Strings	
+KORG	TRINITY V3	Programs -> Bank B	B104 Toms & Cymbals	
+KORG	TRINITY V3	Programs -> Bank B	B105 Aftermath	
+KORG	TRINITY V3	Programs -> Bank B	B106 Full Organ	
+KORG	TRINITY V3	Programs -> Bank B	B107 Pedal Steel	
+KORG	TRINITY V3	Programs -> Bank B	B108 Hard Trumpet	
+KORG	TRINITY V3	Programs -> Bank B	B109 Space Hatch	
+KORG	TRINITY V3	Programs -> Bank B	B110 StadiumSW1=Shore	
+KORG	TRINITY V3	Programs -> Bank B	B111 Funky Strato	
+KORG	TRINITY V3	Programs -> Bank B	B112 Out of the myst.	
+KORG	TRINITY V3	Programs -> Bank B	B113 Birds & Bugs	
+KORG	TRINITY V3	Programs -> Bank B	B114 Harmonica	
+KORG	TRINITY V3	Programs -> Bank B	B115 Decaying Organ	
+KORG	TRINITY V3	Programs -> Bank B	B116 TalkBox Gtr/JS-Y	
+KORG	TRINITY V3	Programs -> Bank B	B117 Pot Covers	
+KORG	TRINITY V3	Programs -> Bank B	B118 Pull Me Please	
+KORG	TRINITY V3	Programs -> Bank B	B119 Contrabass&Cello	
+KORG	TRINITY V3	Programs -> Bank B	B120 Marc Tree	
+KORG	TRINITY V3	Programs -> Bank B	B121 Classic Squares	
+KORG	TRINITY V3	Programs -> Bank B	B122 Pipe Tuentiana	
+KORG	TRINITY V3	Programs -> Bank B	B123 Hover Craft	
+KORG	TRINITY V3	Programs -> Bank B	B124 Band Hit!	
+KORG	TRINITY V3	Programs -> Bank B	B125 Thunderstorm!!!!	
+KORG	TRINITY V3	Programs -> Bank B	B126 Bass go pop.	
+KORG	TRINITY V3	Programs -> Bank B	B127 Mute Guitar	
 KORG	TRINITY V3	Programs -> Bank M	M000 War Birds	
 KORG	TRINITY V3	Programs -> Bank M	M001 Palawan	
 KORG	TRINITY V3	Programs -> Bank M	M002 Whirly E.P.	
@@ -448,4 +703,649 @@ KORG	TRINITY V3	SOLO_TRI.PCG -> Programs -> Bank M	M061 Re-Bong Strings
 KORG	TRINITY V3	SOLO_TRI.PCG -> Programs -> Bank M	M062 Bass 4 Da Funk	
 KORG	TRINITY V3	SOLO_TRI.PCG -> Programs -> Bank M	M063 Morphing Noise	
 KORG	TRINITY V3	SOLO_TRI.PCG -> Programs -> Bank M	M064 Solo Trumpet!	
+KORG	TRINITY V3	Drum Kits	000 Standard Kit	
+KORG	TRINITY V3	Drum Kits	001 Processed Kit	
+KORG	TRINITY V3	Drum Kits	002 Jazz/Brush Kits	
+KORG	TRINITY V3	Drum Kits	003 Analog/Club Kits	
+KORG	TRINITY V3	Drum Kits	004 !{Mega-Mix}! Kit	
+KORG	TRINITY V3	Drum Kits	005 Psycho Kit	
+KORG	TRINITY V3	Drum Kits	006 BassDrums&Snares	
+KORG	TRINITY V3	Drum Kits	007 Toms & Cymbals	
+KORG	TRINITY V3	Drum Kits	008 Percussion	
+KORG	TRINITY V3	Drum Kits	009 Orchestra&Ethnic	
+KORG	TRINITY V3	Drum Kits	010 01/W Total Kit	
 KORG	TRINITY V3	Drum Kits	011 TekStep Kit	
+KORG	TRINITY V3	Multisamples	000 A.Piano	
+KORG	TRINITY V3	Multisamples	001 A.Piano-ff. Atk	
+KORG	TRINITY V3	Multisamples	002 E.Grand Piano	
+KORG	TRINITY V3	Multisamples	003 E.P.-FM 1	
+KORG	TRINITY V3	Multisamples	004 E.P.-FM 1 LP	
+KORG	TRINITY V3	Multisamples	005 E.P.-FM 2	
+KORG	TRINITY V3	Multisamples	006 E.P.-FM 3	
+KORG	TRINITY V3	Multisamples	007 E.P.-Dyno Soft	
+KORG	TRINITY V3	Multisamples	008 E.P.-Dyno Sft LP	
+KORG	TRINITY V3	Multisamples	009 E.P.-Dyno Medium	
+KORG	TRINITY V3	Multisamples	010 E.P.-Dyno Med LP	
+KORG	TRINITY V3	Multisamples	011 E.P.-Dyno Hard	
+KORG	TRINITY V3	Multisamples	012 E.P.-Stage Soft	
+KORG	TRINITY V3	Multisamples	013 E.P.-Sta Soft LP	
+KORG	TRINITY V3	Multisamples	014 E.P.-Stage Hard	
+KORG	TRINITY V3	Multisamples	015 E.P.-Sta Hard LP	
+KORG	TRINITY V3	Multisamples	016 E.P.-Wurly	
+KORG	TRINITY V3	Multisamples	017 E.P.-Wurly LP	
+KORG	TRINITY V3	Multisamples	018 E.P. Pad 1	
+KORG	TRINITY V3	Multisamples	019 E.P. Pad 1 LP	
+KORG	TRINITY V3	Multisamples	020 E.P. Pad 2	
+KORG	TRINITY V3	Multisamples	021 E.P. Pad 3	
+KORG	TRINITY V3	Multisamples	022 E.P. Pad 3 LP	
+KORG	TRINITY V3	Multisamples	023 Clavinet	
+KORG	TRINITY V3	Multisamples	024 Harpsichord-Sngl	
+KORG	TRINITY V3	Multisamples	025 Harpsichord-Dbl	
+KORG	TRINITY V3	Multisamples	026 Harpsi-Keyoff	
+KORG	TRINITY V3	Multisamples	027 E.Organ-Perc 1	
+KORG	TRINITY V3	Multisamples	028 E.Organ-Perc 2	
+KORG	TRINITY V3	Multisamples	029 E.Organ-Perc 3	
+KORG	TRINITY V3	Multisamples	030 E.Organ-2' Perc	
+KORG	TRINITY V3	Multisamples	031 E.Organ-Jazz 1	
+KORG	TRINITY V3	Multisamples	032 E.Organ-Jazz 2	
+KORG	TRINITY V3	Multisamples	033 E.Organ-Jazz 3	
+KORG	TRINITY V3	Multisamples	034 E.Organ-Vox	
+KORG	TRINITY V3	Multisamples	035 E.Organ-Soft	
+KORG	TRINITY V3	Multisamples	036 E.Organ-Medium	
+KORG	TRINITY V3	Multisamples	037 E.Organ-Full	
+KORG	TRINITY V3	Multisamples	038 E.Organ-Dist.	
+KORG	TRINITY V3	Multisamples	039 E.Organ-BX 3	
+KORG	TRINITY V3	Multisamples	040 Positive 1	
+KORG	TRINITY V3	Multisamples	041 Positive 2	
+KORG	TRINITY V3	Multisamples	042 Pipe-Mixture 1	
+KORG	TRINITY V3	Multisamples	043 Pipe-Mixture 2	
+KORG	TRINITY V3	Multisamples	044 Pipe-Reed	
+KORG	TRINITY V3	Multisamples	045 Pipe-Tuentiana	
+KORG	TRINITY V3	Multisamples	046 Pipe-Full	
+KORG	TRINITY V3	Multisamples	047 Kalimba	
+KORG	TRINITY V3	Multisamples	048 Kalimba-Mute	
+KORG	TRINITY V3	Multisamples	049 Music Box	
+KORG	TRINITY V3	Multisamples	050 Music Box LP	
+KORG	TRINITY V3	Multisamples	051 Marimba	
+KORG	TRINITY V3	Multisamples	052 Marimba LP	
+KORG	TRINITY V3	Multisamples	053 Xylophone	
+KORG	TRINITY V3	Multisamples	054 Xylophone LP	
+KORG	TRINITY V3	Multisamples	055 Vibraphone	
+KORG	TRINITY V3	Multisamples	056 Vibraphone LP	
+KORG	TRINITY V3	Multisamples	057 Celesta	
+KORG	TRINITY V3	Multisamples	058 Celesta LP	
+KORG	TRINITY V3	Multisamples	059 Glockenspiel	
+KORG	TRINITY V3	Multisamples	060 Glockenspiel LP	
+KORG	TRINITY V3	Multisamples	061 Tubular Bell	
+KORG	TRINITY V3	Multisamples	062 FM Tubular	
+KORG	TRINITY V3	Multisamples	063 Slit Drum	
+KORG	TRINITY V3	Multisamples	064 Slit Drum LP	
+KORG	TRINITY V3	Multisamples	065 Balaphone	
+KORG	TRINITY V3	Multisamples	066 Balaphone LP	
+KORG	TRINITY V3	Multisamples	067 Guntan	
+KORG	TRINITY V3	Multisamples	068 Guntan LP	
+KORG	TRINITY V3	Multisamples	069 Bottle Pop	
+KORG	TRINITY V3	Multisamples	070 Bottle Pop LP	
+KORG	TRINITY V3	Multisamples	071 FM Pluck	
+KORG	TRINITY V3	Multisamples	072 FM Pluck LP	
+KORG	TRINITY V3	Multisamples	073 Steel Drum	
+KORG	TRINITY V3	Multisamples	074 Steel Drum LP	
+KORG	TRINITY V3	Multisamples	075 Gamelan 1	
+KORG	TRINITY V3	Multisamples	076 Gamelan 1 LP	
+KORG	TRINITY V3	Multisamples	077 Gamelan 2	
+KORG	TRINITY V3	Multisamples	078 Finger Cymbal	
+KORG	TRINITY V3	Multisamples	079 Finger Cymbal LP	
+KORG	TRINITY V3	Multisamples	080 Tibetan Bell	
+KORG	TRINITY V3	Multisamples	081 Tibetan Bell LP	
+KORG	TRINITY V3	Multisamples	082 FM Bell	
+KORG	TRINITY V3	Multisamples	083 Thai Bell	
+KORG	TRINITY V3	Multisamples	084 Thai Bell LP	
+KORG	TRINITY V3	Multisamples	085 Pot Cover	
+KORG	TRINITY V3	Multisamples	086 Pot Cover LP	
+KORG	TRINITY V3	Multisamples	087 FM Solar	
+KORG	TRINITY V3	Multisamples	088 FM Chiff	
+KORG	TRINITY V3	Multisamples	089 Glass Bell	
+KORG	TRINITY V3	Multisamples	090 FM Glass Bell	
+KORG	TRINITY V3	Multisamples	091 Ensemble Bell 1	
+KORG	TRINITY V3	Multisamples	092 Ens.Bell 1 LP	
+KORG	TRINITY V3	Multisamples	093 Ensemble Bell 2	
+KORG	TRINITY V3	Multisamples	094 Flute	
+KORG	TRINITY V3	Multisamples	095 Piccolo	
+KORG	TRINITY V3	Multisamples	096 Tin Flute	
+KORG	TRINITY V3	Multisamples	097 Tin Flute LP	
+KORG	TRINITY V3	Multisamples	098 Pan Flute	
+KORG	TRINITY V3	Multisamples	099 Shakuhachi	
+KORG	TRINITY V3	Multisamples	100 Bottle	
+KORG	TRINITY V3	Multisamples	101 Bottleizer	
+KORG	TRINITY V3	Multisamples	102 Recorder	
+KORG	TRINITY V3	Multisamples	103 Ocarina	
+KORG	TRINITY V3	Multisamples	104 Clarinet	
+KORG	TRINITY V3	Multisamples	105 Bass Clarinet	
+KORG	TRINITY V3	Multisamples	106 Oboe	
+KORG	TRINITY V3	Multisamples	107 English Horn	
+KORG	TRINITY V3	Multisamples	108 Bassoon	
+KORG	TRINITY V3	Multisamples	109 Baritone Sax	
+KORG	TRINITY V3	Multisamples	110 Tenor Sax-Soft	
+KORG	TRINITY V3	Multisamples	111 Tenor Sax-Medium	
+KORG	TRINITY V3	Multisamples	112 Tenor Sax-Hard	
+KORG	TRINITY V3	Multisamples	113 Alto Sax-Soft	
+KORG	TRINITY V3	Multisamples	114 Alto Sax-Hard	
+KORG	TRINITY V3	Multisamples	115 Soprano Sax-Soft	
+KORG	TRINITY V3	Multisamples	116 Soprano Sax-Hard	
+KORG	TRINITY V3	Multisamples	117 Sax Growl	
+KORG	TRINITY V3	Multisamples	118 Sax Ensemble	
+KORG	TRINITY V3	Multisamples	119 Sax Ensemble LP	
+KORG	TRINITY V3	Multisamples	120 French Horn	
+KORG	TRINITY V3	Multisamples	121 Flugel Horn	
+KORG	TRINITY V3	Multisamples	122 Tuba	
+KORG	TRINITY V3	Multisamples	123 Trombone-Soft	
+KORG	TRINITY V3	Multisamples	124 Trombone-Medium	
+KORG	TRINITY V3	Multisamples	125 Trombone-Hard	
+KORG	TRINITY V3	Multisamples	126 Trombone-Muted	
+KORG	TRINITY V3	Multisamples	127 Trumpet-Soft	
+KORG	TRINITY V3	Multisamples	128 Trumpet-Medium	
+KORG	TRINITY V3	Multisamples	129 Trumpet-Hard	
+KORG	TRINITY V3	Multisamples	130 Trumpet-Muted	
+KORG	TRINITY V3	Multisamples	131 Piccolo Trumpet	
+KORG	TRINITY V3	Multisamples	132 Brass Ensemble1	
+KORG	TRINITY V3	Multisamples	133 Brass Ensemble2	
+KORG	TRINITY V3	Multisamples	134 Brass Ens.-Fall	
+KORG	TRINITY V3	Multisamples	135 Brass-Pad	
+KORG	TRINITY V3	Multisamples	136 Musette	
+KORG	TRINITY V3	Multisamples	137 Musette LP	
+KORG	TRINITY V3	Multisamples	138 Bandoneon	
+KORG	TRINITY V3	Multisamples	139 Accordion	
+KORG	TRINITY V3	Multisamples	140 Harmonica	
+KORG	TRINITY V3	Multisamples	141 Bag Pipe	
+KORG	TRINITY V3	Multisamples	142 Voice-Choir	
+KORG	TRINITY V3	Multisamples	143 Voice-Pop Ooh	
+KORG	TRINITY V3	Multisamples	144 Voice-Pop Ah	
+KORG	TRINITY V3	Multisamples	145 Voice-Doo	
+KORG	TRINITY V3	Multisamples	146 Voice-Doo LP	
+KORG	TRINITY V3	Multisamples	147 Voice Wave 1	
+KORG	TRINITY V3	Multisamples	148 Voice Wave 2	
+KORG	TRINITY V3	Multisamples	149 String Ens. 1	
+KORG	TRINITY V3	Multisamples	150 String Ens. 2	
+KORG	TRINITY V3	Multisamples	151 Pizzicato Ens.	
+KORG	TRINITY V3	Multisamples	152 Violin	
+KORG	TRINITY V3	Multisamples	153 Viola	
+KORG	TRINITY V3	Multisamples	154 Cello&Contrabass	
+KORG	TRINITY V3	Multisamples	155 String Quartet 1	
+KORG	TRINITY V3	Multisamples	156 String Quartet 2	
+KORG	TRINITY V3	Multisamples	157 Pizzicato	
+KORG	TRINITY V3	Multisamples	158 Kokyu	
+KORG	TRINITY V3	Multisamples	159 Nylon Guitar	
+KORG	TRINITY V3	Multisamples	160 A.Guitar-Finger	
+KORG	TRINITY V3	Multisamples	161 A.Guitar-Pick	
+KORG	TRINITY V3	Multisamples	162 12 String Guitar	
+KORG	TRINITY V3	Multisamples	163 A.Gtr-Harmonics	
+KORG	TRINITY V3	Multisamples	164 ParkerGtr-Piezo	
+KORG	TRINITY V3	Multisamples	165 Clean Gtr 1-Stra	
+KORG	TRINITY V3	Multisamples	166 Clean Gtr 2-Stra	
+KORG	TRINITY V3	Multisamples	167 Clean Gtr 3-Tele	
+KORG	TRINITY V3	Multisamples	168 Clean Gtr 4-Prkr	
+KORG	TRINITY V3	Multisamples	169 Clean Gtr-Mute 1	
+KORG	TRINITY V3	Multisamples	170 Clean Gtr-Mute 2	
+KORG	TRINITY V3	Multisamples	171 Funky Gtr 1-Stra	
+KORG	TRINITY V3	Multisamples	172 Funky Gtr 2-Stra	
+KORG	TRINITY V3	Multisamples	173 Funky Gtr 3-Prkr	
+KORG	TRINITY V3	Multisamples	174 Jazz Guitar 1	
+KORG	TRINITY V3	Multisamples	175 Jazz Guitar 2	
+KORG	TRINITY V3	Multisamples	176 Pedal Steel Gtr.	
+KORG	TRINITY V3	Multisamples	177 E.Gtr-Harmonics	
+KORG	TRINITY V3	Multisamples	178 Distorted Guitar	
+KORG	TRINITY V3	Multisamples	179 Dist.Gtr-Harmo	
+KORG	TRINITY V3	Multisamples	180 Dist.Gtr-Mute	
+KORG	TRINITY V3	Multisamples	181 Dist.Gtr-Mute LP	
+KORG	TRINITY V3	Multisamples	182 Power Chord	
+KORG	TRINITY V3	Multisamples	183 Fret Noise	
+KORG	TRINITY V3	Multisamples	184 Amp Noise	
+KORG	TRINITY V3	Multisamples	185 A.Bass 1	
+KORG	TRINITY V3	Multisamples	186 A.Bass 2	
+KORG	TRINITY V3	Multisamples	187 A.Bass 2 LP	
+KORG	TRINITY V3	Multisamples	188 Finger Bass 1	
+KORG	TRINITY V3	Multisamples	189 Finger Bass 1 LP	
+KORG	TRINITY V3	Multisamples	190 Finger Bass 2	
+KORG	TRINITY V3	Multisamples	191 Finger Bass 2 LP	
+KORG	TRINITY V3	Multisamples	192 Pick Bass 1	
+KORG	TRINITY V3	Multisamples	193 Pick Bass 1 LP	
+KORG	TRINITY V3	Multisamples	194 Pick Bass 2	
+KORG	TRINITY V3	Multisamples	195 Pick Bass 2 LP	
+KORG	TRINITY V3	Multisamples	196 Pick Bass-Mute	
+KORG	TRINITY V3	Multisamples	197 Pick Bass-MuteLP	
+KORG	TRINITY V3	Multisamples	198 SlapBass-Thumb 1	
+KORG	TRINITY V3	Multisamples	199 SlapBass-Thum1LP	
+KORG	TRINITY V3	Multisamples	200 SlapBass-Thumb 2	
+KORG	TRINITY V3	Multisamples	201 SlapBass-Thum2LP	
+KORG	TRINITY V3	Multisamples	202 SlapBass-Pull	
+KORG	TRINITY V3	Multisamples	203 SlapBass-Mute	
+KORG	TRINITY V3	Multisamples	204 SlapBass-Mute LP	
+KORG	TRINITY V3	Multisamples	205 Fretless Bass	
+KORG	TRINITY V3	Multisamples	206 Bass Harmonics	
+KORG	TRINITY V3	Multisamples	207 Bass Harmo LP	
+KORG	TRINITY V3	Multisamples	208 Sitar	
+KORG	TRINITY V3	Multisamples	209 Sitar&Tambura	
+KORG	TRINITY V3	Multisamples	210 Santur	
+KORG	TRINITY V3	Multisamples	211 Santur LP	
+KORG	TRINITY V3	Multisamples	212 Mandolin	
+KORG	TRINITY V3	Multisamples	213 Mandolin LP	
+KORG	TRINITY V3	Multisamples	214 Mandolin-Tremolo	
+KORG	TRINITY V3	Multisamples	215 Bouzouki	
+KORG	TRINITY V3	Multisamples	216 Bouzouki LP	
+KORG	TRINITY V3	Multisamples	217 Banjo	
+KORG	TRINITY V3	Multisamples	218 Banjo LP	
+KORG	TRINITY V3	Multisamples	219 Shamisen	
+KORG	TRINITY V3	Multisamples	220 Koto	
+KORG	TRINITY V3	Multisamples	221 Harp	
+KORG	TRINITY V3	Multisamples	222 Harp LP	
+KORG	TRINITY V3	Multisamples	223 Harp-Harmonics	
+KORG	TRINITY V3	Multisamples	224 Harp-Harmo LP	
+KORG	TRINITY V3	Multisamples	225 Harp-Glissando	
+KORG	TRINITY V3	Multisamples	226 Ukulele	
+KORG	TRINITY V3	Multisamples	227 Ukulele LP	
+KORG	TRINITY V3	Multisamples	228 Syn Bass-Oct 1	
+KORG	TRINITY V3	Multisamples	229 Syn Bass-Oct 2	
+KORG	TRINITY V3	Multisamples	230 Syn Bass-Reso 1	
+KORG	TRINITY V3	Multisamples	231 Syn Bass-Reso 2	
+KORG	TRINITY V3	Multisamples	232 Syn Bass-FM 1	
+KORG	TRINITY V3	Multisamples	233 Syn Bass-FM 1 LP	
+KORG	TRINITY V3	Multisamples	234 Syn Bass-FM 2	
+KORG	TRINITY V3	Multisamples	235 Syn Bass-FM 2 LP	
+KORG	TRINITY V3	Multisamples	236 Syn Bass-FM 3	
+KORG	TRINITY V3	Multisamples	237 Syn Bass-FM 3 LP	
+KORG	TRINITY V3	Multisamples	238 Syn Bass-TB	
+KORG	TRINITY V3	Multisamples	239 Syn Bass-Stack	
+KORG	TRINITY V3	Multisamples	240 Sync Wave 1	
+KORG	TRINITY V3	Multisamples	241 Sync Wave 2	
+KORG	TRINITY V3	Multisamples	242 Sync Wave 3	
+KORG	TRINITY V3	Multisamples	243 Sync Wave 4	
+KORG	TRINITY V3	Multisamples	244 Detuned-Super	
+KORG	TRINITY V3	Multisamples	245 Detuned-Saw	
+KORG	TRINITY V3	Multisamples	246 Detuned-PWM	
+KORG	TRINITY V3	Multisamples	247 Analog Strings 1	
+KORG	TRINITY V3	Multisamples	248 Analog Strings 2	
+KORG	TRINITY V3	Multisamples	249 Syn-Ethnic	
+KORG	TRINITY V3	Multisamples	250 Syn-Ethnic LP	
+KORG	TRINITY V3	Multisamples	251 Syn-Clavitar	
+KORG	TRINITY V3	Multisamples	252 Syn-Pop	
+KORG	TRINITY V3	Multisamples	253 Syn-Vocalscape	
+KORG	TRINITY V3	Multisamples	254 Syn-Air Pad	
+KORG	TRINITY V3	Multisamples	255 Syn-Air	
+KORG	TRINITY V3	Multisamples	256 Syn-Flute Pad	
+KORG	TRINITY V3	Multisamples	257 Syn-Air Vortex	
+KORG	TRINITY V3	Multisamples	258 Syn-Ghostly	
+KORG	TRINITY V3	Multisamples	259 Syn-Sweep 1	
+KORG	TRINITY V3	Multisamples	260 Syn-Sweep 2	
+KORG	TRINITY V3	Multisamples	261 Syn-Sweep 3	
+KORG	TRINITY V3	Multisamples	262 Syn-Sweep 3 LP	
+KORG	TRINITY V3	Multisamples	263 Syn-Magic Bell	
+KORG	TRINITY V3	Multisamples	264 Syn-Clicker	
+KORG	TRINITY V3	Multisamples	265 Noise	
+KORG	TRINITY V3	Multisamples	266 Noise Spectrum 1	
+KORG	TRINITY V3	Multisamples	267 Noise Spectrum 2	
+KORG	TRINITY V3	Multisamples	268 Saw	
+KORG	TRINITY V3	Multisamples	269 Saw-mg3c	
+KORG	TRINITY V3	Multisamples	270 Saw-mg	
+KORG	TRINITY V3	Multisamples	271 Saw-Chroma	
+KORG	TRINITY V3	Multisamples	272 Pulse-2%	
+KORG	TRINITY V3	Multisamples	273 Pulse-5%	
+KORG	TRINITY V3	Multisamples	274 Pulse-8%	
+KORG	TRINITY V3	Multisamples	275 Pulse-16%	
+KORG	TRINITY V3	Multisamples	276 Pulse-33%	
+KORG	TRINITY V3	Multisamples	277 Pulse-40%	
+KORG	TRINITY V3	Multisamples	278 Square	
+KORG	TRINITY V3	Multisamples	279 Square-mMG	
+KORG	TRINITY V3	Multisamples	280 Square-MG3	
+KORG	TRINITY V3	Multisamples	281 Square-JP	
+KORG	TRINITY V3	Multisamples	282 Square-OB	
+KORG	TRINITY V3	Multisamples	283 Triangle	
+KORG	TRINITY V3	Multisamples	284 Triangle-MG3	
+KORG	TRINITY V3	Multisamples	285 Ramp	
+KORG	TRINITY V3	Multisamples	286 Ramp-mMG	
+KORG	TRINITY V3	Multisamples	287 Parabolic	
+KORG	TRINITY V3	Multisamples	288 Sine	
+KORG	TRINITY V3	Multisamples	289 Sine-01/W	
+KORG	TRINITY V3	Multisamples	290 Sine-JP	
+KORG	TRINITY V3	Multisamples	291 DWGS-Syn Sine 1	
+KORG	TRINITY V3	Multisamples	292 DWGS-Syn Sine 2	
+KORG	TRINITY V3	Multisamples	293 DWGS-E.P. 1	
+KORG	TRINITY V3	Multisamples	294 DWGS-E.P. 2	
+KORG	TRINITY V3	Multisamples	295 DWGS-E.P. 3	
+KORG	TRINITY V3	Multisamples	296 DWGS-E.P. 4	
+KORG	TRINITY V3	Multisamples	297 DWGS-E.P. 5	
+KORG	TRINITY V3	Multisamples	298 DWGS-Organ 1	
+KORG	TRINITY V3	Multisamples	299 DWGS-Organ 2	
+KORG	TRINITY V3	Multisamples	300 DWGS-Organ 3	
+KORG	TRINITY V3	Multisamples	301 DWGS-Organ 4	
+KORG	TRINITY V3	Multisamples	302 DWGS-Organ 5	
+KORG	TRINITY V3	Multisamples	303 DWGS-Accordion	
+KORG	TRINITY V3	Multisamples	304 DWGS-Guitar 1	
+KORG	TRINITY V3	Multisamples	305 DWGS-Guitar 2	
+KORG	TRINITY V3	Multisamples	306 DWGS-Bell 1	
+KORG	TRINITY V3	Multisamples	307 DWGS-Bell 2	
+KORG	TRINITY V3	Multisamples	308 DWGS-Bell 3	
+KORG	TRINITY V3	Multisamples	309 DWGS-Bell 4	
+KORG	TRINITY V3	Multisamples	310 DWGS-Clav 1	
+KORG	TRINITY V3	Multisamples	311 DWGS-Clav 2	
+KORG	TRINITY V3	Multisamples	312 DWGS-Clav 3	
+KORG	TRINITY V3	Multisamples	313 DWGS-Digi 1	
+KORG	TRINITY V3	Multisamples	314 DWGS-Digi 2	
+KORG	TRINITY V3	Multisamples	315 DWGS-Digi 3	
+KORG	TRINITY V3	Multisamples	316 DWGS-Wire 1	
+KORG	TRINITY V3	Multisamples	317 DWGS-Wire 2	
+KORG	TRINITY V3	Multisamples	318 DWGS-Sync 1	
+KORG	TRINITY V3	Multisamples	319 DWGS-Sync 2	
+KORG	TRINITY V3	Multisamples	320 DWGS-Sync 3	
+KORG	TRINITY V3	Multisamples	321 Rubbed Glass	
+KORG	TRINITY V3	Multisamples	322 Space Lore	
+KORG	TRINITY V3	Multisamples	323 Telephone Ring	
+KORG	TRINITY V3	Multisamples	324 Cyber Drum	
+KORG	TRINITY V3	Multisamples	325 Xylo-Spectrum	
+KORG	TRINITY V3	Multisamples	326 Xylophone-Tremo.	
+KORG	TRINITY V3	Multisamples	327 Cricket Spectrum	
+KORG	TRINITY V3	Multisamples	328 Swish Terra	
+KORG	TRINITY V3	Multisamples	329 Orchestra Hit	
+KORG	TRINITY V3	Multisamples	330 Band Hit	
+KORG	TRINITY V3	Multisamples	331 Pizz Hit	
+KORG	TRINITY V3	Multisamples	332 Timpani	
+KORG	TRINITY V3	Multisamples	333 Crash 1	
+KORG	TRINITY V3	Multisamples	334 Crash 2	
+KORG	TRINITY V3	Multisamples	335 Cymbal Reverse	
+KORG	TRINITY V3	Multisamples	336 Orch. Cymbal	
+KORG	TRINITY V3	Multisamples	337 Ride-Jazz	
+KORG	TRINITY V3	Multisamples	338 Ride-Edge 1	
+KORG	TRINITY V3	Multisamples	339 Ride-Edge 2	
+KORG	TRINITY V3	Multisamples	340 H.Hat-Closed	
+KORG	TRINITY V3	Multisamples	341 88-HHat Open	
+KORG	TRINITY V3	Multisamples	342 88-Cowbell	
+KORG	TRINITY V3	Multisamples	343 88-Tom	
+KORG	TRINITY V3	Multisamples	344 88-Conga	
+KORG	TRINITY V3	Multisamples	345 88-Crash	
+KORG	TRINITY V3	Multisamples	346 Tom	
+KORG	TRINITY V3	Multisamples	347 Tom-Brush	
+KORG	TRINITY V3	Multisamples	348 Tom-Processed	
+KORG	TRINITY V3	Multisamples	349 Real E.Tom	
+KORG	TRINITY V3	Multisamples	350 Zap 1	
+KORG	TRINITY V3	Multisamples	351 Zap 2	
+KORG	TRINITY V3	Multisamples	352 DJ-Old Record	
+KORG	TRINITY V3	Multisamples	353 Flexatone	
+KORG	TRINITY V3	Multisamples	354 Tambourine	
+KORG	TRINITY V3	Multisamples	355 Agogo Bell	
+KORG	TRINITY V3	Multisamples	356 Cowbell	
+KORG	TRINITY V3	Multisamples	357 Triangle-Roll	
+KORG	TRINITY V3	Multisamples	358 SleighBell-Roll	
+KORG	TRINITY V3	Multisamples	359 Marc Tree	
+KORG	TRINITY V3	Multisamples	360 Bell Tree	
+KORG	TRINITY V3	Multisamples	361 Rainstick	
+KORG	TRINITY V3	Multisamples	362 Anklung-One Shot	
+KORG	TRINITY V3	Multisamples	363 Anklung-Roll	
+KORG	TRINITY V3	Multisamples	364 TempleBlocks	
+KORG	TRINITY V3	Multisamples	365 Taiko	
+KORG	TRINITY V3	Multisamples	366 Djembe-Open	
+KORG	TRINITY V3	Multisamples	367 Djembe-Mute	
+KORG	TRINITY V3	Multisamples	368 Chinese Gong	
+KORG	TRINITY V3	Multisamples	369 Stadium	
+KORG	TRINITY V3	Multisamples	370 Applause	
+KORG	TRINITY V3	Multisamples	371 GunShot	
+KORG	TRINITY V3	Multisamples	372 Industry	
+KORG	TRINITY V3	Multisamples	373 Birds 1	
+KORG	TRINITY V3	Multisamples	374 Birds 2	
+KORG	TRINITY V3	Drumsamples	000 OFF	
+KORG	TRINITY V3	Drumsamples	001 BD-Dry 1	
+KORG	TRINITY V3	Drumsamples	002 BD-Dry 2	
+KORG	TRINITY V3	Drumsamples	003 BD-Dry 3	
+KORG	TRINITY V3	Drumsamples	004 BD-Dry 4	
+KORG	TRINITY V3	Drumsamples	005 BD-Soft	
+KORG	TRINITY V3	Drumsamples	006 BD-Soft Room	
+KORG	TRINITY V3	Drumsamples	007 BD-Jazz 1	
+KORG	TRINITY V3	Drumsamples	008 BD-Jazz 2	
+KORG	TRINITY V3	Drumsamples	009 BD-Pillow	
+KORG	TRINITY V3	Drumsamples	010 BD-Woofer	
+KORG	TRINITY V3	Drumsamples	011 BD-Mondo Kill	
+KORG	TRINITY V3	Drumsamples	012 BD-Terminator	
+KORG	TRINITY V3	Drumsamples	013 BD-Tubby	
+KORG	TRINITY V3	Drumsamples	014 BD-Gated	
+KORG	TRINITY V3	Drumsamples	015 BD-Tight	
+KORG	TRINITY V3	Drumsamples	016 BD-Squash	
+KORG	TRINITY V3	Drumsamples	017 BD-Dance 1	
+KORG	TRINITY V3	Drumsamples	018 BD-Dance 2	
+KORG	TRINITY V3	Drumsamples	019 BD-Dance 3	
+KORG	TRINITY V3	Drumsamples	020 SD-Dry 1	
+KORG	TRINITY V3	Drumsamples	021 SD-Dry 2	
+KORG	TRINITY V3	Drumsamples	022 SD-Dry 3	
+KORG	TRINITY V3	Drumsamples	023 SD-Full Room	
+KORG	TRINITY V3	Drumsamples	024 SD-Off Center	
+KORG	TRINITY V3	Drumsamples	025 SD-Jazz Ring	
+KORG	TRINITY V3	Drumsamples	026 SD-Amb.Piccolo 1	
+KORG	TRINITY V3	Drumsamples	027 SD-Amb.Piccolo 2	
+KORG	TRINITY V3	Drumsamples	028 SD-Paper	
+KORG	TRINITY V3	Drumsamples	029 SD-Classic Room	
+KORG	TRINITY V3	Drumsamples	030 SD-Atomic	
+KORG	TRINITY V3	Drumsamples	031 SD-Big Rock	
+KORG	TRINITY V3	Drumsamples	032 SD-Yowie	
+KORG	TRINITY V3	Drumsamples	033 SD-Processed 1	
+KORG	TRINITY V3	Drumsamples	034 SD-Processed 2	
+KORG	TRINITY V3	Drumsamples	035 SD-Cracker Room	
+KORG	TRINITY V3	Drumsamples	036 SD-Amb.House	
+KORG	TRINITY V3	Drumsamples	037 SD-Dance	
+KORG	TRINITY V3	Drumsamples	038 SD-Rap 1	
+KORG	TRINITY V3	Drumsamples	039 SD-Rap 2	
+KORG	TRINITY V3	Drumsamples	040 SD-Noise	
+KORG	TRINITY V3	Drumsamples	041 SD-Sizzle	
+KORG	TRINITY V3	Drumsamples	042 SD-Brush Hit	
+KORG	TRINITY V3	Drumsamples	043 SD-Brush Tap 1	
+KORG	TRINITY V3	Drumsamples	044 SD-Brush Tap 2	
+KORG	TRINITY V3	Drumsamples	045 SD-Brush Swirl	
+KORG	TRINITY V3	Drumsamples	046 SD-Reverse	
+KORG	TRINITY V3	Drumsamples	047 Sidestick-Dry	
+KORG	TRINITY V3	Drumsamples	048 Sidestick-Amb	
+KORG	TRINITY V3	Drumsamples	049 Drumstick Hit	
+KORG	TRINITY V3	Drumsamples	050 Tom 1-Hi	
+KORG	TRINITY V3	Drumsamples	051 Tom 1-Lo	
+KORG	TRINITY V3	Drumsamples	052 Tom 1-Floor	
+KORG	TRINITY V3	Drumsamples	053 Tom 2-Hi	
+KORG	TRINITY V3	Drumsamples	054 Tom 2-Lo	
+KORG	TRINITY V3	Drumsamples	055 Tom 2-Floor	
+KORG	TRINITY V3	Drumsamples	056 Tom 3-Hi	
+KORG	TRINITY V3	Drumsamples	057 Tom 3-Lo	
+KORG	TRINITY V3	Drumsamples	058 Tom 3-Floor	
+KORG	TRINITY V3	Drumsamples	059 Tom-Processed	
+KORG	TRINITY V3	Drumsamples	060 Tom-Jazz Hi	
+KORG	TRINITY V3	Drumsamples	061 Tom-Jazz Hi Rim	
+KORG	TRINITY V3	Drumsamples	062 Tom-Jazz Floor	
+KORG	TRINITY V3	Drumsamples	063 Tom-Brush Hi	
+KORG	TRINITY V3	Drumsamples	064 Tom-Brush Floor	
+KORG	TRINITY V3	Drumsamples	065 H.Hat 1-Closed 1	
+KORG	TRINITY V3	Drumsamples	066 H.Hat 1-Closed 2	
+KORG	TRINITY V3	Drumsamples	067 H.Hat 1-Foot	
+KORG	TRINITY V3	Drumsamples	068 H.Hat 1-FootOpen	
+KORG	TRINITY V3	Drumsamples	069 H.Hat 1-Open 1	
+KORG	TRINITY V3	Drumsamples	070 H.Hat 1-Open 2	
+KORG	TRINITY V3	Drumsamples	071 H.Hat 2-Closed 1	
+KORG	TRINITY V3	Drumsamples	072 H.Hat 2-Closed 2	
+KORG	TRINITY V3	Drumsamples	073 H.Hat 2-Foot	
+KORG	TRINITY V3	Drumsamples	074 H.Hat 2-FootOpen	
+KORG	TRINITY V3	Drumsamples	075 H.Hat 2-Open 1	
+KORG	TRINITY V3	Drumsamples	076 H.Hat 2-Open 2	
+KORG	TRINITY V3	Drumsamples	077 Crash Cymbal 1	
+KORG	TRINITY V3	Drumsamples	078 Crash Cymbal 2	
+KORG	TRINITY V3	Drumsamples	079 Crash Cymbal 3	
+KORG	TRINITY V3	Drumsamples	080 China Cymbal	
+KORG	TRINITY V3	Drumsamples	081 Splash Cymbal	
+KORG	TRINITY V3	Drumsamples	082 Cymbal Reverse	
+KORG	TRINITY V3	Drumsamples	083 Ride-Edge 1	
+KORG	TRINITY V3	Drumsamples	084 Ride-Edge 2	
+KORG	TRINITY V3	Drumsamples	085 Ride-Jazz	
+KORG	TRINITY V3	Drumsamples	086 Ride-Cup	
+KORG	TRINITY V3	Drumsamples	087 BD-Orchestral	
+KORG	TRINITY V3	Drumsamples	088 Orch Cym.-Closed	
+KORG	TRINITY V3	Drumsamples	089 Orch Cym.-Open	
+KORG	TRINITY V3	Drumsamples	090 Timpani	
+KORG	TRINITY V3	Drumsamples	091 SD-Orch.Roll 1	
+KORG	TRINITY V3	Drumsamples	092 SD-Orch.Roll 2	
+KORG	TRINITY V3	Drumsamples	093 SD-Orchestral	
+KORG	TRINITY V3	Drumsamples	094 Orchestra Hit	
+KORG	TRINITY V3	Drumsamples	095 Pizz Hit	
+KORG	TRINITY V3	Drumsamples	096 Band Hit	
+KORG	TRINITY V3	Drumsamples	097 Finger Snap	
+KORG	TRINITY V3	Drumsamples	098 Hand Claps	
+KORG	TRINITY V3	Drumsamples	099 88-BD 1(Rap)	
+KORG	TRINITY V3	Drumsamples	100 88-BD 2(R&B)	
+KORG	TRINITY V3	Drumsamples	101 99-BD 1	
+KORG	TRINITY V3	Drumsamples	102 99-BD 2	
+KORG	TRINITY V3	Drumsamples	103 99-BD 3	
+KORG	TRINITY V3	Drumsamples	104 88-SD 1(New)	
+KORG	TRINITY V3	Drumsamples	105 88-SD 2(Old)	
+KORG	TRINITY V3	Drumsamples	106 99-SD 1	
+KORG	TRINITY V3	Drumsamples	107 99-SD 2	
+KORG	TRINITY V3	Drumsamples	108 88-Rimshot	
+KORG	TRINITY V3	Drumsamples	109 88-Claps	
+KORG	TRINITY V3	Drumsamples	110 88-HHat Closed	
+KORG	TRINITY V3	Drumsamples	111 88-HHat Open	
+KORG	TRINITY V3	Drumsamples	112 99-HHat Closed	
+KORG	TRINITY V3	Drumsamples	113 99-HHat Open	
+KORG	TRINITY V3	Drumsamples	114 88-Crash	
+KORG	TRINITY V3	Drumsamples	115 88-Tom	
+KORG	TRINITY V3	Drumsamples	116 88-Conga	
+KORG	TRINITY V3	Drumsamples	117 88-Clave	
+KORG	TRINITY V3	Drumsamples	118 88-Cowbell	
+KORG	TRINITY V3	Drumsamples	119 88-Maraca	
+KORG	TRINITY V3	Drumsamples	120 FM E.Tom	
+KORG	TRINITY V3	Drumsamples	121 Real E.Tom	
+KORG	TRINITY V3	Drumsamples	122 Vocal SD	
+KORG	TRINITY V3	Drumsamples	123 Vocal Cowbell	
+KORG	TRINITY V3	Drumsamples	124 Vocal Woodblock	
+KORG	TRINITY V3	Drumsamples	125 DJ-Scratch 1	
+KORG	TRINITY V3	Drumsamples	126 DJ-Scratch 2	
+KORG	TRINITY V3	Drumsamples	127 DJ-Scratch 3a	
+KORG	TRINITY V3	Drumsamples	128 DJ-Scratch 3b	
+KORG	TRINITY V3	Drumsamples	129 DJ-Scratch 3c	
+KORG	TRINITY V3	Drumsamples	130 DJ-BD Rub	
+KORG	TRINITY V3	Drumsamples	131 DJ-SD Rub	
+KORG	TRINITY V3	Drumsamples	132 DJ-Record Stop	
+KORG	TRINITY V3	Drumsamples	133 DJ-Reverse	
+KORG	TRINITY V3	Drumsamples	134 DJ-Old Record	
+KORG	TRINITY V3	Drumsamples	135 Zap 1	
+KORG	TRINITY V3	Drumsamples	136 Zap 2	
+KORG	TRINITY V3	Drumsamples	137 Zap 3	
+KORG	TRINITY V3	Drumsamples	138 Conga Lo-Open	
+KORG	TRINITY V3	Drumsamples	139 Conga Lo-MtSlap	
+KORG	TRINITY V3	Drumsamples	140 Conga Lo-Slap	
+KORG	TRINITY V3	Drumsamples	141 Conga Hi-Open	
+KORG	TRINITY V3	Drumsamples	142 Conga Hi-Mute	
+KORG	TRINITY V3	Drumsamples	143 Conga Hi-MiSlap	
+KORG	TRINITY V3	Drumsamples	144 Conga Hi-Slap 1	
+KORG	TRINITY V3	Drumsamples	145 Conga Hi-Slap 2	
+KORG	TRINITY V3	Drumsamples	146 Conga-Heel	
+KORG	TRINITY V3	Drumsamples	147 Conga-Toe	
+KORG	TRINITY V3	Drumsamples	148 Bongo Lo-Open	
+KORG	TRINITY V3	Drumsamples	149 Bongo Lo-Slap	
+KORG	TRINITY V3	Drumsamples	150 Bongo Lo-Stick	
+KORG	TRINITY V3	Drumsamples	151 Bongo Hi-Open	
+KORG	TRINITY V3	Drumsamples	152 Bongo Hi-Slap	
+KORG	TRINITY V3	Drumsamples	153 Bongo Hi-Stick 1	
+KORG	TRINITY V3	Drumsamples	154 Bongo Hi-Stick 2	
+KORG	TRINITY V3	Drumsamples	155 Djembe-Open	
+KORG	TRINITY V3	Drumsamples	156 Djembe-Mute	
+KORG	TRINITY V3	Drumsamples	157 Djembe-Slap	
+KORG	TRINITY V3	Drumsamples	158 Castanet-Single	
+KORG	TRINITY V3	Drumsamples	159 Castanet-Dble 1	
+KORG	TRINITY V3	Drumsamples	160 Castanet-Dble 2	
+KORG	TRINITY V3	Drumsamples	161 Guiro-Long	
+KORG	TRINITY V3	Drumsamples	162 Guiro-Short	
+KORG	TRINITY V3	Drumsamples	163 Guiro-Tap	
+KORG	TRINITY V3	Drumsamples	164 Maracas-Push	
+KORG	TRINITY V3	Drumsamples	165 Maracas-Pull	
+KORG	TRINITY V3	Drumsamples	166 Baya-Open	
+KORG	TRINITY V3	Drumsamples	167 Baya-Ghe	
+KORG	TRINITY V3	Drumsamples	168 Baya-Mute 1	
+KORG	TRINITY V3	Drumsamples	169 Baya-Mute 2	
+KORG	TRINITY V3	Drumsamples	170 Baya-Mute 3	
+KORG	TRINITY V3	Drumsamples	171 Baya-Mute 4	
+KORG	TRINITY V3	Drumsamples	172 Baya-Mute 5	
+KORG	TRINITY V3	Drumsamples	173 Tabla-Na	
+KORG	TRINITY V3	Drumsamples	174 Tabla-Open	
+KORG	TRINITY V3	Drumsamples	175 Tabla-Tin	
+KORG	TRINITY V3	Drumsamples	176 Tabla-Mute 1	
+KORG	TRINITY V3	Drumsamples	177 Tabla-Mute 2	
+KORG	TRINITY V3	Drumsamples	178 Tabla-Mute 3	
+KORG	TRINITY V3	Drumsamples	179 Tabla-Mute 4	
+KORG	TRINITY V3	Drumsamples	180 Taiko-Open	
+KORG	TRINITY V3	Drumsamples	181 Taiko-Rim	
+KORG	TRINITY V3	Drumsamples	182 Tsuzumi	
+KORG	TRINITY V3	Drumsamples	183 Vibraslap	
+KORG	TRINITY V3	Drumsamples	184 Claves	
+KORG	TRINITY V3	Drumsamples	185 Woodblock 1	
+KORG	TRINITY V3	Drumsamples	186 Woodblock 2	
+KORG	TRINITY V3	Drumsamples	187 Timbale Lo-Open	
+KORG	TRINITY V3	Drumsamples	188 Timbale Lo-Mute	
+KORG	TRINITY V3	Drumsamples	189 Timbale Lo-Rim	
+KORG	TRINITY V3	Drumsamples	190 Timbale Hi-Edge	
+KORG	TRINITY V3	Drumsamples	191 Timbale Hi-Rim 1	
+KORG	TRINITY V3	Drumsamples	192 Timbale Hi-Rim 2	
+KORG	TRINITY V3	Drumsamples	193 Timbale-Paila	
+KORG	TRINITY V3	Drumsamples	194 Tambourine-Push	
+KORG	TRINITY V3	Drumsamples	195 Tambourine-Pull	
+KORG	TRINITY V3	Drumsamples	196 Tambourine-Acc.1	
+KORG	TRINITY V3	Drumsamples	197 Tambourine-Acc.2	
+KORG	TRINITY V3	Drumsamples	198 Triangle-Open	
+KORG	TRINITY V3	Drumsamples	199 Triangle-Mute	
+KORG	TRINITY V3	Drumsamples	200 Triangle-Roll	
+KORG	TRINITY V3	Drumsamples	201 Cuica-Lo	
+KORG	TRINITY V3	Drumsamples	202 Cuica-Hi	
+KORG	TRINITY V3	Drumsamples	203 Shaker 1	
+KORG	TRINITY V3	Drumsamples	204 Shaker 2	
+KORG	TRINITY V3	Drumsamples	205 Cabasa-Up	
+KORG	TRINITY V3	Drumsamples	206 Cabasa-Down	
+KORG	TRINITY V3	Drumsamples	207 Cabasa-Tap	
+KORG	TRINITY V3	Drumsamples	208 Caxixi-Hard	
+KORG	TRINITY V3	Drumsamples	209 Caxixi-Soft	
+KORG	TRINITY V3	Drumsamples	210 Agogo Bell	
+KORG	TRINITY V3	Drumsamples	211 Cowbell 1	
+KORG	TRINITY V3	Drumsamples	212 Cowbell 2	
+KORG	TRINITY V3	Drumsamples	213 Chacha Bell	
+KORG	TRINITY V3	Drumsamples	214 Mambo Bell	
+KORG	TRINITY V3	Drumsamples	215 Sleigh Bell	
+KORG	TRINITY V3	Drumsamples	216 Finger Cymbal	
+KORG	TRINITY V3	Drumsamples	217 Marc Tree	
+KORG	TRINITY V3	Drumsamples	218 Bell Tree	
+KORG	TRINITY V3	Drumsamples	219 Flexatone	
+KORG	TRINITY V3	Drumsamples	220 Samba Whistle	
+KORG	TRINITY V3	Drumsamples	221 Chinese Gong	
+KORG	TRINITY V3	Drumsamples	222 Stadium	
+KORG	TRINITY V3	Drumsamples	223 Applause	
+KORG	TRINITY V3	Drumsamples	224 GunShot	
+KORG	TRINITY V3	Drumsamples	225 Telephone Ring	
+KORG	TRINITY V3	Drumsamples	226 Footstep 1	
+KORG	TRINITY V3	Drumsamples	227 Footstep 2	
+KORG	TRINITY V3	Drumsamples	228 Tribe	
+KORG	TRINITY V3	Drumsamples	229 Bird 1	
+KORG	TRINITY V3	Drumsamples	230 Bird 2	
+KORG	TRINITY V3	Drumsamples	231 Space Lore	
+KORG	TRINITY V3	Drumsamples	232 Industry	
+KORG	TRINITY V3	Drumsamples	233 Cyber Drum	
+KORG	TRINITY V3	Drumsamples	234 Swish Terra	
+KORG	TRINITY V3	Drumsamples	235 Xylophone Trem	
+KORG	TRINITY V3	Drumsamples	236 Xylophone Spectr	
+KORG	TRINITY V3	Drumsamples	237 Cricket Spectrum	
+KORG	TRINITY V3	Drumsamples	238 Air Vortex	
+KORG	TRINITY V3	Drumsamples	239 Noise-White	
+KORG	TRINITY V3	Drumsamples	240 Noise-FM Mod	
+KORG	TRINITY V3	Drumsamples	241 Tubular	
+KORG	TRINITY V3	Drumsamples	242 Slit Drum	
+KORG	TRINITY V3	Drumsamples	243 Balaphone	
+KORG	TRINITY V3	Drumsamples	244 Gamelan	
+KORG	TRINITY V3	Drumsamples	245 Tambura	
+KORG	TRINITY V3	Drumsamples	246 ThaiBell	
+KORG	TRINITY V3	Drumsamples	247 TibetanBell	
+KORG	TRINITY V3	Drumsamples	248 Rainstick	
+KORG	TRINITY V3	Drumsamples	249 HarpGliss	
+KORG	TRINITY V3	Drumsamples	250 Power Chord	
+KORG	TRINITY V3	Drumsamples	251 Fret Noise	
+KORG	TRINITY V3	Drumsamples	252 Dist.Slide 1	
+KORG	TRINITY V3	Drumsamples	253 Dist.Slide 2	
+KORG	TRINITY V3	Drumsamples	254 E.Guitar Pick 1	
+KORG	TRINITY V3	Drumsamples	255 E.Guitar Pick 2	
+KORG	TRINITY V3	Drumsamples	256 E.Guitar Pick 3	
+KORG	TRINITY V3	Drumsamples	257 Guitar Scratch	
+KORG	TRINITY V3	Drumsamples	258 Amp Noise	
