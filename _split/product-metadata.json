@@ -176,7 +176,7 @@
                 "Boom"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -203,7 +203,7 @@
                 "DB-33"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -230,7 +230,7 @@
                 "Vacuum"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -257,7 +257,7 @@
                 "Velvet"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -284,7 +284,7 @@
                 "Xpand!"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "RTAS"
@@ -308,7 +308,7 @@
                 "Xpand!2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2312,7 +2312,7 @@
                 "Acid V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2340,7 +2340,7 @@
                 "ARP 2600 V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2368,7 +2368,7 @@
                 "Augmented BRASS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2396,7 +2396,7 @@
                 "Augmented GRAND PIANO"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2424,7 +2424,7 @@
                 "Augmented MALLETS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2452,7 +2452,7 @@
                 "Augmented PERSIA"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2480,7 +2480,7 @@
                 "Augmented STRINGS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2508,7 +2508,7 @@
                 "Augmented STRINGS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2536,7 +2536,7 @@
                 "Augmented VOICES"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2564,7 +2564,7 @@
                 "Augmented VOICES"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2592,7 +2592,7 @@
                 "Augmented WOODWINDS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2620,7 +2620,7 @@
                 "Augmented YANGTZE"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "AAX",
@@ -2648,7 +2648,7 @@
                 "B-3 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2672,7 +2672,7 @@
                 "B-3 V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2696,7 +2696,7 @@
                 "Buchla Easel V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2720,7 +2720,7 @@
                 "Clavinet V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2744,7 +2744,7 @@
                 "CMI V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2768,7 +2768,7 @@
                 "CP-70 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2792,7 +2792,7 @@
                 "CS-80 V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2816,7 +2816,7 @@
                 "CS-80 V4"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2840,7 +2840,7 @@
                 "CZ V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2864,7 +2864,7 @@
                 "DX7 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2888,7 +2888,7 @@
                 "Emulator II V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2912,7 +2912,7 @@
                 "Farfisa V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2936,7 +2936,7 @@
                 "Jun-6 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2960,7 +2960,7 @@
                 "Jup-8 V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -2984,7 +2984,7 @@
                 "Jup-8 V4"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3008,7 +3008,7 @@
                 "Jup-8000 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3032,7 +3032,7 @@
                 "KORG MS-20 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3056,7 +3056,7 @@
                 "Matrix-12 V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3080,7 +3080,7 @@
                 "Mellotron V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3104,7 +3104,7 @@
                 "Memory V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3128,7 +3128,7 @@
                 "Mini V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3152,7 +3152,7 @@
                 "Mini V4"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3176,7 +3176,7 @@
                 "MiniBrute V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3200,7 +3200,7 @@
                 "MiniFreak V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3224,7 +3224,7 @@
                 "MiniFreak V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3248,7 +3248,7 @@
                 "MiniFreak V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3272,7 +3272,7 @@
                 "MiniFreak V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3296,7 +3296,7 @@
                 "Modular V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3320,7 +3320,7 @@
                 "OP-Xa V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3344,7 +3344,7 @@
                 "Piano V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3368,7 +3368,7 @@
                 "Piano V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3392,7 +3392,7 @@
                 "Piano V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3416,7 +3416,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3440,7 +3440,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3464,7 +3464,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3488,7 +3488,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3512,7 +3512,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3536,7 +3536,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3560,7 +3560,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3584,7 +3584,7 @@
                 "Pigments"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3608,7 +3608,7 @@
                 "Prophet V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3632,7 +3632,7 @@
                 "Prophet-5 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3656,7 +3656,7 @@
                 "Prophet-VS V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3680,7 +3680,7 @@
                 "Pure LoFi"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3704,7 +3704,7 @@
                 "SEM V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3728,7 +3728,7 @@
                 "SEM V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3752,7 +3752,7 @@
                 "Solina V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3776,7 +3776,7 @@
                 "SQ80 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3800,7 +3800,7 @@
                 "Stage-73 V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3824,7 +3824,7 @@
                 "Stage-73 V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3848,7 +3848,7 @@
                 "Synclavier V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3872,7 +3872,7 @@
                 "Synthi V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3896,7 +3896,7 @@
                 "Synthx V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3920,7 +3920,7 @@
                 "Vocoder V"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3944,7 +3944,7 @@
                 "VOX Continental V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3968,7 +3968,7 @@
                 "Wurli V2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -3992,7 +3992,7 @@
                 "Wurli V3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -8955,7 +8955,7 @@
                 "Miroslav Philharmonik"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -8979,7 +8979,7 @@
                 "SampleTank DJ"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -9003,7 +9003,7 @@
                 "SampleTank L"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -9027,7 +9027,7 @@
                 "SampleTank LE"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -9051,7 +9051,7 @@
                 "SampleTank XL"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -9075,7 +9075,7 @@
                 "SampleTank 2 XL"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -9099,7 +9099,7 @@
                 "SampleTank 3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -9123,7 +9123,7 @@
                 "SampleTank 4"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -9147,7 +9147,7 @@
                 "SampleTron"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -12172,7 +12172,7 @@
                 "Mono/Poly Legacy Collection"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -12196,7 +12196,7 @@
                 "KORG Collection - Mono/Poly"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -12220,7 +12220,7 @@
                 "M1 Legacy Collection"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -12245,7 +12245,7 @@
                 "KORG Collection - M1"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -12298,7 +12298,7 @@
                 "M01D"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 "Nintendo DS"
@@ -12672,7 +12672,7 @@
                 "KC TRINITY"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -12823,7 +12823,7 @@
                 "KORG Collection - TRITON Extreme"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -12847,7 +12847,7 @@
                 "KORG Collection - TRITON"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -13023,7 +13023,7 @@
                 "KORG Collection - WAVESTATION"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -13407,7 +13407,7 @@
                 "Sylenth1"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -13520,7 +13520,7 @@
                 "Purity"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -13544,7 +13544,7 @@
                 "RHYTHM MODULE - Ravity(R)"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -13568,7 +13568,7 @@
                 "SYNTH MODULE - Ravity(S)"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -13592,7 +13592,7 @@
                 "MOTEHR SHIP - Ravity16"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14680,7 +14680,7 @@
                 "Absynth 3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14704,7 +14704,7 @@
                 "Absynth 5"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14728,7 +14728,7 @@
                 "Absynth 6.1"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14752,7 +14752,7 @@
                 "Absynth 6"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14776,7 +14776,7 @@
                 "B4 II"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14800,7 +14800,7 @@
                 "Battery 3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14824,7 +14824,7 @@
                 "Battery 4"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14904,7 +14904,7 @@
                 "FM7"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -14928,7 +14928,7 @@
                 "FM8"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -15144,7 +15144,7 @@
                 "Massive"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -15515,7 +15515,7 @@
                 "chipsounds"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -15539,7 +15539,7 @@
                 "chipsynth C64"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -15563,7 +15563,7 @@
                 "chipsynth MD"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -15587,7 +15587,7 @@
                 "chipsynth OPS7"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -15611,7 +15611,7 @@
                 "chipsynth SFC"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -15940,7 +15940,7 @@
             "version_names": [
                 "Multiformat"
             ],
-            "tsv_path": "/PROSAMPLES/BLUE/04_PERCUSSIVE_LOO/MULTIFORMAT.tsv",
+            "tsv_path": "/PROSAMPLES/BLUE/04_PERCUSSIVE_LOOPS/MULTIFORMAT.tsv",
             "release_dates": [
                 "February 2001"
             ],
@@ -15964,7 +15964,7 @@
             "version_names": [
                 "Multiformat"
             ],
-            "tsv_path": "/PROSAMPLES/BLUE/05_POP_ROCK_DRUMLOO/MULTIFORMAT.tsv",
+            "tsv_path": "/PROSAMPLES/BLUE/05_POP_ROCK_DRUMLOOPS/MULTIFORMAT.tsv",
             "release_dates": [
                 "February 2001"
             ],
@@ -17092,7 +17092,7 @@
             "version_names": [
                 "AKAI"
             ],
-            "tsv_path": "/PROSAMPLES/BLUE/33_ORCHESTRAL_LOO/AKAI.tsv",
+            "tsv_path": "/PROSAMPLES/BLUE/33_ORCHESTRAL_LOOPS/AKAI.tsv",
             "release_dates": [
                 "2002"
             ],
@@ -17116,7 +17116,7 @@
             "version_names": [
                 "Multiformat"
             ],
-            "tsv_path": "/PROSAMPLES/BLUE/33_ORCHESTRAL_LOO/MULTIFORMAT.tsv",
+            "tsv_path": "/PROSAMPLES/BLUE/33_ORCHESTRAL_LOOPS/MULTIFORMAT.tsv",
             "release_dates": [
                 "2002"
             ],
@@ -18639,7 +18639,7 @@
                 "Nexus\u00b2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -18663,7 +18663,7 @@
                 "NEXUS 5"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -18815,7 +18815,7 @@
                 "Hyper Canvas"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -18839,7 +18839,7 @@
                 "Orchestral"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22596,7 +22596,7 @@
                 "D-50"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22621,7 +22621,7 @@
                 "JD-800"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22645,7 +22645,7 @@
                 "JV-1080"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22669,7 +22669,7 @@
                 "SOUND Canvas VA"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22693,7 +22693,7 @@
                 "SRX BRASS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22717,7 +22717,7 @@
                 "SRX DANCE TRAX"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22741,7 +22741,7 @@
                 "SRX ELECTRIC PIANO"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22765,7 +22765,7 @@
                 "SRX KEYBOARDS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22789,7 +22789,7 @@
                 "SRX ORCHESTRA"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22813,7 +22813,7 @@
                 "SRX PIANO 1"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22837,7 +22837,7 @@
                 "SRX PIANO 2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22861,7 +22861,7 @@
                 "SRX STRINGS"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22885,7 +22885,7 @@
                 "SRX STUDIO"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22909,7 +22909,7 @@
                 "SRX WORLD"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22933,7 +22933,7 @@
                 "XV-5080"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22957,7 +22957,7 @@
                 "ZENOLOGY Pro"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -22981,7 +22981,7 @@
                 "ZENOLOGY Pro"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -23005,7 +23005,7 @@
                 "ZENOLOGY Pro"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -23029,7 +23029,7 @@
                 "ZENOLOGY Pro"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -23053,7 +23053,7 @@
                 "ZENOLOGY Pro"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -23969,7 +23969,7 @@
                 "OmniSynth 2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -23993,7 +23993,7 @@
                 "Sonic Synth"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -24700,7 +24700,7 @@
                 "Omnisphere"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -24724,7 +24724,7 @@
                 "Omnisphere 3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -24892,7 +24892,7 @@
                 "Stylus RMX"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25012,7 +25012,7 @@
                 "Trilian"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25036,7 +25036,7 @@
                 "Trilian"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25060,7 +25060,7 @@
                 "Trilogy"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25258,7 +25258,7 @@
                 "Groove Agent ONE"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25282,7 +25282,7 @@
                 "HALion Sonic 2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25306,7 +25306,7 @@
                 "HALion"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25330,7 +25330,7 @@
                 "HALion 3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25354,7 +25354,7 @@
                 "HALionONE"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25378,7 +25378,7 @@
                 "HALion Symphonic Orchestra"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25402,7 +25402,7 @@
                 "Hypersonic"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25426,7 +25426,7 @@
                 "Hypersonic"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25450,7 +25450,7 @@
                 "Virtual Guitarist Electric Edition"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25474,7 +25474,7 @@
                 "Virtual Bassist"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25498,7 +25498,7 @@
                 "Virtual Guitarist"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25522,7 +25522,7 @@
                 "Virtual Guitarist 2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25548,7 +25548,7 @@
                 "Ivory II American Concert D"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25572,7 +25572,7 @@
                 "Ivory II Grand Pianos"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25596,7 +25596,7 @@
                 "Ivory"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25620,7 +25620,7 @@
                 "Ivory 3"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -25644,7 +25644,7 @@
                 "Ivory 3 LE Uprights"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -32844,7 +32844,7 @@
                 "Serum"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -32868,7 +32868,7 @@
                 "Serum 2"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
@@ -32894,7 +32894,7 @@
                 "Addictive Keys"
             ],
             "types": [
-                "Software Synth"
+                "Software Instrument Plugin"
             ],
             "formats": [
                 ""
