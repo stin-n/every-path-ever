@@ -5073,6 +5073,54 @@
                 "stin"
             ],
             "todo": ""
+        },
+        "ross_garfield_drums1": {
+            "company": "Big Fish Audio",
+            "product_names": [
+                "Ross Garfield Drums 1"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "AKAI"
+            ],
+            "version_names": [
+                "AKAI"
+            ],
+            "tsv_path": "/BIG_FISH_AUDIO/ROSS_GARFIELD_DRUMS1.tsv",
+            "release_dates": [
+                "August 1993"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "ross_garfield_drums2": {
+            "company": "Big Fish Audio",
+            "product_names": [
+                "Ross Garfield Drums 2"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "AKAI"
+            ],
+            "version_names": [
+                "AKAI"
+            ],
+            "tsv_path": "/BIG_FISH_AUDIO/ROSS_GARFIELD_DRUMS2.tsv",
+            "release_dates": [
+                "April 1998 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
         }
     },
     "bridge_digital": {
@@ -32046,6 +32094,345 @@
             "notes": "",
             "contributors": [
                 "ashy"
+            ],
+            "todo": ""
+        }
+    },
+    "vengeance": {
+        "edm_essentials_vol2": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "EDM Essentials Vol. 2"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/EDM_ESSENTIALS_VOL2.tsv",
+            "release_dates": [
+                "July 8, 2018 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_clubsounds_vol1": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential Clubsounds Vol. 1"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_CLUBSOUNDS_VOL1.tsv",
+            "release_dates": [
+                "September 30, 2004 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_clubsounds_vol2": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential Clubsounds Vol. 2"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "EXS24",
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_CLUBSOUNDS_VOL2.tsv",
+            "release_dates": [
+                "April 30, 2006 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_clubsounds_vol3": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential Clubsounds Vol. 3"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_CLUBSOUNDS_VOL3.tsv",
+            "release_dates": [
+                "July 22, 2008 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_clubsounds_vol4": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential Clubsounds Vol. 4"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_CLUBSOUNDS_VOL4.tsv",
+            "release_dates": [
+                "March 1, 2012 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_clubsounds_vol5": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential Clubsounds Vol. 5"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_CLUBSOUNDS_VOL5.tsv",
+            "release_dates": [
+                "December 13, 2015 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_dubstep_vol2": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential Dubstep Vol. 2"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_DUBSTEP_VOL2.tsv",
+            "release_dates": [
+                "April 3, 2013 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_house_vol1": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential House Vol. 1"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_HOUSE_VOL1.tsv",
+            "release_dates": [
+                "October 18, 2005 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_house_vol2": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential House Vol. 2"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_HOUSE_VOL2.tsv",
+            "release_dates": [
+                "April 2, 2007 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_house_vol3": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential House Vol. 3"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_HOUSE_VOL3.tsv",
+            "release_dates": [
+                "January 29, 2010 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_house_vol4": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential House Vol. 4"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_HOUSE_VOL4.tsv",
+            "release_dates": [
+                "June 4, 2014 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "essential_tech_house_vol1": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Essential Tech House Vol. 1"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/ESSENTIAL_TECH_HOUSE_VOL1.tsv",
+            "release_dates": [
+                "December 7, 2017 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "pop_essentials_vol1": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Pop Essentials Vol. 1"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/POP_ESSENTIALS_VOL1.tsv",
+            "release_dates": [
+                "March 13, 2013 or after"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "vocal_essentials_vol1": {
+            "company": "Vengeance Sound",
+            "product_names": [
+                "Vocal Essentials Vol. 1"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/VENGEANCE/VOCAL_ESSENTIALS_VOL1.tsv",
+            "release_dates": [
+                "October 30, 2008 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
             ],
             "todo": ""
         }
