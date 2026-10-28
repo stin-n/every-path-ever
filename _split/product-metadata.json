@@ -4976,6 +4976,30 @@
             ],
             "todo": ""
         },
+        "xx_large_extreme1_akai": {
+            "company": "Best Service",
+            "product_names": [
+                "XX-Large Extreme - 1750 Brandnew Drumloops"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "AKAI"
+            ],
+            "version_names": [
+                "AKAI"
+            ],
+            "tsv_path": "/BEST_SERVICE/XX_LARGE/EXTREME1_AKAI.tsv",
+            "release_dates": [
+                "January 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
         "xx_large_the_killer_akai": {
             "company": "Best Service",
             "product_names": [
