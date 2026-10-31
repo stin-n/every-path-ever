@@ -183,14 +183,13 @@ Image-Line	Groove Machine	Drum Samples	Kick Drumnbass
 Image-Line	Groove Machine	Drum Samples	Kick Gamester	
 Image-Line	Groove Machine	Drum Samples	Kick Stepdub	
 Image-Line	Groove Machine	Drum Samples	Kick_001	
-Image-Line	Groove Machine	Drum Samples	Kick_004	
-Image-Line	Groove Machine	Drum Samples	Kick_007	
-Image-Line	Groove Machine	Drum Samples	Kick_012	
 Image-Line	Groove Machine	Drum Samples	Kick_3-027	
 Image-Line	Groove Machine	Drum Samples	Kick_3-040	
 Image-Line	Groove Machine	Drum Samples	Kick_3-117	
+Image-Line	Groove Machine	Drum Samples	Kick_004	
+Image-Line	Groove Machine	Drum Samples	Kick_007	
+Image-Line	Groove Machine	Drum Samples	Kick_012	
 Image-Line	Groove Machine	Drum Samples	mth_hat_ballscrunch	
-Image-Line	Groove Machine	Drum Samples	OHH_002	
 Image-Line	Groove Machine	Drum Samples	oh_hat_tokhat	
 Image-Line	Groove Machine	Drum Samples	oh_hat_tokker	
 Image-Line	Groove Machine	Drum Samples	oh_hat_vinyler	
@@ -198,6 +197,7 @@ Image-Line	Groove Machine	Drum Samples	oh_perc_glitchcough
 Image-Line	Groove Machine	Drum Samples	oh_perc_hausklik	
 Image-Line	Groove Machine	Drum Samples	oh_perc_hauszip	
 Image-Line	Groove Machine	Drum Samples	oh_snare_housesnare	
+Image-Line	Groove Machine	Drum Samples	OHH_002	
 Image-Line	Groove Machine	Drum Samples	PERC_TTribe_C4	
 Image-Line	Groove Machine	Drum Samples	RD_TriMute	
 Image-Line	Groove Machine	Drum Samples	SFX A Acidic	
@@ -646,9 +646,6 @@ Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Harsh Lead 1 MC
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Harsh Lead 2 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Layerchords	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 1 MC	
-Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 10 MC	
-Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 11 MC	
-Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 12 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 2 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 3 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 4 MC	
@@ -657,6 +654,9 @@ Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 6 MC
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 7 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 8 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 9 MC	
+Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 10 MC	
+Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 11 MC	
+Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lead 12 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Lectric	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Logdrum	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Major Fatty TE	
@@ -693,8 +693,6 @@ Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Softy TE
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Supesrsaw TE	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Syncme Lead	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 1 MC	
-Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 10 MC	
-Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 11 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 2 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 3 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 4 MC	
@@ -703,6 +701,8 @@ Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 6 MC
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 7 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 8 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 9 MC	
+Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 10 MC	
+Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Synth 11 MC	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Touch Of Nature LS	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Trance Stab TE	
 Image-Line	Groove Machine	Synth Programs -> Leads & Synths	Wub TE	
@@ -760,16 +760,16 @@ Image-Line	Groove Machine	Synth Waves	Keys
 Image-Line	Groove Machine	Synth Waves	Liquid	
 Image-Line	Groove Machine	Synth Waves	Ogre	
 Image-Line	Groove Machine	Synth Waves	Rhodes	
+Image-Line	Groove Machine	Synth Waves	Saw	
 Image-Line	Groove Machine	Synth Waves	Saw Mean	
 Image-Line	Groove Machine	Synth Waves	Saw Retro	
-Image-Line	Groove Machine	Synth Waves	Saw	
 Image-Line	Groove Machine	Synth Waves	Silk	
 Image-Line	Groove Machine	Synth Waves	Sine	
 Image-Line	Groove Machine	Synth Waves	Siren	
 Image-Line	Groove Machine	Synth Waves	Smooth Sub	
+Image-Line	Groove Machine	Synth Waves	Square	
 Image-Line	Groove Machine	Synth Waves	Square Retro	
 Image-Line	Groove Machine	Synth Waves	Square Smooth	
-Image-Line	Groove Machine	Synth Waves	Square	
 Image-Line	Groove Machine	Synth Waves	Strat	
 Image-Line	Groove Machine	Synth Waves	String	
 Image-Line	Groove Machine	Synth Waves	Throat	

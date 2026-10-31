@@ -1,9 +1,3 @@
-Image-Line	FruityLoops 1	Samples	1005	
-Image-Line	FruityLoops 1	Samples	1010	
-Image-Line	FruityLoops 1	Samples	1016	
-Image-Line	FruityLoops 1	Samples	1017	
-Image-Line	FruityLoops 1	Samples	1019	
-Image-Line	FruityLoops 1	Samples	1021	
 Image-Line	FruityLoops 1	Samples	606mhat	
 Image-Line	FruityLoops 1	Samples	606SNAR	
 Image-Line	FruityLoops 1	Samples	707_COW	
@@ -13,6 +7,12 @@ Image-Line	FruityLoops 1	Samples	707_SD0
 Image-Line	FruityLoops 1	Samples	707_TAM	
 Image-Line	FruityLoops 1	Samples	909_2	
 Image-Line	FruityLoops 1	Samples	909_3	
+Image-Line	FruityLoops 1	Samples	1005	
+Image-Line	FruityLoops 1	Samples	1010	
+Image-Line	FruityLoops 1	Samples	1016	
+Image-Line	FruityLoops 1	Samples	1017	
+Image-Line	FruityLoops 1	Samples	1019	
+Image-Line	FruityLoops 1	Samples	1021	
 Image-Line	FruityLoops 1	Samples	A012	
 Image-Line	FruityLoops 1	Samples	Bass_8	
 Image-Line	FruityLoops 1	Samples	Bass_9	
@@ -40,6 +40,7 @@ Image-Line	FruityLoops 1	Samples	hi_c_06e
 Image-Line	FruityLoops 1	Samples	hi_c_09e	
 Image-Line	FruityLoops 1	Samples	hi_c_09k	
 Image-Line	FruityLoops 1	Samples	hi_o_03g	
+Image-Line	FruityLoops 1	Samples	kick	
 Image-Line	FruityLoops 1	Samples	kick_02i	
 Image-Line	FruityLoops 1	Samples	kick_05a	
 Image-Line	FruityLoops 1	Samples	kick_05c	
@@ -48,7 +49,6 @@ Image-Line	FruityLoops 1	Samples	kick_08e
 Image-Line	FruityLoops 1	Samples	kick_11c	
 Image-Line	FruityLoops 1	Samples	kick_14f	
 Image-Line	FruityLoops 1	Samples	kick_14j	
-Image-Line	FruityLoops 1	Samples	kick	
 Image-Line	FruityLoops 1	Samples	kick2	
 Image-Line	FruityLoops 1	Samples	kick3	
 Image-Line	FruityLoops 1	Samples	ohh	

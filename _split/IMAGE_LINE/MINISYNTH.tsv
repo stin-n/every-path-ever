@@ -12,12 +12,12 @@ Image-Line	MiniSynth	Default	Bass Sub-Tone
 Image-Line	MiniSynth	Default	Bass Tight Spread	
 Image-Line	MiniSynth	Default	Bass Trombone	
 Image-Line	MiniSynth	Default	Bass Tube	
+Image-Line	MiniSynth	Default	Bass Wire	
 Image-Line	MiniSynth	Default	Bass Wire 1	
 Image-Line	MiniSynth	Default	Bass Wire 2	
 Image-Line	MiniSynth	Default	Bass Wire 3	
-Image-Line	MiniSynth	Default	Bass Wire	
-Image-Line	MiniSynth	Default	Default Preset	
 Image-Line	MiniSynth	Default	Default	
+Image-Line	MiniSynth	Default	Default Preset	
 Image-Line	MiniSynth	Default	FX My Darleks	
 Image-Line	MiniSynth	Default	FX Noise Sweep	
 Image-Line	MiniSynth	Default	Key Classic Saw	
@@ -36,8 +36,8 @@ Image-Line	MiniSynth	Default	Keys Drops
 Image-Line	MiniSynth	Default	Keys Dub Drops	
 Image-Line	MiniSynth	Default	Keys Harp	
 Image-Line	MiniSynth	Default	Keys One	
-Image-Line	MiniSynth	Default	Keys Organ 1	
 Image-Line	MiniSynth	Default	Keys Organ	
+Image-Line	MiniSynth	Default	Keys Organ 1	
 Image-Line	MiniSynth	Default	Keys Peeeew	
 Image-Line	MiniSynth	Default	Keys Plucky One	
 Image-Line	MiniSynth	Default	Keys Pulsate	
@@ -66,18 +66,18 @@ Image-Line	MiniSynth	Default	Lead The Three
 Image-Line	MiniSynth	Default	Lead Tighter	
 Image-Line	MiniSynth	Default	Lead Wobbler	
 Image-Line	MiniSynth	Default	Lead Xuno	
+Image-Line	MiniSynth	Default	Lead Yay	
 Image-Line	MiniSynth	Default	Lead Yay 1	
 Image-Line	MiniSynth	Default	Lead Yay 2	
-Image-Line	MiniSynth	Default	Lead Yay	
-Image-Line	MiniSynth	Default	Mx Keys 2	
 Image-Line	MiniSynth	Default	Mx Keys	
+Image-Line	MiniSynth	Default	Mx Keys 2	
 Image-Line	MiniSynth	Default	Mx Lead 1	
 Image-Line	MiniSynth	Default	Mx lead 2	
 Image-Line	MiniSynth	Default	Mx Lead Dark	
-Image-Line	MiniSynth	Default	Mx Pad 1	
 Image-Line	MiniSynth	Default	Mx Pad	
-Image-Line	MiniSynth	Default	Mx Synth 1	
+Image-Line	MiniSynth	Default	Mx Pad 1	
 Image-Line	MiniSynth	Default	Mx Synth	
+Image-Line	MiniSynth	Default	Mx Synth 1	
 Image-Line	MiniSynth	Default	Pad BoxFish	
 Image-Line	MiniSynth	Default	Pad Control	
 Image-Line	MiniSynth	Default	Pad Dirty	

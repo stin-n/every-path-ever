@@ -26,7 +26,6 @@ Image-Line	Sakura	Default	Alladdin
 Image-Line	Sakura	Default	Amped E-Guitar	
 Image-Line	Sakura	Default	Asian Keys	
 Image-Line	Sakura	Default	Bass 1	
-Image-Line	Sakura	Default	Bass 10	
 Image-Line	Sakura	Default	Bass 2	
 Image-Line	Sakura	Default	Bass 3	
 Image-Line	Sakura	Default	Bass 4	
@@ -35,6 +34,7 @@ Image-Line	Sakura	Default	Bass 6
 Image-Line	Sakura	Default	Bass 7	
 Image-Line	Sakura	Default	Bass 8	
 Image-Line	Sakura	Default	Bass 9	
+Image-Line	Sakura	Default	Bass 10	
 Image-Line	Sakura	Default	Big Body	
 Image-Line	Sakura	Default	Bowed 1	
 Image-Line	Sakura	Default	Bowed 2	
@@ -57,16 +57,16 @@ Image-Line	Sakura	Default	Drops 2
 Image-Line	Sakura	Default	E-Bass	
 Image-Line	Sakura	Default	E-Guitar	
 Image-Line	Sakura	Default	E-Keys 1	
-Image-Line	Sakura	Default	E-Keys 10	
 Image-Line	Sakura	Default	E-Keys 2	
 Image-Line	Sakura	Default	E-Keys 3	
 Image-Line	Sakura	Default	E-Keys 4	
 Image-Line	Sakura	Default	E-Keys 5	
 Image-Line	Sakura	Default	E-Keys 6	
 Image-Line	Sakura	Default	E-Keys 7	
-Image-Line	Sakura	Default	E-Keys 8.5	
 Image-Line	Sakura	Default	E-Keys 8	
+Image-Line	Sakura	Default	E-Keys 8.5	
 Image-Line	Sakura	Default	E-Keys 9	
+Image-Line	Sakura	Default	E-Keys 10	
 Image-Line	Sakura	Default	E-Organ	
 Image-Line	Sakura	Default	E-Pluck	
 Image-Line	Sakura	Default	Flute-d	
@@ -117,6 +117,7 @@ Image-Line	Sakura	Default	Synthetic Stuff
 Image-Line	Sakura	Default	Tiny Harp	
 Image-Line	Sakura	Default	Triangle	
 Image-Line	Sakura	Default	Trombone	
+Image-Line	Sakura	Default	Violin	
 Image-Line	Sakura	Default	Violin 1	
 Image-Line	Sakura	Default	Violin 2	
 Image-Line	Sakura	Default	Violin 3	
@@ -124,9 +125,8 @@ Image-Line	Sakura	Default	Violin 4
 Image-Line	Sakura	Default	Violin 5	
 Image-Line	Sakura	Default	Violin 6	
 Image-Line	Sakura	Default	Violin 7	
-Image-Line	Sakura	Default	Violin	
-Image-Line	Sakura	Default	Wired Keys	
 Image-Line	Sakura	Default	Wired	
+Image-Line	Sakura	Default	Wired Keys	
 Image-Line	Sakura	Eastern Dreams Bank	BASS Careless DS	
 Image-Line	Sakura	Eastern Dreams Bank	BASS Deep Disco DS	
 Image-Line	Sakura	Eastern Dreams Bank	BASS Delayed Clang DS	
@@ -386,8 +386,8 @@ Image-Line	Sakura	Sonic Haiku Bank	PL Cherry Blossom Popcorn 1
 Image-Line	Sakura	Sonic Haiku Bank	PL Cherry Blossom Popcorn 2	
 Image-Line	Sakura	Sonic Haiku Bank	PL Coin, Wire, and Spring	
 Image-Line	Sakura	Sonic Haiku Bank	PL Icy Pluck	
-Image-Line	Sakura	Sonic Haiku Bank	PL Jack's Giant-in-the-Box	
 Image-Line	Sakura	Sonic Haiku Bank	PL Jack-in-the-Box	
+Image-Line	Sakura	Sonic Haiku Bank	PL Jack's Giant-in-the-Box	
 Image-Line	Sakura	Sonic Haiku Bank	PL Magic Is Afoot 1	
 Image-Line	Sakura	Sonic Haiku Bank	PL Magic Is Afoot 2	
 Image-Line	Sakura	Sonic Haiku Bank	PL Magic Is Afoot 3	

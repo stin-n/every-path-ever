@@ -9698,6 +9698,78 @@
             ],
             "todo": ""
         },
+        "drumpad": {
+            "company": "Image-Line",
+            "product_names": [
+                "Drumpad"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/IMAGE_LINE/DRUMPAD.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "Cut down version of Drumaxx (only has Drum Patches and no kits)",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "dw_instrument_pack_v1": {
+            "company": "Image-Line",
+            "product_names": [
+                "DirectWave Instrument Pack"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "DirectWave"
+            ],
+            "version_names": [
+                "V1"
+            ],
+            "tsv_path": "/IMAGE_LINE/DW_INSTRUMENT_PACK_V1.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "dw_instrument_pack_v2": {
+            "company": "Image-Line",
+            "product_names": [
+                "DirectWave Instrument Pack"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "DirectWave"
+            ],
+            "version_names": [
+                "V2"
+            ],
+            "tsv_path": "/IMAGE_LINE/DW_INSTRUMENT_PACK_V2.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
         "fl_keys": {
             "company": "Image-Line",
             "product_names": [
@@ -9763,6 +9835,30 @@
             "tsv_path": "/IMAGE_LINE/FL_STUDIO/FL_STUDIO10.tsv",
             "release_dates": [
                 "March 29, 2011"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "fl_studio25": {
+            "company": "Image-Line",
+            "product_names": [
+                "FL Studio 25"
+            ],
+            "types": [
+                "DAW"
+            ],
+            "formats": [
+                ""
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/IMAGE_LINE/FL_STUDIO/FL_STUDIO25.tsv",
+            "release_dates": [
+                "?"
             ],
             "notes": "",
             "contributors": [
@@ -9842,6 +9938,55 @@
             ],
             "todo": ""
         },
+        "fpc_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "FPC"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/FPC_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "fpc_free_kits_v2": {
+            "company": "Image-Line",
+            "product_names": [
+                "FPC Free Kits"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "FPC",
+                "WAV"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/IMAGE_LINE/FPC_FREE_KITS_V2.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
         "fruit_kick": {
             "company": "Image-Line",
             "product_names": [
@@ -9914,7 +10059,7 @@
             ],
             "todo": ""
         },
-        "gms": {
+        "gms_fl10": {
             "company": "Image-Line",
             "product_names": [
                 "GMS"
@@ -9926,9 +10071,33 @@
                 "FL Studio"
             ],
             "version_names": [
-                ""
+                "FL Studio 10"
             ],
-            "tsv_path": "/IMAGE_LINE/GMS.tsv",
+            "tsv_path": "/IMAGE_LINE/GMS_FL10.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "gms_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "GMS"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/GMS_FL25.tsv",
             "release_dates": [
                 "?"
             ],
@@ -9986,6 +10155,30 @@
             ],
             "todo": ""
         },
+        "harmless_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Harmless"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/HARMLESS_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
         "harmor_fl10": {
             "company": "Image-Line",
             "product_names": [
@@ -10001,6 +10194,78 @@
                 "FL Studio 10"
             ],
             "tsv_path": "/IMAGE_LINE/HARMOR_FL10.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "harmor_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Harmor"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/HARMOR_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "kepler_exo": {
+            "company": "Image-Line",
+            "product_names": [
+                "Kepler Exo"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/IMAGE_LINE/KEPLER_EXO.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "kepler": {
+            "company": "Image-Line",
+            "product_names": [
+                "Kepler"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                ""
+            ],
+            "tsv_path": "/IMAGE_LINE/KEPLER.tsv",
             "release_dates": [
                 "?"
             ],
@@ -10034,7 +10299,7 @@
             ],
             "todo": ""
         },
-        "morphine": {
+        "morphine_fl10": {
             "company": "Image-Line",
             "product_names": [
                 "Morphine"
@@ -10046,9 +10311,9 @@
                 "FL Studio"
             ],
             "version_names": [
-                ""
+                "FL Studio 10"
             ],
-            "tsv_path": "/IMAGE_LINE/MORPHINE.tsv",
+            "tsv_path": "/IMAGE_LINE/MORPHINE_FL10.tsv",
             "release_dates": [
                 "?"
             ],
@@ -10058,7 +10323,31 @@
             ],
             "todo": ""
         },
-        "ogun": {
+        "morphine_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Morphine"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/MORPHINE_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "ogun_fl10": {
             "company": "Image-Line",
             "product_names": [
                 "Ogun"
@@ -10070,9 +10359,33 @@
                 "FL Studio"
             ],
             "version_names": [
-                ""
+                "FL Studio 10"
             ],
-            "tsv_path": "/IMAGE_LINE/OGUN.tsv",
+            "tsv_path": "/IMAGE_LINE/OGUN_FL10.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "ogun_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Ogun"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/OGUN_FL25.tsv",
             "release_dates": [
                 "?"
             ],
@@ -10106,7 +10419,7 @@
             ],
             "todo": ""
         },
-        "poizone": {
+        "poizone_fl10": {
             "company": "Image-Line",
             "product_names": [
                 "PoiZone"
@@ -10118,9 +10431,9 @@
                 "FL Studio"
             ],
             "version_names": [
-                ""
+                "FL Studio 10"
             ],
-            "tsv_path": "/IMAGE_LINE/POIZONE.tsv",
+            "tsv_path": "/IMAGE_LINE/POIZONE_FL10.tsv",
             "release_dates": [
                 "?"
             ],
@@ -10130,7 +10443,31 @@
             ],
             "todo": ""
         },
-        "sakura": {
+        "poizone_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "PoiZone"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/POIZONE_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "sakura_fl10": {
             "company": "Image-Line",
             "product_names": [
                 "Sakura"
@@ -10142,9 +10479,9 @@
                 "FL Studio"
             ],
             "version_names": [
-                ""
+                "FL Studio 10"
             ],
-            "tsv_path": "/IMAGE_LINE/SAKURA.tsv",
+            "tsv_path": "/IMAGE_LINE/SAKURA_FL10.tsv",
             "release_dates": [
                 "?"
             ],
@@ -10154,7 +10491,31 @@
             ],
             "todo": ""
         },
-        "sawer": {
+        "sakura_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Sakura"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/SAKURA_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "sawer_fl12": {
             "company": "Image-Line",
             "product_names": [
                 "Sawer"
@@ -10166,9 +10527,33 @@
                 "FL Studio"
             ],
             "version_names": [
-                ""
+                "FL Studio 12"
             ],
-            "tsv_path": "/IMAGE_LINE/SAWER.tsv",
+            "tsv_path": "/IMAGE_LINE/SAWER_FL12.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "sawer_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Sawer"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/SAWER_FL25.tsv",
             "release_dates": [
                 "?"
             ],
@@ -10226,7 +10611,31 @@
             ],
             "todo": ""
         },
-        "toxic_biohazard": {
+        "sytrus_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Sytrus"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/SYTRUS_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "toxic_biohazard_fl10": {
             "company": "Image-Line",
             "product_names": [
                 "Toxic Biohazard"
@@ -10238,9 +10647,57 @@
                 "FL Studio"
             ],
             "version_names": [
+                "FL Studio 10"
+            ],
+            "tsv_path": "/IMAGE_LINE/TOXIC_BIOHAZARD_FL10.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "toxic_biohazard_fl25": {
+            "company": "Image-Line",
+            "product_names": [
+                "Toxic Biohazard"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
+                "FL Studio 25"
+            ],
+            "tsv_path": "/IMAGE_LINE/TOXIC_BIOHAZARD_FL25.tsv",
+            "release_dates": [
+                "?"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "transistor_bass": {
+            "company": "Image-Line",
+            "product_names": [
+                "Transistor Bass"
+            ],
+            "types": [
+                "DAW Plugin"
+            ],
+            "formats": [
+                "FL Studio"
+            ],
+            "version_names": [
                 ""
             ],
-            "tsv_path": "/IMAGE_LINE/TOXIC_BIOHAZARD.tsv",
+            "tsv_path": "/IMAGE_LINE/TRANSISTOR_BASS.tsv",
             "release_dates": [
                 "?"
             ],
@@ -23904,6 +24361,345 @@
             "tsv_path": "/ROLAND/U220.tsv",
             "release_dates": [
                 "1989"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        }
+    },
+    "sample_fusion": {
+        "amped": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "AMPED"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/AMPED.tsv",
+            "release_dates": [
+                "April 2004"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "bass_case": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Bass Case"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/BASS_CASE.tsv",
+            "release_dates": [
+                "April 2004"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "contagious_audio": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Contagious Audio"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/CONTAGIOUS_AUDIO.tsv",
+            "release_dates": [
+                "April 2004"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "dream_pads": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Dream Pads"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/DREAM_PADS.tsv",
+            "release_dates": [
+                "February 2002"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "generic_sample_cd": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Generic Sample CD"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/GENERIC_SAMPLE_CD.tsv",
+            "release_dates": [
+                "December 2001 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "killer_tweaks_ii": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Killer Tweaks II"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/KILLER_TWEAKS_II.tsv",
+            "release_dates": [
+                "December 2001 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "orchestral": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Orchestral"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/ORCHESTRAL.tsv",
+            "release_dates": [
+                "April 2004"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "poly_mono": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Poly-Mono"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/POLY_MONO.tsv",
+            "release_dates": [
+                "April 2004"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "real_drumkits": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Real Drumkits"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/REAL_DRUMKITS.tsv",
+            "release_dates": [
+                "December 2001 or before"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "sliced_beats": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "Sliced Beats"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/SLICED_BEATS.tsv",
+            "release_dates": [
+                "October 2002"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "the_lofi_box": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "The Lo-Fi Box"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/THE_LOFI_BOX.tsv",
+            "release_dates": [
+                "October 2002"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "touchpads": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "TouchPads"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/TOUCHPADS.tsv",
+            "release_dates": [
+                "April 2004"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "world_samples": {
+            "company": "Sample Fusion",
+            "product_names": [
+                "World Samples"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/WORLD_SAMPLES.tsv",
+            "release_dates": [
+                "October 2002"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "world_samples_directwave": {
+            "company": "Image-Line/Sample Fusion",
+            "product_names": [
+                "World Samples"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "DirectWave",
+                "WAV"
+            ],
+            "version_names": [
+                "DirectWave"
+            ],
+            "tsv_path": "/SAMPLE_FUSION/WORLD_SAMPLES_DIRECTWAVE.tsv",
+            "release_dates": [
+                "?"
             ],
             "notes": "",
             "contributors": [

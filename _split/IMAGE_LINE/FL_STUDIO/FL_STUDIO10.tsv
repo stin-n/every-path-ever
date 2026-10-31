@@ -455,8 +455,8 @@ Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	Kick_3-021
 Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	Kick_3-085	
 Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	Minimal Break 130	
 Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	piano	
-Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	snare_005	
 Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	Snare_3-005	
+Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	snare_005	
 Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On	verse vox vocode	
 Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On (remix)	0_hi_c_24a	
 Image-Line	FL Studio 10	Misc -> Used by demo projects -> Hanging On (remix)	713 _Perc_Sh_eLAB	
@@ -798,8 +798,8 @@ Image-Line	FL Studio 10	Packs -> FX	FLS_Gun 001
 Image-Line	FL Studio 10	Packs -> FX	FLS_Nature 001	
 Image-Line	FL Studio 10	Packs -> FX	FLS_Phone 001	
 Image-Line	FL Studio 10	Packs -> FX	FLS_Radio Tuning 001	
-Image-Line	FL Studio 10	Packs -> FX	FLS_Scratch hit 120bpm	
 Image-Line	FL Studio 10	Packs -> FX	FLS_Scratch hit 80bpm	
+Image-Line	FL Studio 10	Packs -> FX	FLS_Scratch hit 120bpm	
 Image-Line	FL Studio 10	Packs -> Guitar -> Bass	FLStudio Bass Finger	
 Image-Line	FL Studio 10	Packs -> Guitar -> Bass	FLStudio Bass Pluck	
 Image-Line	FL Studio 10	Packs -> Guitar -> Bass -> FLStudio Bass 01	5String BopBass Pick_A#1ogg	
@@ -1333,16 +1333,16 @@ Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	ORGCHORD
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	PERCSYN	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	POWER	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	PRCPIANO	
-Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	punch Bass2_s	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	punch Bass_s	
+Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	punch Bass2_s	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	PUREBASS	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	REALBASS	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	reskick1	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	reskick2	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	Reverse Saw Moog_s	
+Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	Rock moog_s	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	Rock moog2_s	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	Rock moog3_s	
-Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	Rock moog_s	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	Simple Synth Bass_s	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	sorcer_Jump_Bass_s	
 Image-Line	FL Studio 10	Packs -> Legacy -> SimSynth -> Instruments	space bass_s	
@@ -1680,9 +1680,9 @@ Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_C5(L)ogg
 Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_D_4(L)ogg	
 Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_E2(L)ogg	
 Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_F3(L)ogg	
-Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_G4(L)ogg	
 Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_G_1(L)ogg	
 Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_G_2(L)ogg	
+Image-Line	FL Studio 10	Packs -> Orchestral -> Strings	MIXO_G4(L)ogg	
 Image-Line	FL Studio 10	Packs -> Orchestral -> Tenor Sax	01_TSAX_LONG G#1ogg	
 Image-Line	FL Studio 10	Packs -> Orchestral -> Tenor Sax	02_TSAX_LONG A1ogg	
 Image-Line	FL Studio 10	Packs -> Orchestral -> Tenor Sax	03_TSAX_LONG A#1ogg	

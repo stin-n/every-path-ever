@@ -237,6 +237,7 @@ Image-Line	Drumaxx	Drum Patches -> Cymbals	Vintage Crash 01
 Image-Line	Drumaxx	Drum Patches -> Cymbals	Vintage Crash 02	
 Image-Line	Drumaxx	Drum Patches -> Cymbals	Vintage Crash 03	
 Image-Line	Drumaxx	Drum Patches -> Cymbals	Vintage Crash 04	
+Image-Line	Drumaxx	Drum Patches -> Default	Default	
 Image-Line	Drumaxx	Drum Patches -> Default	Default Clap	
 Image-Line	Drumaxx	Drum Patches -> Default	Default Crash	
 Image-Line	Drumaxx	Drum Patches -> Default	Default Hi-Tom	
@@ -247,7 +248,6 @@ Image-Line	Drumaxx	Drum Patches -> Default	Default Kick
 Image-Line	Drumaxx	Drum Patches -> Default	Default Lo-Tom	
 Image-Line	Drumaxx	Drum Patches -> Default	Default Snare L	
 Image-Line	Drumaxx	Drum Patches -> Default	Default Snare R	
-Image-Line	Drumaxx	Drum Patches -> Default	Default	
 Image-Line	Drumaxx	Drum Patches -> HiHats	Acoustic Hat Cl 01	
 Image-Line	Drumaxx	Drum Patches -> HiHats	Acoustic Hat Cl 02	
 Image-Line	Drumaxx	Drum Patches -> HiHats	Acoustic Hat Cl 03	
@@ -945,8 +945,8 @@ Image-Line	Drumaxx	Drum Patches -> Snares	Vintage Snare 07
 Image-Line	Drumaxx	Drum Patches -> Snares	Vintage Snare 08	
 Image-Line	Drumaxx	Drum Patches -> Snares	Vintage Snare 09	
 Image-Line	Drumaxx	Drum Patches -> Snares	Vintage Snare 10	
-Image-Line	Drumaxx	Drum Patches -> Sound FX	50 Caliber	
 Image-Line	Drumaxx	Drum Patches -> Sound FX	9mm	
+Image-Line	Drumaxx	Drum Patches -> Sound FX	50 Caliber	
 Image-Line	Drumaxx	Drum Patches -> Sound FX	AK-47	
 Image-Line	Drumaxx	Drum Patches -> Sound FX	Cannon	
 Image-Line	Drumaxx	Drum Patches -> Sound FX	Chain Gun	

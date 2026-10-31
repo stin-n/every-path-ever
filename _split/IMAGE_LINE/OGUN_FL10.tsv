@@ -1,3 +1,6 @@
+Image-Line	Ogun		Default	
+Image-Line	Ogun		Default (pad)	
+Image-Line	Ogun		Default (tonal)	
 Image-Line	Ogun	Bass	Bass	
 Image-Line	Ogun	Bass	Bass 2	
 Image-Line	Ogun	Bass	Bass 3	
@@ -9,8 +12,6 @@ Image-Line	Ogun	Bass	Generic saw bass 3
 Image-Line	Ogun	Bass	Generic saw bass 4	
 Image-Line	Ogun	Bass	Marimba	
 Image-Line	Ogun	Bell	Bellish	
-Image-Line	Ogun	Bell	Bellish 10	
-Image-Line	Ogun	Bell	Bellish 11	
 Image-Line	Ogun	Bell	Bellish 2	
 Image-Line	Ogun	Bell	Bellish 3	
 Image-Line	Ogun	Bell	Bellish 4	
@@ -19,6 +20,8 @@ Image-Line	Ogun	Bell	Bellish 6
 Image-Line	Ogun	Bell	Bellish 7	
 Image-Line	Ogun	Bell	Bellish 8	
 Image-Line	Ogun	Bell	Bellish 9	
+Image-Line	Ogun	Bell	Bellish 10	
+Image-Line	Ogun	Bell	Bellish 11	
 Image-Line	Ogun	Bell	Bowl	
 Image-Line	Ogun	Bell	Clockwork	
 Image-Line	Ogun	Bell	Drunkmaster	
@@ -90,6 +93,3 @@ Image-Line	Ogun	Pad	Suspense
 Image-Line	Ogun	Pad	Synphonia	
 Image-Line	Ogun	Pad	Venus	
 Image-Line	Ogun	Pad	Whirly Gig	
-Image-Line	Ogun		Default	
-Image-Line	Ogun		Default (pad)	
-Image-Line	Ogun		Default (tonal)	
