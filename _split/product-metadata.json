@@ -34365,7 +34365,7 @@
             "release_dates": [
                 "2008"
             ],
-            "notes": "Same as keyboard version but the last 4 patches of PRE8 are different, and seemingly doesn't have any of the PERF banks",
+            "notes": "Same as keyboard version but the last 4 patches of PRE8 are different, and there's only one bank of MULTIs on the unit itself",
             "contributors": [
                 "stin"
             ],
