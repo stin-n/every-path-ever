@@ -1150,6 +1150,7 @@ Yamaha	MOTIF-RACK XS	VOICE -> GM	125 Telephone
 Yamaha	MOTIF-RACK XS	VOICE -> GM	126 Helicopter	
 Yamaha	MOTIF-RACK XS	VOICE -> GM	127 Applause	
 Yamaha	MOTIF-RACK XS	VOICE -> GM	128 Gunshot	
+Yamaha	MOTIF-RACK XS	VOICE -> GMDR	001 Stereo GM Kit	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	001 Power Standard Kit 1	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	002 Power Standard Kit 2	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	003 Hyper Standard Kit	
@@ -1162,7 +1163,7 @@ Yamaha	MOTIF-RACK XS	VOICE -> PDR	009 Nu Hip Hop Kit 2
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	010 Hip Hop Kit 1	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	011 Hip Hop Kit 2	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	012 Hip Hop Kit 3	
-Yamaha	MOTIF-RACK XS	VOICE -> PDR	013 Hip Hop Kit 5	renamed "Hip Hop Kit 4" on S90 XS and MOTIF XF
+Yamaha	MOTIF-RACK XS	VOICE -> PDR	013 Hip Hop Kit 4	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	014 Hip Stick Kit 1	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	015 Hip Stick Kit 2	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	016 R&B Kit 1	
@@ -1214,7 +1215,6 @@ Yamaha	MOTIF-RACK XS	VOICE -> PDR	061 Dance Snares
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	062 Special SFXs	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	063 Synthetic Kit	
 Yamaha	MOTIF-RACK XS	VOICE -> PDR	064 SFX Kit	
-Yamaha	MOTIF-RACK XS	VOICE -> GMDR	001 Stereo GM Kit	
 Yamaha	MOTIF-RACK XS	MULTI -> USER	001 Chilltronika	the Preset 2-3 multis in the data list (identical to the keyboard's PERF USR1-3 banks) are only available with the motif-rack xs editor
 Yamaha	MOTIF-RACK XS	MULTI -> USER	002 East Sider	
 Yamaha	MOTIF-RACK XS	MULTI -> USER	003 Dreamscape	
