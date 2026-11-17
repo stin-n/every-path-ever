@@ -36307,6 +36307,222 @@
             ],
             "todo": ""
         },
+        "ce23_techno_prisoners_cdda": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 23 - Techno Prisoners"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "CDDA"
+            ],
+            "version_names": [
+                "CDDA"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/23_TECHNO_PRISONERS/CDDA.tsv",
+            "release_dates": [
+                "November 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": "add timestamps"
+        },
+        "ce23_techno_prisoners_wav": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 23 - Techno Prisoners"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/23_TECHNO_PRISONERS/WAV.tsv",
+            "release_dates": [
+                "November 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "ce24_funk_construction_cdda": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 24 - Funk Construction"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "CDDA"
+            ],
+            "version_names": [
+                "CDDA"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/24_FUNK_CONSTRUCTION/CDDA.tsv",
+            "release_dates": [
+                "November 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": "add timestamps"
+        },
+        "ce24_funk_construction_wav": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 24 - Funk Construction"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/24_FUNK_CONSTRUCTION/WAV.tsv",
+            "release_dates": [
+                "November 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "ce25_synth_bass_loops_cdda": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 25 - Synth Bass Loops"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "CDDA"
+            ],
+            "version_names": [
+                "CDDA"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/25_SYNTH_BASS_LOOPS/CDDA.tsv",
+            "release_dates": [
+                "May 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": "add timestamps"
+        },
+        "ce26_vintage_keyboards_cdda": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 26 - Vintage Keyboards"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "CDDA"
+            ],
+            "version_names": [
+                "CDDA"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/26_VINTAGE_KEYBOARDS/CDDA.tsv",
+            "release_dates": [
+                "July 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": "add timestamps"
+        },
+        "ce26_vintage_keyboards_wav": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 26 - Vintage Keyboards"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/26_VINTAGE_KEYBOARDS/WAV.tsv",
+            "release_dates": [
+                "July 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
+        "ce27_voices_of_africa_cdda": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 27 - Voices of Africa"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "CDDA"
+            ],
+            "version_names": [
+                "CDDA"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/27_VOICES_OF_AFRICA/CDDA.tsv",
+            "release_dates": [
+                "September 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": "add timestamps"
+        },
+        "ce27_voices_of_africa_wav": {
+            "company": "Zero-G",
+            "product_names": [
+                "Creative Essentials Vol. 27 - Voices of Africa"
+            ],
+            "types": [
+                "Sample Library"
+            ],
+            "formats": [
+                "WAV"
+            ],
+            "version_names": [
+                "WAV"
+            ],
+            "tsv_path": "/ZERO_G/CREATIVE_ESSENTIALS/27_VOICES_OF_AFRICA/WAV.tsv",
+            "release_dates": [
+                "September 1996"
+            ],
+            "notes": "",
+            "contributors": [
+                "stin"
+            ],
+            "todo": ""
+        },
         "datafile_akai": {
             "company": "Zero-G",
             "product_names": [
